@@ -1,0 +1,78 @@
+services:
+  api:
+    build: ./backend
+    container_name: sentinel_api
+    env_file: .env
+    volumes:
+      - ./data:/app/data
+      - ./artifacts:/app/artifacts
+      - ./logs:/app/logs
+    ports:
+      - "8000:8000"
+    depends_on:
+      - otel-collector
+      - prometheus
+
+  dashboard:
+    build: ./dashboard
+    container_name: sentinel_dashboard
+    env_file: .env
+    environment:
+      - SENTINEL_API_BASE=http://api:8000
+      - SENTINEL_ADMIN_MODE=${SENTINEL_ADMIN_MODE:-false}
+    ports:
+      - "8501:8501"
+    depends_on:
+      - api
+
+  prometheus:
+    image: prom/prometheus
+    container_name: sentinel_prometheus
+    volumes:
+      - ./monitoring/prometheus.yml:/etc/prometheus/prometheus.yml:ro
+    ports:
+      - "9090:9090"
+
+  grafana:
+    image: grafana/grafana
+    container_name: sentinel_grafana
+    volumes:
+      - ./monitoring/grafana/datasources:/etc/grafana/provisioning/datasources:ro
+      - ./monitoring/grafana/dashboards:/etc/grafana/provisioning/dashboards:ro
+    ports:
+      - "3000:3000"
+    depends_on:
+      - prometheus
+
+  alertmanager:
+    image: prom/alertmanager
+    container_name: sentinel_alertmanager
+    volumes:
+      - ./monitoring/alertmanager.yml:/etc/alertmanager/alertmanager.yml:ro
+    ports:
+      - "127.0.0.1:9093:9093"
+
+  otel-collector:
+    image: otel/opentelemetry-collector:latest
+    container_name: sentinel_otel_collector
+    command: ["--config=/etc/otelcol/config.yaml"]
+    volumes:
+      - ./monitoring/otel-collector.yaml:/etc/otelcol/config.yaml:ro
+    ports:
+      - "4317:4317"
+      - "4318:4318"
+
+  tempo:
+    image: grafana/tempo:2.4.1
+    container_name: sentinel_tempo
+    command: ["-config.file=/etc/tempo.yaml"]
+    volumes:
+      - ./monitoring/tempo.yaml:/etc/tempo.yaml:ro
+      - tempo-data:/var/tempo
+    ports:
+      - "3200:3200"
+    depends_on:
+      - otel-collector
+
+volumes:
+  tempo-data:
