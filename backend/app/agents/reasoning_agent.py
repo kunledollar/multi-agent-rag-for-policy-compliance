@@ -25,7 +25,7 @@ CHAT_MODEL = os.getenv("CHAT_MODEL", "").strip()
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "").strip()
 MAX_TOKENS = int(os.getenv("REASONING_MAX_TOKENS", "350"))
 
-client = OpenAI(api_key=OPENAI_API_KEY)
+client = OpenAI(api_key=OPENAI_API_KEY) if OPENAI_API_KEY else None
 
 
 class ReasoningAgent:
@@ -37,11 +37,7 @@ class ReasoningAgent:
     """
 
     def __init__(self, chat_model: str = CHAT_MODEL):
-        if not OPENAI_API_KEY:
-            raise RuntimeError("OPENAI_API_KEY missing from .env")
-        if not chat_model:
-            raise RuntimeError("CHAT_MODEL missing from .env")
-        self.chat_model = chat_model
+        self.chat_model = chat_model or "gpt-4.1-mini"
 
     # -------------------------
     # Deterministic logic
@@ -132,6 +128,8 @@ confidence_note (string)
         prompt = self._prompt(question, verdict, steps)
 
         try:
+            if client is None:
+                raise RuntimeError("OpenAI client is not configured")
             resp = client.chat.completions.create(
                 model=self.chat_model,
                 messages=[
