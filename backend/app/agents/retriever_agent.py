@@ -28,12 +28,10 @@ class RetrieverAgent:
         embedding_model: Optional[str] = None,
         top_k: Optional[int] = None,
     ) -> None:
-        # -------------------------
-        # LOCKED container root
-        # -------------------------
-        self.root = Path("/app")
-
-        faiss_dir = self.root / "artifacts" / "faiss_index"
+        data_dir = Path(os.getenv("DATA_DIR", "/app/data"))
+        faiss_dir = Path(
+            os.getenv("FAISS_DIR", str(data_dir / "processed" / "faiss_index"))
+        )
         self.index_path = faiss_dir / "index.faiss"
         self.meta_path = faiss_dir / "metadata.json"
 

@@ -13,6 +13,14 @@ services:
       - otel-collector
       - prometheus
 
+  ingest:
+    build: ./backend
+    profiles: ["tools"]
+    env_file: .env
+    command: ["python", "-m", "app.agents.ingestion_agent"]
+    volumes:
+      - ./data:/app/data
+
   dashboard:
     build: ./dashboard
     container_name: sentinel_dashboard
@@ -20,6 +28,8 @@ services:
     environment:
       - SENTINEL_API_BASE=http://api:8000
       - SENTINEL_ADMIN_MODE=${SENTINEL_ADMIN_MODE:-false}
+      - PROMETHEUS_URL=http://prometheus:9090
+      - GRAFANA_BASE_URL=http://localhost:3000
     ports:
       - "8501:8501"
     depends_on:

@@ -404,7 +404,7 @@ if st.session_state.is_admin:
         st.subheader("System Health")
         st.caption("Live reliability, performance, and governance signals")
 
-        PROM_URL = "http://sentinel-prometheus:9090"
+        PROM_URL = os.getenv("PROMETHEUS_URL", "http://prometheus:9090")
 
         def promql(query):
             try:
@@ -550,8 +550,8 @@ if st.session_state.is_admin:
         st.caption("Operational performance, reliability, and telemetry")
 
         # ✅ FIXED env var name + container-safe default
-        PROM_URL = os.getenv("PROMETHEUS_URL", "http://sentinel_prometheus:9090")
-        GRAFANA_BASE = os.getenv("GRAFANA_BASE_URL", "http://grafana:3000")
+        PROM_URL = os.getenv("PROMETHEUS_URL", "http://prometheus:9090")
+        GRAFANA_BASE = os.getenv("GRAFANA_BASE_URL", "http://localhost:3000")
         GRAFANA_DASHBOARD_UID = os.getenv(
             "GRAFANA_DASHBOARD_UID",
             "sentinel-observability"
