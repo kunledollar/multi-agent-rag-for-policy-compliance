@@ -20,12 +20,14 @@ load_dotenv()
 # -------------------------------------------------
 # Paths (ALIGNED WITH RETRIEVER)
 # -------------------------------------------------
-ROOT = Path("/app")
+DATA_ROOT = Path(os.getenv("DATA_DIR", "/app/data"))
 
-DATA_DIR = ROOT / "data" / "raw"
-PROCESSED_DIR = ROOT / "data" / "processed"
+DATA_DIR = DATA_ROOT / "raw"
+PROCESSED_DIR = DATA_ROOT / "processed"
 
-FAISS_DIR = PROCESSED_DIR / "faiss_index"
+FAISS_DIR = Path(
+    os.getenv("FAISS_DIR", str(PROCESSED_DIR / "faiss_index"))
+)
 EMBEDDINGS_DIR = PROCESSED_DIR / "embeddings"
 
 FAISS_DIR.mkdir(parents=True, exist_ok=True)
@@ -177,4 +179,3 @@ class IngestionAgent:
 
 if __name__ == "__main__":
     IngestionAgent().run()
-

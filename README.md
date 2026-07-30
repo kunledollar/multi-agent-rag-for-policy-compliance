@@ -67,6 +67,59 @@ It is designed as an **end-to-end applied AI project**, covering:
 
 ---
 
+## Run Locally
+
+### Prerequisites
+
+* Docker Engine with Docker Compose v2
+* An OpenAI API key
+* Internet access while building the images and when asking questions
+
+### Start Sentinel
+
+1. Create the local environment file:
+
+   ```bash
+   cp .env.example .env
+   ```
+
+2. Edit `.env` and replace the `OPENAI_API_KEY` placeholder. Never commit
+   the resulting `.env` file.
+
+3. Start the application:
+
+   ```bash
+   docker compose up --build -d
+   ```
+
+4. Check the API, then open the dashboard:
+
+   ```bash
+   curl http://localhost:8000/health
+   ```
+
+   * Dashboard: <http://localhost:8501>
+   * API documentation: <http://localhost:8000/docs>
+   * Grafana: <http://localhost:3000>
+   * Prometheus: <http://localhost:9090>
+
+The repository includes a FAISS index in `data/processed/faiss_index`, so it
+can answer questions without re-embedding all included policies. To rebuild
+the index after adding documents to `data/raw`, run:
+
+```bash
+docker compose --profile tools run --rm ingest
+```
+
+Rebuilding the index uses the configured OpenAI embedding model and may incur
+API charges. Stop all local services with:
+
+```bash
+docker compose down
+```
+
+---
+
 ##  Deployment & CI/CD
 
 ### Continuous Deployment Flow
