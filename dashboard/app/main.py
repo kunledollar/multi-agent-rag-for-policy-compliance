@@ -251,7 +251,12 @@ with tab_objs[0]:
                 if r.ok:
                     st.session_state.last_result = r.json()
                 else:
-                    st.error("API error")
+                    st.session_state.last_result = None
+                    try:
+                        detail = r.json().get("detail", r.text)
+                    except ValueError:
+                        detail = r.text
+                    st.error(f"Sentinel API returned {r.status_code}: {detail}")
             except Exception as e:
                 st.error(f"API error: {e}")
 

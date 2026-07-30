@@ -22,7 +22,7 @@ CHAT_MODEL = os.getenv("CHAT_MODEL", "").strip()
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "").strip()
 MAX_TOKENS = int(os.getenv("ANSWER_MAX_TOKENS", "700"))
 
-client = OpenAI(api_key=OPENAI_API_KEY)
+client = OpenAI(api_key=OPENAI_API_KEY) if OPENAI_API_KEY else None
 
 
 class AnswerGenerationAgent:
@@ -34,11 +34,7 @@ class AnswerGenerationAgent:
     """
 
     def __init__(self, chat_model: str = CHAT_MODEL):
-        if not OPENAI_API_KEY:
-            raise RuntimeError("OPENAI_API_KEY missing from .env")
-        if not chat_model:
-            raise RuntimeError("CHAT_MODEL missing from .env")
-        self.chat_model = chat_model
+        self.chat_model = chat_model or "gpt-4.1-mini"
 
     def _format_context(self, retrieved_chunks: List[Dict[str, Any]]) -> str:
         # Keep compact and deterministic; include citations
@@ -148,13 +144,15 @@ Rules:
                 if verdict == "unknown"
                 else ["Confirm any exceptions or approval workflow mentioned in the policy source."]
             ),
-            "citations": compliance_result.get("citations", []) or [],
+            "citations": compliance_result.get("policy_citations", []) or [],
             "safety_note": "This response is grounded only in the retrieved policy text.",
         }
 
         prompt = self._build_prompt(question, compliance_result, reasoning_result, retrieved_chunks)
 
         try:
+            if client is None:
+                raise RuntimeError("OpenAI client is not configured")
             resp = client.chat.completions.create(
                 model=self.chat_model,
                 messages=[

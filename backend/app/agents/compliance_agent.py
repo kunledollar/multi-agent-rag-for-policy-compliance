@@ -67,10 +67,9 @@ class ComplianceAgent:
         self.min_score = min_score
         self.chat_model = chat_model
 
-        if not OPENAI_API_KEY:
-            raise RuntimeError("OPENAI_API_KEY missing from environment")
-        if not self.chat_model:
-            raise RuntimeError("CHAT_MODEL missing from environment")
+        # LLM access is optional at request time; ``run`` has a conservative,
+        # evidence-backed fallback for local development and provider outages.
+        self.chat_model = self.chat_model or "gpt-4.1-mini"
 
     # -------------------------
     # Evidence Gate
@@ -161,6 +160,8 @@ class ComplianceAgent:
     # LLM Call
     # -------------------------
     def _llm_classify(self, prompt: str) -> Dict[str, Any]:
+        if client is None:
+            raise RuntimeError("OpenAI client is not configured")
         resp = client.chat.completions.create(
             model=self.chat_model,
             messages=[
@@ -223,7 +224,29 @@ class ComplianceAgent:
         prompt = self._build_prompt(query, retrieved_chunks)
 
         t1 = time.perf_counter()
-        result = self._llm_classify(prompt)
+        try:
+            result = self._llm_classify(prompt)
+        except Exception:
+            # Retrieval evidence remains useful during provider outages. Return a
+            # conservative assessment instead of failing the entire API request.
+            result = {
+                "verdict": "unknown",
+                "confidence": min(float(retrieved_chunks[0].get("score", 0.0)), 0.75),
+                "rationale": (
+                    "Relevant policy evidence was retrieved, but automated "
+                    "classification is temporarily unavailable. Review the cited "
+                    "policy text before making a compliance decision."
+                ),
+                "policy_citations": [
+                    {
+                        "source": chunk.get("source"),
+                        "page": chunk.get("page"),
+                        "quote_hint": (chunk.get("text") or "")[:120],
+                    }
+                    for chunk in retrieved_chunks[:3]
+                ],
+                "safety_flags": ["llm_classification_unavailable"],
+            }
         llm_ms = (time.perf_counter() - t1) * 1000
         total_ms = (time.perf_counter() - t0) * 1000
 
@@ -261,4 +284,3 @@ class ComplianceAgent:
             violation_risk=violation_risk,
             policy_alignment_score=confidence,
         )
-
