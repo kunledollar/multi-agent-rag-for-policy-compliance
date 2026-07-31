@@ -4,6 +4,7 @@ import math
 from typing import Any, Iterable, Optional
 
 from .models import BenchmarkCase, DetailedResult, ExecutionMode, ModeExecution
+from .source_ids import normalize_source_id, retrieved_chunk_id, retrieved_document_id
 
 
 def ratio_present(required, present) -> Optional[float]:
@@ -15,17 +16,25 @@ def ratio_present(required, present) -> Optional[float]:
 def retrieval_scores(retrieved, case: BenchmarkCase):
     if retrieved is None: return (None,) * 5
     chunks = retrieved[:5]
-    relevant = set(case.relevant_chunk_ids or case.relevant_document_ids or [])
+    chunk_level = bool(case.relevant_chunk_ids)
+    judgments = case.relevant_chunk_ids if chunk_level else case.relevant_document_ids
+    relevant = {normalize_source_id(item) for item in (judgments or []) if normalize_source_id(item)}
     if not relevant: return (None,) * 5
-    ids = [str(c.get("id") or c.get("chunk_id") or c.get("source") or "") for c in chunks]
+    ids = [(retrieved_chunk_id(c) if chunk_level else retrieved_document_id(c)) for c in chunks]
     hits = [item in relevant for item in ids]
     precision = sum(hits) / 5
-    recall = sum(set(ids) & relevant) / len(relevant)
+    # Repeated chunks count at their returned ranks for precision/ranking, but a
+    # document (or chunk judgment) can only be recalled once.
+    recall = len(set(ids) & relevant) / len(relevant)
     rr = next((1 / rank for rank, hit in enumerate(hits, 1) if hit), 0.0)
-    grades = case.graded_relevance or {item: 1.0 for item in relevant}
+    grades = {normalize_source_id(key): float(value) for key, value in (case.graded_relevance or {}).items()}
+    if not grades: grades = {item: 1.0 for item in relevant}
     observed = [float(grades.get(item, 0)) for item in ids]
     dcg = sum((2**rel - 1) / math.log2(rank + 1) for rank, rel in enumerate(observed, 1))
-    ideal = sorted((float(v) for v in grades.values()), reverse=True)[:5]
+    # Rank-level precision means duplicate relevant document chunks are also
+    # eligible ideal results; this keeps NDCG bounded while retaining rank order.
+    missing_relevant = [grades.get(item, 1.0) for item in relevant - set(ids)]
+    ideal = sorted(observed + missing_relevant, reverse=True)[:5]
     idcg = sum((2**rel - 1) / math.log2(rank + 1) for rank, rel in enumerate(ideal, 1))
     ndcg = dcg / idcg if idcg else None
     return precision, recall, rr, ndcg, observed

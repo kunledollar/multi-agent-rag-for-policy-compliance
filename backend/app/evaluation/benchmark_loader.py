@@ -30,12 +30,17 @@ def _bool(value: Any):
 
 
 def _list(value: Any):
-    if value is None or value == "": return None
-    if isinstance(value, list): return [str(item) for item in value]
+    if value is None or str(value).strip().lower() in {"", "n/a", "na", "null", "none"}: return None
+    if isinstance(value, (list, tuple, set)): return [str(item).strip() for item in value if str(item).strip()]
     text = str(value).strip()
-    if text.startswith("["):
-        parsed = json.loads(text); return [str(item) for item in parsed]
-    return [item.strip() for item in re.split(r"[;|]", text) if item.strip()]
+    if text.startswith("[") or text.startswith('"'):
+        try:
+            parsed = json.loads(text)
+            values = parsed if isinstance(parsed, list) else [parsed]
+            return [str(item).strip() for item in values if item is not None and str(item).strip()] or None
+        except (json.JSONDecodeError, TypeError):
+            pass
+    return [item.strip() for item in re.split(r"[,;|\r\n]+", text) if item.strip()] or None
 
 
 def _mapped(row: Dict[str, Any], key: str, default=None):

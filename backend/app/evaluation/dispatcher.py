@@ -10,6 +10,7 @@ from app.agents.retriever_agent import RetrieverAgent
 from app.rag.graph import run_sentinel_graph
 
 from .models import ExecutionMode, ModeExecution
+from .source_ids import normalize_retrieved_chunk
 
 
 class ExecutionDispatcher:
@@ -19,14 +20,14 @@ class ExecutionDispatcher:
     def execute(self, question: str, mode: ExecutionMode, *, top_k=5, run_id="", question_id="") -> ModeExecution:
         if mode == ExecutionMode.FULL_SENTINEL:
             raw = self.full(question=question, top_k=top_k)
-            trace = raw.get("agent_trace", []); chunks = raw.get("retrieved_chunks", [])
+            trace = raw.get("agent_trace", []); chunks = self._normalize_chunks(raw.get("retrieved_chunks", []))
             return ModeExecution(answer=raw.get("answer", ""), policy_decision=raw.get("policy_decision"), enforcement_action=raw.get("enforcement_action"),
                 uncertainty_observed=raw.get("uncertainty_observed"), refusal_observed=raw.get("refusal_observed"), escalation_observed=raw.get("escalation_observed"), citations=raw.get("citations", []), retrieved_chunks=chunks,
                 trace_elements=["retrieval step", "source selection", "policy interpretation", "risk assessment", "compliance decision", "final answer rationale"],
                 audit={"run_id":run_id,"question_id":question_id,"mode":mode.value,"timestamps":True,"selected_sources":[c.get("source") for c in chunks],"agent_names":[x.get("agent_name") for x in trace],"model_identifier":os.getenv("CHAT_MODEL","gpt-4.1-mini"),"latency":True,"error_status":"success"},
                 handoffs_attempted=max(len(trace)-1,0), handoffs_successful=sum(x.get("status") in {"success","ok"} for x in trace[1:]))
         if mode == ExecutionMode.RAG_ONLY:
-            chunks = self.retriever_factory().retrieve(question, top_k=top_k)
+            chunks = self._normalize_chunks(self.retriever_factory().retrieve(question, top_k=top_k))
             answer = AnswerGenerationAgent().run(question, {"verdict":"unknown"}, {}, chunks)
             text = answer.get("answer", "").lower()
             return ModeExecution(answer=answer.get("answer", ""), uncertainty_observed=any(x in text for x in ("insufficient", "ambiguous", "cannot determine")), refusal_observed=any(x in text for x in ("cannot assist", "must refuse", "decline")), citations=answer.get("citations", []), retrieved_chunks=chunks,
@@ -34,6 +35,10 @@ class ExecutionDispatcher:
         answer = self.llm(question)
         return ModeExecution(answer=answer, uncertainty_observed=any(x in answer.lower() for x in ("uncertain", "cannot determine", "insufficient")), refusal_observed=any(x in answer.lower() for x in ("cannot assist", "must refuse", "decline")), citations=None, retrieved_chunks=None,
             trace_elements=["final answer rationale"], audit={"run_id":run_id,"question_id":question_id,"mode":mode.value,"timestamps":True,"model_identifier":os.getenv("CHAT_MODEL","gpt-4.1-mini"),"latency":True,"error_status":"success"})
+
+    @staticmethod
+    def _normalize_chunks(chunks):
+        return [normalize_retrieved_chunk(chunk) for chunk in (chunks or [])]
 
     @staticmethod
     def _direct_llm(question):
