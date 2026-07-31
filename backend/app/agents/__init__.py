@@ -1,12 +1,6 @@
-from .ingestion_agent import IngestionAgent
-from .embedding_agent import EmbeddingAgent
-from .retriever_agent import RetrieverAgent
-from .orchestrator_agent import OrchestratorAgent
-from .answer_generation_agent import AnswerGenerationAgent
-from .reasoning_agent import ReasoningAgent
-from .fact_check_agent import FactCheckAgent
-from .compliance_agent import ComplianceAgent
-from .ragas_evaluation_agent import RAGASEvaluationAgent
-from .monitoring_agent import MonitoringAgent
-from .tracing_agent import TracingAgent
-from .api_gateway_agent import APIGatewayAgent
+"""Sentinel agents.
+
+Agents are intentionally not imported eagerly.  Several have optional runtime
+dependencies; importing one agent must not initialize every provider client or
+evaluation framework in the package.
+"""
