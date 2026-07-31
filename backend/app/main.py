@@ -6,6 +6,7 @@ from .core.logging import setup_logging
 from .telemetry.otel import setup_otel
 from .routes.health import router as health_router
 from .routes.ask import router as ask_router
+from .routes.evaluations import router as evaluations_router
 
 # --------------------------------------------------
 # IMPORTANT:
@@ -33,6 +34,7 @@ def create_app() -> FastAPI:
     # --------------------------------------------------
     app.include_router(health_router)
     app.include_router(ask_router, prefix="/v1")
+    app.include_router(evaluations_router, prefix="/v1")
 
     # --------------------------------------------------
     # Prometheus request-level instrumentation

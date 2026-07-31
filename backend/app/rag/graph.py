@@ -199,6 +199,16 @@ def run_sentinel_graph(
         "citations": answer.get("citations", []),
         "confidence": compliance.confidence,
         "trace_id": trace_id,
+        "policy_decision": compliance.verdict,
+        "enforcement_action": compliance.status,
+        "uncertainty_observed": compliance.verdict == "unknown",
+        "refusal_observed": any(
+            phrase in (answer.get("answer") or "").lower()
+            for phrase in ("cannot assist", "can't assist", "must refuse", "decline")
+        ),
+        "escalation_observed": bool(
+            compliance.conflict_detected or compliance.potential_conflict
+        ),
 
         # ----------------------------
         # Admin / Auditor Introspection

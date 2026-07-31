@@ -215,6 +215,7 @@ if st.session_state.is_admin:
         "System Health",
         "RAGAS",
         "Observability",
+        "Governance Evaluation",
     ]
 
 tab_objs = st.tabs(tabs)
@@ -649,3 +650,43 @@ if st.session_state.is_admin:
             height=900,
             scrolling=True,
         )
+
+# ==========================================================
+# 8️⃣ GOVERNANCE EVALUATION
+# ==========================================================
+if st.session_state.is_admin:
+    with tab_objs[7]:
+        st.subheader("Governance Evaluation")
+        st.caption("Every score is computed from the uploaded Governance Evaluation Dataset; arbitrary questions are not accepted.")
+        benchmark = st.file_uploader("Governance Evaluation Dataset", type=["xlsx", "json"])
+        labels = {"Full Sentinel": "full_sentinel", "RAG Only": "rag_only", "LLM Only": "llm_only"}
+        selected = st.multiselect("Execution modes", list(labels), default=list(labels))
+        run_name = st.text_input("Run name", "governance_evaluation")
+        if st.button("Run Governance Evaluation", disabled=benchmark is None or not selected):
+            with st.spinner("Executing every benchmark question in deterministic order…"):
+                try:
+                    response = requests.post(
+                        f"{API_BASE}/v1/evaluations/governance/upload",
+                        files={"benchmark": (benchmark.name, benchmark.getvalue(), benchmark.type)},
+                        data={"selected_modes": __import__("json").dumps([labels[x] for x in selected]), "run_name": run_name},
+                        timeout=3600,
+                    )
+                    if response.ok: st.session_state.governance_result = response.json()
+                    else: st.error(f"Evaluation rejected ({response.status_code}): {response.text}")
+                except Exception as error: st.error(f"Evaluation API error: {error}")
+        evaluation = st.session_state.get("governance_result")
+        if evaluation:
+            metadata = evaluation.get("benchmark_metadata", {})
+            st.markdown("### Benchmark metadata")
+            st.table([{"Governance Dataset": metadata.get("governance_dataset"), "Benchmark Version": metadata.get("benchmark_version"), "Benchmark Questions": metadata.get("benchmark_questions"), "Evaluation Date": metadata.get("evaluation_date"), "Corpus Version": metadata.get("corpus_version"), "FAISS Index Version": metadata.get("faiss_index_version"), "Model": metadata.get("model")}])
+            st.markdown("### Governance summary")
+            st.dataframe(evaluation.get("summary_rows", []), use_container_width=True, hide_index=True)
+            with st.expander("Detailed per-question results"):
+                st.dataframe(evaluation.get("detailed_results", []), use_container_width=True, hide_index=True)
+            st.markdown("### Retrieval metrics")
+            st.dataframe(evaluation.get("retrieval_metrics", []), use_container_width=True, hide_index=True)
+            st.markdown("### Latency statistics")
+            st.dataframe(evaluation.get("latency_summary", []), use_container_width=True, hide_index=True)
+            st.markdown("### Failures and skipped metrics")
+            st.dataframe(evaluation.get("errors", []), use_container_width=True, hide_index=True)
+            st.caption("Generated artifacts: " + ", ".join(evaluation.get("generated_artifacts", [])))
