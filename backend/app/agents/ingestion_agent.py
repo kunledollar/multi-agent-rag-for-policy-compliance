@@ -1,6 +1,7 @@
 import os
 import json
 import hashlib
+import logging
 from pathlib import Path
 from typing import List, Dict
 
@@ -43,6 +44,42 @@ CHUNK_SIZE = int(os.getenv("CHUNK_SIZE", "500"))
 CHUNK_OVERLAP = int(os.getenv("CHUNK_OVERLAP", "120"))
 
 SUPPORTED_EXT = {".pdf", ".docx", ".txt"}
+logger = logging.getLogger("sentinel.agents.ingestion")
+
+
+def safe_iter_files(root: Path, supported_extensions=SUPPORTED_EXT):
+    """Yield supported files without allowing one bad directory to abort a scan."""
+    root = Path(root)
+
+    def warn(error: OSError) -> None:
+        skipped_path = getattr(error, "filename", None) or root
+        logger.warning(
+            "Skipping unreadable path %s (%s: %s)",
+            skipped_path,
+            type(error).__name__,
+            error,
+        )
+
+    try:
+        walker = os.walk(root, topdown=True, onerror=warn, followlinks=False)
+        for directory, dirnames, filenames in walker:
+            # Mutating dirnames controls traversal order and is portable across
+            # Linux containers and Windows bind mounts.
+            dirnames.sort()
+            filenames.sort()
+            for filename in filenames:
+                path = Path(directory) / filename
+                if path.suffix.lower() not in supported_extensions:
+                    continue
+                try:
+                    if path.is_file():
+                        yield path
+                except OSError as error:
+                    warn(error)
+    except OSError as error:
+        # Some platform implementations can raise before invoking ``onerror``.
+        warn(error)
+
 
 class IngestionAgent:
     """
@@ -96,42 +133,43 @@ class IngestionAgent:
         # Raw documents are grouped into source/domain subdirectories.  Walk the
         # whole tree so adding that organization does not make documents
         # invisible to ingestion. Sorting keeps chunk/embedding order stable.
-        files = sorted(
-            (
-                path
-                for path in self.data_dir.rglob("*")
-                if path.is_file() and path.suffix.lower() in SUPPORTED_EXT
-            ),
-            key=lambda path: path.as_posix(),
-        )
+        files = list(safe_iter_files(self.data_dir))
 
         for file in files:
             # Preserve the path below data/raw. Basenames are not unique across
             # nested sources, and the relative path is needed for traceability.
             source = file.relative_to(self.data_dir).as_posix()
 
-            if file.suffix.lower() == ".pdf":
-                for page, text in enumerate(self._read_pdf(file), start=1):
+            try:
+                if file.suffix.lower() == ".pdf":
+                    for page, text in enumerate(self._read_pdf(file), start=1):
+                        for i, chunk in enumerate(self._chunk(text)):
+                            records.append({
+                                "id": self._hash(f"{file}-{page}-{i}-{chunk}"),
+                                "source": source,
+                                "page": page,
+                                "text": chunk,
+                            })
+                else:
+                    text = (
+                        self._read_docx(file)
+                        if file.suffix.lower() == ".docx"
+                        else self._read_txt(file)
+                    )
                     for i, chunk in enumerate(self._chunk(text)):
                         records.append({
-                            "id": self._hash(f"{file}-{page}-{i}-{chunk}"),
+                            "id": self._hash(f"{file}-{i}-{chunk}"),
                             "source": source,
-                            "page": page,
+                            "page": None,
                             "text": chunk,
                         })
-            else:
-                text = (
-                    self._read_docx(file)
-                    if file.suffix.lower() == ".docx"
-                    else self._read_txt(file)
+            except Exception as error:
+                logger.warning(
+                    "Skipping unreadable policy file %s (%s: %s)",
+                    file,
+                    type(error).__name__,
+                    error,
                 )
-                for i, chunk in enumerate(self._chunk(text)):
-                    records.append({
-                        "id": self._hash(f"{file}-{i}-{chunk}"),
-                        "source": source,
-                        "page": None,
-                        "text": chunk,
-                    })
 
         return records
 

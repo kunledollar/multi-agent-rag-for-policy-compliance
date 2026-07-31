@@ -4,6 +4,7 @@ import traceback
 import logging
 
 from app.rag.graph import run_sentinel_graph
+from app.agents.retriever_agent import CorpusUnavailableError
 
 router = APIRouter()
 logger = logging.getLogger("sentinel.api.ask")
@@ -54,6 +55,9 @@ def ask(req: AskRequest):
 
         return response
 
+    except CorpusUnavailableError as error:
+        logger.warning("Sentinel corpus is unavailable: %s", error)
+        raise HTTPException(status_code=503, detail=str(error)) from error
     except Exception:
         logger.error("Sentinel /v1/ask failed")
         logger.error(traceback.format_exc())

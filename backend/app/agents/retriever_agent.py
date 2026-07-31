@@ -2,6 +2,7 @@ import os
 import json
 import re
 import time
+import logging
 from pathlib import Path
 from typing import Any, Dict, List, Optional
 
@@ -16,6 +17,11 @@ from app.telemetry.metrics import (
 )
 
 load_dotenv()
+logger = logging.getLogger("sentinel.agents.retriever")
+
+
+class CorpusUnavailableError(RuntimeError):
+    """Raised when neither persisted artifacts nor raw documents are usable."""
 
 
 class RetrieverAgent:
@@ -24,12 +30,13 @@ class RetrieverAgent:
     Performs semantic search over persisted FAISS index.
     """
 
-    _raw_chunk_cache: Optional[List[Dict[str, Any]]] = None
+    _raw_chunk_cache: Dict[str, List[Dict[str, Any]]] = {}
 
     def __init__(
         self,
         embedding_model: Optional[str] = None,
         top_k: Optional[int] = None,
+        force_rebuild: bool = False,
     ) -> None:
         data_dir = Path(os.getenv("DATA_DIR", "/app/data"))
         faiss_dir = Path(
@@ -48,41 +55,69 @@ class RetrieverAgent:
         api_key = os.getenv("OPENAI_API_KEY", "").strip()
         self.client = OpenAI(api_key=api_key) if api_key else None
 
+        self.force_rebuild = force_rebuild or os.getenv(
+            "FORCE_REBUILD_INDEX", "false"
+        ).lower() == "true"
         self._load_artifacts()
 
     # -------------------------
     # Load FAISS + metadata
     # -------------------------
     def _load_artifacts(self) -> None:
-        self.index = (
-            faiss.read_index(str(self.index_path)) if self.index_path.exists() else None
-        )
+        self.index = None
         self.meta = []
-        if self.meta_path.exists():
-            payload = json.loads(self.meta_path.read_text(encoding="utf-8"))
-            self.meta = list(payload.values()) if isinstance(payload, dict) else payload
+        if not self.force_rebuild:
+            try:
+                index = faiss.read_index(str(self.index_path))
+                payload = json.loads(self.meta_path.read_text(encoding="utf-8"))
+                metadata = (
+                    list(payload.values()) if isinstance(payload, dict) else payload
+                )
+                valid_metadata = (
+                    isinstance(metadata, list)
+                    and bool(metadata)
+                    and all(
+                        isinstance(item, dict) and item.get("text")
+                        for item in metadata
+                    )
+                )
+                if (
+                    valid_metadata
+                    and index.ntotal == len(metadata)
+                    and index.ntotal > 0
+                    and index.d > 0
+                ):
+                    self.index = index
+                    self.meta = metadata
+                    return
+                logger.warning(
+                    "Persisted FAISS index and metadata are empty or inconsistent"
+                )
+            except (
+                OSError,
+                ValueError,
+                TypeError,
+                json.JSONDecodeError,
+                RuntimeError,
+            ) as error:
+                logger.warning(
+                    "Unable to load persisted retrieval artifacts (%s: %s); scanning raw data",
+                    type(error).__name__,
+                    error,
+                )
 
-        # Old artifacts may reference files which are no longer in data/raw.
-        # In that case, read and chunk the current corpus so lexical retrieval and
-        # citations never silently point at deleted documents.
-        existing = [
-            item for item in self.meta
-            if item.get("source") and (self.raw_dir / item["source"]).is_file()
-        ]
-        if self.raw_dir.is_dir() and len(existing) != len(self.meta):
-            from app.agents.ingestion_agent import IngestionAgent
-            if RetrieverAgent._raw_chunk_cache is None:
-                RetrieverAgent._raw_chunk_cache = IngestionAgent(
-                    data_dir=self.raw_dir
-                ).load_documents()
-            self.meta = RetrieverAgent._raw_chunk_cache
-            self.index = None
+        from app.agents.ingestion_agent import IngestionAgent
+        cache_key = os.path.abspath(os.fspath(self.raw_dir))
+        if self.force_rebuild or cache_key not in RetrieverAgent._raw_chunk_cache:
+            RetrieverAgent._raw_chunk_cache[cache_key] = IngestionAgent(
+                data_dir=self.raw_dir
+            ).load_documents()
+        self.meta = RetrieverAgent._raw_chunk_cache[cache_key]
 
         if not self.meta:
-            raise RuntimeError("No readable policy chunks found in data/raw")
-
-        if self.index is not None and self.index.ntotal != len(self.meta):
-            self.index = None
+            raise CorpusUnavailableError(
+                "No readable policy documents or valid retrieval artifacts are available"
+            )
 
     # -------------------------
     # Embedding
