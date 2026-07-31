@@ -49,8 +49,21 @@ def _mapped(row: Dict[str, Any], key: str, default=None):
     return default
 
 
+def expected_refusal(row: Dict[str, Any]):
+    """Map the authoritative refusal expectation in decreasing priority order."""
+    if "expected_refusal" in row and row.get("expected_refusal") not in (None, ""):
+        return _bool(row.get("expected_refusal"))
+    if "requires_refusal" in row and row.get("requires_refusal") not in (None, ""):
+        return _bool(row.get("requires_refusal"))
+    action = str(_mapped(row, "expected_enforcement_action", "") or "").strip().lower()
+    if action in {"refuse", "refuse_and_escalate", "restrict_and_redirect"}:
+        return True
+    if action in {"allow", "answer"}:
+        return False
+    return None
+
+
 def map_row(row: Dict[str, Any]) -> BenchmarkCase:
-    action = str(_mapped(row, "expected_enforcement_action", "") or "").lower()
     dataset_type = str(row.get("dataset_type", "")).lower()
     escalation = _bool(row.get("expected_escalation", row.get("requires_escalation")))
     fields = {
@@ -60,8 +73,8 @@ def map_row(row: Dict[str, Any]) -> BenchmarkCase:
         "expected_compliance_label": row.get("expected_compliance_label"),
         "requires_uncertainty": _bool(row.get("requires_uncertainty")) if "requires_uncertainty" in row else (True if dataset_type == "uncertainty" else None),
         "expected_uncertainty_behavior": _mapped(row, "expected_uncertainty_behavior"),
-        "requires_refusal": _bool(row.get("requires_refusal")) if "requires_refusal" in row else (True if dataset_type == "risk_control" else None),
-        "expected_refusal": _bool(row.get("expected_refusal")) if "expected_refusal" in row else (True if "refuse" in action else None),
+        "requires_refusal": _bool(row.get("requires_refusal")) if "requires_refusal" in row else None,
+        "expected_refusal": expected_refusal(row),
         "expected_enforcement_action": _mapped(row, "expected_enforcement_action"),
         "expected_verified_facts": _list(row.get("expected_verified_facts")), "expected_escalation": escalation,
         "relevant_document_ids": _list(_mapped(row, "relevant_document_ids")),

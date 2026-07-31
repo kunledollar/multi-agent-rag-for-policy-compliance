@@ -3,6 +3,7 @@ import uuid
 import time
 from typing import Dict, Any, List, Optional
 
+from app.evaluation.refusal import refusal_observed
 from app.telemetry.metrics import (
     agent_execution_total,
     agent_execution_duration_seconds,
@@ -202,10 +203,7 @@ def run_sentinel_graph(
         "policy_decision": compliance.verdict,
         "enforcement_action": compliance.status,
         "uncertainty_observed": compliance.verdict == "unknown",
-        "refusal_observed": any(
-            phrase in (answer.get("answer") or "").lower()
-            for phrase in ("cannot assist", "can't assist", "must refuse", "decline")
-        ),
+        "refusal_observed": refusal_observed(answer),
         "escalation_observed": bool(
             compliance.conflict_detected or compliance.potential_conflict
         ),
