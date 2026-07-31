@@ -3,7 +3,7 @@ import re
 import math
 import requests
 import streamlit as st
-from datetime import datetime
+from pathlib import PurePosixPath
 
 # ==========================================================
 # RAGAS (SAFE, OPTIONAL — DOES NOT BREAK APP)
@@ -27,24 +27,19 @@ except Exception:
 API_BASE = os.getenv("SENTINEL_API_BASE", "http://sentinel_api:8000")
 ADMIN_ENV_ENABLED = os.getenv("SENTINEL_ADMIN_MODE", "false").lower() == "true"
 
-DEFAULT_QUESTION = "What are compliance requirements for employees' daily operational hours?"
-
 st.set_page_config(page_title="Sentinel", layout="wide")
 
 # ==========================================================
 # SESSION STATE
 # ==========================================================
 if "is_admin" not in st.session_state:
-    st.session_state.is_admin = True
+    st.session_state.is_admin = ADMIN_ENV_ENABLED
 
 if "last_result" not in st.session_state:
     st.session_state.last_result = None
 
 if "question" not in st.session_state:
-    st.session_state.question = DEFAULT_QUESTION
-
-if "auto_run_default" not in st.session_state:
-    st.session_state.auto_run_default = True
+    st.session_state.question = ""
 
 # ==========================================================
 # RAGAS — RUN ONCE IF MISSING (NO UI SIDE EFFECT)
@@ -125,9 +120,8 @@ def location_label(page):
 
 def pretty_source_name(source: str) -> str:
     if not source:
-        return "Unknown Policy"
-    name = source.replace("_", " ").replace("-", " ").replace(".txt", "")
-    return name.strip().title() + " Policy"
+        return "Unknown source"
+    return PurePosixPath(source).name
 
 # ---------- Agent Trace helpers (UNCHANGED) ----------
 def status_badge(status: str) -> str:
@@ -237,8 +231,7 @@ with tab_objs[0]:
 
     run_clicked = st.button("Run Sentinel")
 
-    # Auto-run the default question once (per your instruction)
-    should_run = (run_clicked and question.strip()) or (st.session_state.auto_run_default and question.strip())
+    should_run = run_clicked and question.strip()
 
     if should_run:
         with st.spinner("Running Sentinel…"):
@@ -259,9 +252,6 @@ with tab_objs[0]:
                     st.error(f"Sentinel API returned {r.status_code}: {detail}")
             except Exception as e:
                 st.error(f"API error: {e}")
-
-        # ensure auto-run happens only once
-        st.session_state.auto_run_default = False
 
     data = st.session_state.last_result
     if data:

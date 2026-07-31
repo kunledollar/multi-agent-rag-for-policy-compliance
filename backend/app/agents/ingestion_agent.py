@@ -4,7 +4,6 @@ import hashlib
 from pathlib import Path
 from typing import List, Dict
 
-import faiss
 import numpy as np
 from dotenv import load_dotenv
 from openai import OpenAI
@@ -45,9 +44,6 @@ CHUNK_OVERLAP = int(os.getenv("CHUNK_OVERLAP", "120"))
 
 SUPPORTED_EXT = {".pdf", ".docx", ".txt"}
 
-client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
-
-
 class IngestionAgent:
     """
     Sentinel Ingestion Agent
@@ -58,10 +54,8 @@ class IngestionAgent:
     - Persists FAISS index + metadata
     """
 
-    def __init__(self):
-        if not EMBEDDING_MODEL:
-            raise RuntimeError("EMBEDDING_MODEL not set in .env")
-
+    def __init__(self, data_dir: Path = DATA_DIR):
+        self.data_dir = Path(data_dir)
         self.splitter = RecursiveCharacterTextSplitter(
             chunk_size=CHUNK_SIZE,
             chunk_overlap=CHUNK_OVERLAP,
@@ -105,7 +99,7 @@ class IngestionAgent:
         files = sorted(
             (
                 path
-                for path in DATA_DIR.rglob("*")
+                for path in self.data_dir.rglob("*")
                 if path.is_file() and path.suffix.lower() in SUPPORTED_EXT
             ),
             key=lambda path: path.as_posix(),
@@ -114,7 +108,7 @@ class IngestionAgent:
         for file in files:
             # Preserve the path below data/raw. Basenames are not unique across
             # nested sources, and the relative path is needed for traceability.
-            source = file.relative_to(DATA_DIR).as_posix()
+            source = file.relative_to(self.data_dir).as_posix()
 
             if file.suffix.lower() == ".pdf":
                 for page, text in enumerate(self._read_pdf(file), start=1):
@@ -142,6 +136,13 @@ class IngestionAgent:
         return records
 
     def embed_texts(self, texts: List[str]) -> np.ndarray:
+        import faiss
+        api_key = os.getenv("OPENAI_API_KEY", "").strip()
+        if not api_key:
+            raise RuntimeError("OPENAI_API_KEY is required to build embeddings")
+        if not EMBEDDING_MODEL:
+            raise RuntimeError("EMBEDDING_MODEL is required to build embeddings")
+        client = OpenAI(api_key=api_key)
         res = client.embeddings.create(
             model=EMBEDDING_MODEL,
             input=texts,
@@ -151,6 +152,7 @@ class IngestionAgent:
         return vectors
 
     def run(self):
+        import faiss
         print("🚀 Sentinel Ingestion Agent starting")
 
         docs = self.load_documents()
@@ -160,7 +162,7 @@ class IngestionAgent:
 
         existing: Dict[str, Dict] = {}
         if META_PATH.exists():
-            existing = json.loads(META_PATH.read_text())
+            existing = json.loads(META_PATH.read_text(encoding="utf-8"))
 
         new_docs = [d for d in docs if d["id"] not in existing]
         if not new_docs:
@@ -184,7 +186,9 @@ class IngestionAgent:
             existing[d["id"]] = d
 
         faiss.write_index(index, str(INDEX_PATH))
-        META_PATH.write_text(json.dumps(existing, indent=2))
+        META_PATH.write_text(
+            json.dumps(existing, indent=2, ensure_ascii=False), encoding="utf-8"
+        )
 
         print(f"✅ Indexed {len(new_docs)} new chunks")
         print("🎉 Ingestion complete")

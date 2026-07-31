@@ -24,6 +24,8 @@ class RetrieverAgent:
     Performs semantic search over persisted FAISS index.
     """
 
+    _raw_chunk_cache: Optional[List[Dict[str, Any]]] = None
+
     def __init__(
         self,
         embedding_model: Optional[str] = None,
@@ -35,6 +37,7 @@ class RetrieverAgent:
         )
         self.index_path = faiss_dir / "index.faiss"
         self.meta_path = faiss_dir / "metadata.json"
+        self.raw_dir = data_dir / "raw"
 
         self.embedding_model = embedding_model or os.getenv(
             "EMBEDDING_MODEL", "text-embedding-3-large"
@@ -51,17 +54,35 @@ class RetrieverAgent:
     # Load FAISS + metadata
     # -------------------------
     def _load_artifacts(self) -> None:
-        if not self.index_path.exists():
-            raise FileNotFoundError("FAISS index missing — run ingestion first")
+        self.index = (
+            faiss.read_index(str(self.index_path)) if self.index_path.exists() else None
+        )
+        self.meta = []
+        if self.meta_path.exists():
+            payload = json.loads(self.meta_path.read_text(encoding="utf-8"))
+            self.meta = list(payload.values()) if isinstance(payload, dict) else payload
 
-        if not self.meta_path.exists():
-            raise FileNotFoundError("Metadata missing — run ingestion first")
-
-        self.index = faiss.read_index(str(self.index_path))
-        self.meta = list(json.loads(self.meta_path.read_text()).values())
+        # Old artifacts may reference files which are no longer in data/raw.
+        # In that case, read and chunk the current corpus so lexical retrieval and
+        # citations never silently point at deleted documents.
+        existing = [
+            item for item in self.meta
+            if item.get("source") and (self.raw_dir / item["source"]).is_file()
+        ]
+        if self.raw_dir.is_dir() and len(existing) != len(self.meta):
+            from app.agents.ingestion_agent import IngestionAgent
+            if RetrieverAgent._raw_chunk_cache is None:
+                RetrieverAgent._raw_chunk_cache = IngestionAgent(
+                    data_dir=self.raw_dir
+                ).load_documents()
+            self.meta = RetrieverAgent._raw_chunk_cache
+            self.index = None
 
         if not self.meta:
-            raise RuntimeError("Metadata is empty")
+            raise RuntimeError("No readable policy chunks found in data/raw")
+
+        if self.index is not None and self.index.ntotal != len(self.meta):
+            self.index = None
 
     # -------------------------
     # Embedding
@@ -119,6 +140,8 @@ class RetrieverAgent:
 
             try:
                 qvec = self._embed_query(query)
+                if self.index is None:
+                    raise RuntimeError("No vector index matching the current corpus")
                 if qvec.shape[1] != self.index.d:
                     raise ValueError(
                         f"Embedding dimension {qvec.shape[1]} does not match "

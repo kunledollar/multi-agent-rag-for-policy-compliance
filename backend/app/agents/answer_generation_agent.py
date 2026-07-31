@@ -66,6 +66,34 @@ class AnswerGenerationAgent:
 
         raise ValueError("Invalid JSON from LLM")
 
+    @staticmethod
+    def _ground_citations(
+        citations: List[Dict[str, Any]],
+        retrieved_chunks: List[Dict[str, Any]],
+    ) -> List[Dict[str, Any]]:
+        """Return only citations that identify evidence actually retrieved."""
+        evidence = {
+            (chunk.get("source"), chunk.get("page")): chunk
+            for chunk in retrieved_chunks
+            if chunk.get("source")
+        }
+        grounded = []
+        seen = set()
+        for citation in citations:
+            if not isinstance(citation, dict):
+                continue
+            key = (citation.get("source"), citation.get("page"))
+            chunk = evidence.get(key)
+            if chunk is None or key in seen:
+                continue
+            grounded.append({
+                "source": key[0],
+                "page": key[1],
+                "quote_hint": (chunk.get("text") or "")[:160],
+            })
+            seen.add(key)
+        return grounded
+
     def _build_prompt(
         self,
         question: str,
@@ -128,10 +156,17 @@ Rules:
         verdict = compliance_result.get("verdict", "unknown")
 
         # Deterministic fallback (never fail)
+        evidence_citations = self._ground_citations(
+            [
+                {"source": chunk.get("source"), "page": chunk.get("page")}
+                for chunk in retrieved_chunks
+            ],
+            retrieved_chunks,
+        )
         fallback = {
             "answer": (
-                "I found multiple Remote Work Policy documents, but they appear to represent different versions. "
-                "Because Sentinel cannot confirm which version is authoritative, I can’t provide a single definitive interpretation yet."
+                "The retrieved policy evidence is ambiguous or insufficient to support a definitive interpretation. "
+                "Review the cited source documents and confirm which policy version is authoritative."
                 if verdict == "unknown"
                 else "Based on the retrieved policy context, here is the most supported answer."
             ),
@@ -144,7 +179,7 @@ Rules:
                 if verdict == "unknown"
                 else ["Confirm any exceptions or approval workflow mentioned in the policy source."]
             ),
-            "citations": compliance_result.get("policy_citations", []) or [],
+            "citations": evidence_citations,
             "safety_note": "This response is grounded only in the retrieved policy text.",
         }
 
@@ -174,6 +209,12 @@ Rules:
 
             if "citations" not in parsed or not isinstance(parsed["citations"], list):
                 parsed["citations"] = fallback["citations"]
+            else:
+                parsed["citations"] = self._ground_citations(
+                    parsed["citations"], retrieved_chunks
+                )
+                if not parsed["citations"]:
+                    parsed["citations"] = fallback["citations"]
 
         except Exception:
             parsed = fallback

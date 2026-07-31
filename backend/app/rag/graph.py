@@ -1,3 +1,4 @@
+import os
 import uuid
 import time
 from typing import Dict, Any, List, Optional
@@ -6,19 +7,6 @@ from app.telemetry.metrics import (
     agent_execution_total,
     agent_execution_duration_seconds,
 )
-
-# ----------------------------
-# RAGAS imports (ADD ONLY)
-# ----------------------------
-from ragas import evaluate
-from ragas.metrics import (
-    faithfulness,
-    answer_relevancy,
-    context_precision,
-    context_recall,
-)
-from datasets import Dataset
-
 
 def run_sentinel_graph(
     question: str,
@@ -160,6 +148,12 @@ def run_sentinel_graph(
     ragas_metrics: Dict[str, float] = {}
 
     try:
+        if os.getenv("ENABLE_RAGAS", "false").lower() != "true":
+            raise RuntimeError("Per-request RAGAS evaluation is disabled")
+        from datasets import Dataset
+        from ragas import evaluate
+        from ragas.metrics import faithfulness, answer_relevancy, context_precision
+
         contexts = [c.get("text", "") for c in retrieved_chunks if c.get("text")]
 
         if contexts and answer.get("answer"):
@@ -176,7 +170,6 @@ def run_sentinel_graph(
                     faithfulness,
                     answer_relevancy,
                     context_precision,
-                    context_recall,
                 ],
             )
 
@@ -184,7 +177,6 @@ def run_sentinel_graph(
                 "faithfulness": round(float(ragas_result["faithfulness"]), 3),
                 "answer_relevancy": round(float(ragas_result["answer_relevancy"]), 3),
                 "context_precision": round(float(ragas_result["context_precision"]), 3),
-                "context_recall": round(float(ragas_result["context_recall"]), 3),
             }
 
     except Exception:
