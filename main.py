@@ -416,7 +416,8 @@ if st.session_state.is_admin:
                 if r.ok:
                     result = r.json()["data"]["result"]
                     if result:
-                        return float(result[0]["value"][1])
+                        value = float(result[0]["value"][1])
+                        return value if math.isfinite(value) else None
             except Exception:
                 return None
             return None
@@ -571,9 +572,7 @@ if st.session_state.is_admin:
                     result = r.json().get("data", {}).get("result", [])
                     if result:
                         val = float(result[0]["value"][1])
-                        if math.isnan(val):
-                            return None
-                        return val
+                        return val if math.isfinite(val) else None
             except Exception:
                 return None
             return None
