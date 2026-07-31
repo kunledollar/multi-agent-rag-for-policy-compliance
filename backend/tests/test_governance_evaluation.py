@@ -8,11 +8,13 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 
 from app.evaluation.aggregation import aggregate, latency_summary
-from app.evaluation.benchmark_loader import load_benchmark
+from app.evaluation.benchmark_loader import load_benchmark, map_row
+from app.evaluation.dispatcher import ExecutionDispatcher
 from app.evaluation.exporter import SHEETS, sanitize_filename, write_workbook
 from app.evaluation.models import BenchmarkCase, DetailedResult, ExecutionMode, GovernanceEvaluationRequest, ModeExecution
 from app.evaluation.runner import EvaluationRunner
 from app.evaluation.scoring import retrieval_scores, score
+from app.evaluation.source_ids import normalize_source_id
 
 
 def case(**overrides):
@@ -41,6 +43,41 @@ class ScoringTests(unittest.TestCase):
     def test_no_relevant_items_is_not_applicable(self):
         self.assertEqual(retrieval_scores([], case(relevant_chunk_ids=None, relevant_document_ids=None)), (None,)*5)
 
+    def test_document_paths_are_normalized_without_losing_subdirectories(self):
+        relevant = "enterprise_policy/hr/opm/HRStat_10cc83a528.txt"
+        variants = [
+            relevant,
+            r"enterprise_policy\hr\opm\HRStat_10cc83a528.txt",
+            "/app/data/raw/" + relevant,
+            "data/raw/" + relevant,
+        ]
+        for source in variants:
+            with self.subTest(source=source):
+                scores = retrieval_scores([{"id":"chunk-1", "source":source}], case(relevant_chunk_ids=None, relevant_document_ids=[relevant], graded_relevance=None))
+                self.assertEqual(scores[4], [1.0])
+        self.assertEqual(normalize_source_id("//app//data//raw//Policy/Sub/File.TXT"), "policy/sub/file.txt")
+
+    def test_duplicate_document_chunks_count_by_rank_but_recall_once(self):
+        relevant = "enterprise_policy/hr/opm/HRStat_10cc83a528.txt"
+        other = "enterprise_policy/hr/opm/HRStat_2fdcee52f0.txt"
+        retrieved = [{"source":other}, {"source":relevant}, {"source":other}, {"source":relevant}, {"source":"another.txt"}]
+        precision, recall, rr, ndcg, labels = retrieval_scores(retrieved, case(relevant_chunk_ids=None, relevant_document_ids=[relevant], graded_relevance=None))
+        self.assertEqual(labels, [0.0, 1.0, 0.0, 1.0, 0.0])
+        self.assertEqual(precision, .4); self.assertEqual(recall, 1.0); self.assertEqual(rr, .5); self.assertGreater(ndcg, 0)
+
+    def test_multiple_relevant_documents_use_unique_recall(self):
+        scores = retrieval_scores([{"source":"a"}, {"source":"a"}, {"source":"x"}], case(relevant_chunk_ids=None, relevant_document_ids=["a", "b"], graded_relevance=None))
+        self.assertEqual(scores[0], .4); self.assertEqual(scores[1], .5)
+
+    def test_judged_but_unretrieved_document_scores_zero(self):
+        scores = retrieval_scores([{"source":"unrelated"}], case(relevant_chunk_ids=None, relevant_document_ids=["relevant"], graded_relevance=None))
+        self.assertEqual(scores[:4], (0.0, 0.0, 0.0, 0.0))
+
+    def test_chunk_judgments_take_precedence_over_document_judgments(self):
+        benchmark = case(relevant_chunk_ids=["chunk-2"], relevant_document_ids=["doc.txt"], graded_relevance=None)
+        scores = retrieval_scores([{"id":"chunk-1", "source":"doc.txt"}, {"id":"chunk-2", "source":"other.txt"}], benchmark)
+        self.assertEqual(scores[4], [0.0, 1.0])
+
     def test_llm_only_has_no_retrieval_or_citations(self):
         row=score("r",case(),ExecutionMode.LLM_ONLY,ModeExecution(answer="a",citations=[{"source":"fake"}],retrieved_chunks=None),1)
         self.assertIsNone(row.citations_returned); self.assertIsNone(row.precision_at_5); self.assertIsNone(row.handoff_success)
@@ -64,6 +101,24 @@ class AggregationTests(unittest.TestCase):
 
 
 class LoaderAndExportTests(unittest.TestCase):
+    def test_legacy_source_document_mapping_and_ged_regression(self):
+        source = "enterprise_policy/hr/opm/HRStat_10cc83a528.txt"
+        row = {"query_id":"GED-U-001", "query":"question", "source_document":source}
+        benchmark = map_row(row)
+        self.assertEqual(benchmark.relevant_document_ids, [source])
+        self.assertEqual(benchmark.source_fields["source_document"], source)
+        self.assertEqual(retrieval_scores([{"source":source}], benchmark)[4], [1.0])
+
+    def test_source_document_parses_supported_legacy_formats(self):
+        expected = ["a.txt", "b.txt", "c.txt"]
+        for value in ("a.txt,b.txt;b.txt\nc.txt", '["a.txt", "b.txt", "c.txt"]'):
+            actual = map_row({"query_id":"Q", "query":"q", "source_document":value}).relevant_document_ids
+            if value.startswith("a.txt"):
+                self.assertEqual(actual, ["a.txt", "b.txt", "b.txt", "c.txt"])
+            else:
+                self.assertEqual(actual, expected)
+        self.assertIsNone(map_row({"query_id":"Q", "query":"q", "source_document":"N/A"}).relevant_document_ids)
+
     def test_json_mapping_order_and_duplicate_validation(self):
         with tempfile.TemporaryDirectory() as directory:
             path=Path(directory)/"benchmark.json"; path.write_text(json.dumps([{"query_id":"Q2","query":"b","dataset_version":"2"},{"query_id":"Q1","query":"a","dataset_version":"2"}]))
@@ -99,6 +154,10 @@ class FakeDispatcher:
 
 
 class RunnerTests(unittest.TestCase):
+    def test_dispatcher_normalizes_nested_retrieval_metadata(self):
+        chunks = ExecutionDispatcher._normalize_chunks([{"chunk_id":"c1", "metadata":{"file_path":r"data\raw\policy\doc.txt"}}])
+        self.assertEqual(chunks[0]["id"], "c1")
+        self.assertEqual(chunks[0]["source"], r"data\raw\policy\doc.txt")
     def test_defaults_are_all_modes_and_invalid_rejected(self):
         req=GovernanceEvaluationRequest(benchmark_cases=[case()])
         self.assertEqual(req.selected_modes,list(ExecutionMode))

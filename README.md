@@ -186,8 +186,10 @@ fields. `reference_answer` (`ground_truth_answer`), `category`,
 `expected_escalation`, `relevant_document_ids`, `relevant_chunk_ids`,
 `graded_relevance`, `required_citation_claims`, `required_trace_elements`,
 `required_audit_fields`, `expected_agent_handoffs`, `notes`, and
-`benchmark_version`/`dataset_version` are supported. Lists may be JSON arrays
-or semicolon/pipe-delimited text. Duplicate IDs, empty datasets, missing
+`benchmark_version`/`dataset_version` are supported. On legacy `All_Queries`
+sheets, `source_document` is preserved in `source_fields` and mapped to
+`relevant_document_ids`. Lists may be JSON arrays or comma-, semicolon-, pipe-,
+newline-, or JSON-delimited text. Duplicate IDs, empty datasets, missing
 required columns, malformed workbooks, and unreadable files terminate with a
 clear 422 response. The input workbook is only read and is never overwritten.
 
@@ -202,6 +204,15 @@ completeness counts required claims aligned to citations whose source exists in
 retrieved evidence—unknown sources never count. Handoff success is successful
 divided by attempted handoffs. Latency is end-to-end elapsed milliseconds and
 is summarized with count, mean, median, min, max, p90, p95, and p99.
+
+Retrieval document IDs are compared case-insensitively after trimming whitespace,
+converting Windows separators, collapsing duplicate slashes, and removing the
+runtime corpus prefixes `/app/data/raw/`, `data/raw/`, `./data/raw/`, or `raw/`.
+Meaningful subdirectories are retained. When document-level judgments are used,
+every returned chunk from a relevant document is relevant at its rank: duplicates
+therefore count in Precision@5, MRR, and NDCG@5. Recall@5 deduplicates IDs, so a
+relevant document is recalled at most once. Missing or N/A judgments leave all
+retrieval metrics N/A rather than fabricating negative labels.
 
 Retrieval scoring uses chunk IDs when supplied, otherwise document/source IDs.
 Precision@5 divides top-five relevant hits by five; Recall@5 divides unique
