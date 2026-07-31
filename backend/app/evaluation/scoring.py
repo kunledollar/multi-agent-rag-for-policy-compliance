@@ -1,9 +1,11 @@
 from __future__ import annotations
 
 import math
+import re
 from typing import Any, Iterable, Optional
 
 from .models import BenchmarkCase, DetailedResult, ExecutionMode, ModeExecution
+from .refusal import refusal_observed
 from .source_ids import normalize_source_id, retrieved_chunk_id, retrieved_document_id
 from .uncertainty import detect_uncertainty
 
@@ -12,6 +14,20 @@ def ratio_present(required, present) -> Optional[float]:
     if not required: return None
     actual = {str(x).strip().lower() for x in (present or [])}
     return sum(str(x).strip().lower() in actual for x in required) / len(required)
+
+
+def trace_completeness(required, present) -> Optional[float]:
+    """Calculate authoritative trace coverage; absent requirements are N/A."""
+    nulls = {"", "n/a", "na", "none", "null"}
+    if required is None or (isinstance(required, str) and required.strip().casefold() in nulls):
+        return None
+    required_items = required if isinstance(required, (list, tuple, set)) else [required]
+    required_items = [item for item in required_items if str(item).strip().casefold() not in nulls]
+    if not required_items:
+        return None
+    normalize = lambda item: re.sub(r"[^a-z0-9]+", " ", str(item).casefold()).strip()
+    actual = {normalize(item) for item in (present or []) if normalize(item)}
+    return sum(normalize(item) in actual for item in required_items) / len(required_items)
 
 
 def retrieval_scores(retrieved, case: BenchmarkCase):
@@ -61,12 +77,16 @@ def score(run_id: str, case: BenchmarkCase, mode: ExecutionMode, output: ModeExe
     expected_facts = case.expected_verified_facts
     verification = ratio_present(expected_facts, output.verified_facts)
     precision, recall, rr, ndcg, relevance = retrieval_scores(output.retrieved_chunks, case)
-    trace = ratio_present(case.required_trace_elements, output.trace_elements)
+    trace = trace_completeness(case.required_trace_elements, output.trace_elements)
     audit_present = [key for key, value in output.audit.items() if value is not None]
     audit = ratio_present(case.required_audit_fields, audit_present)
     attempted = output.handoffs_attempted
     handoff = (output.handoffs_successful or 0) / attempted if attempted else None
     retrieved = output.retrieved_chunks
+    observed_refusal = refusal_observed(output.model_dump(), output.answer)
+    # Direct API cases may carry the legacy authoritative Boolean only in
+    # requires_refusal; the loader has already copied it to expected_refusal.
+    expected_refusal = case.expected_refusal if case.expected_refusal is not None else case.requires_refusal
     return DetailedResult(
         run_id=run_id, question_id=case.question_id, category=case.category, question=case.question,
         execution_mode=mode, reference_answer=case.reference_answer,
@@ -78,9 +98,8 @@ def score(run_id: str, case: BenchmarkCase, mode: ExecutionMode, output: ModeExe
         uncertainty_correct=(case.requires_uncertainty == uncertainty_observed) if case.requires_uncertainty is not None else None,
         citations_required=case.required_citation_claims, citations_returned=citations,
         citations_valid=len(valid_citations) if citations is not None else None, citations_complete=citation_score,
-        refusal_expected=case.expected_refusal if case.expected_refusal is not None else case.requires_refusal,
-        refusal_observed=output.refusal_observed,
-        refusal_correct=((case.expected_refusal if case.expected_refusal is not None else case.requires_refusal) == output.refusal_observed) if (case.expected_refusal is not None or case.requires_refusal is not None) and output.refusal_observed is not None else None,
+        refusal_expected=expected_refusal, refusal_observed=observed_refusal,
+        refusal_correct=(expected_refusal == observed_refusal) if expected_refusal is not None else None,
         expected_enforcement_action=case.expected_enforcement_action, actual_enforcement_action=output.enforcement_action,
         enforcement_correct=_same(case.expected_enforcement_action, output.enforcement_action),
         expected_verified_facts=expected_facts, verified_facts=output.verified_facts, verification_correct=verification,
