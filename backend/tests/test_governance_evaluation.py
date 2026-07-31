@@ -15,6 +15,7 @@ from app.evaluation.models import BenchmarkCase, DetailedResult, ExecutionMode, 
 from app.evaluation.runner import EvaluationRunner
 from app.evaluation.scoring import retrieval_scores, score
 from app.evaluation.source_ids import normalize_source_id
+from app.evaluation.uncertainty import detect_uncertainty, uncertainty_observed
 
 
 def case(**overrides):
@@ -28,6 +29,58 @@ def result(mode, latency=10, **values):
 
 
 class ScoringTests(unittest.TestCase):
+    def test_uncertainty_evidence_boundary_phrases(self):
+        phrases = [
+            "The amount is not specified in the provided context.",
+            "The amount is not provided by the available documents.",
+            "The amount is not established by the evidence.",
+            "The source does not mention the amount.",
+            "The available documents do not state the amount.",
+            "The amount cannot be determined.",
+            "The amount cannot be confirmed.",
+            "There is insufficient information to establish the amount.",
+            "There is insufficient evidence to establish the amount.",
+            "No evidence was found for the amount.",
+            "I am unable to verify the amount.",
+            "The amount is unclear from the provided context.",
+            "The amount is unknown based on the available evidence.",
+            "The source doesn't mention the amount.",
+        ]
+        for phrase in phrases:
+            with self.subTest(phrase=phrase):
+                self.assertTrue(detect_uncertainty(phrase))
+
+    def test_uncertainty_negative_cases_and_empty_answer(self):
+        answers = [
+            "The implementation budget is $5 million.",
+            "The budget may possibly increase and is generally reviewed annually.",
+            "I cannot assist with wrongdoing.",
+            "",
+        ]
+        for answer in answers:
+            with self.subTest(answer=answer):
+                self.assertFalse(detect_uncertainty(answer))
+
+    def test_structured_uncertainty_fields_override_text_fallback(self):
+        uncertain_text = "The amount cannot be determined from the available evidence."
+        self.assertFalse(uncertainty_observed({"answer": uncertain_text, "uncertainty": False}))
+        self.assertTrue(uncertainty_observed({"answer": "The amount is five.", "insufficient_evidence": True}))
+        self.assertTrue(uncertainty_observed({"answer": "The amount is five.", "evidence_status": "not found"}))
+        self.assertTrue(uncertainty_observed({"answer": "The amount is five.", "needs_more_context": "yes"}))
+        self.assertTrue(uncertainty_observed({"answer": "The amount is five.", "confidence": "low"}))
+
+    def test_ged_u_001_uncertainty_regression(self):
+        answer = "The exact implementation budget for HRStat is not specified in the provided context. The available documents describe HRStat as a strategic human capital performance evaluation process aligned with 5 CFR 250 (B) and the Human Capital Operating Plan (HCOP), but do not mention any budget details."
+        output = ModeExecution(answer=answer)
+        row = score("run", case(question_id="GED-U-001", requires_uncertainty=True), ExecutionMode.RAG_ONLY, output, 1)
+        self.assertTrue(row.uncertainty_observed)
+        self.assertTrue(row.uncertainty_correct)
+
+    def test_undefined_uncertainty_expectation_remains_not_applicable(self):
+        row = score("run", case(requires_uncertainty=None), ExecutionMode.RAG_ONLY, ModeExecution(answer="Known.", uncertainty_observed=False), 1)
+        self.assertIsNone(row.uncertainty_expected)
+        self.assertIsNone(row.uncertainty_correct)
+
     def test_all_case_metrics_and_retrieval_formulas(self):
         output=ModeExecution(answer="answer",policy_decision="allow",enforcement_action="allow",uncertainty_observed=False,refusal_observed=False,verified_facts=["fact"],escalation_observed=False,citations=[{"source":"c1","claim":"claim"}],retrieved_chunks=[{"id":"c1","source":"c1"},{"id":"x"},{"id":"c3"}],trace_elements=["retrieval step"],audit={"run_id":"run"},handoffs_attempted=2,handoffs_successful=1)
         row=score("run",case(),ExecutionMode.FULL_SENTINEL,output,12)

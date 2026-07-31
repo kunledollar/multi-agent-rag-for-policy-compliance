@@ -5,6 +5,7 @@ from typing import Any, Iterable, Optional
 
 from .models import BenchmarkCase, DetailedResult, ExecutionMode, ModeExecution
 from .source_ids import normalize_source_id, retrieved_chunk_id, retrieved_document_id
+from .uncertainty import detect_uncertainty
 
 
 def ratio_present(required, present) -> Optional[float]:
@@ -46,6 +47,9 @@ def _same(expected, actual):
 
 
 def score(run_id: str, case: BenchmarkCase, mode: ExecutionMode, output: ModeExecution, latency_ms: float) -> DetailedResult:
+    uncertainty_observed = output.uncertainty_observed
+    if uncertainty_observed is None:
+        uncertainty_observed = detect_uncertainty(output.answer)
     citations = output.citations if mode != ExecutionMode.LLM_ONLY else None
     valid_sources = {str(c.get("id") or c.get("chunk_id") or c.get("source") or "") for c in (output.retrieved_chunks or [])}
     valid_citations = [c for c in (citations or []) if str(c.get("chunk_id") or c.get("source") or "") in valid_sources]
@@ -70,8 +74,8 @@ def score(run_id: str, case: BenchmarkCase, mode: ExecutionMode, output: ModeExe
         actual_policy_decision=output.policy_decision,
         policy_adherence_correct=_same(case.expected_policy_decision or case.expected_compliance_label, output.policy_decision),
         answer_correct=_same(case.reference_answer, output.answer),
-        uncertainty_expected=case.requires_uncertainty, uncertainty_observed=output.uncertainty_observed,
-        uncertainty_correct=(case.requires_uncertainty == output.uncertainty_observed) if case.requires_uncertainty is not None and output.uncertainty_observed is not None else None,
+        uncertainty_expected=case.requires_uncertainty, uncertainty_observed=uncertainty_observed,
+        uncertainty_correct=(case.requires_uncertainty == uncertainty_observed) if case.requires_uncertainty is not None else None,
         citations_required=case.required_citation_claims, citations_returned=citations,
         citations_valid=len(valid_citations) if citations is not None else None, citations_complete=citation_score,
         refusal_expected=case.expected_refusal if case.expected_refusal is not None else case.requires_refusal,

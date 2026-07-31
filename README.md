@@ -214,6 +214,19 @@ therefore count in Precision@5, MRR, and NDCG@5. Recall@5 deduplicates IDs, so a
 relevant document is recalled at most once. Missing or N/A judgments leave all
 retrieval metrics N/A rather than fabricating negative labels.
 
+Uncertainty observation first uses structured execution metadata when present:
+`uncertainty_observed`, `uncertainty`, `evidence_status`, `needs_more_context`,
+`unknown`, `insufficient_evidence`, and `confidence`. If none of those fields
+contains a usable value, a deterministic text fallback normalizes case,
+whitespace, punctuation, and common contractions, then looks for an explicit
+evidence boundary (for example, that a fact is not specified in the context,
+cannot be determined, or cannot be verified from available evidence). Generic
+hedges such as “may,” “might,” and “possibly,” and unrelated refusal language,
+do not count. This rule-based detector intentionally recognizes evidence
+limitations rather than every possible expression of caution; novel or highly
+implicit wording can therefore be missed. Benchmark fields remain authoritative,
+and a missing `requires_uncertainty` expectation keeps the metric N/A.
+
 Retrieval scoring uses chunk IDs when supplied, otherwise document/source IDs.
 Precision@5 divides top-five relevant hits by five; Recall@5 divides unique
 top-five relevant hits by all known relevant IDs; MRR is the reciprocal first
