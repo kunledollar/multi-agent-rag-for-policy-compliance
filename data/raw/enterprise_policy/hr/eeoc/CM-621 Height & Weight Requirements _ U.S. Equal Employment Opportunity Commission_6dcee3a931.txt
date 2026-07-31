@@ -1,0 +1,932 @@
+CM-621 Height & Weight Requirements | U.S. Equal Employment Opportunity Commission
+Skip to main content
+An official website of the United States government
+Here’s how you know
+Here’s how you know
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive
+information only on official, secure websites.
+U.S. Equal Employment Opportunity Commission
+Menu
+Header Navigation
+Online Filing
+Public Portal
+Attorney E-file
+Locations
+Operating Status
+Languages
+English
+Español (Spanish)
+Resources in Other Languages
+عربي (Arabic)
+简体中文 (Chinese, Simplified)
+繁體中文 - Chinese (Traditional)
+Kreyòl Ayisyen (Haitian Creole)
+한국어 (Korean)
+Русском (Russian)
+Português (Portuguese)
+Tagalog (Tagalog)
+ไทย (Thai)
+Tiếng Việt (Vietnamese)
+فارسی (Persian. Farsi)
+پښتو (Pashto)
+Toggle Search Form
+Any of these words
+(optional)
+Search
+About EEOC
+About EEOC
+Overview
+The Commission and The General Counsel
+Meetings of the Commission
+Commission Votes
+EEOC History
+News and Information
+Newsroom
+What You Should Know
+Legislative Affairs
+Publications
+Outreach and Education
+FOIA
+Laws and Enforcement
+EEOC Legal Resources
+Mediation
+Litigation
+Systemic Enforcement
+Commissioner Charges
+Directed Investigations
+Programs and Performance
+Budget and Performance
+Initiatives
+Interagency Programs
+State and Local Programs
+Task Forces
+Tribal Programs
+Data and Analytics
+Overview
+Data Governance
+EEO Data Collections
+Data and Statistics
+Data Tools and Products
+No FEAR Act Data
+Inside EEOC
+Careers
+Office for Civil Rights
+Doing Business with EEOC
+AI Governance
+Privacy
+Office of Inspector General
+Employees & Job Applicants
+Employees & Applicants
+Overview
+Coverage
+Timeliness
+Prohibited Practices
+Filing a Charge of Discrimination
+Filing a Charge
+How to File
+After You File a Charge
+Confidentiality
+Mediation
+Remedies
+Existing Charges
+Filing a Lawsuit
+Discrimination by Type
+Age
+Disability
+Equal Pay
+Genetic Information
+Harassment
+National Origin Discrimination
+Pregnancy Discrimination
+Race/Color Discrimination
+Religious Discrimination
+Retaliation
+Sex
+Sexual Harassment
+Employers / Small Business
+Employers / Small Business
+Overview
+Coverage
+After a Charge is Filed
+Resolving a Charge
+Commissioner Charges
+Directed Investigations
+Remedies
+Small Business Resource Center
+Small Business Home
+Small Business Requirements
+Frequently Asked Questions
+Tips for Small Businesses
+Making an Employment Decision?
+EEOC Resources
+Small Business Assistance
+Small Business Fact Sheet
+Small Business Videos
+EEOC Glossary
+Contact Us
+Discrimination by Type
+Age
+Disability
+Equal Pay
+Genetic Information
+Harassment
+National Origin
+Pregnancy
+Race/Color
+Religion
+Retaliation
+Sex
+Sexual Harassment
+Prohibited Practices
+Recordkeeping
+EEO Data Collections
+"Know Your Rights" Poster
+Training
+Other Employment Issues
+Federal Sector
+Federal Agencies
+Overview
+Federal EEO Coordination
+Federal Agency EEO Directors
+EEOC Legal Resources
+Management Directives & Federal Sector Guidance
+Federal Training & Outreach
+Resources
+Federal Employees & Job Applicants
+Overview
+Federal Complaint Process
+Federal Sector Alternative Dispute Resolution
+Prohibited Practices
+Resources
+Contact Us
+Contact EEOC
+Find Your Nearest Office
+Office Operating Status
+How to File a Charge
+Public Portal
+Home
+Laws
+guidance
+CM-621 Height & Weight Requirements
+CM-621 Height & Weight Requirements
+Issuing Authority
+This guidance document was issued upon approval by vote of the U.S. Equal Employment Opportunity Commission.
+OLC Control Number
+EEOC-CVG-1983-3
+Concise Display Name
+CM-621 Height & Weight Requirements
+Issue Date
+03-01-1983
+General Topics
+Race, Sex, National Origin
+Summary
+This 1983 document addresses the application of EEO laws to employer rules setting a maximum height and/or weight for particular jobs.
+Citation
+Title VII, 29 CFR Part 1604, 29 CFR Part 1605
+Document Applicant
+Employers, Employees, Applicants, Attorneys and Practitioners, EEOC Staff
+Previous Revision
+No
+Disclaimer
+The contents of this document do not have the force and effect of law and are not meant to bind the public in any way. This document is intended only to provide clarity to the public regarding existing requirements under the law or agency policies.
+Contents
+621.1          Introduction
+(a)      General
+(b)     Analyzing Height and Weight Charts
+(1)       Disparate Treatment Analysis
+(2)       Adverse Impact Analysis
+(i)  Use of National Statistics
+(ii)  Four-Fifths Rule
+(iii)  Bottom Line
+(iv)
+Dothard v. Rawlinson
+621.2          Minimum Height Requirements
+(a)      General
+(b)     Disparate Treatment
+(1)       Commission Decisions
+(2)       Court Cases
+(c)      Adverse Impact
+(1)       Commission Decisions
+(2)       Court Cases
+621.3          Maximum Height Requirements
+(a)      General
+(b)     Disparate Treatment
+(1)       Commission Decisions
+(2)       Court Cases
+(c)      Adverse Impact
+621.4          Minimum Weight Requirements
+(a)      General
+(b)     Adverse Impact
+(1)       Commission Decisions
+(2)       Court Cases
+(c)      Disparate Treatment
+621.5          Maximum Weight Requirements
+(a)      General
+(b)     Adverse Impact
+(c)      Disparate Treatment
+(d)     Different Maximum Weight, Same Height and Standard Charts
+(e)      Commission Decisions
+(f)      Court Cases
+621.6          Physical Strength and Ability or Agility
+(a)      General
+(b)     Physical Strength and Size Requirements
+(c)      Physical Ability or Agility Tests
+621.7          Focus of Investigation
+621.8          Cross References
+SECTION 621
+HEIGHT AND WEIGHT REQUIREMENTS
+621.1
+Introduction
+(a)
+General
+-
+The general provisions of Title VII prohibiting discrimination have a direct and obvious application where the selection criteria include height or weight requirements.
+*
+As an example,
+national statistics indicate that females on average are not as tall and do not weigh as much as males.  The result is that, if meeting a minimum height or weight limit is a requirement for employment, these protected group members will most
+likely be disproportionately excluded as compared to their actual numbers in the population.  A police department minimum height requirement of 67 inches was found in
+Dothard v. Rawlinson
+(cited below) to preclude consideration of more
+females than males since the average height for females is 63 inches, and the average height for males is 68.2 inches. According to the Supreme Court, this constitutes the sort of artificial, arbitrary, and unnecessary barrier to employment that
+Title VII was intended to remove or eliminate.
+Dothard v. Rawlinson
+, 433 U.S. 321, 14 EPD ¶ 7632 (1977); citing
+Griggs v. Duke Power Co.
+, 401 U.S. 424, 3 EPD ¶ 8137 (1971).
+(b)
+Analyzing Height and Weight Charges
+-
+Any of the approaches discussed in § 604, Theories of Discrimination, could be applicable in analyzing height and weight charges.  Decided cases and decisions have dealt with both disparate treatment and adverse impact analyses, and
+with discrimination based on sex, national origin, and to a lesser extent, race.
+(1)
+Disparate Treatment Analysis
+- The disparate treatment analysis is typically applicable where the respondent has a height or weight requirement, but it is only enforced against one protected
+group or class and not against others.  For instance, in
+U.S. v. Lee Way Motor Freight Inc.
+, 7 EPD ¶ 9066 (D.C. Okla. 1973), the respondent, a trucking company, strictly applied its height and weight requirements for driver
+positions when considering Black applicants, while liberally granting exceptions when considering White applicants.  Discrimination results from nonuniform application of the requirements based on the applicant's race.
+(2)
+Adverse Impact Analysis
+- This approach is applicable where on its face a minimum height or weight requirement constitutes a neutral employment policy or practice that may be applied equally to
+all protected groups or classes. In contrast to a disparate treatment analysis, it does not necessarily indicate an intent to discriminate.  An adverse impact analysis does not require the proving of intent, but rather it focuses on the effects
+of the employment policy or practice.  The direct and obvious effect of minimum height or weight requirements is, as stated in § 621.1(a) above, to disproportionately exclude significant numbers of women, Hispanics, and certain Asians from
+consideration for employment. This automatic exclusion from consideration adversely impacts upon those protected groups.
+(i)
+Use of National Statistics
+- In dealing with height and weight requirements it may not in many cases be appropriate to rely upon an actual applicant flow analysis to determine if women
+and minorities have been disproportionately excluded.  The Court in
+Dothard
+(cited below and discussed in § 621.1(b)(2)(iv)) stated that since otherwise qualified individuals might be discouraged from applying because of their
+self-recognized inability to meet the requirement, the application process might not adequately reflect the potential applicant pool.  A potential applicant who does not meet the announced requirement might therefore decide that applying for
+the job would be futile.  Since there is little likelihood, except rarely, that height and weight characteristics will vary based on a particular locale or region of the nation, national statistics can be relied upon to show evidence of adverse
+impact, instead of actual applicant flow data.
+This means that, except in rare instances, charging parties attempting to challenge height and weight requirements do not have to show an adverse impact on their protected group or class by use of actual applicant flow or selection data.
+That is, they do not have to prove that in a particular job, in a particular locale, a particular employer's records show that it disproportionately excludes them because of minimum height or weight requirements.  Instead, charging parties can
+show that a particular employer has a minimum height or weight requirement that disproportionately excludes them based on national statistics which indicate that their protected group or class is not as tall or weighs less than other groups or
+classes.
+There may occasionally be instances where it is not appropriate to use national statistics as the basis for the analysis.  For instance, if the charging party is from a particular Indian tribe located almost exclusively in a particular
+geographical region that is not as tall as other Native Americans, it would not be appropriate to use national statistics on Native Americans in the analysis.  In this case, the height and weight characteristics vary based on the particular
+locale or region and as to the particular racial or national origin group.
+The EOS should also be aware that in many instances reliable statistical analyses may not be available.  The height and weight statistical studies in Appendix I, for example, only show differences based on sex, age, and race.
+(ii)
+Four-Fifths Rule
+- It may not be appropriate in many instances to use the 4/5ths or 80% rule, which is a general rule of thumb or guide for determining whether there is evidence of adverse
+impact in the selection process, when analyzing height/weight requirements.  Under that rule, which was adopted in the Uniform Guidelines on Employee Selection Procedures (UGESP) at 29 C.F.R. § 1607, there is a substantial difference and
+therefore evidence of adverse impact if the selection rate for the excluded group is less than 80% of the rate for the group with the highest selection rate.  Because of potential discouragement when height/weight requirements are imposed by
+employers, the actual applicant pool may not accurately reflect the qualified applicant pool.  (See § 621.1(b)(2)(i), above.)  Therefore, a national statistical pool, as opposed to an actual applicant pool, should be used for
+comparison purposes.  Even though national statistics are used, § 4(D) of the UGESP recognizes that there can still be evidence of adverse impact, often with very large numbers since a national pool is used, based on smaller percentage
+differences in the selection or disqualification rate if the differences meet the test of being statistically or practically significant. Additionally, where the numbers are very small, even though national statistics are used, the test of
+statistical or practical significance should be used.  For a determination of whether the 4/5ths or 80% rule test, as opposed to the test of statistical or practical significance, can be used when dealing with height/weight requirements and a
+national statistical pool, the EOS should consult § 610, Adverse Impact in the Selection Process.
+(iii)
+Bottom Line
+- Under the bottom line concept which can be found in § 4(C) of the UGESP, where height and weight requirements are a component of the selection procedure, even if considering all the components together there is no
+evidence of adverse impact, the height and weight components must nonetheless be separately evaluated for evidence of adverse impact.  This is because many court and administrative determinations have found that height and weight requirements
+are not job related.  The position taken by the Commission requiring that height and weight requirements be evaluated for adverse impact regardless of whether the bottom line is nondiscriminatory was confirmed by the Supreme Court in
+Connecticut v. Teal
+, 457 U.S. 440, 29 EPD ¶ 32,820 (1982).  For a thorough discussion of these and similar problems, the EOS should consult § 610, Adverse Impact in the Selection Process; and the Uniform Guidelines on Employee
+Selection Procedures at 29 C.F.R. § 1607.
+(iv)
+Dothard v. Rawlinson
+- In
+Dothard v. Rawlinson
+, 433 U.S. 321, 14 EPD ¶ 7632 (1977), the Supreme Court was faced with a challenge by a rejected female applicant for a Correctional
+Counselor position at a prison, who failed to meet the minimum 120 lb. weight requirement.  There was also a 5'2" minimum height requirement which was challenged.  She alleged in her class action suit that the minimum requirements
+discriminated on the basis of sex because large numbers of females were automatically excluded from consideration.  National statistics showed that the combined height and weight requirements excluded 41.13% of the female population, as
+compared to less than 1% of the male population.
+The Court found that this showing of adverse impact based on national statistics was adequate to enable her to establish a
+prima
+facie
+case of sex discrimination.  Thereafter, the Court determined that the burden which shifted
+to the respondent was to show that the requirements constituted a business necessity with a manifest relationship to the employment in question.  The employer failed to meet this burden.  The employer's contention that the requirements
+bore a relationship to strength were found to be inadequate absent evidence showing a correlation between height and weight requirements and strength. The Court went on to suggest that, if the employer wanted to measure strength, it should adopt and
+validate a test that measures strength directly.  (This problem is discussed further in § 621.6, below.)
+621.2
+Minimum Height Requirements
+(a)
+General
+-
+For many types of jobs minimum height standards have been established by employers.  These jobs include police officers, state troopers, flight attendants, lifeguards, firefighters, correctional officers, and even production workers and lab
+aides.  Reasons for these minimum height standards are as varied as the employers, ranging from assumptions of public preferences for taller persons, to paternalistic notions regarding women, to assumptions that taller persons are physically
+stronger.  The overall effect, however, is to disproportionately exclude women, Hispanics, and certain Asians from employment because on average they are shorter than males or members of other national origins or races.  The resultant
+disproportionate exclusion or adverse impact can, based on national statistics, constitute a
+prima
+facie
+case of discrimination.  The employer, if it wants to retain the requirements, must show that they constitute a business
+necessity without which the business could not safely and efficiently be performed.  And, if a job validity study is used to show that the practice is a business necessity, the validity study should include a determination of whether there are
+alternatives that have less of an adverse impact.  The employer must use the least restrictive alternative.
+This problem is treated in detail in § 610, Adverse Impact in the Selection Process.  The EOS should also refer to the Uniform Guidelines on Employee Selection Procedures which are reprinted as an appendix to § 610.
+Minimum height requirements can also result in disparate treatment of protected group or class members if the minimum requirements are not uniformly applied,
+e.g.
+, where the employer applies a minimum 5'8" height requirement strictly to
+exclude Black applicants, while liberally granting exceptions to White applicants.  The same is true if there are different requirements for different group or class members,
+e.g.
+, where the employer has a 5'5" minimum height requirement
+for women or Hispanics and a 5'8" requirement for other applicants.  In this case, a 5'7" male is being treated differently because of his sex or national origin if he is excluded because of failure to meet the height requirement since a
+similarly situated 5'7" female or Hispanic would not be excluded.  In both instances, the practice results in prohibited discrimination if its use cannot be justified by a legitimate, nondiscriminatory reason.  If the employer presents a
+justification for its actions, the employee has the opportunity to show that the employer's reason is merely a pretext for discrimination.
+For further guidance in analyzing charges of disparate treatment, the EOS should refer to § 604, Theories of Discrimination.
+Additionally, as height, as well as weight, problems in the extreme may potentially constitute a handicap, the EOS should be aware of the need to make charging parties or potential charging parties aware of their right to proceed under other
+statutes.  (See the processing instructions in § 621.5(a).)
+(b)
+Disparate Treatment
+-
+In terms of a disparate treatment analysis of minimum height requirements, the difference in treatment will probably be based on either the nonuniform application of a single height requirement or different height requirements for females as
+opposed to males.  These two approaches are illustrated in the examples which follow.
+Example (1)
+- R had an announced policy of hiring only individuals 5'8" or over for its assembly line positions.  CP, a 5'7" Black female, applied for but was denied an assembly line position because she failed to meet
+R's minimum height requirements.  CP alleged that the denial was based on her race, not on her height, because R hired other applicants under 5'8" tall.  Investigation revealed that R had no Black assembly line workers and that a
+substantial number of R's existing employees and new hires were under 5'8" tall.  Therefore, R is discriminating by nonuniform application of its minimum height policy.
+Example (2)
+- R, police department, had a minimum height requirement for females but not for males because it did not believe females, as opposed to males, under 5'8" could safely and efficiently perform all the duties of a
+police officer.  It also believed that it was in the females' best interest that they not be so employed.  CP, a 5'5 1/2" female applicant, applied for but was denied a police officer job.  R alleges that its concern for the
+well-being and safety of females mandated the rejection.  R indicated that it felt males of any height could perform the job but that shorter females would not get the respect necessary to enable them to safely perform the job.  R's
+unjustified notions render its actions discriminatory since its distinctions are based on sex.
+(1)
+Commission Decisions
+In Commission Decision No. 79-19, CCH Employment Practices Guide ¶ 6749, a male, 5'6" tall, challenged the application of the minimum, 5'5" female and 5'9" male, height requirement and alleged that if he were a female he could have qualified
+for a police cadet position.  Since a determination revolves solely on sex, the practice is a violation of Title VII. The respondent can either establish a uniform height requirement that does not have an adverse impact based on race, sex, or
+national origin, or establish that the height requirement constitutes a business necessity.
+In Commission Decision No. 76-31, CCH Employment Practices Guide ¶ 6624, the Commission found no evidence of adverse impact against females with respect to a bare unsupported allegation of job denial based on sex, because of a minimum height
+requirement, where there was no neutral height policy, and no one had ever been rejected based on height.  Also, there was no evidence of disparate treatment.  The prior incumbent, the selectee, and the charging party were all female, and
+there was no evidence that a shorter male would not also have been rejected.
+(2)
+Court Cases
+The court in
+U.S. v. Lee Way Motor Freight, Inc.
+, 7 EPD ¶ 9066 (D.C. Ok. 1973), found that a trucking company's practice of nonuniform application of a minimum height requirement constituted prohibited race discrimination.
+In
+Schick v. Bronstein
+, 447 F. Supp. 333, 16 EPD ¶ 8247 (S.D. N.Y. 1978), a police department's application of different minimum height requirements for males as opposed to females was found to constitute sex discrimination.
+(c)
+Adverse Impact
+-
+In early decisions, the Commission found that because of national significance, it was appropriate to use national statistics, as opposed to actual applicant flow data, to establish a
+prima
+facie
+case.  The Commission also
+found that many of the employer proffered justifications for imposing minimum height requirements were not adequate to establish a business necessity defense.  Commission Decision No. 71-1529, CCH EEOC Decisions (1973) ¶ 6231; Commission
+Decision No. 71-2643, CCH EEOC Decisions (1973) ¶ 6286; and Commission Decision No. 71-1418, CCH EEOC Decisions (1973) ¶ 6223.  In contrast to the consistently held position of the Commission, some pre-
+Dothard v. Rawlinson
+,
+supra
+court cases came to different conclusions.
+Smith v. Troyan
+, 520 F.2d 492, 10 EPD ¶ 10,263 (6th Cir. 1975);
+Castro v. Beecher
+, 459 F.2d 725, 4 EPD ¶ 7783 (1st Cir. 1972).  The Supreme Court in
+Dothard v.
+Rawlinson
+,
+supra
+, however, agreed with the Commission's position and used national statistics to find that minimum height and weight requirements were discriminatory and that unsupported assertions about strength were inadequate to
+constitute a business necessity defense.
+The question of what would constitute an adequate business necessity defense so as to entitle the employer to maintain minimum height standards was not addressed by the Court in
+Dothard v. Rawlinson
+,
+supra
+.  On a case-by-case
+basis, Commission decisions and court cases have determined what things do not constitute an adequate business necessity defense.  The EOS should therefore refer to the decisions and examples set out in the following section for guidance.
+Where, however, the business necessity of a minimum height requirement for airline pilots and navigators is at issue, the matter is non-CDP, and the Office of Legal Counsel, Guidance Division should be contacted for assistance.
+Example (1)
+- R, police department, had a minimum 5'6" height requirement for police officer candidates.  R's police force was 98% White male, and 2% Black male.  There were no female or Hispanic officers, even
+though the SMSA was 53% female and 5% Hispanic.  CPs, female and Hispanic rejected job applicants, filed charges alleging that their rejections, based on failure to meet the minimum height requirement, were discriminatory because their
+protected groups were disproportionately excluded from consideration.  To buttress this argument, they introduced statistics showing that on a national basis, while only 3% of Black or White males were excluded by the 5'6" requirement, 87% of
+females and 88% of Hispanics were excluded.  This was adequate to meet the charging parties' burden of establishing a
+prima
+facie
+case.  In its defense the respondent had its supervisory personnel testify that the minimum
+height requirement was necessary for the safe and efficient operation of its business.  According to respondent, taller officers enjoyed a psychological advantage and thus would less often be attacked, were better able to subdue suspects, and
+could better observe field situations.  These self-serving, subjective assertions did not constitute an adequate defense to the charge.  They did not fairly and substantially relate to the performance of the duties of a police
+officer.  Accord
+Horace v. City of Pontiac
+, 624 F.2d 765, 23 EPD ¶ 31,069 (6th Cir. 1980), and
+Vanguard Justice Society Inc. v. Hughes
+, 471 F. Supp. 670, 20 EPD ¶ 30,077 (D.C. Md. 1979).
+Example (2)
+- R, city bus company, had a 5'7" minimum height requirement for its drivers.  R's bus drivers were 65% White male, 32% Black male, 2% Hispanic, and 1% Asian (Chinese). There were no female bus drivers in
+R's employ even though females constituted the largest percentage of potential employees in the SMSA from which R recruited.  Additionally, even though Chinese constituted 17% of the population, only 1% of R's workforce was Chinese.  CPs,
+female and Chinese applicants rejected because they were under the minimum height, filed a charge against R alleging sex and national origin discrimination.  Conceding that the CPs had established a
+prima
+facie
+case, R defended on
+the ground that meeting the minimum height was a business necessity. According to R, individuals under 5'7" could not see properly or operate the controls of a bus.  By way of rebuttal, CPs argued that R could cure that problem by installing
+adjustable seats on some vehicles and to a lesser extent, adjustable steering wheels.  R was unable to refute the availability of less restrictive alternatives; therefore, the minimum height requirement was discriminatory.
+Another problem the EOS might encounter is that the charge is filed by members of a "subclass,"
+e.g.
+, Asian women.  In such a case, statistics for both Asians (since Asian women are presumably not as tall as Asian men) and women
+(since Asian women are presumably not as tall as American women) may not be applicable.  To the extent reliable statistical studies are available, the comparison, depending on the facts of the case, should also be based on the height difference
+between Asian women and White males, if they constitute the majority of the selectees.  (See generally
+Jefferies v. Harris County Community Action Association
+, 615 F.2d 1025, 22 EPD ¶ 30,858 (5th Cir. 1980) (where a charge of
+discrimination filed by a Black female is evaluated in terms of her race and sex separately);
+Payne v.
+Travenol Laboratories, Inc.
+, 673 F.2d 798, 28 EPD ¶ 32,647 (5th Cir. 1982) (where a distinction is made as to treatment
+accorded Black males versus Black females); and § 621.1(b)(2)(i) (where appropriate use of national statistics is discussed).)
+(1)
+Commission Decisions
+In Commission Decision No. 71-1529, CCH EEOC Decisions (1973) ¶ 6231, the Commission found that the respondent failed to prove a business necessity defense for its minimum 5'6" height requirement which disproportionately excluded women and
+Hispanics from production jobs.  The Commission relied on national statistics which showed that 80% of adult females are less than 5'5" tall and that the average height of Hispanic males is 5'4 1/2", while the average height of Anglo males is
+5'7 1/3".
+In Commission Decision No. 71-1418, CCH EEOC Decisions (1973) ¶ 6223, the Commission found, based on national statistics, that a minimum 5'5" height requirement disproportionately excluded large numbers of women and Hispanics.
+Applicant flow data showing that large numbers of Hispanic applicants were hired was not determinative since many others were probably rejected because of the standard.  Additionally, the respondent failed to establish a business necessity
+defense for use of the requirement since a reasonable alternative,
+e.g.
+, use of platforms to compensate for difference in height, existed.
+In Commission Decision No. 71-2643, CCH EEOC Decisions (1973) ¶ 6286, the Commission found that a minimum height requirement that excluded 80% of average height females based on national statistics while not excluding males of average height
+for males, was discriminatory.  The respondent's contention that it could not otherwise readily transfer people to different positions unless the minimum height requirement was maintained, since some positions require employees of a certain
+height, did not constitute an adequate business necessity defense.
+In Commission Decision No. 76-132, CCH Employment Practices Guide ¶ 6694, the Commission found that a
+prima
+facie
+case of sex discrimination resulting from application of minimum height requirements was not rebutted by a state
+study showing that taller police officers are assaulted less, have less probability of being injured, receive fewer complaints, and have fewer auto accidents.  The state study, which was refuted by a LEAA study that reached different
+conclusions, was inadequate to constitute a business necessity defense.
+In Commission Decision No. 79-25, CCH Employment Practices Guide ¶ 6752, the Commission found that a
+prima
+facie
+case of sex discrimination based on application of minimum height requirements was not rebutted by evidence that
+other police departments have similar requirements.  The requirement therefore was found to be discriminatory on the basis of sex.
+In Commission Decision No. 72-0284, CCH EEOC Decision (1973) ¶ 6304, the Commission found a minimum height requirement for flight pursers discriminatory on the basis of sex and national origin since its disproportionate exclusion of those
+groups was not justified as a business necessity or validated in accordance with Commission guidelines.
+(2)
+Court Cases
+For a discussion of
+Dothard v. Rawlinson
+, 433 U.S. 321, 14 EPD ¶ 7632 (1977), the EOS should refer to § 621.1(b)(2)(iv).
+In
+Blake v. City of Los Angeles
+, 595 F.2d 1367, 19 EPD ¶ 9251 (9th Cir. 1979), the court looked at
+Dothard
+,
+supra
+and concluded that the plaintiffs established a
+prima
+facie
+case of sex discrimination by
+demonstrating that the height requirement resulted in the selection of applicants in a significantly discriminatory pattern,
+i.e.
+, 87% of all women, as compared to 20% of all men, were excluded.  This was sufficient to establish a
+prima
+facie
+case without a showing of discriminatory intent.  The court was not persuaded by respondent's argument that taller officers have the advantage in subduing suspects and observing field situations, so as to make the
+height requirement a business necessity.
+621.3
+Maximum Height Requirements
+(a)
+General
+-
+Many height statutes for employees such as police officers, state troopers, firefighters, correctional counselors, flight attendants, and pilots contain height ranges,
+e.g.
+, 5'6" to 6'5".  Maximum height requirements would, of course,
+preclude the hiring of individuals over the specified maximum height.  Although, as was suggested in § 621.2 above, many Commission decisions and court cases involve minimum height requirements, few deal with maximum height
+requirements.  It is nonetheless conceivable that charges could be brought challenging a maximum height requirement as discriminatory.  Such charges might have the following form.
+Example (1)
+- R, police force, has a maximum height requirement of 6'5".  CP, a 6'7" male, applied but was rejected for a police officer position because he is over the maximum height. CP alleges that this constitutes
+discrimination against him because of his sex (male) because of national statistics which show that women are on average shorter than men.  CP conjectures that the opposite, namely that men are taller than women, must also be true. Accordingly,
+men must be disproportionately excluded from employment by a maximum height requirement, in the same manner as women are disproportionately excluded from employment by a minimum height requirement.
+Example (2)
+- R, airlines, has a maximum 6'5" height requirement for pilots.  CP, a 6'6" Black candidate for a pilot trainee position, alleges that he was rejected, not because he exceeded the maximum height, but
+because of his race (Black).  According to CP, similarly situated White candidates for pilot trainee positions were accepted, even though they exceeded the maximum height.  Investigation revealed that R did in fact accept and train Whites
+who were over 6'5" and that R employed White pilots who exceeded the maximum height.  R had no Black pilots, and no Blacks were accepted as pilot trainees.
+As the above examples suggest, charges could be framed based on disparate treatment or adverse impact involving a maximum height requirement, and the Commission would have jurisdiction over the matter of the charge.
+(b)
+Disparate Treatment
+-
+Disparate treatment occurs when a protected group or class member is treated less favorably than other similarly situated employees for reasons prohibited under Title VII.  (See § 604, Theories of Discrimination.)  This basic
+principle is applicable to charges involving maximum height requirements.  Therefore, absent a legitimate, nondiscriminatory reason, discrimination can result from the imposition of different maximum height standards or no maximum height
+standards for female as opposed to similarly situated male employees.  (See the examples in § 621.3(a), above.)
+Even though there are no Commission decisions dealing with disparate treatment resulting from use of a maximum height requirement, the EOS can use the basic disparate treatment analysis set forth in § 604, Theories of Discrimination, to
+resolve such charges and as a guide to drafting the LOD.
+(1)
+Commission Decisions
+The Commission has not issued any decisions on this matter, but an analogy can be drawn from the use of different minimum height requirements in Commission Decision No. 79-19,
+supra
+.
+(2)
+Court Cases
+The court in
+Laffey v. Northwest Airlines, Inc.
+, 366 F.Supp. 763, 6 EPD ¶ 8930 (D.C. D.C. 1973) (other issues, but not this issue, were appealed), when faced with a maximum height requirement, concluded that different maximum height
+requirements for males and females violates the Act. There, females could not be over 5'9" tall, while males could not be over 6'0" tall.  Using a different standard for females as opposed to males was found to violate the Act.
+(c)
+Adverse Impact
+-
+In order to establish that a group member protected under Title VII was adversely affected by a maximum height requirement, it must first be shown that the particular group of which (s)he is a member would be disproportionately affected by such a
+requirement.  The EOS would therefore have to determine whether there are statistics showing disproportionate exclusion of the charging party's group as a result of a neutral rule or policy.  (See § 621.1(b)(2)(i) above and
+§ 604.)  Except for a fact situation like the one suggested in § 621.3(a) above, it is unlikely that a charging party will be able to establish that his protected group or class is on average taller than other groups or classes and
+that as a result, a maximum height requirement disproportionately excludes them from employment.  Absent such a showing, a
+prima
+facie
+case is not established.
+This issue is non-CDP.  Fact situations may eventually be presented that must be addressed.  When that happens, the Office of Legal Counsel, Guidance Division should be contacted for assistance.
+621.4
+Minimum Weight Requirements
+(a)
+General
+-
+Many employers impose minimum weight requirements on applicants or employees.  Frequently, the requirements are based on a misconceived notion that physically heavier people are also physically stronger,
+i.e.
+, able to lift heavier
+objects.  This was the case in
+Dothard v. Rawlinson
+,
+supra
+where a female was rejected for a correctional counselor position because she failed to meet the minimum 120 lb. weight requirement.  The Court found that imposition
+of the requirement was discriminatory since the respondent did not establish its use as a business necessity.  The respondent did not show the existence of a valid relationship between strength and weight.  In this respect the
+Dothard
+Court emphasized that respondents cannot rely on unfounded, generalized assertions about strength to establish a business necessity defense for use of minimum weight requirements.  (See § 621.1(b)(2)(iv) for a more detailed
+discussion of
+Dothard v. Rawlinson
+,
+supra
+.)
+Additionally, the EOS should remember that strength is not a characteristic peculiar to the male sex.  Therefore, the BFOQ exception to the Act cannot be relied upon as the basis for automatically excluding all females where strength is
+required to successfully perform a job.  The respondent must consider individual abilities and capabilities.  As long as some women can successfully perform the job, the respondent cannot successfully rely on the narrow BFOQ
+exception.  (See § 625, BFOQ, for a detailed treatment of the BFOQ exception.)
+(b)
+Adverse Impact
+-
+In terms of an adverse impact analysis, the Court in
+Dothard v. Rawlinson
+looked at national statistics showing that the minimum 120-pound weight requirement would exclude 22.29% of females, as compared to only 2.35% of males.  The
+resultant disproportionate exclusion of females from consideration for employment establishes a
+prima
+facie
+case of sex discrimination.  Once a
+prima
+facie
+case is established the respondent in rebuttal must show
+that the minimum weight requirement is a business necessity.  As was suggested above, the respondent cannot rely on the narrow BFOQ exception based on sex or on general unfounded assertions about the relationship of strength to weight to
+establish a business necessity defense.
+Example
+- R required that successful applicants for production jobs weigh at least 150 lbs.  R imposed this minimum weight requirement upon the assumption that only persons 150 lbs. and over possessed the physical
+strength necessary to successfully perform the job.  CP, an unsuccessful female job applicant weighing under 150 lbs., alleged, based on national statistics which showed that the minimum requirement would automatically exclude 87% of all women
+and 28% of all men, that she was being discriminated against because of her sex. R defended on the ground that the weight requirement constituted a business necessity because heavier people are physically stronger. R was unable to offer any evidence
+to support its contention.
+(1)
+Commission Decisions
+Reference can be made to general principles of adverse impact analysis and analogies can be drawn to court cases.
+(2)
+Court Cases
+In
+Dothard v. Rawlinson
+,
+supra
+and
+Meadows v. Ford Motor Co.
+, 62 FRD 98, 5 EPD ¶ 8468 (D.C. Ky. 1973), the respondent was unable to show the existence of a valid relationship between its minimum weight requirement and
+the strength necessary to perform the job in order to prove a business necessity defense.
+(c)
+Disparate Treatment
+-
+In the context of minimum weight requirements, disparate treatment occurs when a protected group or class member is treated differently from other similarly situated employees for reasons prohibited under the Act. Therefore, imposing different
+minimum weight standards for different group or class members because of their protected status or nonuniform application of the same minimum weight standard can, absent a legitimate, nondiscriminatory reason for its use, result in prohibited
+discrimination.  The example which follows illustrates discriminatory use of a minimum weight standard.
+Example
+- R required that its employees weigh at least 140 lbs.  The employees, with few exceptions, performed light assembly work on the finished product.  CP, Chinese and under 140 lbs., alleged that, while she
+was not hired because of the minimum weight requirement, several White females who applied at the same time and who also were under 140 lbs. were hired.  Investigation revealed evidence supporting CP's contention and that R had no Chinese
+employees even though the labor market area from which it chose its employees was 14% Chinese.
+Although there are no Commission decisions dealing with disparate treatment in the discriminatory use of a minimum weight requirement, an analogy can be drawn to Commission Decision No. 70-140, CCH EEOC Decisions (1973) ¶ 6067, where
+rejection of Black applicants based on an alleged policy of refusal to hire overweight persons was discriminatory.  The policy was not uniformly applied.
+621.5
+Maximum Weight Requirements
+(a)
+General
+-
+Although the problem of maximum weight limitations arises in other contexts (see the examples below), it is most frequently encountered when dealing with airline respondents.  Most airlines require that its flight attendants not exceed a
+maximum weight in proportion to their height and body size based on standard height/weight charts.  Failure to meet the pre-set weight limits results in an initial failure to hire, and once hired consistent failure to meet weight limits results
+in discharge.
+Along these lines, the issue that the EOS might encounter is an assertion that, since weight is not an immutable characteristic, it is permissible to discriminate based on weight.  Succinctly stated by the court in
+Cox v. Delta Air
+Lines
+, 14 EPD ¶ 7600 (S.D. Fla. 1976),
+aff'd
+, 14 EPD ¶ 7601 (5th Cir. 1976), "...under no set of facts can plaintiff recover on the legal theory she urges...because weight is neither an immutable characteristic nor a
+constitutionally protected category."  In that case the plaintiff, a flight attendant suspended from active duty because she exceeded the maximum allowable weight limit for her height, contended that she was being discriminated against because
+statistically more females than males exceed the permissible maximum weight limit.  Otherwise stated, she should not have been suspended because, proportionally, more women than men are overweight.  The court found as a matter of law that
+plaintiff's legal theory was inadequate since weight is subject to one's control and not an unchangeable characteristic entitled to protection under Title VII.  A direct analogy was drawn to the long hair cases where the circuit courts
+unanimously concluded that standards which allow women but not men to wear long hair do not violate Title VII. (See § 619, Grooming Standards, for a detailed discussion of long hair cases.)
+Example (1) - Weight as Mutable Characteristic
+- R, an airline, has a policy under which male and female flight attendants are required to maintain their weight in proportion to their height based on national height/weight
+charts. Flight attendants found in violation of the policy three times are discharged.  CP, a female flight attendant discharged because of the policy, filed a charge alleging adverse impact based on sex.  According to CP, females have
+substantially more difficulty than males maintaining the proper weight/height limits. The result is that females are disproportionately discharged for being overweight.  Investigation revealed that of 237 flight attendants 57 are males and 180
+are females.  Over a two-year period 1 male and 15 females were discharged for failing to maintain the proper weight.  R, in response to the charge, contends that there is no sex discrimination because maintaining the proper weight is
+subject to the employees' personal control.  And, whether they are male or female is immaterial.
+Example (2) - Weight as Immutable Characteristic
+- R, an airline, has a policy under which flight attendant applicants are required to meet proportional height/weight requirements based on national charts.  CP, a Black
+female applicant who was not hired for a vacant flight attendant position, filed a charge alleging adverse impact based on race. According to CP, Black females, because of a trait peculiar to their race and not subject to their personal control,
+weigh proportionately more as a class than White females.  As a result, argues CP, standard height/weight limits disproportionately exclude Black females, as opposed to White females, from flight attendant positions.  Investigation
+revealed that although only two out of 237 female flight attendants employed by R are Black, there is no statistical or other evidence indicating that Black females as a class weigh more than White females.  (The issue of whether adverse impact
+exists in this situation is non-CDP; therefore, the Office of Legal Counsel, Guidance Division should be contacted when it arises.)
+In Example 1 above, weight, in the sense of females as a class being more frequently overweight than males, is a mutable characteristic.  It is changeable, it is controllable within age and medical limits, and it is not a trait peculiar to
+females.  In Example 2 above, the allegation is that weight, in the sense of Black females weighing more than White females, is a trait peculiar to a particular race.  As such, it is an immutable characteristic neither changeable nor
+subject to one's personal control.  (The EOS should also refer to the discussion of
+Dothard v. Rawlinson
+in § 621.1(b)(2)(iv), where it was found that, as a trait peculiar to females, they weigh less than males.)
+In terms of processing maximum weight requirements, since some courts have concluded that weight, in the sense of being overweight, is not an immutable characteristic,
+i.e.
+, it is changeable and is subject to one's control (see Example 1
+above), charges based on exceeding the maximum allowable weight in proportion to one's height and body size would be extremely difficult to settle.  When such charges are presented, the charging party should be apprised that courts have
+generally concluded that mutable characteristics not peculiar to any protected group or class are not entitled to protection under Title VII.  The charge should, however, be accepted, assigned a charge number, and the file closed and a notice
+of right to sue issued to protect the charging party's appeal rights.  Otherwise stated, if the allegation is that women as a class are, based on statistics, more frequently overweight than men, this charge should be dismissed in such a manner
+as to preserve the charging parties' appeal rights, but without further investigation.  (See Example 3 below.)
+On the other hand, and by way of contrast, charges which allege disproportionate exclusion of protected group or class members because their group or class weighs proportionally more than other groups or classes based on a nonchangeable,
+noncontrollable trait peculiar to their group or class (see Example 2 above) should be accepted and analyzed in terms of adverse impact.  Therefore, if, for example, Black or Hispanic females allege that because of peculiar racial or national
+origin traits they as a class weigh proportionally more than other groups or classes, when the weight of each of the group or class members is in proportion to their height, the charge should be accepted, and further investigation conducted to
+determine if there is evidence of adverse impact.  (See Example 4 below and Commission Decisions in § 621.5(e).)  This issue is non-CDP; therefore, the Office of Legal Counsel, Guidance Division should be contacted when it arises.
+Example (3) - Partial Processing Indicated
+- CPs, female restaurant employees, file a charge alleging that they are being discriminated against by R since it requires that all of its employees maintain the proper weight in
+proportion to height based on national height/weight charts.  CPs contend that this rule, although facially neutral, disproportionately affects them because females, as opposed to males, more frequently exceed the maximum allowable weight
+because females have an inherent inability to reduce. Since this is not a trait peculiar to females as a matter of law, or which in any event would be entitled to protection under Title VII, and since no other basis exists for concluding that
+females are more frequently overweight than men, there is no reason the EOS should continue to process this charge.
+Example (4) - Full Processing Indicated
+- CPs, Black female applicants for jobs at R's bank, allege that R discriminated against them by denying them employment because they exceeded the maximum weight limit allowed by R
+based on standard height/weight charts.  According to CPs, the standard height/weight charts are based on and reflect height and weight measurements of White females since they constitute the majority of the population, not Black females who
+are in the minority.  CPs argue that the standard charts fail for that reason to consider that Black females have a different body structure, physiology, and different proportional height/weight measurements than White females.  Therefore,
+reliance on the standard charts although neutral on its face nonetheless results in their disproportionate exclusion from employment, as opposed to White females whose proportional weight the charts were intended to measure.  Since it is
+possible that reliance on the charts could result in disproportionate exclusion of Black females, the EOS should continue to investigate this type of charge for adverse impact.  (Whether or not adverse impact can be found in this situation is
+non-CDP; therefore, the Office of Legal Counsel, Guidance Division should be contacted.)
+Only when it can be determined as a matter of law that it is a question of weight as a mutable characteristic as in the
+Cox
+,
+supra
+type situation presented in Examples 1 and 3 above should further processing cease; otherwise as in
+Examples 2 and 4 above processing should continue.
+Additionally, as height or weight problems in the extreme may potentially be a handicap issue, charging parties or potential charging parties should be advised of their right to file a complaint under the Rehabilitation Act of 1973, 29 U.S.C.
+§ 701
+et
+seq
+.  Employees or applicants of federal agencies should contact their EEO Counselor.  Employees or applicants of employers that are recipients of federal contracts should contact the United States Department of
+Labor, Office of Federal Contract Compliance Programs.  Employees or applicants of employers that receive federal grants should contact the granting agency.
+(b)
+Adverse Impact
+-
+In order to establish a
+prima
+facie
+case of adverse impact regarding use of maximum weight requirements, a protected group or class member would have to show disproportionate exclusion of his/her protected group or class because of
+the requirement.  Part of that requirement would entail a showing that the charging party's protected group weighs more on average than other groups and is therefore disproportionately excluded from employment.  In two charges previously
+presented to the Commission by Black and Hispanic women both groups were unable to meet the first requirement of proving statistically that, on average, their groups weighed more.  (See Commission Decision No. 76-45, CCH Employment Practices
+Guide ¶ 6634; and Commission Decision No. 76-47, CCH Employment Practices Guide ¶ 6635.)
+Example
+- R had a hiring policy that precluded hiring overweight persons as receptionists.  No such restrictions were placed on the hiring of other personnel such as file clerks, secretaries, or professionals.
+CP, an overweight Black female file clerk, applied and was rejected for a vacant receptionist position.  She alleged that the maximum weight requirement constituted discrimination against Blacks as a class since they weigh proportionately more
+than Whites.  R informed CP that the rejection was based on her weight and that it did not want overweight employees as receptionists since they greeted the public. Investigation revealed that although the person hired was a White female, she
+was not overweight, there was no other evidence R discriminated based on a person's protected Title VII status, and all the receptionists met R's maximum weight requirements.  Additionally, the Black female was unable to show that statistically
+Black females as a class weigh more than White females, such data was simply not available.
+Like the above example and in Commission Decision Nos. 76-45 and 76-47 (cited above), statistical comparison data was not sufficiently developed or otherwise available from any source to enable the charging parties to show disproportionate
+exclusion from employment based on their protected status and being overweight.  In the decisions referred to above, the Commission also based its decisions on the lack of evidence of disparate treatment and the absence of evidence of adverse
+impact, respecting actual representation of Black or Hispanic females in the employer's workforce.  The number of Hispanic females in the employer's workforce was double their representation in the relevant labor market, and there was no
+evidence Black females were disproportionately excluded.
+Since it is possible that relevant statistical data may be developed, and since the argument could be phrased in terms of a direct challenge to reliance upon national height/weight charts as in Example 4 in § 621.5(a) above, the issue of
+whether Black or Hispanic females can establish that they as a class weigh proportionally more than White females must remain non-CDP.  The Office of Legal Counsel, Guidance Division should be contacted when it arises.
+(c)
+Disparate Treatment
+-
+As the following examples suggest, charges in this area may also be based on disparate treatment,
+e.g.
+, that female flight attendants are being treated differently by nonuniform application of a maximum weight requirement or that different
+requirements have been set for females as opposed to males.  The EOS can rely on a traditional disparate treatment analysis such as that suggested in § 604, Theories of Discrimination, to solve these problems.
+Example (1)
+- R, an airline, has an established maximum weight policy under which employees can be disciplined and even discharged for failing to maintain their weight in proper proportion to their height, based on a
+height/weight chart.  Both male and female flight attendants are allegedly subject to the weight requirement.  CP, a female flight attendant who was suspended for 15 days for being three pounds overweight, filed a charge alleging disparate
+treatment.  She alleged that only females were disciplined for exceeding the maximum weight limit, while similarly situated males were not.  Investigation revealed that the weight policy was strictly applied to females, that females were
+frequently disciplined for violating it, that the policy was not applied to males, that no male had ever been disciplined for violating it, and that many of the males were overweight. Additionally, R stated its belief that it was necessary for the
+females, not the males, to be "shapely".  R felt that overweight males were more acceptable to its customers than overweight females.
+Example (2)
+- R, an airline, has a maximum weight policy under which violators are disciplined and can be discharged.  The weight policy applies only to passenger service representatives and stewardesses who are all
+female.  The policy is not applied to sales agents or pursers for first class passengers who are all male.  CP, a female stewardess who was disciplined for being overweight, filed a charge alleging that she was being discriminated against
+because of her sex in that males were not subject to the policy.  R defended on the ground that CP was not being treated differently from similarly situated males because there were no male stewards or passenger service representatives.
+Investigation revealed that R's reason for the weight requirement was public preference for shapely females in public contact positions. Even though the job categories are different in this case, since the jobs are public contact jobs and R is
+concerned with public preference in such jobs, the males and females are similarly situated.  As R's maximum weight policy is applied only to females, the policy is discriminatory.  (Where other than public contact positions are involved,
+the issue is non-CDP, and the Office of Legal Counsel, Guidance Division should be contacted.)
+(d)
+Different Maximum Weight, Same Height and Standard Charts
+-
+A more difficult problem involves the imposition of different maximum weight in proportion to height standards for men and women of the same height.  Unlike minimum height requirements where setting different standards has been found to
+result in discrimination (see § 621.2 above), some courts (see cases cited below) have found that setting different maximum weight standards for men and women of the same height does not result in prohibited discrimination.  Indeed, the
+very charts which are standard, and which are relied on to establish height/weight in proportion to body size contain different permissible limits for men and women in recognition of the physiological differences between the two groups.  A 5'7"
+man of medium stature would therefore be permitted to weigh proportionally more than a 5'7" woman of medium stature on the same height/weight chart.  The difference in weight in proportion to height of a 5'7" woman of large stature would of
+course be less.
+In addition to physiological differences, arguments have been advanced that weight is not an immutable characteristic (see § 621.5(a)) and that policies based on personal appearance (see § 619, Grooming Standards) do not result in
+prohibited sex discrimination.  (See
+Jarrell
+and
+Gerdom
+which are cited below.) Therefore, these courts have concluded that, as long as the different height/weight standards are not unreasonable in terms of medical considerations
+and ability to comply, are consistent with accepted medical notions of good health, and exemptions are available for those medically unable to comply, the use of different standards does not result in prohibited discrimination.
+This issue must remain non-CDP.  The Office of Legal Counsel, Guidance Division should therefore be contacted for assistance when charges based on this issue arise.
+(e)
+Commission Decisions
+In Commission Decision No. 70-140, CCH EEOC Decisions (1973) ¶ 6067, which alleged disparate treatment, reliance on a policy against hiring overweight applicants was found to be a pretext for racial discrimination as only Black applicants
+were rejected for being overweight.
+In Commission Decision No. 76-47, CCH Employment Practices Guide ¶ 6635, where adverse impact was alleged, the Commission concluded that absent evidence that Blacks as a class, based on a standard height/weight chart, proportionally weigh
+more than other persons there is no basis for concluding that the respondent's failure to hire Black persons who exceed the maximum weight limit constitutes race discrimination.
+In Commission Decision No. 76-45, CCH Employment Practices Guide ¶ 6634, where adverse impact was also alleged, the Commission found that absent statistical evidence that Hispanics as a class weigh proportionally more than persons of other
+national origins, Title VII is not violated by a respondent's failure to hire Hispanics who exceed the maximum weight limit.
+In Commission Decision No. 80-5 (unpublished), the Commission found that there was not enough statistical data available to conclude that Black females, in contrast to White females whose weight is distributed differently, are disproportionately
+excluded from hostess positions because of their physical measurements.  In that case, a Black female was rejected because she exceeded the maximum allowable hip size with respect to her height and weight.
+(f)
+Court Cases
+The court in
+Cox
+(cited below), when faced with the argument that statistically more women than men exceed permissible height/weight in proportion to body size standards, concluded that, even if this were true, there was no sex
+discrimination because weight in the sense of being over or under weight is neither an immutable characteristic nor a constitutionally protected category.
+Cox v. Delta Air Lines
+, 14 EPD ¶ 7600 (S.D. Fla. 1976),
+aff'd
+, 14 EPD
+¶ 7601 (5th Cir. 1976). (See also
+EEOC v. Delta Air Lines, Inc.
+, ___ F. Supp. ___, 24 EPD ¶ 31,455 (S.D. Tex. 1980),
+dec. on rem'd from
+, ___ F.2d ___, 24 EPD ¶ 31,211 (5th Cir. 1980).)
+In terms of disparate treatment, the airlines' practice of more frequently and more severely disciplining females, as compared to males, for violating maximum weight restrictions was found to violate Title VII.
+Air Line Pilots Ass'n.
+International v. United Air Lines, Inc.
+, 408 F. Supp. 1107, 21 EPD ¶ 30,419 (E.D. N.Y. 1979).
+Prohibited disparate treatment can also occur where maximum weight limitations are imposed on females in exclusively female job categories such as flight attendants but not on male employees such as directors of passenger service who perform
+similar tasks and also deal with the public.
+Gerdom v. Continental Air Lines Inc.
+, 692 F.2d 602, 30 EPD ¶ 33,156 (9th Cir. 1982),
+vacating in part panel opinion in
+, 648 F.2d 1223, 26 EPD ¶ 31,921 (9th Cir. 1981).
+Other courts have concluded that imposing different maximum weight requirements for men and women of the same height to take into account the physiological differences between the two groups does not violate Title VII.
+Jarrell v. Eastern
+Air Lines Inc.
+, 430 F. Supp. 884, 17 EPD ¶ 8462 (E.D. Va. 1977),
+aff'd per curiam
+, 577 F.2d 869, 17 EPD ¶ 8373 (4th Cir. 1978).
+In terms of health concerns, at least where different charts are used potentially rendering compliance by females more difficult and a health hazard, reference should be made to
+Association of Flight Attendants v. Ozark Air Lines
+, 470 F.
+Supp. 1132, 19 EPD ¶ 9267 (N.D. Ill. 1979).  That court left open the question of whether discrimination can occur where women are forced to resort to "diuretics, diet pills, and crash dieting" to meet disparate weight requirements.
+621.6
+Physical Strength and Ability or Agility
+(a)
+General
+-
+Physical strength requirements as discussed in this section are different from minimum weight lifting requirements which are discussed in § 625, BFOQ.  The physical strength requirements discussed here involve situations where
+proportional, minimum height/weight standards are considered a predictor or measure of physical strength, as opposed to the ability to lift a certain specific minimum weight.
+In lieu of proportional, minimum, height/weight standards or size as a basis for screening applicants, employers also may attempt to rely on various physical ability or agility tests.  The imposition of such tests may result in the exclusion
+of a disproportionate number of women and to a lesser extent other protected groups based on sex, national origin, or race.
+(b)
+Physical Strength and Size Requirements
+-
+In many instances such as in
+Dothard v. Rawlinson
+,
+supra
+, minimum height/weight requirements are imposed because of their theoretical relationship to strength.  Impliedly, taller, heavier people are also physically stronger
+than their shorter, lighter counterparts.  However, such comparisons are simply unfounded. And, the Court in
+Dothard
+accordingly suggested that "[i]f the job-related quality that the [respondents] identify is bona fide, their purpose
+could be achieved by adopting and validating a test for applicants that measures strength directly."
+Example (1) - Prison Correctional Counselors
+- In
+Dothard v. Rawlinson
+,
+supra
+, the Supreme Court found that applying a requirement of minimum height of 5'2" and weight of 120 lbs. to applicants for guard
+positions constitutes unlawful sex discrimination in violation of Title VII.  Relying on national statistics, the Court reasoned that over forty (40) percent of the female population, as compared with only one percent of the male population,
+would be excluded by the application of those minimum requirements.  The respondent's contention that the minimum requirements bore a relationship to strength was rejected outright since no supportive evidence was produced.  The Court
+suggested that, even if the quality was found to be job related, a validated test which directly measures strength could be devised and adopted.
+Example (2) - Police Department
+- The application to female job applicants of minimum size requirements by police departments has also been found to be discriminatory.  In Commission Decision No. 76-83, CCH Employment
+Practices Guide ¶ 6661, the Commission looked at national statistics and the fact that all of respondent's police officers were male and concluded that the respondent's minimum 5'9", 145 lbs., requirement disproportionately impacted against
+females.  Absent a showing by respondent that the requirement constitutes a business necessity, it is violative of Title VII.
+Example (3) - State Troopers
+- As with police departments, applying minimum size requirements to applicants for state trooper jobs violates Title VII, unless the respondent can establish that the requirements are necessary
+for the safe and efficient operation of its business. (See
+U.S. v. Commonwealth of Virginia
+, 454 F. Supp. 1077, 18 EPD ¶ 8779 (E.D. Va. 1978) which was decided under the 1973 Crime Control Act with reliance on the principles of
+Griggs
+v. Duke Power Co.
+, 401 U.S. 424, 3 EPD ¶ 8137 (1971).)
+(c)
+Physical Ability or Agility Tests
+-
+In other instances, instead of relying upon minimum proportional height/weight standards as a measure of strength, the respondents have abolished height and weight standards and have installed in their place physical ability tests.
+Harless v. Duck
+, 619 F.2d 611, 22 EPD ¶ 30,871 (6th Cir. 1980);
+Blake v. City of Los Angeles
+, 595 F.2d 1367, 19 EPD ¶ 9251 (9th Cir. 1979).  If the charging party can establish a
+prima
+facie
+case of
+discrimination by showing that the particular physical ability tests disproportionately excluded a protected group or class from employment, the burden shifts to the respondent to show that the requirements are a business necessity and bear a
+manifest relationship to the employment in question.  Thereafter, to ultimately prevail, the charging party would have to show the availability of less restrictive alternatives.  (For a further discussion of this and related problems, the
+EOS should consult the Uniform Guidelines on Employee Selection Procedures at 29 C.F.R. § 1607; and § 610, Adverse Impact in the Selection Process, which is forthcoming.)
+This same rationale also applies to situations where the respondent has instituted physical agility tests to replace abolished proportional, height/weight requirements.
+Officers for Justice v. Civil Service Commission
+, 335 F. Supp.
+378, 11 EPD ¶ 10,618 (N.D. Cal. 1975).  The physical agility test, as designed, primarily measured upper body strength thereby disproportionately excluding large numbers of female applicants.
+Example (1)
+- R, a police department, formerly screened job applicants by strict adherence to proportional minimum height/weight requirements under the assumption that tall, well-built officers were physically stronger and
+therefore better able to perform all the duties of the job.  Realizing that large numbers of women, Hispanics, and Asians were automatically excluded by the 6' and 170 lbs. standard, R replaced the height/weight requirement with a physical
+ability/agility test.  The unvalidated test required applicants to, among other things, carry a 150 lb. sandbag up a flight of stairs and scale a 14-foot log wall.  Out of the next class of 150 applicants, 120 men and 30 women, only two
+women passed the wall requirement, and none passed the sandbag requirement.  In contrast, 5 of the men failed both requirements.  CP, a female who passed the wall, but not the sandbag requirement, filed a charge alleging sex discrimination
+because the physical ability/agility test disproportionately excludes large numbers of women and is not justified by business necessity.
+Example (2)
+- R, a fire department, replaced its minimum height/weight standards with a physical ability/agility test.  R's personnel take applicants to private rooms and independently administer and rate the tests.
+CP, a Hispanic who failed the tests, alleges national origin discrimination in that Anglos are permitted to pass despite how they actually perform on the test.  Investigation revealed nonuniform application of the tests.  In some cases,
+Anglos testified that they were not aware of the existence of the physical ability/agility tests.
+621.7
+Focus of Investigation
+-
+The following are merely suggested areas of inquiry for the EOS to aid in his/her analysis and investigation of charges alleging discriminatory use of height and weight requirements.  For a more thorough discussion of investigative
+techniques, the EOS should consult § 602, How to Investigate.
+(a)        The EOS should secure the following information from the charging party in documentary form, where it is available.
+(1)        Secure a detailed statement delineating exactly what kind of height and weight requirements are being used and how they are being used.  For example, even though there
+is a minimum height/weight requirement, are applicants actually being rejected on the basis of physical strength.
+(2)        Determine the Title VII basis,
+e.g.
+, race, color, sex, national origin or religion, of the complaint, and the issues or allegations as they relate to a protected
+Title VII status.
+(3)        Determine what evidence is available to support the charge.  Solicit specific examples to buttress the general allegations.
+(i)         If there are documents get copies.
+(ii)        If there are witnesses get their statements.
+(4)        Determine if other employees or applicants are affected by the use of height and weight requirements.
+(i)         Get a list of their names and an indication of how they are affected.
+(ii)        Where appropriate, get their statements.
+(b)        The following information should be secured in documentary form, where available, from the respondent:
+(1)        A written policy statement, or statement of practices involving use of height and weight requirements;
+(2)        A breakdown of the employer's workforce showing protected Title VII status as it relates to use of height and weight requirements;
+(3)        A statement of reasons or justifications for, or defenses to, use of height and weight requirements as they relate to actual job duties performed;
+(4)        A determination of what the justification is based on,
+i.e.
+, an outside evaluation, subjective assertions, observations of employees' job performance, etc.; and
+(5)        Written detailed job descriptions for contested positions, and where appropriate statements showing actual duties performed.
+(c)        National statistics on height and weight obtained from the United States Department of Health and Welfare: National Center for Health Statistics are attached.  The statistics are in pamphlets
+entitled,
+Advance Data from Vital Health Statistics, No. 3
+(November 19, 1976), and
+No. 14
+(November 30, 1977).  (See Appendix I.)
+621.8
+Cross References
+(a)        How to Investigate: § 602.
+(b)        Theories of Discrimination: § 604.
+(c)        Adverse Impact in the Selection Process: § 610.
+(d)        Grooming Standards: § 619.
+(e)        BFOQ: § 625.
+*
+See for example the information contained in the vital health statistics in Appendix I which shows differences in national height and weight averages based on sex, age, and
+race.
+Return to top
+U.S. Equal Employment Opportunity Commission
+EEOC Headquarters
+131 M Street, NE
+Washington, DC 20507
+1-800-669-6820
+(TTY)
+1-844-234-5122
+(ASL Video Phone)
+Questions?
+Call 1-800-669-4000
+For Deaf/Hard of Hearing callers:
+1-800-669-6820
+(TTY)
+1-844-234-5122
+(ASL Video Phone)
+info@eeoc.gov
+Find your nearest EEOC office
+Connect With Us
+FOIA
+Privacy Policy
+Disclaimer
+Accessibility
+Office of Inspector General
+USA.gov

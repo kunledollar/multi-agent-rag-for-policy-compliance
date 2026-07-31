@@ -1,0 +1,701 @@
+CM-612 Discharge/Discipline | U.S. Equal Employment Opportunity Commission
+Skip to main content
+An official website of the United States government
+Here’s how you know
+Here’s how you know
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive
+information only on official, secure websites.
+U.S. Equal Employment Opportunity Commission
+Menu
+Header Navigation
+Online Filing
+Public Portal
+Attorney E-file
+Locations
+Operating Status
+Languages
+English
+Español (Spanish)
+Resources in Other Languages
+عربي (Arabic)
+简体中文 (Chinese, Simplified)
+繁體中文 - Chinese (Traditional)
+Kreyòl Ayisyen (Haitian Creole)
+한국어 (Korean)
+Русском (Russian)
+Português (Portuguese)
+Tagalog (Tagalog)
+ไทย (Thai)
+Tiếng Việt (Vietnamese)
+فارسی (Persian. Farsi)
+پښتو (Pashto)
+Toggle Search Form
+Any of these words
+(optional)
+Search
+About EEOC
+About EEOC
+Overview
+The Commission and The General Counsel
+Meetings of the Commission
+Commission Votes
+EEOC History
+News and Information
+Newsroom
+What You Should Know
+Legislative Affairs
+Publications
+Outreach and Education
+FOIA
+Laws and Enforcement
+EEOC Legal Resources
+Mediation
+Litigation
+Systemic Enforcement
+Commissioner Charges
+Directed Investigations
+Programs and Performance
+Budget and Performance
+Initiatives
+Interagency Programs
+State and Local Programs
+Task Forces
+Tribal Programs
+Data and Analytics
+Overview
+Data Governance
+EEO Data Collections
+Data and Statistics
+Data Tools and Products
+No FEAR Act Data
+Inside EEOC
+Careers
+Office for Civil Rights
+Doing Business with EEOC
+AI Governance
+Privacy
+Office of Inspector General
+Employees & Job Applicants
+Employees & Applicants
+Overview
+Coverage
+Timeliness
+Prohibited Practices
+Filing a Charge of Discrimination
+Filing a Charge
+How to File
+After You File a Charge
+Confidentiality
+Mediation
+Remedies
+Existing Charges
+Filing a Lawsuit
+Discrimination by Type
+Age
+Disability
+Equal Pay
+Genetic Information
+Harassment
+National Origin Discrimination
+Pregnancy Discrimination
+Race/Color Discrimination
+Religious Discrimination
+Retaliation
+Sex
+Sexual Harassment
+Employers / Small Business
+Employers / Small Business
+Overview
+Coverage
+After a Charge is Filed
+Resolving a Charge
+Commissioner Charges
+Directed Investigations
+Remedies
+Small Business Resource Center
+Small Business Home
+Small Business Requirements
+Frequently Asked Questions
+Tips for Small Businesses
+Making an Employment Decision?
+EEOC Resources
+Small Business Assistance
+Small Business Fact Sheet
+Small Business Videos
+EEOC Glossary
+Contact Us
+Discrimination by Type
+Age
+Disability
+Equal Pay
+Genetic Information
+Harassment
+National Origin
+Pregnancy
+Race/Color
+Religion
+Retaliation
+Sex
+Sexual Harassment
+Prohibited Practices
+Recordkeeping
+EEO Data Collections
+"Know Your Rights" Poster
+Training
+Other Employment Issues
+Federal Sector
+Federal Agencies
+Overview
+Federal EEO Coordination
+Federal Agency EEO Directors
+EEOC Legal Resources
+Management Directives & Federal Sector Guidance
+Federal Training & Outreach
+Resources
+Federal Employees & Job Applicants
+Overview
+Federal Complaint Process
+Federal Sector Alternative Dispute Resolution
+Prohibited Practices
+Resources
+Contact Us
+Contact EEOC
+Find Your Nearest Office
+Office Operating Status
+How to File a Charge
+Public Portal
+Home
+Laws
+guidance
+CM-612 Discharge/Discipline
+CM-612  Discharge/Discipline
+Issuing Authority
+This guidance document was issued upon approval by vote of the U.S. Equal Employment Opportunity Commission.
+OLC Control Number
+EEOC-CVG-1989-11
+Concise Display Name
+CM-612  Discharge/Discipline
+Issue Date
+01-02-1989
+General Topics
+Race, Color, Religion, National Origin, Sex, Age, Disability, Genetic Information
+Summary
+This document instructs investigators how claims of discrimination involving workplace discipline or discharge may arise under different theories of discrimination
+Citation
+Title VII, ADEA, Rehabilitation Act, ADA, GINA, 29 CFR Part 1604, 29 CFR Part 1605, 29 CFR Part 1606, 29 CFR Part 1620, 29 CFR Part 1625
+Document Applicant
+Employers, Employees, Applicants, Attorneys and Practitioners, EEOC Staff
+Previous Revision
+No
+Disclaimer
+The contents of this document do not have the force and effect of law and are not meant to bind the public in any way. This document is intended only to provide clarity to the public regarding existing requirements under the law or agency policies.
+Table of Contents
+Section
+612.1          Introduction
+(a)       General
+(b)       Discharge Defined
+(c)       Disciplinary Action Defined
+(d)       Theories of Discrimination
+(1)       Disparate Treatment
+(2)       Adverse Impact
+(3)       Retaliation
+(4)       Accommodation
+612.2          Unfair v. Discriminatory
+612.3          Race, Color, Religion, Sex, National Origin as One Factor
+612.4          Proof of Disparate Treatment
+(a)       Comparative Evidence
+(b)       Direct Evidence of Discriminatory Motive
+(c)       Statistical Evidence
+612.5          Respondent's Explanation or Justification for its Actions
+(a)       Respondent's Records
+(b)       Testimony From Charging Party's Co-Workers
+(c)       Request for Information From Respondent
+612.6          Charging Party's Response to Respondent's Explanation of Justification for its Actions
+612.7          Final Analysis of all the Evidence
+612.8          Adverse Impact
+612.9          Other Discharge Issues
+(a)       Constructive Discharge
+(b)       Discharge for Interracial Association
+(c)       Discharge Due to Bias of Others
+APPENDICES
+Policy
+Document
+Relates to
+A. Plant Relocation
+612.9
+SECTION 612
+DISCHARGE/DISCIPLINE
+612.1
+Introduction
+(a)
+General
+-
+Section 703(a)(1) of Title VII of the Civil Rights Act of 1964, as amended, makes it an unlawful employment practice for an employer to discharge or discipline an employee because of her/his race, color, religion, sex, or national origin. It is
+also an unlawful employment practice, under § 704(a) of Title VII, for an employer to discharge or discipline an employee because (s)he has filed a Title VII charge, has participated in a Title VII investigation, or has otherwise opposed Title
+VII discrimination. (See § 614.)
+[1]
+The purpose of this section of the Compliance Manual is to provide guidance on how to investigate charges of discriminatory discharge
+and discipline. (See § 602 for general guidance on how to investigate a charge.)
+(b)
+Discharge Defined
+-
+Discharge is the dismissal of an employee from his/her employment by the employer. In some cases, an employee who resigns his/her position does so because of an employer's discriminatory practices. In some of these cases, the employee's
+resignation is not voluntary, but is a constructive discharge, because the resignation was based on action or inaction by the employer which made it impossible for the employee to continue working. A female employee who resigns because she is being
+subjected to sexual harassment, and a Black employee who resigns because his supervisor refuses to take action to stop racial harassment from the charging party's co-workers are examples of constructive discharge. See Commission Decision No.
+72-2062, CCH EEOC Decisions (1973) ¶ 6366 Commission Decision No. 70-683, CCH EEOC Decisions (1973) ¶ 6145. (See § 616 for a discussion of lay-offs and discharges caused by workforce reductions.)
+(c)
+Disciplinary Action Defined
+-
+Disciplinary actions are actions taken by the employer as a punishment against an employee for violating some company rule, practice, or policy. The most common disciplinary actions are reprimands, warnings, suspensions, and demotions.
+(d)
+Theories of Discrimination
+(1)
+Disparate Treatment
+- When investigating a charge of discriminatory discharge or discipline, the EOS should also refer closely to § 604. Most discharge or discipline charges can be analyzed
+under the disparate treatment theory of discrimination. Section 604 provides detailed guidance on how to analyze a disparate treatment charge. That guidance should be used in investigating all charges of disparate treatment, including those where
+the issue of the charge is discharge or disciplinary action. This section of the Compliance Manual relates that guidance to the issue of discharge or discipline.
+(2)
+Adverse Impact
+- Some charges of discriminatory discharge or discipline should be analyzed under the adverse impact theory of discrimination. The EOS should refer to §§ 610 and 611 for a
+discussion of how to investigate charges alleging that the charging party's discharge or disciplinary action resulted from a policy or practice which has an adverse impact on women and/or a minority group.
+(3)
+Retaliation
+- Section 704(a) of Title VII prohibits an employer from discharging or disciplining an employee because (s)he has filed a Title VII charge, has participated in a Title VII investigation,
+or has otherwise opposed Title VII discrimination. Commission Decision No. 76-26, CCH Employment Practices Guide ¶ 6619; Commission Decision No. 71-2374, CCH EEOC Decisions (1973) ¶ 6260;
+Womack
+v.
+Munson
+, 619 F.2d 1292, 22
+EPD ¶ 30,837 (8th Cir. 1980), cert. denied,
+U.S.
+, 25 EPD ¶ 31,588 (1981). (See § 614 for a complete discussion of retaliation.)
+(4)
+Accommodation
+- Section 701(j) of Title VII requires employers and other persons subject to the Act to accommodate the religious practices of its employees and prospective employees unless to do so
+would create an undue hardship on the conduct of the employer's business. Discharge or discipline resulting from an employer's refusal or failure to accommodate the religious practices of its employees may violate Title VII. (See § 628 for a
+complete discussion of religious accommodation.)
+612.2
+Unfair v. Discriminatory
+-
+The EOS must distinguish between those actions based on discrimination and those taken for other nondiscriminatory reasons. As a general rule, an employer may discharge or discipline an employee for any reason so long as the discharge or
+discipline is not based on a discriminatory motive, or is not the result of an acknowledged policy that has an adverse impact on charging party's Title VII class. A disciplinary or discharge action may be unfair, though not in violation of Title
+VII.. The following example illustrates this point.
+Example
+- CP, a Black female, is employed by R as a seamstress. She is required to produce a minimum of thirty blouses a day. Although the CP consistently meets her quota, she has received a number of reprimands and other
+disciplinary actions for inadequate performance. CP's supervisor is also a Black female. CP files a charge of discrimination alleging that the disciplinary action was taken on the basis of sex. An investigation of this charge indicates that CP and
+her supervisor are dating the same man, and have engaged in several heated arguments at work concerning this individual. All of the evidence indicates that the disciplinary action taken against CP was not taken on a prohibited basis. It may be
+unfair, but not in violation of Title VII.. The EOS should be aware that many disciplinary actions are taken for unfair or unprofessional reasons which have nothing to do with discrimination.
+612.3
+Race, Color, Religion, Sex, National Origin as One Factor
+-
+Disciplinary actions and discharges often occur as a result of an accumulation of infractions of respondent's rules, or because of several unsatisfactory evaluations, etc. No single infraction or evaluation would have caused the discharge or
+disciplinary action. Discrimination need not be the sole motive for a discharge or disciplinary action. If discrimination played any part in the decision to discharge or discipline the charging party a violation of Title VII has occurred. Commission
+Decision No. 74-05, CCH Employment Practices ¶ 6387 at n. 2; Commission Decision No. 72-0606 CCH EEOC Decisions (1973) ¶ 6310; Commission Decision No. 70-925, CCH EEOC Decisions (1973) ¶ 6158;
+King
+v.
+Laborers, Local
+818
+, 443 F.2d 273, 3 EPD ¶ 8198 (6th Cir 1971);
+Gates
+v.
+Georgia-Pacific Corp.
+, 326 F.Supp. 397, 2 EPD ¶ 10,305 (D. Ore. 1970); 492 F. 2d 292, 7 EPD ¶ 9185 (9th Cir. 1974).
+Example
+- CP, a female was employed by R corporation as a management trainee. She was the first woman admitted to the management trainee program. The program requires each trainee to work for periods of 4 weeks each in
+various divisions in the corporation. The division chief evaluates each employee at the end of the four-week period. When a trainee has completed the program, the Management Trainee Program Director determines which trainees will be retained. His
+determination is based on the evaluations each trainee received from the division chiefs. CP was assigned to work in four divisions. She received excellent evaluations from two division chiefs. The Chief of the Systems Analysis Division gave CP an
+unsatisfactory evaluation. The justification for this evaluation is well documented, and CP admits her performance while working in this division was less than satisfactory. CP anticipated a poor evaluation. The Chief of the Applied Research
+Division also gave CP an unsatisfactory evaluation. CP alleges that she received this evaluation because she refused to accept the sexual advances of the division chief. The Management Trainee Program Director states that CP was not retained because
+she received two unsatisfactory evaluations. If she had only received one she would have been retained as a regular management employee. In this charge, CP alleges that sex discrimination was only one factor in her discharge. The other factor was an
+unsatisfactory evaluation which CP admits she deserved. If the CP received an unsatisfactory evaluation from the Chief of the Applied Research Division because she refused to accept his sexual advances, this charge should be resolved with a cause
+decision. Discrimination need not be the sole motive behind a discharge or disciplinary action. If it played any part in the decision, a violation of Title VII has occurred.
+612.4
+Proof of Disparate Treatment
+-
+Most discharge and discipline charges can be analyzed under the disparate treatment theory of discrimination. Usually the charging party alleges that (s)he was discharged or disciplined on the basis of race, color, religion, sex, or national
+origin and identifies similarly situated employees of a different Title VII status, who were not discharged or disciplined for the same or similar misconduct.
+In a discharge or discipline charge, as with any charge arising under Title VII, the charging party must establish a prima facie case of discrimination.
+McDonnell Douglas Corp.
+v.
+Green
+, 411 U.S. 792, 5 EPD ¶ 8607 (1973);
+Furnco Construction Corp. v. Waters
+, 438 U.S. 567, 17 EPD ¶ 8401 (1978);
+Board of Trustees of Keene State
+College
+v.
+Sweeney
+, 439 U.S. 24, 18 EPD ¶ 8673 (1978);
+Texas Department of Community Affairs
+v.
+Burdine
+, 101 S. Ct. 1089, 25 EPD ¶ 31,544 (1981). This means that (s)he must submit evidence which is sufficient to establish that his/her allegations are true if respondent does not submit evidence to the contrary. The charging party
+may submit several types of evidence to establish a prima facie case of discriminatory discharge or discipline. The EOS also has the responsibility of seeking evidence from the respondent independent of that submitted by the charging party. The
+types of evidence which can be used to establish a prima facie case of disparate treatment in a discharge or discipline charge are discussed below. When investigating a charge of discriminatory discharge or discipline, the EOS should obtain as many
+types of evidence as possible. For example, if comparative evidence raises an inference of discrimination, the EOS should still look for direct evidence of discriminatory motive and statistical evidence. (For a detailed discussion of the types of
+evidence which may generally be used to establish disparate treatment, see § 604.)
+(a)
+Comparative Evidence
+-
+In a discharge or discipline charge, charging parties usually establish a prima facie case of discrimination through comparative evidence, i.e., identifying similarly situated individuals of a different race, color, religion, sex, or national
+origin who were treated differently than (s)he was in the same or similar situation. In discharge and discipline charges, similarly situated individuals are usually those individuals who have been charged with misconduct identical or similar in kind
+or magnitude to that which the charging party is accused of. See Commission Decision No. 78-02, CCH Employment Practices Guide ¶ 6713. In a charge alleging discriminatory discharge or discipline, as with any other charge of discrimination, a
+decision about how far back in time to go in seeking comparative evidence must be made with a view of all of the circumstances surrounding the charge. Recent comparative evidence, i.e., within the past 3 years, is more relevant and should be given
+more weight when making a reasonable cause determination. (See § 602.4(a)(2).) If recent comparative evidence is available, there is no need to go back further in time. If recent comparative evidence is not available, the EOS should go back in
+time as far as necessary to obtain comparative evidence. In doing so, the EOS should remember that it is not necessary to find individuals charged with misconduct identical to that which the charging party is accused of. It is permissible to compare
+the charging party with individuals who have been charged with misconduct similar in kind or magnitude to that which the charging party is accused of.
+Example
+- CP, a Hispanic, alleges that he was discharged because of his national origin. R contends that CP was discharged because of repeated absenteeism. CP admits that he has missed several days of work, but he states
+that his absences were necessary so that he could care for his sick wife. He claims that many Anglo employees have been absent from work as much as he has, but they have not been discharged. In this case, the EOS should identify all those employees
+who have a history of repeated absences
+or
+a history of equally serious misconduct and determine whether they have all been discharged. If CP and other employees of CP's Title VII class have been discharged more often than employees of a
+different Title VII class who engaged in the same or similar misconduct, it is reasonable to infer that CP's Title VII status was a factor in the discharge.
+(b)
+Direct Evidence of Discriminatory Motive
+-
+A charging party can establish that his/her discharge or discipline was based on a discriminatory motive by presenting direct evidence of motive. Commission Decision No. 70-198, CCH EEOC Decisions (1973) ¶ 6087; Commission Decision No.
+71-357, CCH EEOC Decisions (1973) ¶ 6168.
+The following example illustrates the use of direct evidence of motive to establish discrimination in a discharge case. (See § 604 for a complete discussion of the use of direct evidence of discriminatory motive to establish disparate
+treatment generally.)
+Example
+- CP, a woman, was employed by R municipal fire department as a firefighter. She was one of only two women employed in that capacity. CP alleges that she was doing well in the job until a new supervisor was assigned
+to her unit. During his first week as supervisor of CP's unit, he told CP that he did not believe that women should be employed in the fire department as firefighters. He believed that the job requires strength and stamina that only a man possesses.
+The supervisor stated that since CP was already employed there was nothing he could do about it, but she would have to prove that his opinion was inaccurate.
+CP alleges that during the next several weeks, the supervisor repeatedly criticized and reprimanded her for every minor mistake she made. Several of these reprimands were reduced to writing and placed in CP's official personnel file. CP files a
+charge of sex discrimination. Testimony from CP concerning the statements the supervisor made about the appropriateness of women firefighters is direct evidence that the disciplinary actions taken against her were based on a discriminatory
+motive.
+(c)
+Statistical Evidence
+-
+In a discharge or discipline charge, a charging party may submit evidence indicating that the percentage of Blacks, for example, employed by the respondent is significantly less than their availability in the SMSA where respondent is located.
+This evidence may be used to establish that respondent discriminates against Blacks, and that charging party's discharge or discipline was part of respondent's practice of discriminating against Blacks. (See § 604 for a complete discussion of
+the use of statistical evidence to establish disparate treatment.)
+Example 1
+- CP, a Hispanic, alleges that he was repeatedly denied a promotion and was eventually discharged on the basis of his national origin. In support of his allegation, CP submits evidence that only 15 percent of R's total workforce
+is Hispanic while 52 percent of the civilian labor force in the SMSA where R is located is Hispanic, and that Hispanics are discharged at twice the rate of Anglos. CP alleges that R discriminates against Hispanics in every aspect of employment, and
+his discharge was merely a part of this practice. These statistics support CP's allegations, but they will not prove that an individual discharge was based on a discriminatory motive. CP must prove that
+he
+was discriminated against. A CP may
+be able to establish that Hispanics are discriminated against as a class, but not be able to prove that his discharge was discriminatory.
+Bolton
+v.
+Murray Envelope Corp.
+, 493 F.2d 191, 7 EPD ¶ 9289 (5th Cir. 1974); See
+Hudson
+v.
+International Business Machines
+, 620 F.2d 351, 22 EPD ¶ 30,828 (2d Cir. 1980), cert denied, 101 S. Ct. 794, 24 EPD ¶ 31,375 (1980).
+Example 2
+- CP, a Black, alleges that he was discharged on the basis of his race. He also alleges that R discriminates against Blacks as a class. The only evidence he submits to support his allegation is statistical data which indicates
+that Blacks comprise only 30 percent of R's total workforce while 60 percent of the civilian labor force in the SMSA where R is located is Black. CP also states that most of the employees discharged are Black. The EOS is able to determine that 80
+percent of the employees discharged during the past two years have been Black.
+R's defense to the charge is that CP was discharged for theft of company property. R submits the affidavits of R's supervisor who witnessed CP conceal several expensive tools in his bag and leave R's premises with the tools. The EOS talks with
+three of CP's co-workers who testify that CP bragged about getting away with the theft. R's records show that all persons who were found to have stolen company property were discharged, regardless of race. In this case, there is no reasonable cause
+to believe that CP was discharged because of his race, though there is evidence that R discriminates against Blacks as a class. The CIC Unit should consider pursuing the CP's class allegation.
+612.5
+Respondent's Explanation or Justification for its Actions
+-
+Once the charging party has established a prima facie case of discrimination, the respondent must be given the opportunity to justify its actions. The respondent should be asked to provide an explanation for the discharge or disciplinary action
+taken against the charging party and to provide evidence to support its explanation.
+[2]
+In an investigation of a Title VII charge, the EOS has the responsibility of determining whether there is evidence of the legitimate nondiscriminatory reason. The EOS should seek corroboration of the alleged legitimate reason from the respondent,
+and then examine and analyze respondent's position statement and evidence.
+In a discharge or discipline charge, respondent almost always responds by alleging that it had good cause for discharging or disciplining charging party, and that all employees found guilty of identical or similar misconduct have been discharged
+or disciplined. In analyzing respondent's defense to a charge, it is important to remember that a respondent may discharge or discipline an employee for unsatisfactory work performance.  Commission Decision No. 71-1387, CCH EEOC Decisions
+(1973) ¶ 6215; insubordination,
+Jack
+v.
+American Linen Supply Co.
+, 498 F. 2d 122, 8 EPD ¶ 9583 (5th Cir. 1974); unauthorized absences,
+Brown
+v.
+Ralston Purina Co.
+, 557 F.2d 570, 14 EPD ¶ 7665 (6th Cir.
+1977), or for any reason, so long as similarly situated employees of a different Title VII status are discharged or disciplined for the same or similar misconduct.
+Example
+- CP, a Black male, alleges that he was discharged on the basis of race. During the initial intake interview CP states that R informed him that he was being discharged because of repeated tardiness. CP identifies
+two White co-workers who have been repeatedly tardy, but were not discharged. In response to the charge, R contends that CP was discharged for repeated unexcused tardiness. R claims that the two individuals CP identified had permission to arrive to
+work late because of family emergencies. R also identifies several employees of different races who were discharged because of unexcused tardiness. CP's discharge was not discriminatory. A respondent may lawfully terminate an employee for unexcused
+tardiness so long as its policy  with regard to unexcused tardiness is equally applied to all employees without regard to race, color, religion, sex or national origin.
+In the preceding example, respondent presented sufficient evidence of the alleged legitimate nondiscriminatory reason for the action taken against the charging party. If the respondent merely articulates a nondiscriminatory reason for its
+actions, the EOS must obtain evidence of the reason from the respondent. A discussion of some sources of evidence which the EOS should examine for evidence of the alleged legitimate nondiscriminatory reason follows.
+(a)
+Respondent's Records
+-
+Respondent's records will normally be the best source of evidence in a discharge or discipline charge. Most discharges and disciplinary actions are included in an employee's personnel file with the reason for each action noted. The failure by
+respondent to include a disciplinary action in a charging party's personnel file when it is respondent's policy to do so may be evidence that the disciplinary action was based on a discriminatory motive. The following example illustrates this
+point.
+Example
+- CP was employed by R as a machinist. R alleges that CP was discharged for repeatedly violating company rules. CP, a Hispanic, denies that he repeatedly violated company rules. He alleges that he was discharged
+because of his national origin. He also alleges that his supervisor has made several disparaging remarks about Hispanics. The EOS is able to confirm this allegation through the testimony of several of CP's co-workers. A review of CP's personnel file
+did not reveal any documentation of the repeated violations of company rules, though it is respondent's policy to reduce each infraction of company rules to writing. CP identifies several employees who have been disciplined for violating company
+rules. A review of the personnel files of these employees reveals that the violations and the disciplinary actions taken because of the violations were all indicated in the employee's file. The fact that R did not indicate in CP's personnel file
+that he had repeatedly violated company rules lends credence to CP's allegations that he has not repeatedly violated rules. When R is asked about this discrepancy, its explanation is that its policy is to document all serious infractions of company
+rules. R states that CP's immediate supervisor apparently failed to take action to have the infractions included in CP's personnel file. The failure to document the alleged violations of company rules coupled with the supervisor's discriminatory
+attitudes towards Hispanic indicates that there is reasonable cause to believe that CP was discharged because of his national origin.
+Respondent's records are also useful when charging party admits that (s)he has violated company rules, but alleges that employees of a different race, sex, color, or national origin have not been discharged or disciplined for the same or similar
+infractions. The following example illustrates this point.
+Example
+- CP, a Black male, was discharged by R for the alleged theft of company property. It is undisputed that one of R's employees was seen attempting to remove some copper wire from R's premises. This man and another
+man signed statements outlining their roles in the attempted theft. Both men identified CP as the instigator of the attempted theft. R did not witness CP attempting to steal any of its property, and CP consistently denied that he planned the theft.
+R discharged CP and the other two employees, who are also Black, for violating R's rules and regulations which prohibit theft from R and from fellow employees. CP alleges that R applies this rule to its Black and White employees in a disparate
+manner. He contends that theft of company property is widespread and that R is aware of the problem but has not taken disciplinary action against White employees caught stealing. A review of the personnel records of several similarly situated
+employees identified by the CP indicates that several White employees have also been caught stealing, but they were not discharged. The only employees discharged for theft were the CP and the two individuals identified above. The records also
+indicate that R had reason to suspect that several White employees had stolen from R or from each other but they were not discharged. This comparative evidence indicates that there is reasonable cause to believe that a violation of Title VII has
+occurred. Commission Decision No. 81-1, CCH Employment Practices Guide ¶ 6759.
+When an individual is discharged for violating respondent's rules and regulations, charging party's guilt or innocence is not normally at issue in the charge, and the investigation should not focus on this issue. In the example above, there is
+substantial evidence that charging party was involved in the attempted theft of respondent's property, but charging party's guilt or innocence was not at issue in the charge. The charging party alleged that White employees are not discharged for
+theft. The investigation is therefore limited to whether charging party was treated differently than Whites caught stealing, or who were suspected of stealing company property.  A respondent may justifiably discharge one who has engaged in
+unlawful acts against it, but only if this criterion for discharge is applied alike to members of all Title VII classes.
+McDonnell Douglas Corp.
+v.
+Green
+,
+supra
+;
+McDonald
+v.
+Santa Fe
+Trail Transportation
+Co.
+, 427 U.S. 273, 12 EPD ¶ 10,997 (1976);
+Holman
+v.
+Anchor Distributors, Inc.
+, 472 F. Supp. 361, 22 EPD ¶ 30,581 (E.D. Mo. 1979).
+(b)
+Testimony From Charging Party's Co-Workers
+-
+The EOS should always question the charging party's co-workers to determine whether other similarly situated employees have been charged with misconduct identical or similar to that which the charging party is accused of, but not disciplined or
+discharged. Charging party's co-workers should also be questioned about the following issues:
+(1)       Charging party's work performance and attendance as compared to others;
+(2)       The exhibition of racial, sexual, or ethnic prejudice by charging party's supervisor, or by other officials of respondent; and
+(3)       Whether the charging party or members of charging party's Title VII class have received closer surveillance and/or more criticism concerning their work than employees of a different Title VII class.
+Whenever possible, testimony from charging party's co-workers should be in the form of an affidavit, or taken at the fact finding conference. (See § 602.)
+(c)
+Request for Information From Respondent
+-
+As indicated above, respondent's records are a valuable source of information in a discipline or discharge charge. The official who is responsible for the discharge or disciplinary action should also be questioned about the justification for
+charging party's discharge or discipline. The following information should be sought from the respondent when it is relevant to the allegation in the charge.
+(1)       The name and position of the person who recommended charging party's discharge or discipline;
+(2)       The specific reason(s) why charging party was discharged or disciplined including the date, time of the discharge or disciplinary action, names of all persons involved, and each specific act for which the
+charging party was discharged or disciplined, as well as all witnesses to every event which led to the discharge or discipline;
+(3)       The explanation that charging party gave for the conduct which gave rise to the discharge or discipline;
+(4)       The reason(s) that this explanation was not accepted;
+(5)       The name, address, phone number, race, sex, and date of hire of the person who was hired to replace charging party;
+(6)       Whether respondent has written rules and regulations which govern an employee's duties and conduct.  (If yes, obtain a copy of any such rules and regulations and indicate the provisions relied upon to
+justify the discharge or disciplinary action.);
+(7)       If no written rules and regulations are established, the respondent's policies with respect to the type of conduct involved in the discharge or disciplinary action of the charging party;
+(8)       How the rules and regulations or policies specified in questions 6 and 7 above are communicated to employees;
+(9)       Whether the rules and regulations or policies specified in questions 6 and 7 were communicated to the charging party, and if so, when and how;
+(10)     Whether respondent adhered to the rules and regulations or policies specified in questions 6 and 7 in processing charging party's discharge or disciplinary action, and if not, why not;
+(11)     Whether the respondent utilizes written reprimands or warnings, and if so, under what circumstances they are used;
+(12)     Whether the respondent utilizes oral reprimands or warnings, and if so, under what circumstances they are given and who makes such warnings;
+(13)     Whether any warnings or reprimands were made to the charging party, and if so, the date, person present, and the circumstances under which such warnings were made, and whether any records of such warning are kept;
+(14)     Whether charging party was discharged or disciplined during a probationary period;
+(15)     If one reason for the discharge or disciplinary action was absenteeism or tardiness, obtain a copy of charging party's attendance and sick day record;
+(16)     The name, title, and telephone number of the respondent official who reviews all discharges or disciplinary actions before they become final;
+(17)     Whether the person named in question 16 above reviewed this case;
+(18)     Whether charging party ever complained of receiving discriminatory treatment on the job;
+(19)     If the answer to the above is yes, the nature of the complaint, date(s) of complaint, and what was done, if anything, pursuant to the complaint; and
+(20)     How many employees during the last two (2) years, have been given penalties of less than discharge, including warnings prior to discharge, for the type of conduct which gave rise to the discharge of charging party,
+with the name, address, phone number, race, sex, date of hire, date of discharge, and the circumstances for each.
+612.6
+Charging Party's Response to Respondent's Explanation or Justification for its Actions
+-
+After the respondent has submitted its position and evidence in support of that position, the EOS must always give the charging party the opportunity to respond to respondent's case. The charging party may have evidence which contradicts the
+evidence that respondent has submitted to support its position, or be able to identify witnesses who contradict respondent's position. Although the EOS must always solicit a response from the charging party, (s)he must independently examine
+respondent's evidence for pretextuality. Evidence that employees of a different Title VII status have not been disciplined or discharged for the same or similar misconduct is relevant to a showing that respondent's reason(s) for discharging or
+disciplining the charging party are a pretext to conceal discrimination.
+Corley
+v.
+Jackson Police Dept.
+, 556 F.2d 994, 15 EPD ¶ 8060 (5th Cir. 1978). Statistics revealing respondent's general policy and practice with respect to
+minority employment is also relevant to a showing of pretext.
+McDonnell Douglas Corp.
+v.
+Green
+,
+supra
+.  Evidence indicating the entire context of a respondent's treatment of an employee may also show pretext.
+Booth
+v. National American Bank
+, 475 F. Supp. 638, 22 EPD ¶ 30,627 (E.D. La. 1979).
+Example
+- CP, a female, alleges that she was demoted because of her sex. CP was employed by R department store in an entry level management position. R's defense to the charge is that CP was demoted because she failed to
+perform all of the duties of her job. R states that as a new manager CP supervised the sale clerks working in her department and was responsible for all of the paper work associated with managing a department. R's records indicate that CP
+consistently failed to submit time cards when they were due and that her records pertaining to stock and inventory were incomplete and often inaccurate. CP's response to R's justification for her discharge is that she was the only new manager not
+allowed to hire an assistant to help with the paper work. She states that the other new managers, all of whom are male, were able to do their paper work more efficiently because they had secretarial assistance. She also states that despite her
+repeated requests for assistance R refused to allow CP to hire a secretary. CP's response to R's explanation for her discharge is evidence that R's explanation is a pretext for discrimination. The EOS should investigate to determine whether there is
+evidence to support her allegations.
+612.7
+Final Analysis of all the Evidence
+-
+(See § 604 for a discussion on how to analyze all of the evidence obtained during an investigation.)
+612.8
+Adverse Impact
+-
+If a discharge or disciplinary action is taken pursuant to an acknowledged neutral policy which has an adverse impact on women and/or minorities, the discharge or disciplinary action may be discriminatory.
+[3]
+Respondent must justify the use of a policy or practice having adverse impact by proving that the use is a business necessity.  Though a charging party may allege that his/her discharge or
+disciplinary action was taken pursuant to any neutral policy or practice which has an adverse impact, most charges raise one of the following issues:  arrest, less than honorable discharge, conviction, garnishment, or poor credit ratings. (For
+a complete discussion on how to analyze these charges under the Uniform Guidelines on Employee Selection Procedures (UGESP), see § 610.)
+612.9
+Other Discharge Issues
+(a)
+Constructive Discharge
+-
+A constructive discharge occurs when an employee resigns from his/her employment because (s)he is being subjected to unlawful employment practices. If the resignation is directly related to the respondent's unlawful employment practices, it is a
+foreseeable consequence of those practices and constitutes a constructive discharge. Commission Decision No. 72-2062, CCH EEOC Decisions (1973) ¶ 6366. Respondent is responsible for a constructive discharge in the same manner that it is
+responsible for the outright discriminatory discharge of a charging party.
+Example
+- CP, a Black, was employed by R as an assembly line factory worker. He was required to work closely with other employees working on the assembly line. CP alleges that several White employees have repeatedly
+harassed him by telling racial jokes, by directing racial slurs at him, and by tampering with the machinery that he worked with thereby interfering with his job performance. CP has complained about these incidents to his supervisor, but no action
+has been taken against CP's co-workers. In fact, his supervisor felt that many of the racial jokes and pranks were funny. CP resigned and filed a charge of race discrimination. R's defense to the charge is that it did not discharge CP, that he
+voluntarily resigned. This is a case of constructive discharge. Employers are required to maintain an atmosphere free from racial harassment. (See § 615 for a complete discussion of harassment.) If an employee resigns because (s)he is being
+subjected to racial harassment and the resignation is directly related to that harassment, the Commission will view the resignation as a constructive discharge. See, Commission Decision No. 72-2062, CCH EEOC Decisions (1973) ¶ 6366; Commission
+Decision No. 70-683, CCH EEOC Decisions (1973) ¶ 6145;
+Calcote v. Texas Educational Foundation, Inc.
+, 578 F.2d 95, 17 EPD ¶ 8524 (5th Cir. 1978);
+Young
+v.
+Southwestern Savings and Loan Association
+, 509 F.2d 140, 9 EPD
+¶ 9995 (5th Cir. 1975).
+If a charging party alleges that (s)he resigned from his/her employment because she was being subjected to discriminatory employment practices, the charging party should be asked to provide the following information.
+(1)       The reason (s)he gave respondent for resigning his/her position;
+(2)       A detailed explanation of the discriminatory employment practices (s)he was being subjected to;
+(3)       How long (s)he was subjected to these discriminatory employment practices prior to his/her resignation;
+(4)       Whether the discriminatory practices ceased prior to his/her resignation, and if so, when they ceased; and
+(5)       Whether (s)he complained to his/her supervisor or other respondent official about the discriminatory employment practices, and if so, when and what was his/her response;
+The following inquiries should be included in a request for information submitted to the respondent.
+(1)       The reason charging party gave for his/her resignation;
+(2)       Whether charging party ever complained about being subjected to discriminatory employment practices, and if so, when; and
+(3)       If the answer to the above is yes, whether any action was taken to eliminate these practices, and if so, describe.
+(b)
+Discharge for Interracial Association
+-
+An employer violates Title VII if it discharges or disciplines an employee for associating with individuals whose race, color, national origin, or religion is not the same as his/hers. Commission Decision No. 71-969, CCH EEOC Decisions (1973)
+¶ 6193. See also Commission Decision No. 76-23, CCH Employment Practices Guide ¶ 6616.
+Example 1
+- CP, a White male, was employed by R manufacturer as an assembly line worker. He alleges that he was discharged because he associated with several Black co-workers. CP states that there was a great deal of tension between his
+supervisor and several of the Black employees working under this supervisor. The supervisor had warned the charging party about eating lunch and taking breaks with Blacks. CP was discharged for one unexcused absence. The evidence indicates that no
+other employees have been discharged for just one unexcused absence. In these circumstances, it is reasonable to infer that CP's discharge was based on his association with his Black co-workers. This is racial discrimination in violation of Title
+VII. Commission Decision No. 71-969, CCH EEOC Decisions (1973) ¶ 6193.
+Example 2
+- CP, a Black female, alleges that R discharged her because she is dating a White man. R admits that her allegation is true, but alleges that this does not constitute race discrimination against the CP. R states that CP was not
+discharged because she is Black, but because she is dating a White man. R's actions constitute race discrimination, because of disparate treatment. That is, R does not discharge White women who date White men, it only discharges Black women who date
+White men. Commission Decision No. 71-1902, CCH EEOC Decisions (1973) ¶ 6281;
+Gutwein
+v.
+Easton Publishing Co.
+, 325 A.2d 740, 8 EPD ¶ 9728 (Md. 1974), cert. denied, 420 U.S. 991, 9 EPD ¶ 10,025 (1975).
+If a charging party alleges that (s)he was discharged or disciplined for associating with individuals of a different race, color, religion, or national origin, (s)he should be asked to provide the following information.
+(1)       The reason respondent gave for his/her discharge/discipline;
+(2)       Whether respondent ever expressed disapproval of interracial association, and if so, an explanation, and if not, an explanation of why (s)he believes that (s)he was discharged/disciplined because of
+association with individuals of a different race, color, religion, or national origin; and
+(3)       The identity of any other employees that (s)he knows were discharged/disciplined for interracial association.
+Respondent should be asked to provide its reason(s) for discharging/disciplining the charging party and to provide evidence in support of its justification. If respondent admits that it discharged or disciplined an employee for interracial
+association, a cause LOD should be issued. (See Example above.)  If respondent gives another nondiscriminatory reason for its actions, the investigation should proceed like that of any other disparate treatment charge. (See §§ 612.5 -
+612.7 above, and 604.4 - 604.6.)
+(c)
+Discharge Due to Bias of Others
+-
+An employer violates § 703(a) of Title VII if it discharges or disciplines an employee because of the attitudes of the employee's co-workers or supervisors concerning race, color, religion, sex, or national origin. Commission Decision No.
+70-198, CCH EEOC Decisions (1973) ¶ 6087; Commission Decision No. 71-2016, CCH EEOC Decisions (1973) ¶ 6249; See Commission Decision No. 78-47, CCH Employment Practices Guide ¶ 6730.
+Example
+- CP alleges that he was discharged because of the racial attitudes and prejudices of his co-workers.  CP is White and the majority of his co-workers are Black. He alleges that his co-workers refused to work
+with him because of his race. R admits that it discharged CP because his co-workers refused to work with him. Because workers work in teams or pairs, R contends that it had no choice but to discharge the CP.  R's actions are in violation of
+Title VII.  An employer cannot lawfully discharge an employee because of the racial prejudices of his co-workers. A discharge on this basis constitutes race discrimination.
+APPLICATION OF TITLE VII TO PLANT RELOCATION
+Plant Relocation
+- When an employer decides to move a plant or other facility, the result may be the discharge of a number of employees.  The move might be to another location in the same general area or to another part of the country
+altogether. Particularly in the latter case, the employer may simply discharge all the employees at the original location. Alternatively, the employer may offer jobs at the new location to all or some of these employees, and might even offer to help
+the employees with the costs of moving (relocation assistance) or, in the case of a local move, commuting.  Those employees who are not offered new jobs or who turn the jobs down will be discharged.  A discrimination challenge in this
+context is generally not to the employer's business decision that a move is necessary, but to how the move is carried out.
+(a)
+Disparate Treatment
+-
+Discrimination may occur when the employer discharges a member of one protected class while offering a job at the new location to a similarly situated member of another class.  Similarly, the employer might offer relocation or commuting
+assistance to a member of one class but not to the other.  This issue is CDP based on § 604 of the Compliance Manual, Theories of Discrimination.
+Example
+- R is moving its plant from the city to the suburbs.  It offers a job at the new location to a White male mechanic and offers to help pay for the employee's additional commuting expenses. R also offers a job
+to CP #1, a Black male mechanic, but does not offer to help with his commuting expenses.  Finally, R does not offer a new job to CP #2, a White female mechanic. Applying the principles in § 604, Theories of Discrimination, CP #1 could make out
+a prima facie case of race discrimination and CP #2 a prima facie case of sex discrimination.
+Once there is enough evidence to establish a prima facie case of discrimination, the respondent must be offered a chance to articulate a legitimate, nondiscriminatory reason for the difference in treatment.  If the respondent does provide
+such a reason, then it must be determined whether there is any evidence that this reason is just a pretext for discrimination.
+In the above example, the respondent might claim that it will need fewer mechanics at its new location and that it made job offers to mechanics at the original location on the basis of work records.  Because Charging Party #2 had a poor work
+record, she was not offered a job.  Evidence of pretext might be that a male mechanic with a worse record than Charging Party #2 was nevertheless offered a job, indicating that sex was in fact involved in the decision as to whom to offer a
+job.  Alternatively, the respondent might be required by a collective bargaining agreement to use seniority whenever it needs to reduce its workforce; because Charging Party #2 did not have much seniority, she was not offered a job at the new
+location.  In this case, evidence of pretext might be that a male mechanic with less seniority than Charging Party #2 was offered a new job,
+i.e.
+, that the seniority system was not applied consistently. Consideration might also have to
+be given to whether there is any evidence that the seniority system is not bona fide.
+None of these reasons would explain the difference between how Charging Party #1 and the White mechanic were treated, though.  Unless the respondent produces a nondiscriminatory reason for why Charging Party #1 was not offered commuting
+assistance while the White mechanic was, a cause determination would be appropriate.
+Another, less frequent, allegation appropriate for analysis under the disparate treatment theory is a claim that the respondent moved specifically to avoid having any minority or female employees,
+i.e.
+, that the move itself was at least in
+part motivated by an intent to discriminate.  This is similar to the notion of a "runaway shop," where an employer relocates to avoid a union.  This issue is also CDP.
+In considering such a charge, evidence of intentional discrimination should be sought.  This can include any oral or written statements by company or union officials that indicate that race, sex, national origin or religion was expressly
+taken into account in the decision to move.  These statements may be found in planning reports, demographic studies, minutes of meetings of company or union officials, and other relevant employer or union documents.
+(b)
+Adverse Impact
+-
+Decisions to relocate plants are most often based on financial considerations, such as a need to reduce expenses by moving to an area where rents, land, salaries and/or taxes are less expensive, or where the new facility will be closer to sources
+of raw materials or transportation.  Other reasons could include a need to consolidate multiple operations or a need to move to a more modern, efficient and/or spacious facility.  These diverse reasons for plant relocations involve
+exercises of business judgment that the Commission will presume to be legitimate.  A charging party may allege that an employer's decision to relocate a plant would have an adverse impact on a protected class.  If the respondent raises a
+specific business necessity defense, such as those set out above, a no cause LOD should be recommended.  Even if the relocation would affect classes of people differently, the business necessity defense will be presumed to be valid.
+[1]
+The prohibitions contained in §§703(a)(1) and 704(a) of Title VII apply to probationary as well as permanent employees. Probationary employees
+usually do not have all of the contractual rights and protections of permanent employees, but an employer may not discharge or discipline a probationary employee on a basis prohibited by Title VII.
+[2]
+In a court proceeding, respondent has to articulate a legitimate nondiscriminatory reason for its actions which is legally sufficient to
+justify a judgment for the respondent.
+Furnco Construction Corp. v. Waters
+, 438 U.S. 567, 17 EPD ¶ 8401 (1978);
+Board of Trustees of Keene State College v. Sweeney
+, 439 U.S. 24, 18 EPD ¶ 8673 (1978);
+Texas Department of
+Community Affairs v. Burdine
+, 101 S. Ct. 1089, 25 EPD ¶ 31,544 (1981). This does not mean that respondent must prove the absence of a discriminatory motive. The burden of proving that a violation of Title VII has occurred always remains
+with the plaintiff in a court proceeding.
+[3]
+A discharge arising from the application of a bona fide seniority system does not violate Title VII even if the operation of the seniority
+system does have an adverse impact on women or minority groups. See Commission Decision No. 81-3, CCH Employment Practices Guide ¶ 6761; §604.8(a), Theories of Discrimination; and §616, Seniority.
+Return to top
+U.S. Equal Employment Opportunity Commission
+EEOC Headquarters
+131 M Street, NE
+Washington, DC 20507
+1-800-669-6820
+(TTY)
+1-844-234-5122
+(ASL Video Phone)
+Questions?
+Call 1-800-669-4000
+For Deaf/Hard of Hearing callers:
+1-800-669-6820
+(TTY)
+1-844-234-5122
+(ASL Video Phone)
+info@eeoc.gov
+Find your nearest EEOC office
+Connect With Us
+FOIA
+Privacy Policy
+Disclaimer
+Accessibility
+Office of Inspector General
+USA.gov

@@ -1,0 +1,33 @@
+{
+  "key": "dol",
+  "group": "hr",
+  "organization": "U.S. Department of Labor",
+  "authority_type": "federal_guidance",
+  "jurisdiction": "United States",
+  "scope": "Federal labor standards, wages, leave, and employer compliance",
+  "seed_urls": [
+    "https://www.dol.gov/agencies/whd/fact-sheets",
+    "https://www.dol.gov/agencies/whd/resources"
+  ],
+  "allowed_hosts": [
+    "dol.gov",
+    "www.dol.gov"
+  ],
+  "include_patterns": [
+    "fact-sheet",
+    "fact_sheets",
+    "fmla",
+    "flsa",
+    "guidance",
+    "publication",
+    ".pdf"
+  ],
+  "exclude_patterns": [
+    "/news",
+    "/contact",
+    "/about",
+    "/forms"
+  ],
+  "max_depth": 2,
+  "max_documents": 180
+}

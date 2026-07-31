@@ -1,0 +1,1488 @@
+Enforcement Guidance on the ADA and Psychiatric Disabilities | U.S. Equal Employment Opportunity Commission
+Skip to main content
+An official website of the United States government
+Here’s how you know
+Here’s how you know
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive
+information only on official, secure websites.
+U.S. Equal Employment Opportunity Commission
+Menu
+Header Navigation
+Online Filing
+Public Portal
+Attorney E-file
+Locations
+Operating Status
+Languages
+English
+Español (Spanish)
+Resources in Other Languages
+عربي (Arabic)
+简体中文 (Chinese, Simplified)
+繁體中文 - Chinese (Traditional)
+Kreyòl Ayisyen (Haitian Creole)
+한국어 (Korean)
+Русском (Russian)
+Português (Portuguese)
+Tagalog (Tagalog)
+ไทย (Thai)
+Tiếng Việt (Vietnamese)
+فارسی (Persian. Farsi)
+پښتو (Pashto)
+Toggle Search Form
+Any of these words
+(optional)
+Search
+About EEOC
+About EEOC
+Overview
+The Commission and The General Counsel
+Meetings of the Commission
+Commission Votes
+EEOC History
+News and Information
+Newsroom
+What You Should Know
+Legislative Affairs
+Publications
+Outreach and Education
+FOIA
+Laws and Enforcement
+EEOC Legal Resources
+Mediation
+Litigation
+Systemic Enforcement
+Commissioner Charges
+Directed Investigations
+Programs and Performance
+Budget and Performance
+Initiatives
+Interagency Programs
+State and Local Programs
+Task Forces
+Tribal Programs
+Data and Analytics
+Overview
+Data Governance
+EEO Data Collections
+Data and Statistics
+Data Tools and Products
+No FEAR Act Data
+Inside EEOC
+Careers
+Office for Civil Rights
+Doing Business with EEOC
+AI Governance
+Privacy
+Office of Inspector General
+Employees & Job Applicants
+Employees & Applicants
+Overview
+Coverage
+Timeliness
+Prohibited Practices
+Filing a Charge of Discrimination
+Filing a Charge
+How to File
+After You File a Charge
+Confidentiality
+Mediation
+Remedies
+Existing Charges
+Filing a Lawsuit
+Discrimination by Type
+Age
+Disability
+Equal Pay
+Genetic Information
+Harassment
+National Origin Discrimination
+Pregnancy Discrimination
+Race/Color Discrimination
+Religious Discrimination
+Retaliation
+Sex
+Sexual Harassment
+Employers / Small Business
+Employers / Small Business
+Overview
+Coverage
+After a Charge is Filed
+Resolving a Charge
+Commissioner Charges
+Directed Investigations
+Remedies
+Small Business Resource Center
+Small Business Home
+Small Business Requirements
+Frequently Asked Questions
+Tips for Small Businesses
+Making an Employment Decision?
+EEOC Resources
+Small Business Assistance
+Small Business Fact Sheet
+Small Business Videos
+EEOC Glossary
+Contact Us
+Discrimination by Type
+Age
+Disability
+Equal Pay
+Genetic Information
+Harassment
+National Origin
+Pregnancy
+Race/Color
+Religion
+Retaliation
+Sex
+Sexual Harassment
+Prohibited Practices
+Recordkeeping
+EEO Data Collections
+"Know Your Rights" Poster
+Training
+Other Employment Issues
+Federal Sector
+Federal Agencies
+Overview
+Federal EEO Coordination
+Federal Agency EEO Directors
+EEOC Legal Resources
+Management Directives & Federal Sector Guidance
+Federal Training & Outreach
+Resources
+Federal Employees & Job Applicants
+Overview
+Federal Complaint Process
+Federal Sector Alternative Dispute Resolution
+Prohibited Practices
+Resources
+Contact Us
+Contact EEOC
+Find Your Nearest Office
+Office Operating Status
+How to File a Charge
+Public Portal
+Home
+Laws
+guidance
+Enforcement Guidance on the ADA and Psychiatric Disabilities
+Enforcement Guidance on the ADA and Psychiatric Disabilities
+Issuing Authority
+This guidance document was issued upon approval by vote of the U.S. Equal Employment Opportunity Commission.
+OLC Control Number
+EEOC-CVG-1997-2
+Concise Display Name
+Enforcement Guidance on the ADA and Psychiatric Disabilities
+Issue Date
+03-25-1997
+General Topics
+Disability
+Summary
+This document addresses questions about rights and responsibilities regarding psychiatric disabilities and Title I of the ADA.
+Citation
+ADA, Rehabilitation Act, 29 CFR Part 1630, 29 CFR Part 1614
+Document Applicant
+Employers, Employees, Applicants, Attorneys and Practitioners, EEOC Staff
+Previous Revision
+No
+Disclaimer
+The contents of this document do not have the force and effect of law and are not meant to bind the public in any way. This document is intended only to provide clarity to the public regarding existing requirements under the law or agency policies.
+Notice Concerning The Americans With Disabilities Act Amendments Act Of 2008
+This document was issued prior to enactment of the
+Americans with Disabilities Act Amendments Act of 2008 (ADAAA)
+, which took effect on January 1, 2009.  The ADAAA broadened the statutory definition of disability, as summarized in this
+list of specific changes.
+EEOC Enforcement Guidance on the Americans with Disabilities Act and Psychiatric Disabilities
+The contents of this document do not have the force and effect of law and are not meant to bind the public in any way. This document is intended only to provide clarity to the public regarding existing requirements under the law or agency policies.
+EEOC NOTICE
+Number 915.002
+Date 3-25-97
+1.  SUBJECT: EEOC Enforcement Guidance on the Americans with Disabilities
+Act and Psychiatric Disabilities
+2.  PURPOSE: This enforcement guidance sets forth the Commission's
+position on the application of Title I of the Americans with Disabilities
+Act of 1990 to individuals with psychiatric disabilities.
+3.  EFFECTIVE DATE: Upon receipt.
+4.  EXPIRATION DATE: As an exception to EEOC Order 205.001, Appendix B,
+Attachment 4, § a(5), this Notice will remain in effect until rescinded or
+superseded.
+5.  ORIGINATOR: ADA Division, Office of Legal Counsel.
+6.  INSTRUCTIONS: File after Section 902 of Volume II of the Compliance
+Manual.
+3-25-97                             /S/
+__________________              _____________________________________
+Date                            Gilbert F. Casellas
+Chairman
+TABLE OF CONTENTS
+(page numbers removed in ASCII version)
+INTRODUCTION
+WHAT IS A PSYCHIATRIC DISABILITY UNDER THE ADA
+DISCLOSURE OF DISABILITY
+REQUESTING REASONABLE ACCOMMODATION
+SELECTED TYPES OF REASONABLE ACCOMMODATION
+CONDUCT
+DIRECT THREAT
+PROFESSIONAL LICENSING
+INDEX (removed in ASCII version)
+---------------------------------
+Enforcement Guidance: The Americans With Disabilities Act and Psychiatric
+Disabilities
+INTRODUCTION
+The workforce includes many individuals with psychiatric disabilities who
+face employment discrimination because their disabilities are stigmatized
+or misunderstood.  Congress intended Title I of the Americans with
+Disabilities Act (ADA)1 to combat such employment discrimination as well
+as the myths, fears, and stereotypes upon which it is based.2
+The Equal Employment Opportunity Commission ("EEOC" or "Commission")
+receives a large number of charges under the ADA alleging employment
+discrimination based on psychiatric disability.3 These charges raise a
+wide array of legal issues including, for example, whether an individual
+has a psychiatric disability as defined by the ADA and whether an employer
+may ask about an individual's psychiatric disability.  People with
+psychiatric disabilities and employers also have posed numerous questions
+to the EEOC about this topic.
+This guidance is designed to:
+facilitate the full enforcement of the ADA with respect to
+individuals alleging employment discrimination based on psychiatric
+disability;
+respond to questions and concerns expressed by individuals with
+psychiatric disabilities regarding the ADA; and
+answer questions posed by employers about how principles of ADA
+analysis apply in the context of psychiatric disabilities.4
+WHAT IS A PSYCHIATRIC DISABILITY UNDER THE ADA?
+Under the ADA, the term "disability" means:  "(a) A physical or mental
+impairment that substantially limits one or more of the major life
+activities of [an] individual; (b) a record of such an impairment; or (c)
+being regarded as having such an impairment."5
+This guidance focuses on the first prong of the ADA's definition of
+"disability" because of the great number of questions about how it is
+applied in the context of psychiatric conditions.
+Impairment
+1.    What is a "mental impairment" under the ADA?
+The ADA rule defines "mental impairment" to include "[a]ny mental or
+psychological disorder, such as . . . emotional or mental illness."6
+Examples of "emotional or mental illness[es]" include major depression,
+bipolar disorder, anxiety disorders (which include panic disorder,
+obsessive compulsive disorder, and post-traumatic stress disorder),
+schizophrenia, and personality disorders.  The current edition of the
+American Psychiatric Association's Diagnostic and Statistical Manual of
+Mental Disorders (now the fourth edition, DSM-IV) is relevant for
+identifying these disorders.  The DSM-IV has been recognized as an
+important reference by courts7 and is widely used by American mental
+health professionals for diagnostic and insurance reimbursement purposes.
+Not all conditions listed in the DSM-IV, however, are disabilities, or
+even impairments, for purposes of the ADA.  For example, the DSM-IV lists
+several conditions that Congress expressly excluded from the ADA's
+definition of "disability."8 While DSM-IV covers conditions involving drug
+abuse, the ADA provides that the term "individual with a disability" does
+not include an individual who is currently engaging in the illegal use of
+drugs, when the covered entity acts on the basis of that use.9 The DSM-IV
+also includes conditions that are not mental disorders but for which
+people may seek treatment (for example, problems with a spouse or
+child).10 Because these conditions are not disorders, they are not
+impairments under the ADA.11
+Even if a condition is an impairment, it is not automatically a
+"disability."  To rise to the level of a "disability," an impairment must
+"substantially limit" one or more major life activities of the
+individual.12
+2.    Are traits or behaviors in themselves mental impairments?
+No. Traits or behaviors are not, in themselves, mental impairments.  For
+example, stress, in itself, is not automatically a mental impairment.
+Stress, however, may be shown to be related to a mental or physical
+impairment.  Similarly, traits like irritability, chronic lateness, and
+poor judgment are not, in themselves, mental impairments, although they
+may be linked to mental impairments.13
+Major Life Activities
+An impairment must substantially limit one or more major life activities
+to rise to the level of a "disability" under the ADA.14
+3.    What major life activities are limited by mental impairments?
+The major life activities limited by mental impairments differ from person
+to person.  There is no exhaustive list of major life activities.  For
+some people, mental impairments restrict major life activities such as
+learning, thinking, concentrating, interacting with others,15 caring for
+oneself, speaking, performing manual tasks, or working.  Sleeping is also
+a major life activity that may be limited by mental impairments.16
+4.  To establish a psychiatric disability, must an individual always show
+that s/he is substantially limited in working?
+No.  The first question is whether an individual is substantially
+limited in a major life activity other than working (e.g., sleeping,
+concentrating, caring for oneself).  Working should be analyzed only if no
+other major life activity is substantially limited by an impairment.17
+Substantial Limitation
+Under the ADA, an impairment rises to the level of a disability if it
+substantially limits a major life activity.18 "Substantial limitation" is
+evaluated in terms of the severity of the limitation and the length of
+time it restricts a major life activity.19The determination that a
+particular individual has a substantially limiting impairment should be
+based on information about how the impairment affects that individual and
+not on generalizations about the condition.  Relevant evidence for EEOC
+investigators includes descriptions of an individual's typical level of
+functioning at home, at work, and in other settings, as well as evidence
+showing that the individual's functional limitations are linked to his/her
+impairment.  Expert testimony about substantial limitation is not
+necessarily required.  Credible testimony from the individual with a
+disability and his/her family members, friends, or coworkers may suffice.
+5.  When is an impairment sufficiently severe to substantially limit a
+major life activity?
+An impairment is sufficiently severe to substantially limit a major life
+activity if it prevents an individual from performing a major life
+activity or significantly restricts the condition, manner, or duration
+under which an individual can perform a major life activity, as compared
+to the average person in the general population.20 An impairment does not
+significantly restrict major life activities if it results in only mild
+limitations.
+6.  Should the corrective effects of medications be considered when deciding
+if an impairment is so severe that it substantially limits a major life
+activity?
+No.  The ADA legislative history unequivocally states that the extent to
+which an impairment limits performance of a major life activity is
+assessed without regard to mitigating measures, including medications.21
+Thus, an individual who is taking medication for a mental impairment has
+an ADA disability if there is evidence that the mental impairment, when
+left untreated, substantially limits a major life activity.22 Relevant
+evidence for EEOC investigators includes, for example, a description of
+how an individual's condition changed when s/he went off medication23 or
+needed to have dosages adjusted, or a description of his/her condition
+before starting medication.24
+7.  How long does a mental impairment have to last to be substantially
+limiting?
+An impairment is substantially limiting if it lasts for more than several
+months and significantly restricts the performance of one or more major
+life activities during that time.  It is not substantially limiting if it
+lasts for only a brief time or does not significantly restrict an
+individual's ability to perform a major life activity.25 Whether the
+impairment is substantially limiting is assessed without regard to
+mitigating measures such as medication.
+Example A:  An employee has had major depression for almost a
+year.  He has been intensely sad and socially withdrawn (except for going
+to work), has developed serious insomnia, and has had severe problems
+concentrating.  This employee has an impairment (major depression) that
+significantly restricts his ability to interact with others, sleep, and
+concentrate.  The effects of this impairment are severe and have lasted
+long enough to be substantially limiting.
+In addition, some conditions may be long-term, or potentially long-term,
+in that their duration is indefinite and unknowable or is expected to be
+at least several months.  Such conditions, if severe, may constitute
+disabilities.26
+Example B:  An employee has taken medication for bipolar
+disorder for a few months.  For some time before starting medication, he
+experienced increasingly severe and frequent cycles of depression and
+mania; at times, he became extremely withdrawn socially or had difficulty
+caring for himself.  His symptoms have abated with medication, but his
+doctor says that the duration and course of his bipolar disorder is
+indefinite, although it is potentially long-term.  This employee's
+impairment (bipolar disorder) significantly restricts his major life
+activities of interacting with others and caring for himself, when
+considered without medication.  The effects of his impairment are severe,
+and their duration is indefinite and potentially long-term.
+However, conditions that are temporary and have no permanent or long-term
+effects on an individual's major life activities are not substantially
+limiting.
+Example C:  An employee was distressed by the end of a
+romantic relationship.  Although he continued his daily routine, he
+sometimes became agitated at work.  He was most distressed for about a
+month during and immediately after the breakup.  He sought counseling and
+his mood improved within weeks.  His counselor gave him a diagnosis of
+"adjustment disorder" and stated that he was not expected to experience
+any long-term problems associated with this event.  While he has an
+impairment (adjustment disorder), his impairment was short-term, did not
+significantly restrict major life activities during that time, and was not
+expected to have permanent or long-term effects.  This employee does not
+have a disability for purposes of the ADA.
+8.    Can chronic, episodic disorders be substantially limiting?
+Yes.  Chronic, episodic conditions may constitute substantially limiting
+impairments if they are substantially limiting when active or have a high
+likelihood of recurrence in substantially limiting forms.  For some
+individuals, psychiatric impairments such as bipolar disorder, major
+depression, and schizophrenia may remit and intensify, sometimes
+repeatedly, over the course of several months or several years.27
+9.  When does an impairment substantially limit an individual's ability to
+interact with others?
+An impairment substantially limits an individual's ability to interact
+with others if, due to the impairment, s/he is significantly restricted as
+compared to the average person in the general population.  Some
+unfriendliness with coworkers or a supervisor would not, standing alone,
+be sufficient to establish a substantial limitation in interacting with
+others.  An individual would be substantially limited, however, if his/
+her relations with others were characterized on a regular basis by severe
+problems, for example, consistently high levels of hostility, social
+withdrawal, or failure to communicate when necessary.
+These limitations must be long-term or potentially long-term, as opposed
+to temporary, to justify a finding of ADA disability.
+Example:  An individual diagnosed with schizophrenia now works
+successfully as a computer programmer for a large company.  Before finding
+an effective medication, however, he stayed in his room at home for
+several months, usually refusing to talk to family and close friends.
+After finding an effective medication, he was able to return to school,
+graduate, and start his career.  This individual has a mental impairment,
+schizophrenia, which substantially limits his ability to interact with
+others when evaluated without medication. Accordingly, he is an individual
+with a disability as defined by the ADA.
+10.  When does an impairment substantially limit an individual's ability
+to concentrate?
+An impairment substantially limits an individual's ability to concentrate
+if, due to the impairment, s/he is significantly restricted as compared to
+the average person in the general population.28 For example, an individual
+would be substantially limited if s/he was easily and frequently
+distracted, meaning that his/her attention was frequently drawn to
+irrelevant sights or sounds or to intrusive thoughts; or if s/he
+experienced his/her "mind going blank" on a frequent basis.
+Such limitations must be long-term or potentially long-term, as opposed to
+temporary, to justify a finding of ADA disability.29
+Example A:  An employee who has an anxiety disorder says that
+his mind wanders frequently and that he is often distracted by irrelevant
+thoughts.  As a result, he makes repeated errors at work on detailed or
+complex tasks, even after being reprimanded.  His doctor says that the
+errors are caused by his anxiety disorder and may last indefinitely. This
+individual has a disability because, as a result of an anxiety disorder,
+his ability to concentrate is significantly restricted as compared to the
+average person in the general population.
+Example B:  An employee states that he has trouble
+concentrating when he is tired or during long meetings.  He attributes
+this to his chronic depression.  Although his ability to concentrate may
+be slightly limited due to depression (a mental impairment), it is not
+significantly restricted as compared to the average person in the general
+population.  Many people in the general population have difficulty
+concentrating when they are tired or during long meetings.
+11.  When does an impairment substantially limit an individual's ability
+to sleep?
+An impairment substantially limits an individual's ability to sleep if,
+due to the impairment, his/her sleep is significantly restricted as
+compared to the average person in the general population.  These
+limitations must be long-term or potentially long-term as opposed to
+temporary to justify a finding of ADA disability.
+For example, an individual who sleeps only a negligible amount without
+medication for many months, due to post-traumatic stress disorder, would
+be significantly restricted as compared to the average person in the
+general population and therefore would be substantially limited in
+sleeping.30 Similarly, an individual who for several months typically
+slept about two to three hours per night without medication, due to
+depression, also would be substantially limited in sleeping.
+By contrast, an individual would not be substantially limited in sleeping
+if s/he had some trouble getting to sleep or sometimes slept fitfully
+because of a mental impairment.  Although this individual may be slightly
+restricted in sleeping, s/he is not significantly restricted as compared
+to the average person in the general population.
+12.  When does an impairment substantially limit an individual's ability
+to care for him/herself?
+An impairment substantially limits an individual's ability to care for
+him/herself if, due to the impairment, an individual is significantly
+restricted as compared to the average person in the general population in
+performing basic activities such as getting up in the morning, bathing,
+dressing, and preparing or obtaining food.  These limitations must be
+long-term or potentially long-term as opposed to temporary to justify a
+finding of ADA disability.
+Some psychiatric impairments, for example major depression, may result in
+an individual sleeping too much.  In such cases, an individual may be
+substantially limited if, as a result of the impairment, s/he sleeps so
+much that s/he does not effectively care for him/herself.  Alternatively,
+the individual may be substantially limited in working.
+DISCLOSURE OF DISABILITY
+Individuals with psychiatric disabilities may have questions about whether
+and when they must disclose their disability to their employer under the
+ADA.  They may have concerns about the potential negative consequences of
+disclosing a psychiatric disability in the workplace, and about the
+confidentiality of information that they do disclose.
+13.  May an employer ask questions on a job application about history of
+treatment of mental illness, hospitalization, or the existence of mental
+or emotional illness or psychiatric disability?
+No.  An employer may not ask questions that are likely to elicit
+information about a disability before making an offer of employment.31
+Questions on a job application about psychiatric disability or mental or
+emotional illness or about treatment are likely to elicit information
+about a psychiatric disability and therefore are prohibited before an
+offer of employment is made.
+14.  When may an employer lawfully ask an individual about a psychiatric
+disability under the ADA?
+An employer may ask for disability-related information, including
+information about psychiatric disability, only in the following limited
+circumstances:
+Application Stage.  Employers are prohibited from asking
+disability-related questions before making an offer of employment.  An
+exception, however, is if an applicant asks for reasonable accommodation
+for the hiring process.  If the need for this accommodation is not
+obvious, an employer may ask an applicant for reasonable documentation
+about his/her disability.  The employer may require the applicant to
+provide documentation from an appropriate professional concerning his/her
+disability and functional limitations.32 A variety of health professionals
+may provide such documentation regarding psychiatric disabilities
+including primary health care professionals,33 psychiatrists,
+psychologists, psychiatric nurses, and licensed mental health
+professionals such as licensed clinical social workers and licensed
+professional counselors.34
+An employer should make clear to the applicant why it is requesting such
+information, i.e., to verify the existence of a disability and the need
+for an accommodation.  Furthermore, the employer may request only
+information necessary to accomplish these limited purposes.
+Example A:  An applicant for a secretarial job asks to take a
+typing test in a quiet location rather than in a busy reception area
+"because of a medical condition."  The employer may make
+disability-related inquiries at this point because the applicant's need
+for reasonable accommodation under the ADA is not obvious based on the
+statement that an accommodation is needed "because of a medical
+condition."  Specifically, the employer may ask the applicant to provide
+documentation showing that she has an impairment that substantially limits
+a major life activity and that she needs to take the typing test in a
+quiet location because of disability-related functional limitations.35
+Although an employer may not ask an applicant if s/he will need reasonable
+accommodation for the job, there is an exception if the employer could
+reasonably believe, before making a job offer, that the applicant will
+need accommodation to perform the functions of the job.  For an individual
+with a non-visible disability, this may occur if the individual
+voluntarily discloses his/her disability or if s/he voluntarily tells the
+employer that s/he needs reasonable accommodation to perform the job.  The
+employer may then ask certain limited questions, specifically:
+whether the applicant needs reasonable accommodation; and
+what type of reasonable accommodation would be needed to
+perform the functions of the job.36
+After making an offer of employment, if the employer requires a
+post-offer, preemployment medical examination or inquiry.  After an
+employer extends an offer of employment, the employer may require a
+medical examination (including a psychiatric examination) or ask questions
+related to disability (including questions about psychiatric disability)
+if the employer subjects all entering employees in the same job category
+to the same inquiries or examinations regardless of disability.  The
+inquiries and examinations do not need to be related to the job.37
+During employment, when a disability-related inquiry or medical
+examination of an employee is "job-related and consistent with business
+necessity."38 This requirement may be met when an employer has a
+reasonable belief, based on objective evidence, that: (1) an employee's
+ability to perform essential job functions39 will be impaired by a medical
+condition; or (2) an employee will pose a direct threat due to a medical
+condition.  Thus, for example, inquiries or medical examinations are
+permitted if they follow-up on a request for reasonable accommodation when
+the need for accommodation is not obvious, or if they address reasonable
+concerns about whether an individual is fit to perform essential functions
+of his/her position.  In addition, inquiries or examinations are permitted
+if they are required by another Federal law or regulation.40 In these
+situations, the inquiries or examinations must not exceed the scope of the
+specific medical condition and its effect on the employee's ability, with
+or without reasonable accommodation, to perform essential job functions or
+to work without posing a direct threat.41
+Example B:  A delivery person does not learn the route he is
+required to take when he makes deliveries in a particular neighborhood.
+He often does not deliver items at all or delivers them to the wrong
+address.  He is not adequately performing his essential function of making
+deliveries.  There is no indication, however, that his failure to learn
+his route is related in any way to a medical condition.  Because the
+employer does not have a reasonable belief, based on objective evidence,
+that this individual's ability to perform his essential job function is
+impaired by a medical condition, a medical examination (including a
+psychiatric examination) or disability-related inquiries would not be
+job-related and consistent with business necessity.42
+Example C:  A limousine service knows that one of its best
+drivers has bipolar disorder and had a manic episode last year, which
+started when he was driving a group of diplomats to around-the-clock
+meetings.  During the manic episode, the chauffeur engaged in behavior
+that posed a direct threat to himself and others (he repeatedly drove a
+company limousine in a reckless manner).  After a short leave of absence,
+he returned to work and to his usual high level of performance.  The
+limousine service now wants to assign him to drive several business
+executives who may begin around-the-clock labor negotiations during the
+next several weeks.  The employer is concerned, however, that this will
+trigger another manic episode and that, as a result, the employee will
+drive recklessly and pose a significant risk of substantial harm to
+himself and others.  There is no indication that the employee's condition
+has changed in the last year, or that his manic episode last year was not
+precipitated by the assignment to drive to around-the-clock meetings.  The
+employer may make disability-related inquiries, or require a medical
+examination, because it has a reasonable belief, based on objective
+evidence, that the employee will pose a direct threat to himself or others
+due to a medical condition.
+Example D:  An employee with depression seeks to return to
+work after a leave of absence during which she was hospitalized and her
+medication was adjusted.  Her employer may request a fitness-for-duty
+examination because it has a reasonable belief, based on the employee's
+hospitalization and medication adjustment, that her ability to perform
+essential job functions may continue to be impaired by a medical
+condition.  This examination, however, must be limited to the effect of
+her depression on her ability, with or without reasonable accommodation,
+to perform essential job functions.  Inquiries about her entire
+psychiatric history or about the details of her therapy sessions would,
+for example, exceed this limited scope.
+15.  Do ADA confidentiality requirements apply to information about a
+psychiatric disability disclosed to an employer?
+Yes.  Employers must keep all information concerning the medical condition
+or history of its applicants or employees, including information about
+psychiatric disability, confidential under the ADA.  This includes medical
+information that an individual voluntarily tells his/her employer.
+Employers must collect and maintain such information on separate forms and
+in separate medical files, apart from the usual personnel files.43 There
+are limited exceptions to the ADA confidentiality requirements:
+supervisors and managers may be told about necessary restrictions
+on the work or duties of the employee and about necessary accommodations;
+first aid and safety personnel may be told if the disability
+might require emergency treatment; and
+government officials investigating compliance with the ADA must
+be given relevant information on request.44
+16.  How can an employer respond when employees ask questions about a
+coworker who has a disability?
+If employees ask questions about a coworker who has a disability, the
+employer must not disclose any medical information in response.  Apart
+from the limited exceptions listed in Question 15, the ADA confidentiality
+provisions prohibit such disclosure.
+An employer also may not tell employees whether it is providing a
+reasonable accommodation for a particular individual.  A statement that an
+individual receives a reasonable accommodation discloses that the
+individual probably has a disability because only individuals with
+disabilities are entitled to reasonable accommodation under the ADA.  In
+response to coworker questions, however, the employer may explain that it
+is acting for legitimate business reasons or in compliance with federal
+law.
+As background information for all employees, an employer may find it
+helpful to explain the requirements of the ADA, including the obligation
+to provide reasonable accommodation, in its employee handbook or in its
+employee orientation or training.
+REQUESTING REASONABLE ACCOMMODATION
+An employer must provide a reasonable accommodation to the known physical
+or mental limitations of a qualified individual with a disability unless
+it can show that the accommodation would impose an undue hardship.45 An
+employee's decision about requesting reasonable accommodation may be
+influenced by his/her concerns about the potential negative consequences
+of disclosing a psychiatric disability at work.  Employees and employers
+alike have posed numerous questions about what constitutes a request for
+reasonable accommodation.
+17.  When an individual decides to request reasonable accommodation, what
+must s/he say to make the request and start the reasonable accommodation
+process?
+When an individual decides to request accommodation, the individual or
+his/her representative must let the employer know that s/he needs an
+adjustment or change at work for a reason related to a medical condition.
+To request accommodation, an individual may use "plain English" and need
+not mention the ADA or use the phrase "reasonable accommodation."46
+Example A:  An employee asks for time off because he is
+"depressed and stressed."  The employee has communicated a request for a
+change at work (time off) for a reason related to a medical condition
+(being "depressed and stressed" may be "plain English" for a medical
+condition).  This statement is sufficient to put the employer on notice
+that the employee is requesting reasonable accommodation.  However, if the
+employee's need for accommodation is not obvious, the employer may ask for
+reasonable documentation concerning the employee's disability and
+functional limitations.47
+Example B:  An employee submits a note from a health
+professional stating that he is having a stress reaction and needs one
+week off. Subsequently, his wife telephones the Human Resources department
+to say that the employee is disoriented and mentally falling apart and
+that the family is having him hospitalized.  The wife asks about
+procedures for extending the employee's leave and states that she will
+provide the necessary information as soon as possible but that she may
+need a little extra time.  The wife's statement is sufficient to
+constitute a request for reasonable accommodation.  The wife has asked for
+changes at work (an exception to the procedures for requesting leave and
+more time off) for a reason related to a medical condition (her husband
+had a stress reaction and is so mentally disoriented that he is being
+hospitalized).  As in the previous example, if the need for accommodation
+is not obvious, the employer may request documentation of disability and
+clarification of the need for accommodation.48
+Example C:  An employee asks to take a few days off to rest
+after the completion of a major project.  The employee does not link her
+need for a few days off to a medical condition.  Thus, even though she has
+requested a change at work (time off), her statement is not sufficient to
+put the employer on notice that she is requesting reasonable
+accommodation.
+18.  May someone other than the employee request a reasonable
+accommodation on behalf of an individual with a disability?
+Yes, a family member, friend, health professional, or other representative
+may request a reasonable accommodation on behalf of an individual with a
+disability.49 Of course, an employee may refuse to accept an accommodation
+that is not needed.
+19.   Do requests for reasonable accommodation need to be in writing?
+No.  Requests for reasonable accommodation do not need to be in writing.
+Employees may request accommodations in conversation or may use any other
+mode of communication.50
+20.  When should an individual with a disability request a reasonable
+accommodation to do the job?
+An individual with a disability is not required to request a reasonable
+accommodation at the beginning of employment.  S/he may request a
+reasonable accommodation at any time during employment.51
+21.  May an employer ask an employee for documentation when the employee
+requests reasonable accommodation for the job?
+Yes.  When the need for accommodation is not obvious, an employer may ask
+an employee for reasonable documentation about his/her disability and
+functional limitations.  The employer is entitled to know that the
+employee has a covered disability for which s/he needs a reasonable
+accommodation.52 A variety of health professionals may provide such
+documentation with regard to psychiatric disabilities.53
+Example A:  An employee asks for time off because he is
+"depressed and stressed."  Although this statement is sufficient to put
+the employer on notice that he is requesting accommodation,54 the
+employee's need for accommodation is not obvious based on this statement
+alone. Accordingly, the employer may require reasonable documentation that
+the employee has a disability within the meaning of the ADA and, if he has
+such a disability, that the functional limitations of the disability
+necessitate time off.
+Example B:  Same as Example A, except that the employer
+requires the employee to submit all of the records from his health
+professional regarding his mental health history, including materials that
+are not relevant to disability and reasonable accommodation under the ADA.
+This is not a request for reasonable documentation.  All of these records
+are not required to determine if the employee has a disability as defined
+by the ADA and needs the requested reasonable accommodation because of his
+disability-related functional limitations.  As one alternative, in order
+to determine the scope of its ADA obligations, the employer may ask the
+employee to sign a limited release allowing the employer to submit a list
+of specific questions to the employee's health care professional about his
+condition and need for reasonable accommodation.
+22.  May an employer require an employee to go to a health care
+professional of the employer's (rather than the employee's) choice for
+purposes of documenting need for accommodation and disability?
+The ADA does not prevent an employer from requiring an employee to go to
+an appropriate health professional of the employer's choice if the
+employee initially provides insufficient information to substantiate that
+s/he has an ADA disability and needs a reasonable accommodation.  Of
+course, any examination must be job-related and consistent with business
+necessity.55 If an employer requires an employee to go to a health
+professional of the employer's choice, the employer must pay all costs
+associated with the visit(s).
+SELECTED TYPES OF REASONABLE ACCOMMODATION
+Reasonable accommodations for individuals with disabilities must be
+determined on a case-by-case basis because workplaces and jobs vary, as do
+people with disabilities.  Accommodations for individuals with psychiatric
+disabilities may involve changes to workplace policies, procedures, or
+practices.  Physical changes to the workplace or extra equipment also may
+be effective reasonable accommodations for some people.
+In some instances, the precise nature of an effective accommodation for an
+individual may not be immediately apparent.  Mental health professionals,
+including psychiatric rehabilitation counselors, may be able to make
+suggestions about particular accommodations and, of equal importance, help
+employers and employees communicate effectively about reasonable
+accommodation.56 The questions below discuss selected types of reasonable
+accommodation that may be effective for certain individuals with
+psychiatric disabilities.57
+23.  Does reasonable accommodation include giving an individual with a
+disability time off from work or a modified work schedule?
+Yes.  Permitting the use of accrued paid leave or providing additional
+unpaid leave for treatment or recovery related to a disability is a
+reasonable accommodation, unless (or until) the employee's absence imposes
+an undue hardship on the operation of the employer's business.58 This
+includes leaves of absence, occasional leave (e.g., a few hours at a
+time), and part-time scheduling.
+A related reasonable accommodation is to allow an individual with a
+disability to change his/her regularly scheduled working hours, for
+example, to work 10 AM to 6 PM rather than 9 AM to 5 PM, barring undue
+hardship.  Some medications taken for psychiatric disabilities cause
+extreme grogginess and lack of concentration in the morning.  Depending on
+the job, a later schedule can enable the employee to perform essential job
+functions.
+24.  What types of physical changes to the workplace or equipment can
+serve as accommodations for people with psychiatric disabilities?
+Simple physical changes to the workplace may be effective accommodations
+for some individuals with psychiatric disabilities.  For example, room
+dividers, partitions, or other soundproofing or visual barriers between
+workspaces may accommodate individuals who have disability-related
+limitations in concentration.  Moving an individual away from noisy
+machinery or reducing other workplace noise that can be adjusted (e.g.,
+lowering the volume or pitch of telephones) are similar reasonable
+accommodations.  Permitting an individual to wear headphones to block out
+noisy distractions also may be effective.
+Some individuals who have disability-related limitations in concentration
+may benefit from access to equipment like a tape recorder for reviewing
+events such as training sessions or meetings.
+25.   Is it a reasonable accommodation to modify a workplace policy?
+Yes.  It is a reasonable accommodation to modify a workplace policy when
+necessitated by an individual's disability-related limitations, barring
+undue hardship.59 For example, it would be a reasonable accommodation to
+allow an individual with a disability, who has difficulty concentrating
+due to the disability, to take detailed notes during client presentations
+even though company policy discourages employees from taking extensive
+notes during such sessions.
+Example:  A retail employer does not allow individuals working
+as cashiers to drink beverages at checkout stations.  The retailer also
+limits cashiers to two 15-minute breaks during an eight-hour shift, in
+addition to a meal break.  An individual with a psychiatric disability
+needs to drink beverages approximately once an hour in order to combat dry
+mouth, a side-effect of his psychiatric medication.  This individual
+requests reasonable accommodation.  In this example, the employer should
+consider either modifying its policy against drinking beverages at
+checkout stations or modifying its policy limiting cashiers to two
+15-minute breaks each day plus a meal break, barring undue hardship.
+Granting an employee time off from work or an adjusted work schedule as a
+reasonable accommodation may involve modifying leave or attendance
+procedures or policies.  As an example, it would be a reasonable
+accommodation to modify a policy requiring employees to schedule vacation
+time in advance if an otherwise qualified individual with a disability
+needed to use accrued vacation time on an unscheduled basis because of
+disability-related medical problems, barring undue hardship.60 In
+addition, an employer, in spite of a "no-leave" policy, may, in
+appropriate circumstances, be required to provide leave to an employee
+with a disability as a reasonable accommodation, unless the provision of
+leave would impose an undue hardship.61
+26.   Is adjusting supervisory methods a form of reasonable accommodation?
+Yes.  Supervisors play a central role in achieving effective reasonable
+accommodations for their employees.  In some circumstances, supervisors
+may be able to adjust their methods as a reasonable accommodation by, for
+example, communicating assignments, instructions, or training by the
+medium that is most effective for a particular individual (e.g., in
+writing, in conversation, or by electronic mail).  Supervisors also may
+provide or arrange additional training or modified training materials.
+Adjusting the level of supervision or structure sometimes may enable an
+otherwise qualified individual with a disability to perform essential job
+functions.  For example, an otherwise qualified individual with a
+disability who experiences limitations in concentration may request more
+detailed day-to-day guidance, feedback, or structure in order to perform
+his job.62
+Example:  An employee requests more daily guidance and
+feedback as a reasonable accommodation for limitations associated with a
+psychiatric disability.  In response to his request, the employer consults
+with the employee, his health care professional, and his supervisor about
+how his limitations are manifested in the office (the employee is unable
+to stay focused on the steps necessary to complete large projects) and how
+to make effective and practical changes to provide the structure he needs.
+As a result of these consultations, the supervisor and employee work out a
+long-term plan to initiate weekly meetings to review the status of large
+projects and identify which steps need to be taken next.
+27.   Is it a reasonable accommodation to provide a job coach?
+Yes.  An employer may be required to provide a temporary job coach to
+assist in the training of a qualified individual with a disability as a
+reasonable accommodation, barring undue hardship.63 An employer also may
+be required to allow a job coach paid by a public or private social
+service agency to accompany the employee at the job site as a reasonable
+accommodation.
+28.  Is it a reasonable accommodation to make sure that an individual
+takes medication as prescribed?
+No.  Medication monitoring is not a reasonable accommodation.  Employers
+have no obligation to monitor medication because doing so does not remove
+a barrier that is unique to the workplace.  When people do not take
+medication as prescribed, it affects them on and off the job.
+29.  When is reassignment to a different position required as a reasonable
+accommodation?
+In general, reassignment must be considered as a reasonable accommodation
+when accommodation in the present job would cause undue hardship64 or
+would not be possible.65 Reassignment may be considered if there are
+circumstances under which both the employer and employee voluntarily agree
+that it is preferable to accommodation in the present position.66
+Reassignment should be made to an equivalent position that is vacant or
+will become vacant within a reasonable amount of time.  If an equivalent
+position is not available, the employer must look for a vacant position at
+a lower level for which the employee is qualified.  Reassignment is not
+required if a vacant position at a lower level is also unavailable.
+CONDUCT
+Maintaining satisfactory conduct and performance typically is not a
+problem for individuals with psychiatric disabilities.  Nonetheless,
+circumstances arise when employers need to discipline individuals with
+such disabilities for misconduct.
+30.  May an employer discipline an individual with a disability for
+violating a workplace conduct standard if the misconduct resulted from a
+disability?
+Yes, provided that the workplace conduct standard is job-related for the
+position in question and is consistent with business necessity.67 For
+example, nothing in the ADA prevents an employer from maintaining a
+workplace free of violence or threats of violence, or from disciplining an
+employee who steals or destroys property.  Thus, an employer may
+discipline an employee with a disability for engaging in such misconduct
+if it would impose the same discipline on an employee without a
+disability.68 Other conduct standards, however, may not be job-related for
+the position in question and consistent with business necessity.  If they
+are not, imposing discipline under them could violate the ADA.
+Example A:  An employee steals money from his employer.  Even
+if he asserts that his misconduct was caused by a disability, the employer
+may discipline him consistent with its uniform disciplinary policies
+because the individual violated a conduct standard -- a prohibition
+against employee theft -- that is job-related for the position in question
+and consistent with business necessity.
+Example B:  An employee at a clinic tampers with and
+incapacitates medical equipment.  Even if the employee explains that she
+did this because of her disability, the employer may discipline her
+consistent with its uniform disciplinary policies because she violated a
+conduct standard -- a rule prohibiting intentional damage to equipment --
+that is job-related for the position in question and consistent with
+business necessity.  However, if the employer disciplines her even though
+it has not disciplined people without disabilities for the same
+misconduct, the employer would be treating her differently because of
+disability in violation of the ADA.
+Example C:  An employee with a psychiatric disability works in
+a warehouse loading boxes onto pallets for shipment.  He has no customer
+contact and does not come into regular contact with other employees. Over
+the course of several weeks, he has come to work appearing increasingly
+disheveled.  His clothes are ill-fitting and often have tears in them.  He
+also has become increasingly anti-social.  Coworkers have complained that
+when they try to engage him in casual conversation, he walks away or gives
+a curt reply.  When he has to talk to a coworker, he is abrupt and rude.
+His work, however, has not suffered.  The employer's company handbook
+states that employees should have a neat appearance at all times.  The
+handbook also states that employees should be courteous to each other.
+When told that he is being disciplined for his appearance and treatment of
+coworkers, the employee explains that his appearance and demeanor have
+deteriorated because of his disability which was exacerbated during this
+time period.
+The dress code and coworker courtesy rules are not job-related for the
+position in question and consistent with business necessity because this
+employee has no customer contact and does not come into regular contact
+with other employees.  Therefore, rigid application of these rules to this
+employee would violate the ADA.
+31.  Must an employer make reasonable accommodation for an individual with
+a disability who violated a conduct rule that is job-related for the
+position in question and consistent with business necessity?
+An employer must make reasonable accommodation to enable an otherwise
+qualified individual with a disability to meet such a conduct standard in
+the future, barring undue hardship.69 Because reasonable accommodation is
+always prospective, however, an employer is not required to excuse past
+misconduct.70
+Example A:  A reference librarian frequently loses her temper
+at work, disrupting the library atmosphere by shouting at patrons and
+coworkers. After receiving a suspension as the second step in uniform,
+progressive discipline, she discloses her disability, states that it
+causes her behavior, and requests a leave of absence for treatment.  The
+employer may discipline her because she violated a conduct standard -- a
+rule prohibiting disruptive behavior towards patrons and coworkers -- that
+is job-related for the position in question and consistent with business
+necessity.  The employer, however, must grant her request for a leave of
+absence as a reasonable accommodation, barring undue hardship, to enable
+her to meet this conduct standard in the future.
+Example B:  An employee with major depression is often late
+for work because of medication side-effects that make him extremely groggy
+in the morning.  His scheduled hours are 9:00 AM to 5:30 PM, but he
+arrives at 9:00, 9:30, 10:00 or even 10:30 on any given day.  His job
+responsibilities involve telephone contact with the company's traveling
+sales representatives, who depend on him to answer urgent marketing
+questions and expedite special orders.  The employer disciplines him for
+tardiness, stating that continued failure to arrive promptly during the
+next month will result in termination of his employment.  The individual
+then explains that he was late because of a disability and needs to work
+on a later schedule.  In this situation, the employer may discipline the
+employee because he violated a conduct standard addressing tardiness that
+is job-related for the position in question and consistent with business
+necessity.  The employer, however, must consider reasonable accommodation,
+barring undue hardship, to enable this individual to meet this standard in
+the future.  For example, if this individual can serve the company's sales
+representatives by regularly working a schedule of 10:00 AM to 6:30 PM, a
+reasonable accommodation would be to modify his schedule so that he is not
+required to report for work until 10:00 AM.
+Example C:  An employee has a hostile altercation with his
+supervisor and threatens the supervisor with physical harm.  The employer
+immediately terminates the individual's employment, consistent with its
+policy of immediately terminating the employment of anyone who threatens a
+supervisor.  When he learns that his employment has been terminated, the
+employee asks the employer to put the termination on hold and to give him
+a month off for treatment instead.  This is the employee's first request
+for accommodation and also the first time the employer learns about the
+employee's disability.  The employer is not required to rescind the
+discharge under these circumstances, because the employee violated a
+conduct standard -- a rule prohibiting threats of physical harm against
+supervisors -- that is job-related for the position in question and
+consistent with business necessity.  The employer also is not required to
+offer reasonable accommodation for the future because this individual is
+no longer a qualified individual with a disability.  His employment was
+terminated under a uniformly applied conduct standard that is job-related
+for the position in question and consistent with business necessity.71
+32.  How should an employer deal with an employee with a disability who is
+engaging in misconduct because s/he is not taking his/her medication?
+The employer should focus on the employee's conduct and explain to the
+employee the consequences of continued misconduct in terms of uniform
+disciplinary procedures.  It is the employee's responsibility to decide
+about medication and to consider the consequences of not taking
+medication.72
+DIRECT THREAT
+Under the ADA, an employer may lawfully exclude an individual from
+employment for safety reasons only if the employer can show that
+employment of the individual would pose a "direct threat."73 Employers
+must apply the "direct threat" standard uniformly and may not use safety
+concerns to justify exclusion of persons with disabilities when persons
+without disabilities would not be excluded in similar circumstances.74
+The EEOC's ADA regulations explain that "direct threat" means "a
+significant risk of substantial harm to the health or safety of the
+individual or others that cannot be eliminated or reduced by reasonable
+accommodation."75 A "significant" risk is a high, and not just a slightly
+increased, risk.76 The determination that an individual poses a "direct
+threat" must be based on an individualized assessment of the individual's
+present ability to safely perform the functions of the job, considering a
+reasonable medical judgment relying on the most current medical knowledge
+and/or the best available objective evidence.77 With respect to the
+employment of individuals with psychiatric disabilities, the employer must
+identify the specific behavior that would pose a direct threat.78 An
+individual does not pose a "direct threat" simply by virtue of having a
+history of psychiatric disability or being treated for a psychiatric
+disability.79
+33.  Does an individual pose a direct threat in operating machinery solely
+because s/he takes medication that may as a side effect diminish
+concentration and/or coordination for some people?
+No.  An individual does not pose a direct threat solely because s/he takes
+a medication that may diminish coordination or concentration for some
+people as a side effect.  Whether such an individual poses a direct threat
+must be determined on a case-by-case basis, based on a reasonable medical
+judgment relying on the most current medical knowledge and/or on the best
+available objective evidence.  Therefore, an employer must determine the
+nature and severity of this individual's side effects, how those side
+effects influence his/her ability to safely operate the machinery, and
+whether s/he has had safety problems in the past when operating the same
+or similar machinery while taking the medication.  If a significant risk
+of substantial harm exists, then an employer must determine if there is a
+reasonable accommodation that will reduce or eliminate the risk.
+Example:  An individual receives an offer for a job in which
+she will operate an electric saw, conditioned on a post-offer medical
+examination.  In response to questions at this medical examination, the
+individual discloses her psychiatric disability and states that she takes
+a medication to control it.  This medication is known to sometimes affect
+coordination and concentration.  The company doctor determines that the
+individual experiences negligible side effects from the medication because
+she takes a relatively low dosage.  She also had an excellent safety
+record at a previous job, where she operated similar machinery while
+taking the same medication.  This individual does not pose a direct
+threat.
+34.  When can an employer refuse to hire someone based on his/her history
+of violence or threats of violence?
+An employer may refuse to hire someone based on his/her history of
+violence or threats of violence if it can show that the individual poses a
+direct threat.  A determination of "direct threat" must be based on an
+individualized assessment of the individual's present ability to safely
+perform the functions of the job, considering the most current medical
+knowledge and/or the best available objective evidence.  To find that an
+individual with a psychiatric disability poses a direct threat, the
+employer must identify the specific behavior on the part of the individual
+that would pose the direct threat.  This includes an assessment of the
+likelihood and imminence of future violence.
+Example: An individual applies for a position with Employer X.
+When Employer X checks his employment background, she learns that he was
+terminated two weeks ago by Employer Y, after he told a coworker that he
+would get a gun and "get his supervisor if he tries anything again."
+Employer X also learns that these statements followed three months of
+escalating incidents in which this individual had had several altercations
+in the workplace, including one in which he had to be restrained from
+fighting with a coworker.  He then revealed his disability to Employer Y.
+After being given time off for medical treatment, he continued to have
+trouble controlling his temper and was seen punching the wall outside his
+supervisor's office.  Finally, he made the threat against the supervisor
+and was terminated.  Employer X learns that, since then, he has not
+received any further medical treatment.  Employer X does not hire him,
+stating that this history indicates that he poses a direct threat.
+This individual poses a direct threat as a result of his disability
+because his recent overt acts and statements (including an attempted fight
+with a coworker, punching the wall, and making a threatening statement
+about the supervisor) support the conclusion that he poses a "significant
+risk of substantial harm."  Furthermore, his prior treatment had no effect
+on his behavior, he had received no subsequent treatment, and only two
+weeks had elapsed since his termination, all supporting a finding of
+direct threat.
+35.  Does an individual who has attempted suicide pose a direct threat
+when s/he seeks to return to work?
+No, in most circumstances.  As with other questions of direct threat, an
+employer must base its determination on an individualized assessment of
+the person's ability to safely perform job functions when s/he returns to
+work.  Attempting suicide does not mean that an individual poses an
+imminent risk of harm to him/herself when s/he returns to work.  In
+analyzing direct threat (including the likelihood and imminence of any
+potential harm), the employer must seek reasonable medical judgments
+relying on the most current medical knowledge and/or the best available
+factual evidence concerning the employee.
+Example:  An employee with a known psychiatric disability was
+hospitalized for two suicide attempts, which occurred within several weeks
+of each other.  When the employee asked to return to work, the employer
+allowed him to return pending an evaluation of medical reports to
+determine his ability to safely perform his job.  The individual's
+therapist and psychiatrist both submitted documentation stating that he
+could safely perform all of his job functions.  Moreover, the employee
+performed his job safely after his return, without reasonable
+accommodation.  The employer, however, terminated the individual's
+employment after evaluating the doctor's and therapist's reports, without
+citing any contradictory medical or factual evidence concerning the
+employee's recovery.  Without more evidence, this employer cannot support
+its determination that this individual poses a direct threat.80
+PROFESSIONAL LICENSING
+Individuals may have difficulty obtaining state-issued professional
+licenses if they have, or have a record of, a psychiatric disability.
+When a psychiatric disability results in denial or delay of a professional
+license, people may lose employment opportunities.
+36.  Would an individual have grounds for filing an ADA charge if an
+employer refused to hire him/her (or revoked a job offer) because s/he did
+not have a professional license due to a psychiatric disability?
+If an individual filed a charge on these grounds, EEOC would investigate
+to determine whether the professional license was required by law for the
+position at issue, and whether the employer in fact did not hire the
+individual because s/he lacked the license.  If the employer did not hire
+the individual because s/he lacked a legally-required professional
+license, and the individual claims that the licensing process
+discriminates against individuals with psychiatric disabilities, EEOC
+would coordinate with the Department of Justice, Civil Rights Division,
+Disability Rights Section, which enforces Title II of the ADA covering
+state licensing requirements.
+1 42 U.S.C. §§ 12101-12117, 12201-12213 (1994) (codified as amended).
+2 H.R. Rep. No. 101-485, pt. 3, at 31-32 (1990) [hereinafter House
+Judiciary Report].
+3 Between July 26, 1992, and September 30, 1996, approximately 12.7% of
+ADA charges filed with EEOC were based on emotional or psychiatric
+impairment.  These included charges based on anxiety disorders,
+depression, bipolar disorder (manic depression), schizophrenia, and other
+psychiatric impairments.
+4 The analysis in this guidance applies to federal sector complaints of
+non-affirmative action employment discrimination arising under section 501
+of the Rehabilitation Act of 1973.  29 U.S.C. § 791(g) (1994).  It also
+applies to complaints of non-affirmative action employment discrimination
+arising under section 503 and employment discrimination under section 504
+of the Rehabilitation Act.  29 U.S.C. §§ 793(d), 794(d) (1994).
+5 42 U.S.C. § 12102(2) (1994); 29 C.F.R. § 1630.2(g) (1996).  See
+generally EEOC Compliance Manual § 902, Definition of the Term
+"Disability," 8 FEP Manual (BNA) 405:7251 (1995).
+6 29 C.F.R. § 1630.2(h)(2) (1996).  This ADA regulatory definition also
+refers to mental retardation, organic brain syndrome, and specific
+learning disabilities.  These additional mental conditions, as well as
+other neurological disorders such as Alzheimer's disease, are not the
+primary focus of this guidance.
+7 See, e.g., Boldini v. Postmaster Gen., 928 F. Supp. 125, 130, 5 AD Cas.
+(BNA) 11, 14 (D.N.H. 1995) (stating, under section 501 of the
+Rehabilitation Act, that "in circumstances of mental impairment, a court
+may give weight to a diagnosis of mental impairment which is described in
+the Diagnostic and Statistical Manual of Mental Disorders of the American
+Psychiatric Association . . . .").
+8 These include various sexual behavior disorders, compulsive gambling,
+kleptomania, pyromania, and psychoactive substance use disorders resulting
+from current illegal use of drugs.  42 U.S.C. § 12211(b) (1994); 29 C.F.R.
+§ 1630.3(d) (1996).
+9 42 U.S.C. § 12210(a) (1994).  However, individuals who are not currently
+engaging in the illegal use of drugs and who are participating in, or have
+successfully completed, a supervised drug rehabilitation program (or who
+have otherwise been successfully rehabilitated) may be covered by the ADA.
+Individuals who are erroneously regarded as engaging in the current
+illegal use of drugs, but who are not engaging in such use, also may be
+covered.  Id. at § 12210(b).
+Individuals with psychiatric disabilities may, either as part of
+their condition or separate from their condition, engage in the illegal
+use of drugs.  In such cases, EEOC investigators may need to make a
+factual determination about whether an employer treated an individual
+adversely because of his/her psychiatric disability or because of his/her
+illegal use of drugs.
+10 See DSM-IV chapter "Other Conditions That May Be a Focus of Clinical
+Attention."
+11 Individuals who do not have a mental impairment but are treated by
+their employers as having a substantially limiting impairment have a
+disability as defined by the ADA because they are regarded as having a
+substantially limiting impairment.  See EEOC Compliance Manual § 902.8,
+Definition of the Term "Disability," 8 FEP Manual (BNA) 405:7282 (1995).
+12 This discussion refers to the terms "impairment" and "substantially
+limit" in the present tense.  These references are not meant to imply that
+the determinations of whether a condition is an impairment, or of whether
+there is substantial limitation, are relevant only to whether an
+individual meets the first part of the definition of "disability," i.e.,
+actually has a physical or mental impairment that substantially limits a
+major life activity.  These determinations also are relevant to whether an
+individual has a record of a substantially limiting impairment or is
+regarded as having a substantially limiting impairment.  See id. §§ 902.7,
+902.8, Definition of the Term "Disability," 8 FEP Manual (BNA)
+405:7276-78, 7281 (1995).
+13 Id. § 902.2(c)(4), Definition of the Term "Disability," 8 FEP Manual
+(BNA) 405:7258 (1995).
+14 42 U.S.C. § 12102(2)(A) (1994); 29 C.F.R. § 1630.2(g)(1) (1996).  See
+also EEOC Compliance Manual § 902.3, Definition of the Term "Disability,"
+8 FEP Manual (BNA) 405:7261 (1995).
+15 Interacting with others, as a major life activity, is not substantially
+limited just because an individual is irritable or has some trouble
+getting along with a supervisor or coworker.
+16 Sleeping is not substantially limited just because an individual has
+some trouble getting to sleep or occasionally sleeps fitfully.
+17 See 29 C.F.R. pt. 1630 app. § 1630.2(j) (1996) ("[i]f an individual is
+not substantially limited with respect to any other major life activity,
+the individual's ability to perform the major life activity of working
+should be considered . . . . "); see also EEOC Compliance Manual §
+902.4(c)(2), Definition of the Term "Disability," 8 FEP Manual (BNA)
+405:7266 (1995).
+18 42 U.S.C. § 12102(2) (1994).
+19 See generally EEOC Compliance Manual § 902.4, Definition of the Term
+"Disability," 8 FEP Manual (BNA) 405:7262 (1995).
+20 See 29 C.F.R. § 1630.2(j) (1996).
+21 S. Rep. No. 101-116, at 23 (1989); H.R. Rep. No. 101-485, pt. 2, at 52
+(1990); House Judiciary Report, supra n.2, at 28-29.  See also 29 C.F.R.
+pt. 1630 app. § 1630.2(j) (1996).
+22 ADA cases in which courts have disregarded the positive effects of
+medications or other treatment in the determination of disability include
+Canon v. Clark, 883 F. Supp. 718, 4 AD Cas. (BNA) 734 (S.D. Fla. 1995)
+(finding that individual with insulin-dependent diabetes stated an ADA
+claim), and Sarsycki v. United Parcel Ser., 862 F. Supp. 336, 340, 3 AD
+Cas. (BNA) 1039 (W.D. Okla. 1994) (stating that substantial limitation
+should be evaluated without regard to medication and finding that an
+individual with insulin-dependent diabetes had a disability under the
+ADA).  Pertinent Rehabilitation Act cases in which courts have made
+similar determinations include Liff v. Secretary of Transp., 1994 WL
+579912, at *3-*4 (D.D.C. 1994) (deciding under the Rehabilitation Act,
+after acknowledging pertinent ADA guidance, that depression controlled by
+medication is a disability), and Gilbert v. Frank, 949 F.2d 637, 641, 2 AD
+Cas. (BNA) 60 (2d Cir. 1991) (determining under the Rehabilitation Act
+that an individual who could not function without kidney dialysis had a
+substantially limiting impairment).
+Cases in which courts have found that individuals are not
+substantially limited after considering the positive effects of medication
+are, in the Commission's view, incorrectly decided.  See, e.g., Mackie v.
+Runyon, 804 F. Supp. 1508,1510-11, 2 AD Cas. (BNA) 260 (M.D. Fla. 1992)
+(holding under section 501 of the Rehabilitation Act that bipolar disorder
+stabilized by medication is not substantially limiting); Chandler v. City
+of Dallas, 2 F.3d 1385, 1390-91, 2 AD Cas. (BNA) 1326 (5th Cir. 1993)
+(holding under section 504 of the Rehabilitation Act that an individual
+with insulin-dependent diabetes did not have a disability), cert.
+denied,114 S. Ct. 1386, 3 AD Cas. (BNA) 512 (1994).
+23 Some individuals do not experience renewed symptoms when they stop
+taking medication.  These individuals are still covered by the ADA,
+however, if they have a record of a substantially limiting impairment
+(i.e., if their psychiatric impairment was sufficiently severe and
+long-lasting to be substantially limiting).
+24 If medications cause negative side effects, these side effects should
+be considered in assessing whether the individual is substantially
+limited.  See, e.g., Guice-Mills v. Derwinski, 967 F.2d 794, 2 AD Cas.
+(BNA) 187 (2d Cir. 1992).
+25 EEOC Compliance Manual § 902.4(d), Definition of the Term "Disability,"
+8 FEP Manual (BNA) 405:7273 (1995).
+26 Id., 8 FEP Manual (BNA) 405:7271.
+27 See, e.g., Clark v. Virginia Bd. of Bar Exam'rs, 861 F. Supp. 512, 3 AD
+Cas. (BNA) 1066 (E.D. Va. 1994) (vacating its earlier ruling (at 3 AD Cas.
+(BNA) 780) that plaintiff's recurrent major depression did not constitute
+a "disability" under the ADA).
+28 29 C.F.R. § 1630.2(j)(ii) (1996); EEOC Compliance Manual§ 902.3(b),
+Definition of the Term "Disability," 8 FEP Manual (BNA) 405:7261 (1995).
+29 Substantial limitation in concentrating also may be associated with
+learning disabilities, neurological disorders, and physical trauma to the
+brain (e.g., stroke, brain tumor, or head injury in a car accident).
+Although this guidance does not focus on these particular impairments, the
+analysis of basic ADA issues is consistent regardless of the nature of the
+condition.
+30 A 1994 survey of 1,000 American adults reports that 71% averaged 5-8
+hours of sleep a night on weeknights and that 55% averaged 5-8 hours a
+night on weekends (with 37% getting more than 8 hours a night on
+weekends).  See The Cutting Edge: Vital Statistics -- America's Sleep
+Habits, Washington Post, May 24, 1994, Health Section at 5.
+31 See 42 U.S.C. § 12112(d)(2) (1994); 29 C.F.R. § 1630.13(a) (1996). See
+also EEOC Enforcement Guidance: Preemployment Disability-Related Questions
+and Medical Examinations at 4, 8 FEP Manual (BNA) 405:7192 (1995).
+32 Enforcement Guidance: Preemployment Disability-Related Questions and
+Medical Examinations at 6, 8 FEP Manual (BNA) 405:7193 (1995).
+33 When a primary health care professional supplies documentation about a
+psychiatric disability, his/her credibility depends on how well s/he knows
+the individual and on his/her knowledge about the psychiatric disability.
+34 Important information about an applicant's functional limitations also
+may be obtained from non-professionals, such as the applicant, his/her
+family members, and friends.
+35 In response to the employer's request for documentation, the applicant
+may elect to revoke the request for accommodation and to take the test in
+the reception area.  In these circumstances, where the request for
+reasonable accommodation has been withdrawn, the employer cannot continue
+to insist on obtaining the documentation.
+36 EEOC Enforcement Guidance: Preemployment Disability-RelatedQuestions
+and Medical Examinations at 6-7, 8 FEP Manual (BNA) 405:7193-94 (1995).
+37 If an employer uses the results of these inquiries or examinations to
+screen out an individual because of disability, the employer must prove
+that the exclusionary criteria are job-related and consistent with
+business necessity, and cannot be met with reasonable accommodation, in
+order to defend against a charge of employment discrimination.  42 U.S.C.
+§ 12112(b)(6) (1994); 29 C.F.R.§§ 1630.10, 1630.14(b)(3), 1630.15(b)
+(1996).
+38      42 U.S.C. § 12112(d)(4) (1994); 29 C.F.R. § 1630.14(c) (1996).
+39 A "qualified" individual with a disability is one who can perform the
+essential functions of a position with or without reasonable
+accommodation. 42 U.S.C. § 12111(8) (1994).  An employer does not have to
+lower production standards, whether qualitative or quantitative, to enable
+an individual with a disability to perform an essential function.  See 29
+C.F.R. pt. 1630 app. § 1630.2(n) (1996).
+40 29 C.F.R. § 1630.15(e) (1996) ("It may be a defense to a charge of
+discrimination . . . that a challenged action is required or necessitated
+by another Federal law or regulation . . . .").
+41 There may be additional situations which could meet the "job-related
+and consistent with business necessity" standard.  For example, periodic
+medical examinations for public safety positions that are narrowly
+tailored to address specific job-related concerns and are shown to be
+consistent with business necessity would be permissible.
+42 Of course, an employer would be justified in taking disciplinary action
+in these circumstances.
+43 For a discussion of other confidentiality issues, see EEOC Enforcement
+Guidance: Preemployment Disability-Related Questions and Medical
+Examinations at 21-23, 8 FEP Manual (BNA) 405:7201-02 (1995).
+44 42 U.S.C. § 12112(d)(3)(B), (4)(C) (1994); 29 C.F.R. § 1630.14(b)(1)
+(1996).  The Commission has interpreted the ADA to allow employers to
+disclose medical information to state workers' compensation offices, state
+second injury funds, or workers' compensation insurance carriers in
+accordance with state workers' compensation laws.  29 C.F.R. pt. 1630 app.
+§ 1630.14(b) (1996).  The Commission also has interpreted the ADA to
+permit employers to use medical information for insurance purposes.  Id.
+See also EEOC Enforcement Guidance: Preemployment Disability-Related
+Questions and Medical Examinations at 21 nn.24, 25, 8 FEP Manual (BNA)
+405:7201 nn.24, 25 (1995).
+45 See 42 U.S.C. §§ 12111(9), 12112(b)(5)(A) (1994); 29 C.F.R.§ 1630.2(o),
+.9 (1996); 29 C.F.R. pt. 1630 app. § 1630.9 (1996).
+46 Schmidt v. Safeway, Inc., 864 F. Supp. 991, 3 AD Cas. (BNA) 1141 (D.
+Or. 1994) (an employee's request for reasonable accommodation need not use
+"magic words" and can be in plain English).  See Bultemeyer v. Ft. Wayne
+Community Schs., 6 AD Cas. (BNA) 67 (7th Cir. 1996) (an employee with a
+known psychiatric disability requested reasonable accommodation by stating
+that he could not do a particular job and by submitting a note from his
+psychiatrist).
+47 See Question 21 infra about employers requesting documentation after
+receiving a request for reasonable accommodation.
+48 In the Commission's view, Miller v. Nat'l Cas. Co., 61 F.3d 627, 4 AD
+Cas. (BNA) 1089 (8th Cir. 1995) was incorrectly decided.  The court in
+Miller held that the employer was not alerted to Miller's disability and
+need for accommodation despite the fact that Miller's sister phoned the
+employer repeatedly and informed it that Miller was falling apart mentally
+and that the family was trying to get her into a hospital.  See also
+Taylor v. Principal Financial Group, 5 AD Cas. (BNA) 1653(5th Cir. 1996).
+49 Cf.  Beck v. Univ. of Wis., 75 F.3d 1130, 5 AD Cas. (BNA) 304(7th Cir.
+1996) (assuming, without discussion, that a doctor's note requesting
+reasonable accommodation on behalf of his patient triggered the reasonable
+accommodation process); Schmidt v. Safeway, Inc., 864 F. Supp. 991, 3 AD
+Cas. (BNA) 1141 (D. Or. 1994) (stating that a doctor need not be expressly
+authorized to request accommodation on behalf of an employee in order to
+make a valid request).
+In addition, because the reasonable accommodation process presumes open
+communication between the employer and the employee with the disability,
+the employer should be receptive to any relevant information or requests
+it receives from a third party acting on the employee's behalf.  29 C.F.R.
+pt. 1630 app. § 1630.9 (1996).
+50 Although individuals with disabilities are not required to keep
+records, they may find it useful to document requests for reasonable
+accommodation in the event there is a dispute about whether or when they
+requested accommodation.  Of course, employers must keep all employment
+records, including records of requests for reasonable accommodation, for
+one year from the making of the record or the personnel action involved,
+whichever occurs later.  29 C.F.R. § 1602.14 (1996).
+51 As a practical matter, it may be in the employee's interest to request
+a reasonable accommodation before performance suffers or conduct problems
+occur.
+52 EEOC Enforcement Guidance: Preemployment Disability-Related Questions
+and Medical Examinations at 6, 8 FEP Manual (BNA) 405:7193 (1995).
+53 See supra nn.32-34 and accompanying text.  See also Bultemeyer v. Ft.
+Wayne Community Schs., 6 AD Cas. (BNA) 67 (7th Cir. 1996) (stating that,
+if employer found the precise meaning of employee's request for reasonable
+accommodation unclear, employer should have spoken to the employee or his
+psychiatrist, thus properly engaging in the interactive process).
+54 See Question 17, Example A, supra.
+55 Employers also may consider alternatives like having their health
+professional consult with the employee's health professional, with the
+employee's consent.
+56 The Job Accommodation Network (JAN) also provides advice free-of-charge
+to employers and employees contemplating reasonable accommodation.  JAN is
+a service of the President's Committee on Employment of People with
+Disabilities which, in turn, is funded by the U.S. Department of Labor.
+JAN can be reached at 1-800-ADA-WORK.
+57 Some of the accommodations discussed in this section also may prove
+effective for individuals with traumatic brain injuries, stroke, and other
+mental disabilities.  As a general matter, a covered employer must provide
+reasonable accommodation to the known physical or mental limitations of an
+otherwise qualified individual with a disability, barring undue hardship.
+42 U.S.C. § 12112(b)(5)(A) (1994).
+58 29 C.F.R. pt. 1630 app. § 1630.2(o) (1996).  Courts have recognized
+leave as a reasonable accommodation.  See, e.g., Vande Zande v. Wis. Dep't
+of Admin., 44 F.3d 538, 3 AD Cas. (BNA) 1636 (7th Cir. 1995) (defendant
+had duty to accommodate plaintiff's pressure ulcers resulting from her
+paralysis which required her to stay home for several weeks); Vializ v.
+New York City Bd. of Educ., 1995 WL 110112, 4 AD Cas. (BNA) 345 (S.D.N.Y.
+1995) (plaintiff stated claim under ADA where she alleged that she would
+be able to return to work after back injury if defendant granted her a
+temporary leave of absence); Schmidt v. Safeway, Inc., 864 F. Supp. 991, 3
+AD Cas. (BNA) 1141 (D. Or. 1994) ("[A] leave of absence to obtain medical
+treatment is a reasonable accommodation if it is likely that, following
+treatment, [the employee] would have been able to safely perform his
+duties . . . .").
+59 42 U.S.C. § 12111(9)(B) (1994); 29 C.F.R. § 1630.2(o)(2)(ii) (1996).
+60 See Dutton v. Johnson County Bd., 1995 WL 337588, 3 AD Cas. (BNA) 1614
+(D. Kan. 1995) (it was a reasonable accommodation to permit an individual
+with a disability to use unscheduled vacation time to cover absence for
+migraine headaches, where that did not pose an undue hardship and employer
+knew about the migraine headaches and the need for accommodation).
+61 See 29 C.F.R. pt. 1630 app. § 1630.15(b), (c) (1996).
+62 Reasonable accommodation, however, does not require lowering standards
+or removing essential functions of the job.  Bolstein v. Reich, 1995 WL
+46387, 3 AD Cas. (BNA) 1761 (D.D.C. 1995) (attorney with chronic
+depression and severe personality disturbance was not a qualified
+individual with a disability because his requested accommodations of more
+supervision, less complex assignments, and the exclusion of appellate work
+would free him of the very duties that justified his GS-14 grade), motion
+for summary affirmance granted, 1995 WL 686236 (D.C. Cir. 1995).  The
+court in Bolstein noted that the plaintiff objected to a reassignment to a
+lower grade in which he could have performed the essential functions of
+the position.  1995 WL 46387, * 4, 3 AD Cas. (BNA) 1761, 1764 (D.D.C.
+1995).
+63 See 29 C.F.R. pt. 1630 app. § 1630.9 (1996) (discussing supported
+employment); U.S. Equal Employment Opportunity Commission, "A Technical
+Assistance Manual on the Employment Provisions (Title I) of the Americans
+with Disabilities Act," at 3.4, 8 FEP Manual (BNA) 405:7001 (1992)
+[hereinafter Technical Assistance Manual].  A job coach is a professional
+who assists individuals with severe disabilities with job placement and
+job training.
+64 For example, it may be an undue hardship to provide extra supervision
+as a reasonable accommodation in the present job if the employee's current
+supervisor is already very busy supervising several other individuals and
+providing direct service to the public.
+65 42 U.S.C. § 12111(9)(B) (1994).  For example, it may not be possible to
+accommodate an employee in his present position if he works as a
+salesperson on the busy first floor of a major department store and needs
+a reduction in visual distractions and ambient noise as a reasonable
+accommodation.
+See EEOC Enforcement Guidance:  Workers' Compensation and the ADA
+at 17, 8 FEP Manual (BNA) 405:7399-7400 (1996) (where an employee can no
+longer perform the essential functions of his/her original position, with
+or without a reasonable accommodation, because of a disability, an
+employer must reassign him/her to an equivalent vacant position for which
+s/he is qualified, absent undue hardship).
+66 Technical Assistance Manual, supra note 63, at 3.10(5), 8 FEP Manual
+(BNA) 405:7011-12 (reassignment to a vacant position as a reasonable
+accommodation); see also 42 U.S.C. § 12111(9)(B) (1994); 29 C.F.R. §
+1630.2(o)(2)(ii) (1996).
+67 42 U.S.C. § 12112(b)(6) (1994); 29 C.F.R. § 1630.10, .15(c) (1996).
+68 See EEOC Compliance Manual § 902.2, n.11, Definition of the Term
+"Disability," 8 FEP Manual (BNA) 405:7259, n.11 (1995) (an employer "does
+not have to excuse . . . misconduct, even if the misconduct results from
+an impairment that rises to the level of a disability, if it does not
+excuse similar misconduct from its other employees"); see 56 Fed. Reg.
+35,733 (1991) (referring to revisions to proposed ADA rule that "clarify
+that employers may hold all employees, disabled (including those disabled
+by alcoholism or drug addiction) and nondisabled, to the same performance
+and conduct standards").
+69 See 29 C.F.R. § 1630.15(d) (1996).
+70 Therefore, it may be in the employee's interest to request a reasonable
+accommodation before performance suffers or conduct problems occur.  See
+Question 20 supra.
+71 Regardless of misconduct, an individual with a disability must be
+allowed to file a grievance or appeal challenging his/her termination when
+that is a right normally available to other employees.
+72 If the employee requests reasonable accommodation in order to address
+the misconduct, the employer must grant the request, subject to undue
+hardship.
+73 See 42 U.S.C. § 12113(b) (1994).
+74 29 C.F.R. pt. 1630 app. § 1630.2(r) (1996).
+75 29 C.F.R. § 1630.2(r) (1996).  To determine whether an individual would
+pose a direct threat, the factors to be considered include:  (1) duration
+of the risk; (2) nature and severity of the potential harm; (3) likelihood
+that the potential harm will occur; and (4) imminence of the potential
+harm.  Id.
+76 29 C.F.R. pt. 1630 app. § 1630.2(r) (1996).
+77 29 C.F.R. § 1630.2(r) (1996).
+78 29 C.F.R. pt. 1630 app. § 1630.2(r) (1996).
+79 House Judiciary Report, supra n.2, at 45.
+80 Cf. Ofat v. Ohio Civ. Rights Comm'n, 1995 WL 310051, 4 AD Cas. (BNA)
+753 (Ohio Ct. App. 1995) (finding against employer, under state law, on
+issue of whether employee who had panic disorder with agoraphobia could
+safely return to her job after disability-related leave, where employer
+presented no expert evidence about employee's disability or its effect on
+her ability to safely perform her job but only provided copies of pages
+from a medical text generally discussing the employee's illness).
+Return to top
+U.S. Equal Employment Opportunity Commission
+EEOC Headquarters
+131 M Street, NE
+Washington, DC 20507
+1-800-669-6820
+(TTY)
+1-844-234-5122
+(ASL Video Phone)
+Questions?
+Call 1-800-669-4000
+For Deaf/Hard of Hearing callers:
+1-800-669-6820
+(TTY)
+1-844-234-5122
+(ASL Video Phone)
+info@eeoc.gov
+Find your nearest EEOC office
+Connect With Us
+FOIA
+Privacy Policy
+Disclaimer
+Accessibility
+Office of Inspector General
+USA.gov

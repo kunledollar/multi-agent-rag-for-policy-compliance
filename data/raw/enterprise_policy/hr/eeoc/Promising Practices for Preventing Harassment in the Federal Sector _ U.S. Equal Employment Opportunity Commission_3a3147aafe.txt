@@ -1,0 +1,605 @@
+Promising Practices for Preventing Harassment in the Federal Sector | U.S. Equal Employment Opportunity Commission
+Skip to main content
+An official website of the United States government
+Here’s how you know
+Here’s how you know
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive
+information only on official, secure websites.
+U.S. Equal Employment Opportunity Commission
+Menu
+Header Navigation
+Online Filing
+Public Portal
+Attorney E-file
+Locations
+Operating Status
+Languages
+English
+Español (Spanish)
+Resources in Other Languages
+عربي (Arabic)
+简体中文 (Chinese, Simplified)
+繁體中文 - Chinese (Traditional)
+Kreyòl Ayisyen (Haitian Creole)
+한국어 (Korean)
+Русском (Russian)
+Português (Portuguese)
+Tagalog (Tagalog)
+ไทย (Thai)
+Tiếng Việt (Vietnamese)
+فارسی (Persian. Farsi)
+پښتو (Pashto)
+Toggle Search Form
+Any of these words
+(optional)
+Search
+About EEOC
+About EEOC
+Overview
+The Commission and The General Counsel
+Meetings of the Commission
+Commission Votes
+EEOC History
+News and Information
+Newsroom
+What You Should Know
+Legislative Affairs
+Publications
+Outreach and Education
+FOIA
+Laws and Enforcement
+EEOC Legal Resources
+Mediation
+Litigation
+Systemic Enforcement
+Commissioner Charges
+Directed Investigations
+Programs and Performance
+Budget and Performance
+Initiatives
+Interagency Programs
+State and Local Programs
+Task Forces
+Tribal Programs
+Data and Analytics
+Overview
+Data Governance
+EEO Data Collections
+Data and Statistics
+Data Tools and Products
+No FEAR Act Data
+Inside EEOC
+Careers
+Office for Civil Rights
+Doing Business with EEOC
+AI Governance
+Privacy
+Office of Inspector General
+Employees & Job Applicants
+Employees & Applicants
+Overview
+Coverage
+Timeliness
+Prohibited Practices
+Filing a Charge of Discrimination
+Filing a Charge
+How to File
+After You File a Charge
+Confidentiality
+Mediation
+Remedies
+Existing Charges
+Filing a Lawsuit
+Discrimination by Type
+Age
+Disability
+Equal Pay
+Genetic Information
+Harassment
+National Origin Discrimination
+Pregnancy Discrimination
+Race/Color Discrimination
+Religious Discrimination
+Retaliation
+Sex
+Sexual Harassment
+Employers / Small Business
+Employers / Small Business
+Overview
+Coverage
+After a Charge is Filed
+Resolving a Charge
+Commissioner Charges
+Directed Investigations
+Remedies
+Small Business Resource Center
+Small Business Home
+Small Business Requirements
+Frequently Asked Questions
+Tips for Small Businesses
+Making an Employment Decision?
+EEOC Resources
+Small Business Assistance
+Small Business Fact Sheet
+Small Business Videos
+EEOC Glossary
+Contact Us
+Discrimination by Type
+Age
+Disability
+Equal Pay
+Genetic Information
+Harassment
+National Origin
+Pregnancy
+Race/Color
+Religion
+Retaliation
+Sex
+Sexual Harassment
+Prohibited Practices
+Recordkeeping
+EEO Data Collections
+"Know Your Rights" Poster
+Training
+Other Employment Issues
+Federal Sector
+Federal Agencies
+Overview
+Federal EEO Coordination
+Federal Agency EEO Directors
+EEOC Legal Resources
+Management Directives & Federal Sector Guidance
+Federal Training & Outreach
+Resources
+Federal Employees & Job Applicants
+Overview
+Federal Complaint Process
+Federal Sector Alternative Dispute Resolution
+Prohibited Practices
+Resources
+Contact Us
+Contact EEOC
+Find Your Nearest Office
+Office Operating Status
+How to File a Charge
+Public Portal
+Home
+Federal Sector
+Federal Sector Reports
+Promising Practices for Preventing Harassment in the Federal Sector
+Promising Practices for Preventing Harassment in the Federal Sector
+Download this document as a PDF file
+.
+The U.S. Equal Employment Opportunity Commission (EEOC)'s mission is to prevent and remedy unlawful employment discrimination and advance equal opportunity for all in the workplace. The EEOC is responsible for monitoring federal agency compliance with equal employment opportunity (EEO) laws and regulations and assessing whether agencies are maintaining affirmative employment programs that promote EEO, in accordance with the federal government’s objective of being a model employer.
+Equal Employment Opportunity Management Directive 715 (MD-715), issued October 1, 2003, establishes standards for ensuring that agencies take proactive steps to develop and maintain model EEO programs.
+[1]
+These standards are also used to measure and report on the status of the federal government’s model employer efforts. MD-715 lists measures agencies must implement to stop and prevent workplace harassment, which remains a concern in the federal sector.
+[2]
+Since at least fiscal year (FY) 2011, harassment has been the number one issue alleged in employment discrimination complaints filed against federal agencies. In fact, since FY 2018, harassment has been alleged in over half of federal sector EEO complaints.
+[3]
+In 2016, a report from the co-chairs of the EEOC’s bipartisan
+Select Task Force on the Study of Harassment in the Workplace
+identified five core principles that have generally proven effective in preventing and addressing harassment:
+Committed and engaged leadership.
+Consistent and demonstrated accountability.
+Strong and comprehensive anti-harassment policies.
+Trusted and accessible complaint procedures.
+Regular, interactive training tailored to the audience and the organization.
+[4]
+The Co-Chairs’ recommendations were aimed at a range of stakeholders, including federal agencies.
+In 2017, the EEOC issued a technical assistance document entitled
+Promising Practices for Preventing Harassment
+that contains practices within these core principles to assist all employers in preventing and addressing harassment.
+[5]
+Building on the 2017 document and other previous EEOC technical assistance and guidance, this document focuses on promising practices for preventing and addressing harassment within the federal civilian workforce. It is intended to serve as a resource to help federal agencies prevent and remedy harassment and to assist agencies as they work to update or revise their anti-harassment policies and programs. Many of the practices identified may also be helpful to practitioners outside of the federal government.
+This document contains practices that are required by MD-715, as well as a non-exhaustive list of additional promising practices recommended by the EEOC. Although federal agencies are not required to adopt the additional recommended practices, they are strongly urged to consider adoption to improve their anti-harassment programs, prevent workplace harassment, and promote effective compliance with the law. An agency’s implementation of the identified practices does not constitute a defense to a harassment complaint, but it will enhance the agency’s compliance efforts. Harassment claims, like all claims of employment discrimination, are fact-specific, and analysis of such claims and agencies’ liability will be based on the applicable legal principles and the facts and circumstances of the claims.
+[6]
+Each section of this document provides a list of relevant requirements and recommendations. Some practices may apply to multiple sections and may be listed more than once.
+A. Leadership and Accountability
+MD-715 explains federal agencies’ responsibilities with respect to establishing and maintaining model EEO programs.
+[7]
+As set forth in MD-715, demonstrated commitment and accountability from agency leadership are essential to a model federal agency EEO program.
+[8]
+Moreover, preventing and correcting harassment is essential to securing equal employment opportunities for applicants and employees.
+Under MD-715, federal agency heads and senior leaders must:
+Ensure the agency has an anti-harassment program that is separate and distinct from the EEO program. This anti-harassment program should have neutral staff outside of the entity involved in the allegation who are responsible for promptly, thoroughly, and impartially investigating allegations of harassment and taking immediate and appropriate corrective action.
+[9]
+Ensure the agency has sufficient funding, personnel, and other resources to help prevent and respond to harassment and retaliation.
+Ensure that investigations of harassment allegations begin within 10 calendar days of receipt of harassment allegations.
+[10]
+The following are examples of promising practices that the EEOC recommends federal agency heads and senior agency leadership also undertake to demonstrate a commitment to preventing and addressing harassment:
+Issue and distribute to all employees, and prominently post, an annual anti-harassment policy statement signed by the agency head stating that harassment will not be tolerated, the type of conduct that is prohibited, how to report harassment, and the consequences of engaging in harassment and retaliation. The statement should be posted in an electronic, accessible form readily available to all employees (including those with disabilities) at all component and sub-component levels
+[11]
+Ensure anti-harassment policy statements refer and link to the agency’s anti-harassment policy and procedures.
+[12]
+Periodically meet with their relevant designated officials, such as Anti-Harassment Program Coordinators or Managers, to discuss the state of the agency’s anti-harassment program.
+[13]
+Ensure the agency periodically assesses harassment risk factors and takes appropriate preemptive steps to address and eliminate those factors.
+[14]
+Incorporate anti-harassment efforts into the agency’s strategic plan.
+[15]
+Conduct climate and exit surveys as well as review EEO complaint data to gauge the prevalence of harassment, retaliation, and other unwelcome work-related conduct. This can help the agency identify appropriate responses.
+[16]
+Consider whether/when to allow anonymous communications on organizational platforms.
+Ensure the security of virtual platforms, organizational websites, and online services. This may help prevent outside attacks and intrusion that could result not only in harassment, but also in the potential breach of confidential information.
+To help prevent and address harassment, agency leaders should consider undertaking the following actions to increase accountability in their anti-harassment efforts among managers, supervisors, EEO officials, and employees in general:
+Implement agency-wide, consistent penalties or recommended penalty ranges to be used in disciplinary actions for harassing conduct, in accordance with applicable laws and regulations.
+[17]
+Ensure that anti-harassment policies and training include the range of penalties that may be imposed on any employee who engages in harassing conduct or harassment.
+Ensure that anti-harassment policies clearly set forth who is responsible for taking corrective action when allegations have been substantiated and an individual has been found to have engaged in conduct that violates an agency’s anti-harassment policy.
+Ensure that the agency’s response to anti-harassment allegations is regularly evaluated and documented through an electronic tracking system.
+Acknowledge and reward employees, supervisors, and managers for creating and maintaining a culture in which harassment is not tolerated.
+Acknowledge and reward supervisors and managers for taking actions that prevent harassment.
+Consider the extent to which agency personnel should be ineligible for promotions or performance awards when they are found to have violated an agency’s anti-harassment policy.
+[18]
+Consider the extent to which agency personnel should be ineligible to serve in a supervisory or managerial capacity when they are found to have violated an agency’s anti-harassment policy.
+[19]
+Incorporate performance measures on harassment prevention and response into the performance evaluations of any agency staff with supervisory or managerial responsibilities.
+B. Comprehensive and Effective Anti-Harassment Policy
+A comprehensive, clear anti-harassment policy that is regularly disseminated to all employees is an essential element of an effective harassment prevention strategy, as well as a tool that may help limit federal agencies’ liability for harassment.
+[20]
+Under
+MD-715, agencies must establish
+[21]
+comprehensive anti-harassment policies and procedures.
+[22]
+EEOC requires that agency policies include the following:
+A clear, easy to understand explanation of prohibited conduct that includes the definition of prohibited harassment.
+A prohibition against harassment on all federal EEO protected bases, including race, color, sex (including sexual orientation, transgender status, and pregnancy), national origin, religion, disability, age (40 years or older), genetic information (including family medical history), and retaliation.
+A description of the agency’s anti-harassment program that includes multiple channels to report harassment, including to agency officials outside the supervisory chain of command.
+Assurance that employees who engage in protected activity, such as making complaints of harassment or providing information related to such complaints, will be protected against retaliation.
+Assurance that the agency will take corrective action to prevent or address harassing conduct before it becomes unlawful.
+Assurance that agency representatives will keep the identity of individuals who report harassment, alleged victims, witnesses, and alleged harassers (as well as information related to harassment investigations) confidential to the extent possible, consistent with legal obligations and the need to conduct a thorough and impartial investigation.
+Assurance that the agency will conduct a prompt, thorough, and impartial investigation of harassment allegations that begins within 10 calendar days of the agency becoming aware of such allegations.
+[23]
+Assurance that the agency will take immediate and appropriate corrective action when harassment is found to have occurred.
+To make anti-harassment policies as comprehensive and effective as possible, the EEOC recommends implementing additional promising practices, including the following:
+Explicit assurance that the policy applies to employees at every level of the agency, as well as to applicants.
+[24]
+Assurance that the agency’s policy also prohibits unwelcome conduct on non-EEO bases (e.g., political affiliation, parental status, marital status) and an explanation about how to report such conduct, in addition to conduct related to EEO protected bases.
+Assurance that bullying, intimidation, and stalking will not be tolerated by the agency.
+[25]
+An easy-to-understand description of prohibited conduct that includes practical examples of harassment that are tailored to the agency’s specific workplace and workforce.
+Discussion of how the agency’s anti-harassment policy may be violated through work-related conduct that occurs on virtual platforms, including social media.
+An explanation that the use of agency-issued devices, such as laptops and cell phones, to engage in online harassment and abuse, including sexual harassment or racial harassment, among other types of harassment, communicated through email, work-based chat/messaging platforms, and text messaging and phone calls will not be tolerated.
+Specific discussion of technology-facilitated gender based-violence and online harassment and abuse.
+A clear explanation of the distinction between the EEO process and the agency’s anti-harassment program, and an explanation that, pursuant to 29 CFR § 1614.105, the job applicant or employee must generally initiate contact with an EEO Counselor within 45 calendar days of the most recent harassing actions to begin the EEO complaint process, regardless of the processing of the matter through the anti-harassment program.
+[26]
+Identification of the personnel or office responsible for conducting investigations.
+[27]
+Identification of the personnel or office responsible for taking corrective action when harassment is found to have occurred.
+An explanation of the agency’s duty to investigate and correct harassment, even if alleged victims indicate they do not want the matter investigated or corrected.
+[28]
+A general time limit for concluding investigations and taking immediate and appropriate corrective action.
+[29]
+Standards and procedures for eliminating conflicts of interest in investigating harassment allegations and taking corrective actions.
+Guidance on the processes and procedures for addressing harassment allegations involving non-employees, such as contractors, guests, volunteers, or customers.
+[30]
+A statement that managers and supervisors must report harassment to agency anti-harassment programs and officials, and employees are encouraged to promptly report harassment they witness or of which they otherwise become aware.
+[31]
+To help enhance their effectiveness as part of efforts to prevent and correct harassment, agencies’ anti-harassment policies should be widely disseminated to employees.
+[32]
+This may be accomplished if the policies are:
+Written and disseminated in a clear, easy-to-understand style that uses plain English.
+[33]
+Made available onsite and online in accessible formats (as needed), such as digital formats that are compatible with screen reading software, large font, braille, and languages commonly used by employees.
+[34]
+Posted prominently on the agency’s intranet website as well as central locations in the workplace.
+Incorporated into employee handbooks.
+[35]
+Provided to all employees upon hire or detail into the agency.
+Disseminated regularly to all staff, including through attachment to the agency’s annual anti-harassment policy statement.
+Periodically reviewed and updated as needed to incorporate legal developments, trends in harassment, and changes in procedures.
+Integrated into a variety of agency trainings, including anti-harassment training, supervisory training, new employee orientation, and intern training.
+[36]
+C. Effective and Accessible Anti-Harassment Program
+To be effective, agency anti-harassment policies should not exist in a vacuum. Instead, they must be accompanied by reporting and complaint procedures to ensure the agency properly responds to harassment allegations. Toward that goal, federal agencies should have comprehensive anti-harassment programs that are dedicated to preventing harassment; promptly, thoroughly, and impartially investigating harassment allegations; and immediately and appropriately correcting harassment when it occurs. First, and foremost, this means agencies must focus on ensuring that all of their employees, particularly supervisors, managers, and those responsible for investigating harassment complaints, understand the agency’s anti-harassment procedures and know how to promptly and effectively identify, report, and address harassment.
+To help prevent unlawful harassment, an effective anti-harassment program should, among other things:
+Allow for anonymous reporting of harassment through platforms, such as hotlines and websites.
+[37]
+In providing multiple avenues and methods to report harassment beyond the supervisory chain-of-command, the program should also consider using portals, ombudspersons, human resources officials, and anti-harassment program personnel.
+Dispel the assumption that nothing can be done about anonymous harassment that occurs on the employer’s virtual network. Employers may be able to track down the identity of individuals who engage in harassment anonymously (for example, anonymously posting sexually or racially offensive comments or images during a virtual work meeting) on the employer’s network.
+Regularly inform senior leadership of the state of the agency’s anti-harassment program, including funding or other resources needed, to ensure that the program can respond promptly, thoroughly, and effectively to complaints.
+Ensure that reports of harassment or harassing conduct are well-documented through a complaint tracking system. This tracking system may be designed, for example, to record when the agency was notified of harassment allegations, the identity of the alleged harasser, details about the alleged harassment, the EEO bases involved, the dates of the alleged harassment or harassing conduct, when the investigation of allegations began and concluded, the identity of the investigator, whether harassment or harassing conduct was found to have occurred, any preventative or corrective action taken, and the identity of the person responsible for taking corrective action.
+[38]
+Engage in trend analysis of harassment complaints data and conduct and analyze regular surveys, such as workplace climate assessments.
+Provide education to employees and managers, including information about the distinction between the Anti-Harassment Program and the EEO Program.
+When an agency becomes aware of potential harassment or harassing conduct, the EEOC requires the agency to undertake the following actions:
+[39]
+Conduct a prompt, thorough, and impartial investigation that begins within 10 calendar days of agency awareness of the allegations
+[40]
+and take corrective action immediately when it is determined harassment or harassing conduct occurred.
+Conduct investigative interviews with the alleged victim, the alleged harasser, and third parties who could reasonably be expected to have relevant information.
+Ensure investigations are not conducted by individuals who have a conflict of interest or bias in the matter.
+[41]
+Protect the confidentiality of alleged victims, individuals who report harassment, witnesses, alleged harassers, and other relevant individuals to the extent possible, consistent with a thorough investigation and with relevant legal requirements.
+Ensure that corrective actions do not retaliate against or penalize the alleged victim.
+Take corrective action (including discipline) that is proportionate to the severity of the conduct, the impact on the overall workplace, the disciplinary history of the harasser, and other relevant factors.
+Ensure the anti-harassment program is made aware of harassment claims involving EEO protected bases that are raised during the EEO counseling process.
+[42]
+Additional promising practices that agencies that become aware of potential harassment or harassing conduct allegations should undertake include, for example:
+Issuing a written report documenting the investigation, findings, and recommendations, whether or not the employee chooses to file a formal complaint.
+When appropriate, including interim actions to prevent the recurrence of any harassing conduct during the investigation of allegations and prior to any effectuation of corrective actions.
+Conveying the outcome of the investigation (i.e. whether the allegations were substantiated and/or the policy found to have been violated) to the alleged victim and the alleged harasser, as well as the preventative and corrective action taken, where appropriate and consistent with relevant legal requirements.
+[43]
+Using tailored training, letters of warning, and counseling to address unwelcome conduct before it becomes unlawful or serious enough to warrant more significant disciplinary action.
+[44]
+Providing additional training to workplaces with widespread harassment that involves more than one harasser or victim.
+D. Effective Anti-Harassment Training
+To help prevent and properly address harassment, employees and management must be aware of what conduct is prohibited and how to prevent and correct it. In addition to anti-harassment policies, training conveys this information to agency employees.
+EEOC requires that federal agency anti-harassment training:
+[45]
+Must be provided periodically to non-supervisory employees as well as supervisors and managers at all levels of the agency.
+Must be sufficiently funded and resourced.
+Must be accessible to all employees, including through the provision of reasonable accommodations to individuals with disabilities.
+[46]
+Must include a clear, plain language definition of unlawful harassment and prohibited unwelcome conduct.
+Must include an explanation, including examples, that harassment is prohibited on the bases of race, color, sex (including sexual orientation, pregnancy, and transgender status), national origin, religion, disability, age (40 years or older), genetic information, and in retaliation for protected EEO activity.
+Must encourage employees to report unwelcome conduct before it rises to the level of unlawful harassment or becomes severe or pervasive.
+Must include details on how to report alleged harassment in accordance with agency policies and procedures.
+Must include examples of disability-based harassment.
+[47]
+The effectiveness of anti-harassment training will be enhanced if it is, among other things:
+Championed by senior leaders.
+Regularly revised and updated as needed.
+Tailored to the specific workforce and workplace and includes examples relevant to the specific workplace setting.
+Followed by solicitation of feedback and input from participants to improve its effectiveness.
+Provided by trainers who are experts in the topic of harassment.
+Developed using relevant social science research on harassment and retaliation.
+Routinely analyzed to measure its impact on reducing harassment and retaliation in the agency.
+Conducted (virtually or in-person) in smaller groups that foster more employee engagement and participation.
+Agencies have wide latitude to tailor anti-harassment training and information to their specific workforces. However, effective anti-harassment training should contain certain content that is specifically directed at non-supervisory or non-managerial employees, including:
+[48]
+Live, interactive discussions that allow attendees to participate and present questions and concerns to trainers.
+The use of language and concepts common to the agency.
+Multiple real-world examples and scenarios of harassment tailored to the agency’s specific workplace and workforce, rather than excessive focus on legal definitions or case law.
+Information about harassment or harassing conduct in remote environments. For example, such information may include:
+Examples of prohibited harassment in a remote or virtual work environment.
+Any changes to the reporting or investigation process as a result of remote or virtual work (for example, if reports were submitted in-person pre-pandemic, explain how remote workers can report harassment).
+The range of consequences for engaging in harassing conduct or unwelcome conduct that violates anti-harassment policies.
+An emphasis on the agency’s prohibition on retaliation for engaging in protected activity, such as reporting harassment or participating in investigations.
+Contact information for the individual(s) and/or office(s) responsible for addressing harassment questions, concerns, and complaints.
+Periodic informal sharing of information about the harassment policy and complaint procedures with staff (for example, during team meetings; in advance of events in which issues may arise, such as virtual or in-person social gatherings; or in response to high-profile current events or social movements). Training does not need to be limited to formal sessions.
+The posting of anti-harassment training materials on internal agency websites so that employees can readily access training content at any time.
+The use of workplace training focused on creating a culture of respect in the workplace and bystander intervention training as tools to help prevent unwelcome conduct from escalating to the level of unlawful harassment.
+[49]
+A clear explanation of the distinction between the EEO process and the agency’s anti-harassment program. This would include an explanation that, pursuant to 29 CFR § 1614.105, the job applicant or employee generally must initiate contact with an EEO Counselor within 45 calendar days of the most recent harassing actions to begin the EEO complaint process, regardless of the processing of the matter through the anti-harassment program.
+In order to help avoid chilling discussion among employees (and because supervisors and managers have specific responsibilities to prevent and correct harassment), agencies may consider having supervisors, managers, and other senior officials receive separate and distinct anti-harassment training that is tailored to address those responsibilities.
+[50]
+Effective harassment training for supervisors and managers may include, for example:
+Information regarding agencies’ responsibility to prevent and correct harassment.
+Specific information about what supervisors and managers should do in accordance with the agency’s anti-harassment policy and procedures when they become aware of harassment allegations or harassing conduct.
+Reminders that supervisors and managers have a responsibility to report harassing conduct they become aware of, even if the employee who experiences the harassment does not want to report it.
+Reminders that supervisors and managers are expected to report, at an appropriate level, whenever conduct is inappropriate, even if it has not yet become severe or pervasive.
+Reminders that agency officials who receive information about harassment allegations should keep that information confidential to the extent possible consistent with legal obligations and a thorough and impartial investigation.
+Potential risk factors for harassment and any actions that may be undertaken to minimize or eliminate those risks.
+Reminders that retaliation against employees who engage in protected activity, such as reporting alleged harassment or participating in harassment investigations, is strictly prohibited.
+Information about how to monitor for online harassment, including in a virtual work environment. For example, suggest that supervisors and managers:
+In individual meetings with staff, ask how employees are doing, if they have any concerns, and remind them where to find workplace policies and reporting procedures.
+Include questions about online harassment and abuse and technology-facilitated violence based on gender and/or other protected bases (e.g. cyberstalking, online sexual harassment, the non-consensual distribution of intimate images or threat to distribute an image) in anonymous climate surveys.
+Be aware of online discussions in virtual meetings or events and respond appropriately to harassing comments or conduct.
+Specific consequences for managers and supervisors who engage in harassment, retaliation, and discrimination.
+Specific consequences for managers and supervisors who do not properly report harassment allegations or harassing conduct of which they become aware.
+An invitation for managers and supervisors to provide feedback and input that will assist the agency in providing effective anti-harassment training.
+Trauma-informed training for all personnel who may receive or respond to allegations of harassment or harassing conduct.
+[1]
+MD-715 is the Management Directive that the EEOC provides to federal agencies for establishing and maintaining effective EEO programs. Compliance with MD-715 is mandatory for all Executive agencies.
+[2]
+Harassment on the bases of race, color, sex (including pregnancy, sexual orientation, and transgender status), national origin, religion, age (40 years or older), disability, and genetic information is a form of employment discrimination that violates Title VII of the Civil Rights Act of 1964 (Title VII), the Age Discrimination in Employment Act of 1967 (ADEA), the Rehabilitation Act of 1973, and the Genetic Information Nondiscrimination Act of 2008 (GINA). Retaliatory harassment is also prohibited by these statutes.
+[3]
+In FY 2018, 50.4 percent of discrimination complaints filed against federal agencies contained an unlawful harassment claim; in FY 2019, 51.1 percent of EEO complaints contained an unlawful harassment claim; in FY 2020, 53.6 percent of EEO complaints contained an unlawful harassment claim; and, in FY 2021, 52.1 percent of EEO complaints contained an unlawful harassment claim.
+[4]
+See
+Chai R. Feldblum & Victoria A. Lipnic, EEOC,
+Select Task Force on the Study of Harassment in the Workplace, Report of Co-Chairs Chai R. Feldblum & Victoria A. Lipnic
+(2016),
+https://www.eeoc.gov/eeoc/june-2016-report-co-chairs-select-task-force-study-harassmen
+t
+[hereinafter
+Select Task Force Co-Chairs' Report
+].
+[5]
+EEOC,
+Promising Practices for Preventing Harassment
+(November 21, 2017),
+https://www.eeoc.gov/laws/guidance/promising-practices-preventing-harassment
+.
+[6]
+Refraining from taking certain actions identified in MD-715 or recommended as promising practices may increase an employer’s liability risk in certain circumstances. For example, failing to develop and implement an adequate anti-harassment policy and complaint procedures may preclude an employer from establishing an affirmative defense to a harassment complaint.
+[7]
+See
+MD-715 (“Responsibilities”) (“Agency Heads are responsible for the following: 1. Ensuring compliance with this Directive and those implementing instructions issued by the EEOC in accordance with existing law and authority.”).
+See also
+29 C.F.R. § 1614.103(b)(2) (“This part applies to... Executive agencies as defined in 5 U.S.C. 105...”); and 29 C.F.R. § 1614.102(e) (“Agency [EEO] programs shall comply with this part and the Management Directives and Bulletins that the Commission issues.”).
+[8]
+MD-715, Section II.A.
+[9]
+See infra
+section C for additional information about promising practices related to anti-harassment programs.
+[10]
+MD-715, Part G, C.2.a.5.
+[11]
+Typically, agency policy statements are short (usually one or two pages long) and succinctly convey the basic message that leadership will not tolerate harassment while encouraging employees to report it without fear of retaliation. In contrast, anti-harassment policies and procedures that agencies must issue provide much more in-depth details about all aspects of an agency’s anti-harassment program (discussed in section C of this document). The EEOC recommends that agencies attach copies of anti-harassment policies and complaint procedures to their annual policy statements.
+[12]
+See infra
+section B for additional information about promising practices related to anti-harassment policies.
+[13]
+In order to ensure anti-harassment programs have appropriate authority and resources, Anti-Harassment Program Managers and Coordinators should have regular access to and an effective means of informing the agency head and other top management officials of the effectiveness, efficiency, and legal compliance needs of the agency's Anti-Harassment Program. The
+Select Task Force Co-Chairs' Report
+contains more information regarding the designation of officials to respond to harassment allegations. Additionally, agency heads should be readily available to address severe, systemic, or widespread harassment that requires immediate corrective action from senior leadership.
+[14]
+The
+Select Task Force Co-Chairs’ Report
+contains a chart with a non-exhaustive list of twelve risk factors for harassment and proposes strategies to reduce the risk of harassment. This chart is found at
+https://www.eeoc.gov/chart-risk-factors-harassment-and-responsive-strategies
+.
+[15]
+Agency strategic plans should reference EEO and diversity and inclusion principles along with a discussion of the agency’s anti-harassment efforts.
+[16]
+Agencies should exercise appropriate care when analyzing complaint data to measure the potential prevalence of harassment or retaliation. A temporary increase in harassment counseling or complaints may signify employees’ enhanced awareness of, and willingness to use, the agency’s complaint system. However, various factors—such as a long-term increase in harassment counseling or complaints, a notable increase in findings of discrimination, or similarities in alleged incidents or alleged wrongdoers—may indicate that harassment or retaliation persists.
+[17]
+When allegations are substantiated and individuals are found to have engaged in harassment or harassing conduct that violates an agency’s anti-harassment policy, those individuals should be appropriately disciplined in accordance with applicable regulations, and policies, and consistent with discipline given to similarly situated individuals under similar circumstances. Agencies are reminded that all corrective actions must be free of unlawful discrimination that would violate EEO laws.
+[18]
+Workplace harassment often has detrimental organizational effects, such as decreased workplace performance and productivity, increased employee turnover, and reputational harm. Therefore, agencies may consider withholding awards and promotions from any agency personnel who engage in egregious or repeated acts of harassment.
+[19]
+Supervisors and managers who engage in repeated or egregious acts of harassment expose the agency to a high risk of legal liability and could cause widespread negative impacts on the workplace.
+[20]
+EEOC
+Enforcement Guidance: Vicarious Liability for Unlawful Harassment by Supervisors
+(Enforcement Guidance), EEOC No. 915.002, § V.C.1 (June 18, 1999)
+.
+[21]
+Agencies should submit policies to the EEOC for approval through the Federal Sector EEO Portal (FedSEP) with annual MD-715 Reports. Agencies may seek technical assistance from OFO’s Federal Sector Programs (FSP) if questions or concerns arise when drafting anti-harassment policies. After receiving approval from the EEOC, agencies should promptly implement and disseminate their approved anti-harassment policy. Subsequent revisions or updates to approved policies should be submitted to the EEOC for approval.
+[22]
+MD-715, Part G, C.2.a;
+Enforcement Guidance
+§V.C.1.
+[23]
+We note that agencies will be liable for harassment if they knew, or should have known about the harassment, unless they can show that they took immediate and appropriate corrective action. 29 C.F.R. § 1604.11(d);
+Enforcement Guidance
+§ I. Therefore, agencies have a corresponding responsibility to investigate if they know or should know that harassing conduct or harassment may be occurring, even if an allegation has not been made.
+[24]
+See
+EEOC,
+Promising Practices for Preventing Harassment
+, note 17. It may be helpful to explain and/or provide examples of the non-employees whose actions are covered by the policy. This includes individuals who interact with the organization’s employees during the course of business, such as delivery or repair workers, security guards, food service workers, and persons employed by federal contractors.
+[25]
+Bullying, intimidation, and stalking are types of unwelcome conduct that may occur in the workplace. This conduct may constitute unlawful harassment if based on a protected characteristic and if sufficiently severe or pervasive. As such, agencies should immediately and appropriately address unwelcome conduct before it escalates or recurs.
+See
+EEOC,
+Questions and Answers: The Application of Title VII and the ADA to Applicants or Employees Who Experience Domestic or Dating Violence, Sexual Assault, or Stalking
+(October 12, 2012),
+https://www.eeoc.gov/laws/guidance/questions-and-answers-application-title-vii-and-ada-applicants-or-employees-who
+. Additionally, although agencies should emphasize that harassment will not be tolerated, they should avoid stating they have “zero tolerance” for harassment because this phrase is associated with automatic firing and may discourage reporting by those who only want the behavior to stop rather than have the harasser fired.
+[26]
+The EEO process is designed to make individuals whole for discrimination that already has occurred through damage awards and equitable relief paid by the agency.
+See
+Albemarle Paper Co. v. Moody
+, 422 U.S. 405 (1975
+).
+However, the EEO process does not provide immediate correction of harassment and cannot require an agency to discipline its employees.
+See
+Cagle v. U.S. Postal Service
+, EEOC Appeal No. 01903198 (Aug. 10, 1990). The internal anti-harassment program, on the other hand, is intended to take immediate and appropriate corrective action, including the use of disciplinary actions, to eliminate harassing conduct regardless of whether the conduct violated the law. Ultimately, the goal of the anti-harassment program is to prevent harassing conduct before it becomes “severe or pervasive.”
+See
+EEOC,
+Model EEO Programs Must Have An Effective Anti-Harassment Program
+(2005),
+https://www.eeoc.gov/federal-sector/model-eeo-programs-must-have-effective-anti-harassment-program
+.
+[27]
+“Personnel” refers to job titles, rather than the names of specific agency officials.
+[28]
+The duty of an agency to promptly, thoroughly, and impartially investigate harassment and take immediate and appropriate corrective action through the anti-harassment program is triggered by agency awareness of alleged harassment. Therefore, the duty to undertake these actions exists even if the complainant or alleged victim does not want the agency to investigate or correct the alleged harassment.
+[29]
+In
+Tammy S. v. Dep't of Defense
+(Defense Intelligence Agency), EEOC No. 0120084008 (June 6, 2014),
+https://www.eeoc.gov/decisions/0120084008.txt
+, the EEOC found the agency did not take immediate corrective action when it waited two months to stop the harassing conduct. The EEOC recommends that agency anti-harassment policies provide corrective action within 60 calendar days of agency awareness of harassment if it is found that harassment occurred. In many situations, however, agencies will need to take appropriate corrective action much sooner than 60 days, such as when taking interim action to ensure harassment does not recur while an investigation is pending or disciplinary action is effectuated.
+[30]
+Because agencies are responsible for preventing and correcting harassment involving and/or impacting employees committed by both employees and non-employees, anti-harassment policies and procedures should specify that coverage includes harassment committed by non-employees.
+[31]
+Although anti-harassment policies should encourage employees to promptly report harassment, they should not establish a required time limit for reporting it.
+[32]
+Enforcement Guidance,
+§ V.C.1.
+[33]
+EEOC’s
+Model EEO Programs Must Have An Effective Anti-Harassment Program
+, “Suggestions for Improving Anti-Harassment Policies and Procedures,” at 1(b); MD-715, Part G, A.2.a.1.
+[34]
+Section 508 of the Rehabilitation Act of 1973 requires agencies to provide individuals with disabilities access to information comparable to the access available to others, unless doing so would be an undue burden on the agency.
+[35]
+Enforcement Guidance
+, § V.C.1.
+[36]
+See infra
+section D for additional information about promising practices related to anti-harassment training.
+[37]
+Depending on the information provided, agencies may have sufficient notice of harassment through anonymous reports to trigger their responsibility to investigate and take appropriate corrective and preventive action. Organizations that allow employees to submit anonymous complaints telephonically, online, or through other platforms may request that employees provide pertinent information, such as the names of the alleged harasser(s), alleged victim(s), and any witnesses; the date(s) of the alleged harassment; the location(s) of the alleged harassment; and a description of the alleged harassment, while recognizing that anonymous complaints may not provide all of the requested information. Additionally, agencies should remind employees who report anonymously about EEO and anti-harassment program complaint options.
+[38]
+Comprehensive tracking of harassment allegations can assist agencies in meeting their legal obligation to take immediate and appropriate corrective action. Additionally, tracking systems may help agencies establish an affirmative defense to liability in some cases of harassment.
+See
+the EEOC’s
+Model EEO Programs Must Have An Effective Anti-Harassment Program, “Suggestions for Improving Anti-Harassment Policies and Procedures.”
+[39]
+MD-715, Part G, C.2.a;
+Enforcement Guidance
+§V.C.1.
+[40]
+MD-715, Part G, C.2.a.5.
+[41]
+Exceptionally small agencies may have difficulty in using internal personnel to investigate harassment allegations and determining appropriate corrective actions because they often have a conflict of interest in these matters. Additionally, a conflict of interest may exist when harassment allegations involve senior officials, EEO staff, or anti-harassment program personnel. Small agencies may prevent conflicts of interest by having agreements with other agencies and contractors to provide anti-harassment program services in such circumstances.
+[42]
+See
+MD-715, Part G, C.2.a.4. Complainants should be informed of the agency’s obligation and intent to notify its anti-harassment program of harassment allegations related to EEO protected bases when such claims are raised within the EEO process. When relaying this information to the agency’s anti-harassment program, the EEO office should share critical information about the harassment allegation. This includes the type of conduct or comments at issue, the identity of the alleged harasser (if known), the dates of the alleged conduct, the location of the alleged incident(s), possible witnesses, and any documentation and information pertinent to the allegations. During EEO counseling, an aggrieved individual may remain anonymous, which means an agency generally should not disclose the name of the alleged victim to the anti-harassment program in those cases. EEO offices should relay harassment allegations to agency anti-harassment programs in a manner that preserves confidentiality, except as necessary to conduct a thorough and fair investigation and meet legal obligations. Therefore, harassment allegations should only be shared with persons who have a need to know about them.
+[43]
+To address potential privacy concerns related to sharing corrective or disciplinary action, federal agencies may consider: (1) maintaining harassment complaint records that include information about corrective or disciplinary action by victims’ names or (2) ensuring that the agency's complaint records system includes a routine use permitting disclosure of corrective or disciplinary action to victims.
+Promising Practices for Preventing Harassment
+, note 30.
+[44]
+To the extent appropriate, agencies may also consider using Alternative Dispute Resolution to assist in preventing and addressing prohibited conduct or conduct that could eventually rise to the level of prohibited conduct.
+[45]
+MD-715, Part G;
+Enforcement Guidance
+§V.C.
+[46]
+Additionally, agencies should make training materials and resources available in all languages commonly used by employees.
+[47]
+MD-715, Part G, C.2.a.6.
+[48]
+Although this subsection contains content that is specifically focused on non-supervisory or non-managerial employees, the topics in this subsection are relevant to all agency employees, including supervisors and managers. Therefore, the recommendations in this subsection can also be used in supervisory and managerial training.
+[49]
+See
+, for example,
+Select Task Force Co-Chairs' Report
+(describing workplace civility and bystander intervention training that “show significant promise for preventing harassment in the workplace”); Lilia Cortina,
+Written Testimony for the June 20, 2016 Commission Meeting
+,
+https://www.eeoc.gov/eeoc/meetings/6-20-16/cortina.cfm
+(describing and providing examples of workplace civility training); Dorothy J. Edwards,
+Written Testimony for the October 22, 2015 Meeting of the EEOC Select Task Force on the Study of Harassment in the Workplace,
+https://www.eeoc.gov/eeoc/task_force/harassment/10-22-15/edwards.cfm
+(describing bystander intervention training Green Dot); Melissa Emmal,
+Written Testimony for the October 22, 2015 Meeting of the EEOC Select Task Force on the Study of Harassment in the Workplace,
+https://www.eeoc.gov/eeoc/task_force/harassment/10-22-15/emmal.cfm
+(describing the successful implementation of Green Dot training in Anchorage). Agencies may wish to consult with legal counsel prior to implementing new training.
+[50]
+MD-715, Part G, B.5.a.
+Return to top
+U.S. Equal Employment Opportunity Commission
+EEOC Headquarters
+131 M Street, NE
+Washington, DC 20507
+1-800-669-6820
+(TTY)
+1-844-234-5122
+(ASL Video Phone)
+Questions?
+Call 1-800-669-4000
+For Deaf/Hard of Hearing callers:
+1-800-669-6820
+(TTY)
+1-844-234-5122
+(ASL Video Phone)
+info@eeoc.gov
+Find your nearest EEOC office
+Connect With Us
+FOIA
+Privacy Policy
+Disclaimer
+Accessibility
+Office of Inspector General
+USA.gov

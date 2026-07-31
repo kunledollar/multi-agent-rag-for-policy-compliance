@@ -1,0 +1,34 @@
+{
+  "key": "eeoc",
+  "group": "hr",
+  "organization": "U.S. Equal Employment Opportunity Commission",
+  "authority_type": "federal_guidance",
+  "jurisdiction": "United States",
+  "scope": "Federal equal-employment, discrimination, harassment, retaliation, and accommodation guidance",
+  "seed_urls": [
+    "https://www.eeoc.gov/eeoc-guidance",
+    "https://www.eeoc.gov/regulations-and-guidelines",
+    "https://www.eeoc.gov/laws"
+  ],
+  "allowed_hosts": [
+    "eeoc.gov",
+    "www.eeoc.gov"
+  ],
+  "include_patterns": [
+    "guidance",
+    "laws",
+    "regulation",
+    "harassment",
+    "discrimination",
+    "retaliation",
+    "accommodation",
+    ".pdf"
+  ],
+  "exclude_patterns": [
+    "/newsroom",
+    "/contact",
+    "/field-office"
+  ],
+  "max_depth": 2,
+  "max_documents": 160
+}

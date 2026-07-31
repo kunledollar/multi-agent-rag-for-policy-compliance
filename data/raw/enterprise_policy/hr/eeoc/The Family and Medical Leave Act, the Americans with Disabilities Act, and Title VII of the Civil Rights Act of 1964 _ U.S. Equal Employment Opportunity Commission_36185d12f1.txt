@@ -1,0 +1,756 @@
+The Family and Medical Leave Act, the Americans with Disabilities Act, and Title VII of the Civil Rights Act of 1964 | U.S. Equal Employment Opportunity Commission
+Skip to main content
+An official website of the United States government
+Here’s how you know
+Here’s how you know
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive
+information only on official, secure websites.
+U.S. Equal Employment Opportunity Commission
+Menu
+Header Navigation
+Online Filing
+Public Portal
+Attorney E-file
+Locations
+Operating Status
+Languages
+English
+Español (Spanish)
+Resources in Other Languages
+عربي (Arabic)
+简体中文 (Chinese, Simplified)
+繁體中文 - Chinese (Traditional)
+Kreyòl Ayisyen (Haitian Creole)
+한국어 (Korean)
+Русском (Russian)
+Português (Portuguese)
+Tagalog (Tagalog)
+ไทย (Thai)
+Tiếng Việt (Vietnamese)
+فارسی (Persian. Farsi)
+پښتو (Pashto)
+Toggle Search Form
+Any of these words
+(optional)
+Search
+About EEOC
+About EEOC
+Overview
+The Commission and The General Counsel
+Meetings of the Commission
+Commission Votes
+EEOC History
+News and Information
+Newsroom
+What You Should Know
+Legislative Affairs
+Publications
+Outreach and Education
+FOIA
+Laws and Enforcement
+EEOC Legal Resources
+Mediation
+Litigation
+Systemic Enforcement
+Commissioner Charges
+Directed Investigations
+Programs and Performance
+Budget and Performance
+Initiatives
+Interagency Programs
+State and Local Programs
+Task Forces
+Tribal Programs
+Data and Analytics
+Overview
+Data Governance
+EEO Data Collections
+Data and Statistics
+Data Tools and Products
+No FEAR Act Data
+Inside EEOC
+Careers
+Office for Civil Rights
+Doing Business with EEOC
+AI Governance
+Privacy
+Office of Inspector General
+Employees & Job Applicants
+Employees & Applicants
+Overview
+Coverage
+Timeliness
+Prohibited Practices
+Filing a Charge of Discrimination
+Filing a Charge
+How to File
+After You File a Charge
+Confidentiality
+Mediation
+Remedies
+Existing Charges
+Filing a Lawsuit
+Discrimination by Type
+Age
+Disability
+Equal Pay
+Genetic Information
+Harassment
+National Origin Discrimination
+Pregnancy Discrimination
+Race/Color Discrimination
+Religious Discrimination
+Retaliation
+Sex
+Sexual Harassment
+Employers / Small Business
+Employers / Small Business
+Overview
+Coverage
+After a Charge is Filed
+Resolving a Charge
+Commissioner Charges
+Directed Investigations
+Remedies
+Small Business Resource Center
+Small Business Home
+Small Business Requirements
+Frequently Asked Questions
+Tips for Small Businesses
+Making an Employment Decision?
+EEOC Resources
+Small Business Assistance
+Small Business Fact Sheet
+Small Business Videos
+EEOC Glossary
+Contact Us
+Discrimination by Type
+Age
+Disability
+Equal Pay
+Genetic Information
+Harassment
+National Origin
+Pregnancy
+Race/Color
+Religion
+Retaliation
+Sex
+Sexual Harassment
+Prohibited Practices
+Recordkeeping
+EEO Data Collections
+"Know Your Rights" Poster
+Training
+Other Employment Issues
+Federal Sector
+Federal Agencies
+Overview
+Federal EEO Coordination
+Federal Agency EEO Directors
+EEOC Legal Resources
+Management Directives & Federal Sector Guidance
+Federal Training & Outreach
+Resources
+Federal Employees & Job Applicants
+Overview
+Federal Complaint Process
+Federal Sector Alternative Dispute Resolution
+Prohibited Practices
+Resources
+Contact Us
+Contact EEOC
+Find Your Nearest Office
+Office Operating Status
+How to File a Charge
+Public Portal
+Home
+Laws
+guidance
+The Family and Medical Leave Act, the Americans with Disabilities Act, and Title VII of the Civil Rights Act of 1964
+The Family and Medical Leave Act, the Americans with Disabilities Act, and Title VII of the Civil Rights Act of 1964
+Issuing Authority
+This technical assistance document was issued upon approval of the Chair of the U.S. Equal Employment Opportunity Commission.
+OLC Control Number
+EEOC-NVTA-1995-2
+Concise Display Name
+The Family and Medical Leave Act, the Americans with Disabilities Act, and Title VII of the Civil Rights Act of 1964
+Issue Date
+11-01-1995
+General Topics
+Sex, Disability, Accommodations, Leave
+Summary
+This document addresses common questions about Title VII and the ADA in situations where the FMLA also applies.
+Citation
+Title VII, ADA, 29 CFR Part 1630
+Document Applicant
+Employees, Employers, Applicants, HR Practitioners
+Previous Revision
+No
+Disclaimer
+The contents of this document do not have the force and effect of law and are not meant to bind the public in any way. This document is intended only to provide clarity to the public regarding existing requirements under the law or agency policies.
+Notice Concerning The Americans With Disabilities Act Amendments Act Of 2008
+This document was issued prior to enactment of the Americans with Disabilities Act Amendments Act of 2008 (ADAAA), which took effect on January 1, 2009.  The ADAAA broadened the statutory definition of disability, as summarized in this
+list of specific changes.
+The Family and Medical Leave Act,
+the Americans with Disabilities Act, and
+Title VII of the Civil Rights Act of 1964
+This fact sheet was prepared by the Equal Employment Opportunity
+Commission's (EEOC) Office of Legal Counsel.  It is intended to
+provide technical assistance on some common questions that have
+arisen about the Americans with Disabilities Act of 1990 (ADA)
+and Title VII of the Civil Rights Act of 1964 (Title VII) when
+the Family and Medical Leave Act of 1993 (FMLA) also applies.
+Introduction
+Background
+1.   Q:     What is the relationship between requirements of the
+FMLA,1 the ADA,2 and Title VII3?
+A:     The FMLA and the ADA both require a covered employer
+to grant medical leave to an employee in certain
+circumstances.4  The FMLA and Title VII both have
+requirements governing leave for pregnancy and
+pregnancy-related conditions.
+In addition, under Title VII, employers must not
+discriminate on the basis of race, color, religion,
+sex, or national origin when they provide family or
+medical leave.
+2.   Q:     Who enforces the FMLA?
+A:     The Department of Labor enforces the FMLA.  The EEOC
+has no enforcement responsibility for the FMLA.
+3.   Q:     When did the FMLA go into effect?
+A:     The FMLA went into effect on August 5, 1993.5  The
+FMLA final rule became effective on April 6, 1995.6
+Basic FMLA Requirements
+4.   Q:     What leave is an employee entitled to under the FMLA?
+A:     Under the FMLA, an "eligible"7 employee may take up
+to 12 workweeks of leave during any 12-month period
+for one or more of the following reasons:
+(1)     The birth of a child, and to care for the
+newborn child;
+(2)     The placement of a child with the employee
+through adoption or foster care, and to care
+for the child;8
+(3)     To care for the employee's spouse, son,
+daughter, or parent with a serious health
+condition; and
+(4)     Because a serious health condition makes the
+employee unable to perform one or more of the
+essential functions of his or her job.9
+5.   Q:     What other rights do "eligible" employees have in
+conjunction with FMLA leave?
+A:     During FMLA leave, an employer must maintain the
+employee's existing level of coverage under a group
+health plan.10  At the end of FMLA leave, an employer
+must take an employee back into the same or an
+equivalent job.11
+When FMLA, ADA and Title VII Coverage Overlap
+6.   Q:     What employers are covered by the FMLA, the ADA and
+Title VII?
+A:     The FMLA covers private employers with 50 or more
+employees.12  The ADA and Title VII cover private
+employers with 15 or more employees.13  Thus, only
+those private employers with 50 or more employees are
+covered concurrently by the FMLA, the ADA and Title
+VII.14
+State and local government employers are covered by
+the ADA and the FMLA, regardless of the number of
+employees.15  State and local government employers
+are covered by Title VII, however, only if they have
+15 or more employees.16
+7.   Q:     Are all employees who are protected by Title VII or
+the ADA also entitled to leave under the FMLA?
+A:     No.  Employees protected by Title VII or the ADA must
+be independently "eligible" for FMLA leave.
+"Eligibility" for FMLA leave depends on several
+factors, for example, length of service.17  In
+addition, an individual must be employed by an FMLA-
+covered employer with 50 or more employees to obtain
+FMLA leave.  See Question 6.
+The ADA and the FMLA
+FMLA "serious health condition" and ADA "disability"
+8.   Q:     What is a "serious health condition" under the FMLA?
+A:     An FMLA "serious health condition" is "an illness,
+injury, impairment, or physical or mental condition
+that involves . . . [i]npatient care . . . or
+[c]ontinuing treatment by a health care provider."18
+9.   Q:     Is an FMLA "serious health condition" the same as an
+ADA "disability"?
+A:     No.  An FMLA "serious health condition" is not
+necessarily an ADA "disability."  An ADA "disability"
+is an impairment that substantially limits one or
+more major life activities, a record of such an
+impairment, or being regarded as having such an
+impairment.
+Some FMLA "serious health conditions" may be ADA
+disabilities, for example, most cancers and serious
+strokes.  Other "serious health conditions" may not
+be ADA disabilities, for example, pregnancy or a
+routine broken leg or hernia.  This is because the
+condition is not an impairment (e.g., pregnancy), or
+because the impairment is not substantially limiting
+(e.g., a routine broken leg or hernia).
+In addition, the fact that an individual has a record
+of a "serious health condition" does not necessarily
+mean that s/he has a record of an ADA disability.
+Under the ADA, an individual must have a record of a
+substantially limiting impairment in order to be
+covered.
+Finally, just because someone has a "serious health
+condition" also does not mean that the employer
+regards him/her as having an ADA disability.  To
+satisfy this prong of the ADA definition of
+"disability," the employer must treat the individual
+as having an impairment that substantially limits one
+or more major life activities.19
+To determine if an individual has an ADA disability,
+all pertinent evidence, including any information
+about whether the individual has or had a "serious
+health condition," should be considered.  Under the
+FMLA regulations, employers must allow EEOC
+investigators to review pertinent FMLA medical
+certifications and recertifications, and other
+relevant materials, upon request.20
+Medical Certifications, Inquiries and Confidentiality
+10.  Q:     Is there a conflict between the FMLA provision
+allowing employers to ask for certification that an
+employee has a serious health condition and ADA
+restrictions on disability-related inquiries of
+employees?
+A:     No.  When an employee requests leave under the FMLA
+for a serious health condition, employers will not
+violate the ADA by asking for the information
+specified in the FMLA certification form.  The FMLA
+form only requests information relating to the
+particular serious health condition, as defined in
+the FMLA, for which the employee is seeking leave.
+An employer is entitled to know why an employee, who
+otherwise should be at work, is requesting time off
+under the FMLA.  If the inquiries are strictly
+limited in this fashion, they would be "job-related
+and consistent with business necessity" under the
+ADA.21
+11.  Q:     May an employer keep a single confidential medical
+file for each employee, separate from the usual
+personnel file, for medical documentation under both
+the ADA and the FMLA?
+A:     Yes.  An employer may keep a single confidential
+medical file, separate from the usual personnel file,
+containing both FMLA and ADA medical information if
+the employer follows the ADA confidentiality
+standards.  This includes following the ADA
+interpretations of those confidentiality exceptions
+that are set forth in both the ADA and the FMLA
+regulations.22  For example, employers may not give
+supervisors and managers unlimited access to the
+medical files.  However, employers may give
+supervisors and managers information concerning
+necessary work restrictions and accommodations.23
+Comparison of ADA and FMLA Leave
+12.  Q:     Does the FMLA's limit of 12 workweeks of leave in a
+12- month period mean that the ADA also limits
+employees to 12 weeks of leave per year?
+A:     No.  The FMLA does not mean that more than 12 weeks
+of unpaid leave automatically imposes an undue
+hardship for purposes of the ADA.  An otherwise
+qualified individual with a disability is entitled to
+more than 12 weeks of unpaid leave as a reasonable
+accommodation if the additional leave would not
+impose an undue hardship on the operation of the
+employer's business.  To evaluate whether additional
+leave would impose an undue hardship, the employer
+may consider the impact on its operations caused by
+the employee's initial 12-week absence, along with
+the undue hardship factors specified in the ADA.  See
+29 C.F.R. § 1630.2(p).
+13.  Q:     How do the ADA and the FMLA requirements compare
+regarding intermittent or occasional leave?
+A:     Under the ADA, a qualified individual with a
+disability may work part-time in his/her current
+position, or occasionally take time off, as a
+reasonable accommodation if it would not impose an
+undue hardship on the employer.  If (or when) reduced
+hours create an undue hardship in the current
+position, the employer must see if there is a vacant,
+equivalent position for which the employee is
+qualified and to which the employee can be reassigned
+without undue hardship while working a reduced
+schedule.  If an equivalent position is not
+available, the employer must look for a vacant
+position at a lower level for which the employee is
+qualified.  Continued accommodation is not required
+if a vacant position at a lower level is also
+unavailable.24
+The ADA does not prohibit an employer and an employee
+from agreeing on another mutually acceptable
+accommodation.  For example, an employer and employee
+may agree to a transfer, on either a temporary or a
+permanent basis, if both parties believe that such a
+transfer is preferable to accommodating the employee
+in his/her current position.
+Under the FMLA, an "eligible" employee may take leave
+intermittently or on a part-time basis25 for his or
+her own "serious health condition" when medically
+necessary for treatment or recovery, until s/he has
+used up the equivalent of 12 workweeks in a 12-month
+period.26  When such leave is foreseeable based on
+planned medical treatment, an employer may require
+the employee to temporarily transfer (for the
+duration of the leave) to an available alternative
+position for which the employee is qualified and
+which better suits his/her reduced hours.27
+14.  Q:     What are employees' reinstatement rights under the
+ADA and the FMLA?
+A:     Under the ADA, the employee is entitled to return to
+the same job unless the employer demonstrates that
+holding the job open would impose an undue hardship.
+In some instances, an employee may request more leave under
+the ADA even after the employer has communicated that it
+cannot hold the employee's job open any longer (i.e., there
+is undue hardship).  In this situation, the ADA-covered
+employer must see if it has a vacant, equivalent position
+for which the employee is qualified and to which the
+employee can be reassigned without undue hardship to
+continue his/her leave.  If an equivalent position is not
+available, the employer must look for a vacant position at
+a lower level.  Continued accommodation is not required if
+a vacant position at a lower level is also unavailable.28
+In other instances, an employer may hold the original
+position open, and the employee may want to return to work,
+but may be unable to perform an essential function of the
+original position even with reasonable accommodation.
+Under the ADA, the employer must then consider
+reassignment, first to a vacant equivalent position for
+which the individual is qualified and, if one is
+unavailable, to a vacant position at a lower level.
+Further accommodation is not required if a vacant position
+at a lower level is also unavailable.
+Under the FMLA, an employee is entitled to return to the
+same position or to an equivalent position.29  However, if
+an employee is unable to perform an essential function of
+the same or equivalent position because of a physical or
+mental condition, the FMLA does not require the employer to
+reinstate the employee into another job.30
+15.  Q:     Do the ADA and the FMLA require an employer to continue an
+employee's health insurance coverage during medical leave?
+A:     Under the ADA, an employer must continue health insurance
+coverage for an employee taking leave or working part- time
+only if the employer also provides coverage for other
+employees in the same leave or part-time status.  The
+coverage must be on the same terms normally provided to
+those in the same leave or part-time status.
+Under the FMLA, an employer always must maintain the
+employee's existing level of coverage (including family or
+dependent coverage) under a group health plan during the
+period of FMLA leave, provided the employee pays his or her
+share of the premiums.31  An employer may not discriminate
+against an employee using FMLA leave, and therefore must
+also provide such an employee with the same benefits (e.g.,
+life or disability insurance) normally provided to an
+employee in the same leave or part-time status.32
+ADA Compliance When the FMLA Also Applies
+16.  Q:     If an individual requests time off for medical treatment,
+should the employer treat this as a request for FMLA leave
+and ADA reasonable accommodation?
+A:     If an employee requests time off for a reason related or
+possibly related to a disability (e.g., "I need six weeks
+off to get treatment for a back problem"), the employer
+should consider this a request for ADA reasonable
+accommodation as well as FMLA leave.  The employer may
+require FMLA certification33 and may make additional
+disability-related inquiries if necessary to decide whether
+the employee is entitled to reasonable accommodation
+because s/he also has a covered disability.  However, if
+the employee states that s/he only wants to invoke rights
+under the FMLA, the employer should not make additional
+inquiries related to ADA coverage.
+17.  Q:     When both the ADA and the FMLA apply, how should the
+employer determine which terms and conditions govern the
+employee's initial 12 weeks of medical leave?
+A:     Under the FMLA rule, an employer must provide leave under
+whichever statutory provision provides the greater rights
+to employees.34  For examples of how this principle is
+applied, see the FMLA rule at §§ 825.702(b)-(e).
+18.  Q:     As an alternative to a leave of absence, may an employer
+offer an effective reasonable accommodation that will
+enable an employee to continue working?
+A:     An employer may offer an employee a reasonable
+accommodation other than the leave s/he requested under the
+ADA, as long as it is effective.35  For example, an
+employer may offer an assistive device, an opportunity to
+work reduced hours in the employee's current job, or a
+temporary assignment to another job, if these are effective
+accommodations.
+However, if the individual is "eligible" for leave under
+the FMLA and has a serious health condition that prevents
+him/her from performing an essential job function, s/he has
+the right to take a leave of absence of up to 12 workweeks
+in 12 months, even if s/he could continue working with an
+effective reasonable accommodation.36  While the FMLA does
+not prevent an employee from accepting an alternative to
+leave, the acceptance must be voluntary and uncoerced.37
+The ADA and Family Leave
+19.  Q:     Does the ADA require an employer to give an employee
+time off to care for a spouse, son, daughter, parent or
+other individual with a disability?
+A:     The ADA's reasonable accommodation obligation does not
+require a covered employer to give an employee time off to
+care for a spouse, son, daughter, parent or other
+individual with a disability with whom the employee has a
+relationship.38  However, an employer would be required to
+provide leave on the same terms as it normally provides
+leave to employees who need to care for someone who is
+ill.39
+Title VII and the FMLA
+Leave for Pregnancy, Childbirth and Related Conditions
+20.  Q:     Under Title VII, what rights do women have to take leave
+for pregnancy, childbirth and related conditions?
+A:     If an employer offers temporary or short-term disability
+leave, Title VII requires the employer to treat pregnancy
+and related conditions the same as non-pregnancy
+conditions.40
+For example, if an employer provides up to 8 weeks paid
+leave for temporary medical conditions, the employer must
+provide up to 8 weeks paid leave for pregnancy or related
+conditions.
+21.  Q:     Can a leave policy that complies with the FMLA violate
+Title VII?
+A:     Yes.  An employee is protected by anti-discrimination laws
+such as Title VII regardless of how long s/he has been on
+the job, but an employee is not eligible for FMLA leave
+until s/he has been employed for 12 months.  Thus, an
+employer policy that denies pregnancy leave during the
+first year of employment, but provides leave for other
+medical conditions, would discriminate against pregnant
+women in violation of Title VII.  Additionally, a neutral
+policy that prohibits any employee from taking sick leave
+or short-term disability leave during the first year of
+employment could have a disparate impact on women and thus
+violate Title VII.
+Title VII and Family Leave
+22.  Q:     Does Title VII require covered employers to give employees
+leave to care for an ill child or family member?
+A:     Title VII in itself does not require employers to give
+employees leave to care for an ill child or family member.
+However, Title VII prohibits covered employers from
+discriminating on the basis of race, color, religion, sex,
+or national origin when they administer family leave.
+For example, if an employer allowed a woman but not a man
+to take 12 weeks of leave to care for a newly-adopted or
+placed child, the man would have a Title VII cause of
+action because the employer administered family leave in a
+discriminatory way based on gender.
+As another example, if an employer allowed a woman to take
+3 weeks of childcare leave in addition to leave necessary
+to recuperate from childbirth, but declined to permit a man
+to take 3 weeks of childcare leave, the man would have a
+Title VII cause of action because the employer administered
+family leave in a discriminatory way based on gender.
+Referral of Individuals with FMLA Questions or Complaints
+23.  Q:     Who should be contacted for information about the FMLA or
+to file FMLA complaints?
+A:     For additional information about the FMLA, or to file an
+FMLA complaint, individuals should contact the nearest
+office of the Wage and Hour Division, Employment Standards
+Administration, U.S. Department of Labor.  The Wage and
+Hour Division is listed in most telephone directories under
+U.S. Government, Department of Labor.
+For further information, contact the Office of Legal Counsel's
+Attorney of the Day at (202) 921-2539.
+This fact sheet is available upon request in alternative formats.
+Write or call EEOC's Office of Communications and Legislative Affairs,
+1801 L Street, N.W., Washington, D.C. 20507, (202) 663- 4900,
+TDD (202) 663-4494.
+The purpose of this fact sheet is to provide technical assistance to
+individuals interested in the relationship between the ADA, Title VII,
+and the FMLA.  It is not a formal Commission policy document.
+1.     0     References to the FMLA are to Titles I and IV of the
+Family and Medical Leave Act of 1993.
+2.     0     References to the ADA are to Title I of the Americans
+with Disabilities Act of 1990, as amended.
+3.     0     References to Title VII are to Title VII of the Civil
+Rights Act of 1964, as amended.
+4.     0     Under the ADA, unpaid medical leave is a reasonable
+accommodation and must be provided to an otherwise qualified
+individual with a disability unless (or until) it imposes an undue
+hardship on the operation of the employer's business.  See
+29 C.F.R. pt. 1630 app. § 1630.2(o).  No set amount of leave is
+required as a reasonable accommodation under the ADA.
+5.     0     If a collective bargaining agreement was in effect on
+August 5, 1993, the FMLA did not become effective for employees
+covered by the agreement until February 5, 1994, or the date the
+agreement expired, whichever was earlier.  29 C.F.R. § 825.102(a).
+6.     0     29 C.F.R. Part 825, published at 60 Fed. Reg. 2180
+(January 6, 1995), as amended at 60 Fed. Reg. 6658 (February 3, 1995)
+and 60 Fed. Reg. 16382 (March 30, 1995).
+While the text of this document stands on its own, FMLA
+regulatory citations are provided in footnotes for those readers who
+need to obtain a more detailed understanding of certain FMLA
+provisions.
+7.     0     See footnote 17 below for the FMLA definition of
+"eligible" employee.
+8.     0     Leave for (1) and (2) above must be concluded within 12
+months of the birth or placement, unless state law or the employer
+allows a longer leave period.  29 C.F.R. § 825.201.
+9.     0     29 C.F.R. § 825.200(a).  For purposes of this provision,
+the FMLA rule incorporates by reference the ADA definition of
+"essential functions."  Id. at § 825.115.  See question 8 for a
+discussion of "serious health condition."
+10.     0     Id. at § 825.209.
+11.     0     Id. at § 825.214.
+12.     0     Id. at § 825.104.
+13.     0     42 U.S.C. § 12111(5)(A)(ADA); 42 U.S.C. § 2000e(b)(Title
+VII).
+14.     0     Note that the FMLA has special requirements for public
+and private elementary and secondary schools, due to the unique nature
+of education.  For purposes of coverage, public and private elementary
+and secondary schools are covered by the FMLA regardless of the number
+of employees.  29 C.F.R. §§ 825.104(a), 825.600.  Thus, any elementary
+or secondary school covered by the ADA and Title VII is also covered
+by the FMLA.
+15.     0     29 C.F.R. §§ 825.104(a), 825.108 (FMLA);
+28 C.F.R. § 35.140 (ADA Title II covers all public employers without
+regard to the number of employees, and ADA Title I standards apply by
+incorporation);  29 C.F.R. § 1630.2(e)(ADA Title I applies to all
+employers with 15 or more employees, including state and local
+governments).
+16.     0     42 U.S.C. § 2000e(b)(definition of "employer").
+17.     0     Employees are "eligible" for FMLA leave if they:  (1)
+have been employed by a "covered" employer for at least 12 months,
+which need not be consecutive; (2) had at least 1,250 hours of service
+during the 12-month period immediately before the leave started; and
+(3) are employed at a worksite where the employer employs 50 or more
+employees within 75 miles.  29 C.F.R. § 825.110.
+An "eligible" employee must meet additional FMLA requirements in
+order to take medical leave because of his/her own "serious health
+condition."  A health care provider must find that the employee is
+unable to work at all, or is unable to perform any one of the
+essential functions of his/her job, due to the "serious health
+condition."  29 C.F.R. §§ 825.115, 825.200(a)(4).  The FMLA rule
+incorporates the ADA definition of "essential functions" here.  Id.
+at § 825.115.
+18.     0     29 C.F.R. §§ 825.114(a)(1),(2).  The FMLA regulations
+explain that "inpatient care" means at least an overnight stay at a
+health care facility, and includes any related period of incapacity
+or subsequent treatment relating back to the inpatient care.  Id. at
+§ 825.114(a)(1).  "Continuing treatment by a health care provider"
+covers five situations: (1) incapacity of more than three consecutive
+calendar days that involves either (a) treatment two or more times by
+a health care provider (or under the direction or orders of a health
+care provider), or (b) treatment by a health care provider on at least
+one occasion resulting in a regimen of continuing treatment under the
+supervision of the health care provider; (2) any period of incapacity
+due to pregnancy, or for prenatal care; (3) any period of incapacity
+or treatment due to a chronic serious health condition requiring
+periodic visits for treatment, including episodic conditions such as
+asthma, diabetes, and epilepsy; (4) a period of incapacity which is
+permanent or long-term due to a condition for which treatment may not
+be effective, although the individual is under the continuing
+supervision of a health care provider  (e.g., Alzheimer's, severe
+stroke, or the terminal stages of a disease); and (5) any period of
+absence to receive multiple treatments from a health care provider
+(or on orders or referral from a health care provider) for restorative
+surgery or for a condition that would likely result in an absence of
+more than three consecutive calendar days without treatment (e.g.,
+cancer (chemotherapy, radiation), severe arthritis (physical therapy),
+kidney disease (dialysis)).  Id. at § 825.114 (a)(2).
+19.     0     For a detailed discussion of the ADA definition of
+disability, see Compliance Manual Section 902, Definition of the Term
+"Disability."
+20.     0     See 29 C.F.R. § 825.500(g)(3).
+21.     0     See 29 C.F.R. § 1630.14(c)(ADA).
+22.     0     There is also an exception to the applicable
+confidentiality requirements for government officials investigating
+compliance with the FMLA, pursuant to § 825.500(g)(3) of the FMLA
+regulations.
+23.     0     29 C.F.R. § 1630.14(c)(1) (ADA); 29 C.F.R. § 825.500(g)
+(FMLA).  See generally "ADA Enforcement Guidance:  Preemployment
+Disability-Related Questions and Medical Examinations" at 21-23
+(discussion of confidentiality)(October 10, 1995).
+24.     0     42 U.S.C. § 12111(9)(B)(reassignment to a vacant
+position is a reasonable accommodation); 29 C.F.R. § 1630.2(o)(2)(ii)
+(same); "A Technical Assistance Manual on the Employment Provisions
+(Title I) of the Americans with Disabilities Act," at III-24 to III-25
+(discussing reassignment to a vacant position).
+25.     0     "Intermittent leave" is FMLA leave taken in separate
+blocks of time due to a single reason, for example pregnancy, when
+leave may be used intermittently for prenatal care examinations or
+episodes of severe morning sickness.  FMLA leave also may be used to
+change an employee's schedule for a period of time, normally from
+full-time to part-time.  29 C.F.R. § 825.203.
+26.     0     29 C.F.R. § 825.203(c).
+27.     0     Id. at § 825.204(a); see also special rules governing
+intermittent leave for instructional employees at §§ 825.601, 825.602
+(accounting for factors such as the importance of teacher continuity
+and summer vacations).
+Note that a qualified individual with a disability who is using
+FMLA leave to work reduced hours, and/or has been temporarily
+transferred into another job under the FMLA, may also need a
+reasonable accommodation (e.g., special equipment) to perform an
+essential function of the job.  See 29 C.F.R. § 825.204(b).
+28.     0     See supra note 24 (reassignment as a reasonable
+accommodation).
+29.     0     29 C.F.R. § 825.214.  As an exception to the FMLA's
+general guarantee of reinstatement, an employer may deny reinstatement
+(but may not deny leave) to a "key" employee if restoration would
+cause "substantial and grievous economic injury," provided certain
+conditions are met.  29 C.F.R. § 825.216(c).  A "key" employee is "a
+salaried FMLA-eligible employee who is among the highest paid 10
+percent of all the employees employed by the employer within 75 miles
+of the employee's worksite."  Id. at § 825.217.  The FMLA's
+"substantial and grievous economic injury" standard is different from
+and more stringent than the "undue hardship" test under the ADA.
+Id. at  § 825.218(d).
+30.     0     29 C.F.R. § 825.214(b).
+31.     0     Id. at §§ 825.209, 825.210.
+32.     0     29 C.F.R. § 825.220(c).
+33.     0     For a discussion of when an employee must provide
+medical certification to support FMLA leave, see 29 C.F.R. § 825.305.
+34.     0     29 C.F.R. § 825.702(a).
+35.     0     29 C.F.R. pt. 1630 app. § 1630.9.
+36.     0     29 C.F.R. § 825.702(d)(1).
+37.     0     29 C.F.R. § 825.220(d).
+38.     0     The FMLA, in contrast, requires an employer to grant
+leave to an eligible employee to care for the employee's spouse, son,
+daughter, or parent with a serious health condition.
+29 C.F.R. § 825.112(a)(3).  The FMLA rule defines "spouse," "son,"
+"daughter," and "parent" at 29 C.F.R. § 825.113.
+39.     0     29 C.F.R. § 1630.8 (relationship or association with an
+individual with a disability).
+40.     0     See 29 C.F.R. § 1604.10(b).  See generally 29 C.F.R.
+pt. 1604 app. (Questions and Answers on the Pregnancy Discrimination
+Act).
+Return to top
+U.S. Equal Employment Opportunity Commission
+EEOC Headquarters
+131 M Street, NE
+Washington, DC 20507
+1-800-669-6820
+(TTY)
+1-844-234-5122
+(ASL Video Phone)
+Questions?
+Call 1-800-669-4000
+For Deaf/Hard of Hearing callers:
+1-800-669-6820
+(TTY)
+1-844-234-5122
+(ASL Video Phone)
+info@eeoc.gov
+Find your nearest EEOC office
+Connect With Us
+FOIA
+Privacy Policy
+Disclaimer
+Accessibility
+Office of Inspector General
+USA.gov

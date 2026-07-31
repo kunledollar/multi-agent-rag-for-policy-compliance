@@ -1,0 +1,29 @@
+{
+  "key": "opm",
+  "group": "hr",
+  "organization": "U.S. Office of Personnel Management",
+  "authority_type": "federal_workforce_policy",
+  "jurisdiction": "United States",
+  "scope": "Federal workforce policy, hiring, performance, leave, records, and employee relations",
+  "seed_urls": [
+    "https://www.opm.gov/policy-data-oversight/"
+  ],
+  "allowed_hosts": [
+    "opm.gov",
+    "www.opm.gov"
+  ],
+  "include_patterns": [
+    "policy-data-oversight",
+    "guidance",
+    "handbook",
+    "guide",
+    ".pdf"
+  ],
+  "exclude_patterns": [
+    "/news",
+    "/about-us",
+    "/contact"
+  ],
+  "max_depth": 2,
+  "max_documents": 180
+}

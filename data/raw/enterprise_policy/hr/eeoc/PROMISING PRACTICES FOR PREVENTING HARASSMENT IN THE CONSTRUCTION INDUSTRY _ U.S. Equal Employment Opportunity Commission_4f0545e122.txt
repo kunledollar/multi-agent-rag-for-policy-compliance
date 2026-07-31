@@ -1,0 +1,563 @@
+PROMISING PRACTICES FOR PREVENTING HARASSMENT IN THE CONSTRUCTION INDUSTRY | U.S. Equal Employment Opportunity Commission
+Skip to main content
+An official website of the United States government
+Here’s how you know
+Here’s how you know
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive
+information only on official, secure websites.
+U.S. Equal Employment Opportunity Commission
+Menu
+Header Navigation
+Online Filing
+Public Portal
+Attorney E-file
+Locations
+Operating Status
+Languages
+English
+Español (Spanish)
+Resources in Other Languages
+عربي (Arabic)
+简体中文 (Chinese, Simplified)
+繁體中文 - Chinese (Traditional)
+Kreyòl Ayisyen (Haitian Creole)
+한국어 (Korean)
+Русском (Russian)
+Português (Portuguese)
+Tagalog (Tagalog)
+ไทย (Thai)
+Tiếng Việt (Vietnamese)
+فارسی (Persian. Farsi)
+پښتو (Pashto)
+Toggle Search Form
+Any of these words
+(optional)
+Search
+About EEOC
+About EEOC
+Overview
+The Commission and The General Counsel
+Meetings of the Commission
+Commission Votes
+EEOC History
+News and Information
+Newsroom
+What You Should Know
+Legislative Affairs
+Publications
+Outreach and Education
+FOIA
+Laws and Enforcement
+EEOC Legal Resources
+Mediation
+Litigation
+Systemic Enforcement
+Commissioner Charges
+Directed Investigations
+Programs and Performance
+Budget and Performance
+Initiatives
+Interagency Programs
+State and Local Programs
+Task Forces
+Tribal Programs
+Data and Analytics
+Overview
+Data Governance
+EEO Data Collections
+Data and Statistics
+Data Tools and Products
+No FEAR Act Data
+Inside EEOC
+Careers
+Office for Civil Rights
+Doing Business with EEOC
+AI Governance
+Privacy
+Office of Inspector General
+Employees & Job Applicants
+Employees & Applicants
+Overview
+Coverage
+Timeliness
+Prohibited Practices
+Filing a Charge of Discrimination
+Filing a Charge
+How to File
+After You File a Charge
+Confidentiality
+Mediation
+Remedies
+Existing Charges
+Filing a Lawsuit
+Discrimination by Type
+Age
+Disability
+Equal Pay
+Genetic Information
+Harassment
+National Origin Discrimination
+Pregnancy Discrimination
+Race/Color Discrimination
+Religious Discrimination
+Retaliation
+Sex
+Sexual Harassment
+Employers / Small Business
+Employers / Small Business
+Overview
+Coverage
+After a Charge is Filed
+Resolving a Charge
+Commissioner Charges
+Directed Investigations
+Remedies
+Small Business Resource Center
+Small Business Home
+Small Business Requirements
+Frequently Asked Questions
+Tips for Small Businesses
+Making an Employment Decision?
+EEOC Resources
+Small Business Assistance
+Small Business Fact Sheet
+Small Business Videos
+EEOC Glossary
+Contact Us
+Discrimination by Type
+Age
+Disability
+Equal Pay
+Genetic Information
+Harassment
+National Origin
+Pregnancy
+Race/Color
+Religion
+Retaliation
+Sex
+Sexual Harassment
+Prohibited Practices
+Recordkeeping
+EEO Data Collections
+"Know Your Rights" Poster
+Training
+Other Employment Issues
+Federal Sector
+Federal Agencies
+Overview
+Federal EEO Coordination
+Federal Agency EEO Directors
+EEOC Legal Resources
+Management Directives & Federal Sector Guidance
+Federal Training & Outreach
+Resources
+Federal Employees & Job Applicants
+Overview
+Federal Complaint Process
+Federal Sector Alternative Dispute Resolution
+Prohibited Practices
+Resources
+Contact Us
+Contact EEOC
+Find Your Nearest Office
+Office Operating Status
+How to File a Charge
+Public Portal
+Home
+PROMISING PRACTICES FOR PREVENTING HARASSMENT IN THE CONSTRUCTION INDUSTRY
+This is archived content from the U.S. Equal Employment Opportunity Commission. The information here may be outdated and links may no longer function. Please contact
+webmaster@eeoc.gov
+if you have any questions about the archive site.
+PROMISING PRACTICES FOR PREVENTING HARASSMENT IN THE CONSTRUCTION INDUSTRY
+Download a PDF version of this document
+The U.S. Equal Employment Opportunity Commission (EEOC) is the primary federal agency charged by Congress with enforcing the nation’s workplace civil rights laws. The EEOC is responsible for enforcing federal laws that make it illegal to discriminate against a job applicant or an employee because of race, color, religion, sex (including gender identity, sexual orientation, and pregnancy, childbirth, or related medical conditions), national origin, age (40 or older), disability or genetic information. The EEOC’s mission is to prevent and remedy unlawful employment discrimination—including harassment and retaliation—and advance equal employment opportunity for all through education and outreach, technical assistance, and enforcement.
+Harassment remains a serious problem in our nation’s workplaces. Over a third of the charges the EEOC received between fiscal year (FY) 2019 and FY 2023 included an allegation of harassment based on one or more of the characteristics protected under federal employment law.
+[1]
+While workplace harassment is an issue in all sectors and industries, it is prevalent on many construction jobsites,
+[2]
+and some of the most egregious incidents of harassment investigated by the EEOC have arisen in the construction industry.
+[3]
+The nature of the construction industry includes a number of risk factors that may increase the likelihood of harassment, including workforces that are primarily male, workplaces where there is pressure to conform to traditional stereotypes, and decentralized workplaces.
+[4]
+These factors may be exacerbated by the presence of multiple employers on a worksite,
+[5]
+and the cyclical, project-based nature of construction.
+Harassment imposes immediate costs on those who are subject to it, and harassment based on race, sex, and national origin is also a significant barrier to recruiting and retaining women and people of color in construction.
+[6]
+It is also a workplace safety issue. Because construction work is potentially hazardous and often performed in teams, harassment on construction sites can endanger workers’ physical safety and increase the chance of injury.
+[7]
+The EEOC’s
+Strategic Enforcement Plan (SEP) for Fiscal Years 2024-2028
+prioritizes combatting systemic harassment in all forms and on all prohibited bases. The SEP also includes a focus on industries where women and workers of color are underrepresented, especially industries that benefit from substantial federal investment, like construction. The EEOC intends to address systemic harassment in construction using a variety of tools, such as encouraging commitment and coordination from every entity with a presence on a construction worksite, including all employers (contractors and subcontractors), unions, apprenticeship programs, and staffing agencies.
+This document identifies promising practices for industry leaders to help prevent and address harassment in the construction industry. It recommends that general contractors take on a coordination and leadership role on the construction worksite. This document draws from and builds upon the EEOC’s
+existing resources on workplace harassment
+, including the 2024
+Enforcement Guidance on Harassment in the Workplace
+, the 2016
+Report of the Co-Chairs of the Select Task Force on the Study of Harassment in the Workplace
+(“the Co-Chair Task Force Report”), and subsequent companion documents on promising practices.
+[8]
+The practices discussed in this document may assist covered entities in meeting their legal obligations to maintain harassment-free workplaces and remedy harassment if it arises, which will in turn promote safety on the job.
+[9]
+The contents of this document do not have the force and effect of law, do not create any new obligations or duties under federal law, and are not meant to bind the public in any way. This document is intended only to provide promising practices that employers may wish to consider in working to prevent and address harassment in the construction industry.
+Core Principles and Promising Practices for Combatting Harassment
+The Co-Chair Task Force Report identified five core principles that have generally proven effective in preventing and addressing harassment:
+Committed and engaged leadership;
+Consistent and demonstrated accountability;
+Strong and comprehensive harassment policies;
+Trusted and accessible complaint procedures; and
+Regular, interactive training tailored to the audience and the organization.
+This document applies these core principles to the specific challenges and opportunities in the construction industry. Although this document focuses on construction, many of the promising practices identified may also be helpful in other industries and workplaces.
+A. Leadership and Accountability
+The cornerstone of a successful harassment prevention strategy is leadership’s consistent and demonstrated commitment to create and maintain a culture in which harassment is not acceptable. Worksite leaders—from the project owner to crew leads to union stewards—should clearly, frequently, and unequivocally message and demonstrate that harassment is prohibited. Approaches include:
+Treating Harassment Prevention Holistically
+Project owners and general contractors should consider prioritizing and emphasizing worksite-wide collaboration to prevent and correct harassment. While every onsite entity has its own legal obligations and potential liabilities, the project owners and general contractor can play an important oversight and coordination function by maintaining an overarching focus on the shared responsibility of fostering a harassment-free workplace. The EEOC recommends that:
+Project leaders strive to prevent and address harassment against ALL workers on a site, whether or not those workers are covered by anti-discrimination laws.
+General contractors refer smaller subcontractors or staffing agencies
+[10]
+that may need assistance with their legal responsibilities under federal anti-discrimination laws to the EEOC’s
+resources for employers and small businesses
+, including employer checklists, harassment risk factors and responsive strategies, harassment policy tips, and contact information for the EEOC’s small business liaisons.
+Unions
+can help prevent and address harassment in construction workplaces by:
+Including and consistently abiding by a commitment to preventing and remedying harassment in their governing documents and in negotiated workplace agreements.
+Serving as a critical resource for members who may need assistance in identifying the appropriate reporting channels to utilize, such as in situations when it is unclear which entities are responsible for remedying harassment.
+Continuing to support and promote efforts to help ensure apprenticeship and pre-apprenticeship programs are fully inclusive and do not have unnecessary barriers to entry for workers from underrepresented groups.
+Supporting efforts to help ensure that apprenticeship and pre-apprenticeship programs are fostering and maintaining harassment-free worksite training environments.
+[11]
+Developing guidance and promising practices for representing members subject to harassment, including offering advice for addressing allegations of harassment against a fellow union member.
+[12]
+Including Anti-Harassment Measures in Contract Bids
+Any project owner or sponsor—including a state or local government—should consider requiring that contract bids include a plan to prevent and address workplace harassment. Similarly, general contractors can include corresponding provisions in any agreements with subcontractors and staffing agencies to ensure ongoing compliance. These bid requirements (verified at the time of award) and corresponding contract provisions could include that the bidder maintain:
+An effective and comprehensive harassment policy that accounts for anticipated potential accessibility barriers, such as limited literacy skills or language access needs;
+An accessible complaint system with multiple reporting channels that are clearly identified and provide contact information;
+Regular and effective training for all workers about the harassment policy and complaint system, including training that retaliation for reporting or reasonably opposing harassment is against the law, as well as training for designated individuals about how to prevent, recognize, and respond to objectionable conduct without retaliation; and/or
+A discipline policy that is prompt, consistent, and proportionate to the severity of the harassment or related misconduct, such as retaliation.
+General Contractors Serving in a Coordinating Role
+In addition to ensuring compliance with its own internal policies, the general contractor is typically well positioned to coordinate harassment prevention across a worksite and serve as a backstop for resolving difficult issues. For example, the EEOC recommends that general contractors:
+Consider providing or coordinating sitewide preventive measures, such as training.
+General contractors may be well positioned to determine the scope and substance of training, including whether bystander training
+[13]
+may be appropriate.
+Consider monitoring the actions of subcontractors and staffing agencies to ensure adherence to such measures and providing supportive resources as needed.
+Convene, in coordination with a union if applicable, a sitewide leadership committee that meets regularly to coordinate on preventing discrimination and harassment and to identify emerging issues and collaborate to develop solutions. Such a committee could seek to include input from civic groups that are representative of the broader community, such as tradeswomen organizations and pre-apprenticeship and apprenticeship programs, to benefit from their expertise. The committee should be led by an individual with knowledge of EEO policies and authority to implement change.
+If a workplace safety committee already exists, consider whether it is appropriate to expand its scope to issues that may give rise to safety incidents such as workplace harassment, mental health, and substance use disorders.
+Periodically verify that their subcontractors are following through with their harassment-prevention commitments by:
+Ensuring that subcontractors are complying with obligations set out in their contracts;
+Monitoring the effectiveness of subcontractors’ efforts to prevent and correct harassment, which could include conducting tests or spot checks of their harassment complaint procedures;
+Reviewing training materials to determine whether they include accurate and sufficient information about harassment policies, complaint procedures, and related topics, such as retaliation; and
+Ensuring that concerns or complaints regarding harassment policies, complaint systems, or trainings are addressed appropriately and that any necessary changes are implemented and communicated to workers.
+When subcontractors lack the experience or resources to resolve an issue, take inadequate steps to address or prevent harassment, or fail to take reasonable corrective action in response to harassment, consider facilitating and assisting subcontractors in finding solutions, especially when harassment is occurring between workers from different employers.
+When circumstances warrant, work with the subcontractor’s management team to remove or bar harassers from the worksite.
+As appropriate, acknowledge and thank individuals on the worksite who take action to prevent or address workplace harassment.
+Evaluating Policies and Seeking Feedback
+When building in workforce accountability, general contractors are encouraged to seek feedback from workers about the worksite’s collective anti-harassment efforts. For example, the general contractor or relevant committee should consider:
+Conducting anonymous worker surveys on a regular basis to assess whether harassment may be occurring. Worksite leaders may wish to explore ways to seek quick, simple feedback, including through mobile phones, to serve as an early indicator of any emerging concerns, rather than relying on lengthy surveys designed to be taken on a computer. This provides an opportunity to intervene and correct any problems at an early stage. Repeating the survey regularly could get the views of new workers at later stages of the project and evaluate progress.
+Partnering with researchers to evaluate the worksite’s harassment prevention strategies.
+B. Comprehensive and Clear Harassment Policies
+A comprehensive, clear policy against harassment sets forth the behaviors that are unacceptable in the workplace, the procedures workers are encouraged to follow when reporting harassment, and the steps that the employer will follow when responding to complaints or reports of harassment. The policies should be developed with input from supervisors and managers who have a role in implementing them. Employers should solicit input of workers to ensure the policies are understandable to individuals at all levels, positions, and locations. Policies should be communicated regularly in an accessible format to all workers on a worksite, including employees, independent contractors, and workers placed by a staffing agency. When communicating these policies, employers should take into account the language access needs of workers, including those with limited literacy skills or limited proficiency in English, or workers with a disability. The policies should be communicated whenever workers cycle onto a project—distributing or posting the policy once at the outset of a project is likely insufficient to inform workers who join the project after it begins. In some cases, a general contractor may wish to make available its own policies or suggested model policies for subcontractors to adopt.
+The EEOC recommends including the following elements in a comprehensive anti-harassment policy:
+A clear description of who is covered by the policy
+, such that people covered by the policy can understand that it prohibits certain conduct by and toward coworkers, apprentices, applicants, independent contractors, temporary workers, worksite inspectors, onsite vendors, or any other people likely to be on the worksite.
+A clear description of prohibited conduct, with examples tailored to the work environment,
+such as taunting tradeswomen when they are performing a difficult or dangerous task or vandalizing the toolboxes or personal protective equipment of Black workers. Certain conduct may be more likely to constitute unlawful harassment when it occurs in high-risk environments like construction.
+An unequivocal statement that harassment is prohibited
+. Anti-harassment policies do not have to be limited to characteristics explicitly covered by law, and employers should consider extending their policies to cover additional factors that may make a worker more vulnerable to harassment in a construction environment (e.g., apprenticeship status, undocumented status).
+A description of complaint and reporting processes
+and where to find more information about them.
+A statement that workers are encouraged to report harassment, bullying, or other inappropriate conduct
+even if they are not sure if the conduct violates the policy. Early notification enables the employer to promptly address problematic conduct before it may result in a legal violation, and limits potential harm to workers.
+A commitment that the employer will provide a prompt, impartial, and thorough investigation
+, and that the employer will keep the identity of individuals who report harassment, alleged targets, witnesses, and alleged harassers confidential to the extent possible and permitted by law, to allow the employer to conduct an effective investigation.
+A statement that workers are encouraged to respond
+to questions or to otherwise participate in investigations regarding alleged harassment.
+An assurance that the employer will take immediate, reasonable, and proportionate corrective action
+if it determines that harassment has occurred. The policy should outline the range of possible consequences for engaging in prohibited conduct and not rely on the term “zero-tolerance,” which may have the unintended consequence of deterring reporting.
+[14]
+An unequivocal statement that retaliation is prohibited
+, and that individuals who report harassing conduct, participate in investigations, or take any other actions protected under federal employment discrimination laws will not be penalized or retaliated against for doing so.
+In construction, such retaliation may include blackballing, transferring to a different worksite, or cutting hours worked of the target of harassment (and/or anyone who supported the target and their allegations). Retaliatory transfers and hours reductions may significantly impact workers’ ability to build long-term trusted relationships with coworkers and impair career advancement.
+For example, one way to identify and address possible retaliation would be for any entity with access to hours worked information to cross-reference retaliation complaints and hours worked and scrutinize any correlation.
+The EEOC recommends that employers ensure that anti-harassment policies are accessible to all workers in the following ways:
+Written and communicated in a clear, easy to understand style and format in all languages commonly used by workers at the site
+. Because of the decentralized nature of many construction worksites, consider creative ways to make policies readily available on an ongoing basis, including through a company app, messaging app, or web portal that workers can access on their mobile phones.
+Posted in consistent and easy-to-find places
+like the location of the morning meeting, or near restrooms, breakrooms, or timeclocks. A general contractor could consider:
+Posting its own anti-harassment policy;
+Providing a space for other relevant entities (such as subcontractors and staffing agencies) to post their anti-harassment policies;
+Making the anti-harassment policy continuously available on the employer’s website and/or digital platforms used by applicants and employees;
+Notifying all workers that they should have received an anti-harassment policy at the time of hire, and describing where such policies are located;
+Offering to help workers locate any policy upon request; and
+Identifying individuals who can answer questions about harassment policies and complaint procedures.
+Kept up to date.
+Ensure that the latest version of each entity’s policy is reviewed regularly, updated as needed, and posted and distributed to all workers.
+If multiple entities on site have their own policies, it may be advantageous for all policies to be reviewed for consistency
+by a single designated person (or relevant committee) at the worksite. Absent a workplace committee, the general contractor may be well positioned to review each policy for content and overall alignment and share feedback with the subcontractor, staffing agency, or other entity that created the policy.
+C. Effective and Accessible Harassment Complaint System
+In the construction context, the complexity of the multiple employer/entity environment introduces challenges to traditional reporting structures, but also presents opportunities to turn multiple channels into a “no wrong door” environment.
+[15]
+While each onsite employer should have its own complaint system, the general contractor may also wish to coordinate supplemental channels that are available to workers regardless of their employer of record. Additionally, registered apprentices should be able to report harassment to their program sponsor.
+An effective harassment complaint system welcomes questions, concerns, and complaints; encourages employees to report potentially problematic conduct early; treats alleged targets of harassment, complainants, witnesses, alleged harassers, and others with respect; operates promptly, thoroughly, and impartially; and imposes appropriate consequences for harassment or related misconduct, such as retaliation.
+The EEOC recommends that a harassment complaint system:
+Be fully resourced and accessible in languages commonly used by workers
+, enabling the employer to respond promptly, thoroughly, and effectively to complaints.
+Include multiple ways to complain, both formally and informally
+. Reporting channels should be clearly identified, and the policy should include contact information for those who can receive complaints. Workers may be reluctant to file a formal complaint reporting harassment. While a formal complaint leading to an investigation may often be the best route, there may be circumstances in which a target of harassment primarily wants the harassment to stop and prefers an alternative option.
+In addition to existing legal posting requirements, a strong harassment policy educates workers on available avenues to contact local, state, and federal enforcement agencies to learn more about their rights or to file a complaint.
+Have more than one channel.
+Providing multiple channels for workers to complain about harassment helps to ensure that a complainant who is harassed by their immediate supervisor can lodge a complaint with a different employer representative, which reduces the risk of retaliation.
+Describe the information the entity may request
+from complainants, including: the identity of the alleged harasser(s), alleged target(s), and any witnesses; the date(s) of the alleged harassment; the location(s) of the alleged harassment; and a description of the alleged harassment.
+Given the multiple employer/entity nature of many construction worksites, a complainant may not be able to provide all requested information, such as the identity or employer of an alleged harasser. In those cases, the EEOC recommends that employers encourage complainants to provide as much information as possible, while also assuring them that the employer(s) responding to the complaint will assist the complainant with identifying an alleged harasser, if in question, and their employer, to the extent feasible.
+Include processes to determine whether alleged targets of harassment, individuals who report harassment, witnesses, or other relevant individuals are subjected to retaliation, and impose sanctions on those responsible
+.
+The cyclical, project-based nature of construction may facilitate or mask retaliation. The EEOC recommends that a complaint system actively account for those risks, such as monitoring whether any site transfers involve individuals participating in a harassment investigation, and whether the individual consents to the transfer.
+Ensure that the individuals who are responsible for receiving complaints are well-trained
+and are granted the requisite authority to meaningfully investigate complaints.
+Clarify that once a complaint is made and an investigation underway, relevant supervisors should remain vigilant
+and use the tools at their disposal to mitigate ongoing harassment and retaliation in a way that doesn’t penalize the person who filed a complaint. A complaint filing should not suggest to supervisors that they take no action of any kind.
+Upon completing its investigation, the employer should inform the complainant and alleged harasser of its determination
+and any corrective action that it will be taking, subject to applicable privacy laws.
+The general contractor can play an oversight and coordinating role with regard to complaint systems across a worksite by:
+Seeking to ensure that all workers have multiple reporting channels to complain.
+For example, confirming that every subcontractor has implemented a complaint channel, and then also providing an anonymous hotline for all workers.
+Considering use of shared, site-wide alternate complaint channels such as an ombudsperson or a hotline that accepts anonymous complaints.
+Training all workers on existing complaint channels, such as through an apprentice’s registered program.
+Requiring each onsite employer to notify the general contractor of complaints it receives so that the general contractor can ensure that complaints are resolved promptly and effectively, without retaliation. The general contractor may also wish to periodically review complaints holistically and take action to address any patterns.
+Requiring each onsite employer to notify the general contractor of any complaint it may receive about the conduct of any worker, even if that worker is employed by a different entity. This enables the general contractor to facilitate re-routing the complaint to the most appropriate employer. It also provides visibility so that the general contractor can look out for and prevent any cross-entity retaliation.
+Periodically testing the complaint systems in place throughout the worksite to ensure they are working as intended and identifying and addressing any breakdowns. For example, an HR representative could call the hotline and ensure that the required next steps are followed.
+D. Effective Harassment Training
+Regular, interactive, and comprehensive training of all workers on a construction site can help ensure that the workforce understands applicable rules, policies, procedures, and expectations, as well as the consequences of misconduct. As with all aspects of harassment prevention, the training should be provided in a clear, easy to understand style in all languages commonly used by onsite workers.
+Harassment Trainings may be most effective when they are:
+Tailored to the workforce and work environment.
+Developed and presented with input from worksite leaders and a cross-section of workers, including those in different trades, positions, and at different seniority levels. This will help ensure that the content, format, and delivery is inclusive, effectively tailored, and better received by the audience.
+Championed by senior leaders, including project owners/sponsors, general contractor leadership, crew leads/forepersons, and union representatives.
+Repeated and reinforced regularly, and, if appropriate, presented in brief segments, such as at the worksite morning meeting or through a toolbox talk. Such training can be repeated throughout a project’s lifecycle to reach workers newly arrived onsite.
+In most situations, live, interactive trainings are recommended. Given the dynamic nature of construction workforces, providing training through an interactive module accessible via mobile phone, or watching a series of shorter video clips and having a follow-up guided discussion about the clips, may be more feasible than live trainers.
+Workers should be provided adequate time during the workday to complete training, whether online or in-person, including any follow up discussions or supplemental training.
+Structured to facilitate open communication. This may be best accomplished by holding separate sessions for supervisors/managers and non-supervisory employees to better tailor the sessions to their responsibilities and to encourage more frank conversations.
+Provided to workers, temps, apprentices, and supervisors (this applies regardless of whether they are employees or independent contractors or other types of workers), at all levels, supported by union representatives, and reinforced by apprenticeship programs, which should have their own policies and procedures.
+Routinely evaluated by participants and revised as necessary.
+Multifaceted to include expectations of civil and respectful treatment of others in the workplace. Such training should be structured so as not to discourage workers from reporting or opposing harassing conduct or otherwise interfering with their statutory rights.
+The EEOC recommends comprehensive harassment trainings that include:
+Descriptions of prohibited harassment, including offensive or unsafe conduct that may constitute harassment in the particular context of construction.
+Descriptions and tailored examples of conduct that could constitute retaliation, along with an explanation of the types of activities that are protected from retaliation under federal employment discrimination laws.
+Information about what workers should do if they experience, observe, or become aware of conduct that they believe may be prohibited, and encouraging people to report it.
+A clear, simple, and specific explanation of the complaint process and all available complaint options, what happens after a complaint is made (typically investigation), and previewing that the range of disciplinary consequences will be proportionate to the conduct.
+Opportunities to ask questions about the training, harassment policy, complaint system, and related rules and expectations.
+Additionally, worksites may benefit from training on how colleagues or others may choose to intervene when they witness harassment (bystander training) or are asked for help.
+Additional training may be necessary for those with legal responsibilities.
+Worksite leaders are encouraged to identify those with managerial or supervisory responsibility for preventing, stopping, and correcting harassment and ensure they have specific training on these legal obligations. Senior worksite leaders may also find it helpful to include additional employees who exercise authority, such as team leaders, or members of any committees focused on worker well-being.
+Anti-harassment training for workers with managerial or supervisory responsibility or other worksite leadership roles might include, for example:
+Information about how to prevent, identify, stop, report, and correct harassment, such as:
+Identification of potential risk factors for harassment and specific actions that may minimize or eliminate the risk of harassment;
+Easy to understand, realistic methods for addressing harassment that they observe, that is reported to them, or that they otherwise learn of;
+Clear instructions about their obligation to report harassment observed or reported to appropriate personnel; and
+Explanations of confidentiality associated with harassment complaints.
+An unequivocal statement that retaliation is prohibited, a description and examples of conduct that could constitute retaliation and an explanation of the types of activities that are protected from retaliation under federal employment discrimination laws, such as:
+Complaining or expressing an intent to complain about harassing conduct;
+Resisting sexual advances or intervening to protect others from such conduct; and
+Participating in an investigation about harassing conduct or other alleged discrimination.
+Explanations of the consequences (for example, discipline) of failing to fulfill their responsibilities related to harassment, retaliation, and other prohibited conduct.
+APPENDIX A:
+Construction Industry Risk Factors for Harassment
+The Co-Chair Task Force Report identified a number of “risk factors” in a workplace that increase the risk of harassment.
+[16]
+The existence of one or more risk factors in a workplace does not necessarily mean that harassment will occur but may indicate an environment in which harassment may be more likely to arise. As such, it is particularly important for employers to remain vigilant and to take steps proactively to prevent harassment in industries where risk factors are present. Of the twelve risk factors identified in the Co-Chair Task Force Report, several are particularly applicable in the construction industry:
+A homogenous workforce.
+The risk of harassment may increase where there is a lack of diversity in the workplace. Women and certain people of color are historically and currently underrepresented in the construction industry, especially in the higher-paid, higher-skilled trades. Women make up just 11% of all workers in the construction industry—a figure that includes office and clerical positions—and only about 4% of workers in the trades, even though they make up 47% of the labor force.
+[17]
+Black workers were nearly 13% of the U.S. labor force in 2023 but less than 7% of the construction workforce.
+[18]
+Asian workers also make up a very small percentage of the construction workforce (1.7%) compared to their share of the overall labor force (6.9%).
+[19]
+In addition, Black and Hispanic or Latino workers and women are disproportionately concentrated in lower-paying construction jobs.
+[20]
+Workplaces where there is pressure to conform to traditional stereotypes.
+Harassment may be more likely to occur where a subset of workers do not conform to stereotypes. Such workers might include, for example, a woman who challenges gender norms by presenting as “tough enough” to do a job in a traditionally male-dominated environment like construction.
+Decentralized workplaces.
+Decentralized workplaces—those enterprises where corporate offices are far removed physically and/or organizationally from front-line employees or first-line supervisors—may foster a climate in which harassment may go unchecked. For workers on construction sites, being unable to “go down the hall” to HR or lacking the ability to seek out a more senior person besides a direct supervisor, may make seeking advice or reporting harassment more challenging. The lack of proximity to a central headquarters may also embolden potential harassers, who feel less direct accountability.
+There are two additional features of construction worksites that can exacerbate the risk factors discussed above:
+Worksites with Multiple Employers Present.
+Typical workers on a construction worksite might be employed by the project owner (the entity initiating the project and hiring the general contractor), a general contractor, or various subcontractors, or could be a self-employed specialist or a temporary worker through a staffing agency. Though technically employed by different entities, these workers may work alongside each other on a daily basis. This structure also introduces the additional challenge of a dynamic workforce in which project supervisors and coworkers may shift throughout a project’s duration. It also introduces additional complexity in identifying retaliation, since a complaining worker may experience retaliation from their own employer and potentially other employers. It differs dramatically from many S. workplaces, in which a single employer is responsible for, and oversees compliance with, nondiscrimination requirements.
+Cyclical, project-based work.
+Work in the construction industry can be highly cyclical with seasonal downturns and variable demand, and only a small fraction of workers are employed as permanent core staff for one company. Most construction workers move from contract to contract and from jobsite to jobsite and are laid off after a project ends. The temporary nature of the work may make construction employees particularly vulnerable to retaliation, due to fears about the impact to livelihood that can result if a worker is blacklisted in the industry following a complaint of discrimination. The transitory nature of construction work may also present challenges when seeking culture change because worksite leaders may need to set expectations and implement new reporting processes at every new project. Finally, underrepresented workers may be discouraged from reporting harassment due to the cyclical nature of the work —after finding it necessary to “prove themselves” to coworkers and earn their trust and escape harassing treatment, the project ends, and the process starts all over again.
+APPENDIX B:
+Additional Resources
+EEOC Resources
+Enforcement Guidance on Harassment in the Workplace
+, U.S. Equal Employment Opportunity Commission (April 2024).
+Building for the Future: Advancing Equal Employment Opportunity In the Construction Industry
+, Report of Chair Charlotte A. Burrows, U.S. Equal Employment Opportunity Commission (May 2023).
+Promising Practices for Preventing Harassment in the Federal Sector
+, U.S. Equal Employment Opportunity Commission (April 2023).
+Promising Practices for Preventing Harassment
+, U.S. Equal Employment Opportunity Commission (November 2017).
+Enforcement Guidance on Retaliation and Related Issues
+, U.S. Equal Employment Opportunity Commission (August 2016).
+EEOC Select Task Force on the Study of Harassment in the Workplace
+,
+Report of Co-Chairs Chai R. Feldblum and Victoria A. Lipnic
+, U.S. Equal Employment Opportunity Commission (June 2016).
+Other Resources
+Best Practices to Expand Access to Jobs and Economic Opportunity Through Transportation Infrastructure Investments
+,
+U.S. Department of Transportation (February 2024).
+Tools For Building An Equitable Infrastructure Workforce
+,
+U.S. Department of Labor Women’s Bureau (September 2023).
+The Good Jobs Initiative
+, U.S Department of Labor.
+[1]
+Enforcement and Litigation Statistics
+, U.S. Equal Employment Opportunity Commission.
+[2]
+See
+Ariane Hegewisch and Eve Mefferd,
+A Future Worth Building: What Tradeswomen Say about the Change They Need in the Construction Industry
+, Institute for Women’s Policy Research, (November 2021) (in a
+2021 survey of over 2,600 tradeswomen
+, nearly 1 in 4 women reported experiencing near constant sexual harassment, and 1 in 5 women of color reported “always” or “frequently” experiencing racial harassment on the job);
+see generally
+Building for the Future: Advancing Equal Employment Opportunity in the Construction Industry
+, Report of Chair Charlotte A. Burrows, U.S. Equal Employment Opportunity Commission (May 2023).
+[3]
+See id.
+[4]
+See
+EEOC Select Task Force on the Study of Harassment in the Workplace
+,
+Report of Co-Chairs Chai R. Feldblum and Victoria A. Lipnic
+(June 2016);
+see infra
+, Appendix A for further discussion of risk factors.
+[5]
+The presence of multiple employers on the worksite also impacts which entities may be considered the employer of any particular worker for purposes of establishing legal liability. This document’s reference to a worker’s “employer” typically refers to their employer of record and should not be considered instructive on questions of whether an additional employer may also have liability.
+[6]
+Knocking Down Walls: Discrimination and Harassment in Construction
+, U.S. Equal Employment Opportunity Commission Hearing (May 17, 2022),
+Written Testimony of Ariane Hegewisch
+, Senior Research Fellow, Institute for Women’s Policy Research (IWPR) (“Not surprisingly, almost one in two tradeswomen respondents to the 2021 IWPR Tradeswomen Survey (47.7 percent) have seriously considered leaving their careers altogether.”).
+[7]
+See
+Hannah M Curtis et al., “
+Gendered Safety and Health Risks in the Construction Trades
+,”
+Annals of Work Exposures and Health
+, Volume 62, Issue 4, 405-06, 410 (May 2018);
+see also
+Knocking Down Walls: Discrimination and Harassment in Construction
+, U.S. Equal Employment Opportunity Commission Hearing (May 17, 2022);
+Written Testimony of Kenneth D. Simonson
+, Chief Economist, Associated General Contractors of America (“[S]uccess in construction requires constant teamwork that is impossible without mutual respect and support.”).
+[8]
+See, e.g.,
+Promising Practices for Preventing Harassment in the Federal Sector
+,
+U.S. Equal Employment Opportunity Commission (April 2023).
+[9]
+Some entities may have additional legal obligations arising under laws or regulations enforced by the U.S. Department of Labor’s Office of Federal Contract Compliance Programs, Occupational Safety and Health Administration, the Office of Apprenticeship, or other local, state, or federal agencies.
+[10]
+Enforcement Guidance: Application of EEO Laws to Contingent Workers Placed by Temporary Employment Agencies and Other Staffing Firms
+,
+U.S. Equal Employment Opportunity Commission (1997).
+[11]
+Registered apprenticeships are governed by the U.S. Department of Labor’s Equal Employment Opportunity (EEO) regulation for Registered Apprenticeship Programs.
+See
+U.S Department of Labor, Office of Apprenticeship,
+Prevent Harassment | Apprenticeship.gov
+.
+[12]
+See
+AFL-CIO,
+Addressing Sexual Harassment in the Workplace: There Is Power in my Union
+(Feb. 2019).
+[13]
+Bystander intervention training typically enables bystanders to recognize problematic behaviors, motivates them to step in, conducts skills-building exercises to provide bystanders with the tools and confidence to intervene, and provides bystanders with resources they can call upon and support their intervention. Training could include interventions such as rallying others, including those in positions of authority, to intervene and checking in with the person being harassed.
+[14]
+See
+EEOC Select Task Force on the Study of Harassment in the Workplace
+, Report of Co-Chairs Chai R. Feldblum and Victoria A. Lipnic
+(June 2016) for a description of “Zero Tolerance Policies.”
+[15]
+Specifically, a worksite may choose to have a policy requiring that any entity that receives a complaint about a worker for which they are not the employer of record endeavor to properly re-route the complaint appropriately.
+[16]
+EEOC Select Task Force on the Study of Harassment in the Workplace
+, Report of Co-Chairs Chai R. Feldblum and Victoria A. Lipnic (June 2016).
+[17]
+See
+Household Data Annual Averages, Table 18, Employed persons by detailed industry, sex, race, and Hispanic or Latino ethnicity, 2022
+,
+Labor Force Statistics from the Current Population Survey
+, Bureau of Labor Statistics (last modified Jan. 26, 2024); Ariane Hegewisch and Eve Mefferd,
+A Future Worth Building: What Tradeswomen Say about the Change They Need in the Construction Industry
+, Institute for Women’s Policy Research (November 2021).
+See also
+Building an Equitable Construction Workforce: Understanding and Increasing the Proportion of Women and People of Color in Construction
+, Insight Policy Research (March 2024).
+[18]
+See
+Household Data Annual Averages, Table 18, Employed persons by detailed industry, sex, race, and Hispanic or Latino ethnicity, 2022
+,
+Labor Force Statistics from the Current Population Survey
+, Bureau of Labor Statistics (last modified Jan. 26, 2024)
+.
+[19]
+See
+Household Data Annual Averages, Table 18, Employed persons by detailed industry, sex, race, and Hispanic or Latino ethnicity, 2022
+,
+Labor Force Statistics from the Current Population Survey
+, Bureau of Labor Statistics (last modified Jan. 26, 2024);
+Household Data Annual Averages, Table 11, Employed persons by detailed occupation, sex, race, and Hispanic or Latino ethnicity
+,
+Labor Force Statistics from the Current Population Survey,
+Bureau of Labor Statistics (last modified Jan. 26, 2024).
+[20]
+Household Data Annual Averages, Table 11, Employed persons by detailed occupation, sex, race, and Hispanic or Latino ethnicity
+, Labor Force Statistics from the Current Population Survey
+, Bureau of Labor Statistics (last modified Jan. 26, 2024).
+See
+Construction and Extraction Occupations
+,
+Occupational Outlook Handbook
+, Bureau of Labor Statistics (last modified Sept. 8, 2022).
+Translate this Page
+English
+Español (Spanish)
+Enabled In-page Navigation
+Return to top
+U.S. Equal Employment Opportunity Commission
+EEOC Headquarters
+131 M Street, NE
+Washington, DC 20507
+1-800-669-6820
+(TTY)
+1-844-234-5122
+(ASL Video Phone)
+Questions?
+Call 1-800-669-4000
+For Deaf/Hard of Hearing callers:
+1-800-669-6820
+(TTY)
+1-844-234-5122
+(ASL Video Phone)
+info@eeoc.gov
+Find your nearest EEOC office
+Connect With Us
+FOIA
+Privacy Policy
+Disclaimer
+Accessibility
+Office of Inspector General
+USA.gov

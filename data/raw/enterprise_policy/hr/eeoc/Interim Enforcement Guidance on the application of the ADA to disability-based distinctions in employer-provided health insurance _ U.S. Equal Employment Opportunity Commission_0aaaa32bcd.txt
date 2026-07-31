@@ -1,0 +1,796 @@
+Interim Enforcement Guidance on the application of the ADA to disability-based distinctions in employer-provided health insurance | U.S. Equal Employment Opportunity Commission
+Skip to main content
+An official website of the United States government
+Here’s how you know
+Here’s how you know
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive
+information only on official, secure websites.
+U.S. Equal Employment Opportunity Commission
+Menu
+Header Navigation
+Online Filing
+Public Portal
+Attorney E-file
+Locations
+Operating Status
+Languages
+English
+Español (Spanish)
+Resources in Other Languages
+عربي (Arabic)
+简体中文 (Chinese, Simplified)
+繁體中文 - Chinese (Traditional)
+Kreyòl Ayisyen (Haitian Creole)
+한국어 (Korean)
+Русском (Russian)
+Português (Portuguese)
+Tagalog (Tagalog)
+ไทย (Thai)
+Tiếng Việt (Vietnamese)
+فارسی (Persian. Farsi)
+پښتو (Pashto)
+Toggle Search Form
+Any of these words
+(optional)
+Search
+About EEOC
+About EEOC
+Overview
+The Commission and The General Counsel
+Meetings of the Commission
+Commission Votes
+EEOC History
+News and Information
+Newsroom
+What You Should Know
+Legislative Affairs
+Publications
+Outreach and Education
+FOIA
+Laws and Enforcement
+EEOC Legal Resources
+Mediation
+Litigation
+Systemic Enforcement
+Commissioner Charges
+Directed Investigations
+Programs and Performance
+Budget and Performance
+Initiatives
+Interagency Programs
+State and Local Programs
+Task Forces
+Tribal Programs
+Data and Analytics
+Overview
+Data Governance
+EEO Data Collections
+Data and Statistics
+Data Tools and Products
+No FEAR Act Data
+Inside EEOC
+Careers
+Office for Civil Rights
+Doing Business with EEOC
+AI Governance
+Privacy
+Office of Inspector General
+Employees & Job Applicants
+Employees & Applicants
+Overview
+Coverage
+Timeliness
+Prohibited Practices
+Filing a Charge of Discrimination
+Filing a Charge
+How to File
+After You File a Charge
+Confidentiality
+Mediation
+Remedies
+Existing Charges
+Filing a Lawsuit
+Discrimination by Type
+Age
+Disability
+Equal Pay
+Genetic Information
+Harassment
+National Origin Discrimination
+Pregnancy Discrimination
+Race/Color Discrimination
+Religious Discrimination
+Retaliation
+Sex
+Sexual Harassment
+Employers / Small Business
+Employers / Small Business
+Overview
+Coverage
+After a Charge is Filed
+Resolving a Charge
+Commissioner Charges
+Directed Investigations
+Remedies
+Small Business Resource Center
+Small Business Home
+Small Business Requirements
+Frequently Asked Questions
+Tips for Small Businesses
+Making an Employment Decision?
+EEOC Resources
+Small Business Assistance
+Small Business Fact Sheet
+Small Business Videos
+EEOC Glossary
+Contact Us
+Discrimination by Type
+Age
+Disability
+Equal Pay
+Genetic Information
+Harassment
+National Origin
+Pregnancy
+Race/Color
+Religion
+Retaliation
+Sex
+Sexual Harassment
+Prohibited Practices
+Recordkeeping
+EEO Data Collections
+"Know Your Rights" Poster
+Training
+Other Employment Issues
+Federal Sector
+Federal Agencies
+Overview
+Federal EEO Coordination
+Federal Agency EEO Directors
+EEOC Legal Resources
+Management Directives & Federal Sector Guidance
+Federal Training & Outreach
+Resources
+Federal Employees & Job Applicants
+Overview
+Federal Complaint Process
+Federal Sector Alternative Dispute Resolution
+Prohibited Practices
+Resources
+Contact Us
+Contact EEOC
+Find Your Nearest Office
+Office Operating Status
+How to File a Charge
+Public Portal
+Home
+Laws
+guidance
+Interim Enforcement Guidance on the application of the ADA to disability-based distinctions in employer-provided health insurance
+Interim Enforcement Guidance on the application of the ADA to disability-based distinctions in employer-provided health insurance
+Issuing Authority
+This guidance document was issued upon approval by vote of the U.S. Equal Employment Opportunity Commission.
+OLC Control Number
+EEOC-CVG-1993-1
+Concise Display Name
+Interim Enforcement Guidance on the application of the ADA to disability-based distinctions in employer-provided health insurance
+Issue Date
+06-08-1993
+General Topics
+Disability
+Summary
+This 1993 document addresses the Commission’s position on the application of the ADA to disability-based distinctions in employer-provided health insurance.
+Citation
+ADA, Rehabilitation Act, 29 CFR Part 1630, 29 CFR Part 1614
+Document Applicant
+Employers, Employees, Applicants, Attorneys and Practitioners, EEOC Staff
+Previous Revision
+No
+Disclaimer
+The contents of this document do not have the force and effect of law and are not meant to bind the public in any way. This document is intended only to provide clarity to the public regarding existing requirements under the law or agency policies.
+Notice Concerning The Americans With Disabilities Act Amendments Act Of 2008
+This document was issued prior to enactment of the
+Americans with Disabilities Act Amendments Act of 2008 (ADAAA)
+, which took effect on January 1, 2009.  The ADAAA broadened the statutory definition of disability, as summarized in this
+list of specific changes.
+EEOC NOTICE
+Number 915.002
+Date 6/8/93
+1.     SUBJECT:  Interim Enforcement Guidance on the application of
+the Americans with Disabilities Act of 1990 to disability-based
+distinctions in employer provided health insurance.
+2.     PURPOSE:  This interim enforcement guidance sets forth the
+Commission's position on the application of the Americans with
+Disabilities Act to disability-based distinctions in employer
+provided health insurance.
+3.     EFFECTIVE DATE:  Upon issuance.
+4.     EXPIRATION DATE:  As an exception to EEOC Order 205.001,
+Appendix B, Attachment 4, § a(5), this Notice will remain in
+effect until rescinded or superseded.
+5.     ORIGINATOR:  Americans with Disabilities Act Division,
+Office of Legal Counsel.
+6.     INSTRUCTIONS:  This enforcement guidance is to be used on an
+interim basis until the Commission issues final guidance after
+publication for notice and comment.  File after [     ] of Volume II
+of the Compliance Manual.
+7.     SUBJECT MATTER:
+I.     INTRODUCTION
+The interplay between the nondiscrimination principles of the
+ADA and employer provided health insurance, which is predicated on
+the ability to make health-related distinctions, is both unique and
+complex.  This interplay is, undoubtedly, most complex when a health
+insurance plan contains distinctions that are based on disability.
+The purpose of this interim guidance is to assist Commission
+investigators in analyzing ADA charges which allege that a
+disability-based distinction in the terms or provisions of an
+employer provided health insurance plan violates the ADA.1  This
+interim guidance does not address the application of the ADA to other
+issues arising in the context of employer provided health insurance.
+Nor does it address the application of the ADA to other types of
+"fringe benefits," such as employer provided pension plans, life
+insurance, and disability insurance.  These subjects will be
+addressed in future documents.
+II.  BACKGROUND AND LEGAL FRAMEWORK
+The ADA provides that it is unlawful for an employer2 to
+discriminate on the basis of disability against a qualified
+individual with a disability in regard to "job application
+procedures, the hiring, advancement, or discharge of employees,
+employee compensation, job training, and other terms, conditions, and
+privileges of employment."  42 U.S.C. § 12112(a).  Section
+1630.4 of the Commission's regulations implementing the employment
+provisions of the ADA further provides, in pertinent part, that it is
+unlawful for an employer to discriminate on the basis of disability
+against a qualified individual with a disability in regard to
+"[f]ringe benefits available by virtue of employment, whether or not
+administered by the [employer]."  29 C.F.R.
+§ 1630.4(f).  Employee benefit plans, including health insurance
+plans provided by an employer to its employees, are a fringe benefit
+available by virtue of employment.  Generally speaking, therefore,
+the ADA prohibits employers from discriminating on the basis of
+disability in the provision of health insurance to their employees.
+The ADA also prohibits employers from indirectly discriminating
+on the basis of disability in the provision of health insurance.
+Employers may not enter into, or participate in, a contractual or
+other arrangement or relationship that has the effect of
+discriminating against their own qualified applicants or employees
+with disabilities.  42 U.S.C. § 12112(b)(2); 29 C.F.R.
+§ 1630.6(a).  Contractual or other relationships with
+organizations that provide fringe benefits to employees are expressly
+included in this prohibition.  42 U.S.C. § 12112(b)(2); 29
+C.F.R. § 1630.6(b).  This means that an employer will be liable
+for any discrimination resulting from a contract or agreement with an
+insurance company, health maintenance organization (HMO), third party
+administrator
+(TPA), stop-loss carrier, or other organization to provide or
+administer a health insurance plan on behalf of its employees.
+Another provision of the ADA makes it unlawful for an employer
+to limit, segregate, or classify an applicant or employee in a way
+that adversely affects his or her employment opportunities or status
+on the basis of disability.  42 U.S.C. § 12112(b)(1); 29 C.F.R.
+§ 1630.5.  Both the legislative history and the interpretive
+Appendix to the regulations indicate that this prohibition applies to
+employer provided health insurance.  S. Rep. No. 116, 101st Cong.,
+1st Sess. (Senate Report) (1989) at 28-29; H.R. Rep. No. 485 part 2,
+101st Cong., 2nd Sess. (House Labor Report) (1990) at 58-59; H.R.
+Rep. No. 485 part 3, 101st Cong., 2nd Sess. (House Judiciary Report)
+(1990) at 36; Appendix to 29 C.F.R. § 1630.5.
+Several consequences result from the application of these
+statutory provisions.  First, disability-based insurance plan
+distinctions are permitted only if they are within the protective
+ambit of section 501(c) of the ADA. (See the discussion in Section
+III, infra.)  Second, decisions about the employment of an individual
+with a disability cannot be motivated by concerns about the impact of
+the individual's disability on the employer's health insurance plan.
+Appendix to 29 C.F.R. § 1630.15(a).  Third, employees with
+disabilities must be accorded "equal access" to whatever health
+insurance the employer provides to employees without disabilities.
+See Appendix to 29 C.F.R. § 1630.16(f).  Fourth, in view of the
+statute's "association provision," 42 U.S.C. § 12112(b)(4); 29
+C.F.R. § 1630.8, it would violate the ADA for an employer to
+make an employment decision about any person, whether or not that
+person has a disability, because of concerns about the impact on the
+health insurance plan of the disability of someone else with whom
+that person has a relationship.
+As previously noted, this interim guidance is devoted solely to
+the ADA implications of disability-based health insurance plan
+distinctions.  The ADA implications of other issues arising in the
+context of employer provided health insurance will be addressed in
+future guidance.
+III.  DISABILITY-BASED DISTINCTIONS
+A.  Framework of Analysis
+Whenever it is alleged that a health-related term or provision
+of an employer provided health insurance plan violates the ADA, the
+first issue is whether the challenged term or provision is, in fact,
+a disability-based distinction.  If the Commission determines that a
+challenged health insurance plan term or provision is a disability-
+based distinction, the respondent will be required to prove that that
+disability-based distinction is within the protective ambit of
+section 501(c) of the ADA.
+In pertinent part, section 501(c) permits employers, insurers,
+and plan administrators to establish and/or observe the terms of an
+insured3 health insurance plan that is "bona fide,"4 based on
+"underwriting risks, classifying risks, or administering such risks
+that are based on or not inconsistent with State law," and that is
+not being used as a "subterfuge" to evade the purposes of the ADA.
+Section 501(c) likewise permits employers, insurers, and plan
+administrators to establish and/or observe the terms of a "bona fide"
+self-insured health insurance plan that is not used as
+a "subterfuge."  42 U.S.C. § 12201(c).  The text of section
+501(c) is incorporated into § 1630.16(f) of the Commission's
+regulations.5
+Consequently, if the Commission determines that the challenged
+term or provision is a disability-based distinction, the respondent
+will be required to prove that: 1) the health insurance plan is
+either a bona fide insured health insurance plan that is not
+inconsistent with state law, or a bona fide self-insured health
+insurance plan;6 and 2) the challenged disability-based distinction
+is not being used as a subterfuge.  If the respondent so
+demonstrates, the Commission will conclude that the challenged
+disability-based distinction is within the protective ambit of
+section 501(c) and does not violate the ADA.  If, on the other hand,
+the respondent is unable to make this two-pronged demonstration, the
+Commission will conclude that the respondent has violated the ADA.
+B.  What Is a Disability-Based Distinction?
+It is important to note that not all health-related plan
+distinctions discriminate on the basis of disability.  Insurance
+distinctions that are not based on disability, and that are applied
+equally to all insured employees, do not discriminate on the basis of
+disability and so do not violate the ADA.7
+For example, a feature of some employer provided health
+insurance plans is a distinction between the benefits provided for
+the treatment of physical conditions on the one hand, and the
+benefits provided for the treatment of "mental/nervous" conditions on
+the other.  Typically, a lower level of benefits is provided for the
+treatment of mental/nervous conditions than is provided for the
+treatment of physical conditions.  Similarly, some health insurance
+plans provide fewer benefits for "eye care" than for other physical
+conditions.  Such broad distinctions, which apply to the treatment of
+a multitude of dissimilar conditions and which constrain individuals
+both with and without disabilities, are not distinctions based on
+disability.  Consequently, although such distinctions may have a
+greater impact on certain individuals with disabilities, they do not
+intentionally discriminate on the basis of disability8 and do not
+violate the ADA.9
+Blanket pre-existing condition clauses that exclude from the
+coverage of a health insurance plan the treatment of conditions that
+pre-date an individual's eligibility for benefits under that plan
+also are not distinctions based on disability, and do not violate the
+ADA.  Universal limits or exclusions from coverage of all
+experimental drugs and/or treatments, or of all "elective surgery,"
+are likewise not insurance distinctions based on disability.
+Similarly, coverage limits on medical procedures that are not
+exclusively, or nearly exclusively, utilized for the treatment of a
+particular disability are not distinctions based on disability.
+Thus, for example, it would not violate the ADA for an employer to
+limit the number of blood transfusions or X-rays that it will pay
+for, even though this may have an adverse effect on individuals with
+certain disabilities.
+Example 1.  The R Company health insurance plan limits the benefits
+provided for the treatment of any physical conditions to a maximum of
+$25,000 per year.  CP, an employee of R, files a charge of
+discrimination alleging that the $25,000 cap violates the ADA because
+it is insufficient to cover the cost of treatment for her cancer.
+The $25,000 cap does not single out a specific disability, discrete
+group of disabilities, or disability in general.  It is therefore not
+a disability-based distinction.  If it is applied equally to all
+insured employees, it does not violate the ADA.
+In contrast, however, health-related insurance distinctions that
+are based on disability may violate the ADA.  A term or provision is
+"disability-based" if it singles out a particular disability (e.g.,
+deafness, AIDS, schizophrenia), a discrete group of disabilities
+(e.g., cancers, muscular dystrophies, kidney diseases), or disability
+in general (e.g., non-coverage of all conditions that substantially
+limit a major life activity).
+As previously noted, employers may establish and/or observe the
+terms and provisions of a bona fide benefit plan, including terms or
+provisions based on disability, that are not a "subterfuge to evade
+the purposes" of the ADA.  Such terms and provisions do not violate
+the ADA.  However, disability-based insurance distinctions that are a
+"subterfuge" do intentionally discriminate on the basis of disability
+and so violate the ADA.
+Example 2.  R Company's new self-insured health insurance plan caps
+benefits for the treatment of all physical conditions, except AIDS,
+at $100,000 per year.  The treatment of AIDS is capped at $5,000 per
+year.  CP, an employee with AIDS enrolled in the health insurance
+plan, files a charge alleging that the lower AIDS cap violates the
+ADA.  The lower AIDS cap is a disability-based distinction.
+Accordingly, if R is unable to demonstrate that its health insurance
+plan is bona fide and that the AIDS cap is not a subterfuge, a
+violation of the ADA will be found.
+Example 3.  R Company has a health insurance plan that excludes from
+coverage treatment for any pre-existing blood disorders for a period
+of 18 months, but does not exclude the treatment of any other pre-
+existing conditions.  R's pre-existing condition clause only excludes
+treatment for a discrete group of related disabilities, e.g.,
+hemophilia, leukemia, and is thus a disability-based distinction.
+CP, an individual with acute leukemia who recently joined R Company
+and enrolled in its health insurance plan, files a charge of
+discrimination alleging that the disability-based pre-existing
+condition clause violates the ADA.  If R is unable to demonstrate
+that its health insurance plan is bona fide and that the disability-
+specific pre-existing condition clause is not a subterfuge, a
+violation of the ADA will be found.
+It should be noted that the ADA does not provide a "safe harbor"
+for health insurance plans that were adopted prior to its July 26,
+1990 enactment.  As the Senate Report states, subterfuge is to be
+determined "regardless of the date an insurance or employer benefit
+plan was adopted."  Senate Report at 85; see also House Labor report
+at 136-138; House Judiciary Report at 70-71; Appendix to 29 C.F.R.
+§ 1630.16(f).  Consequently, the challenged disability-based
+terms and provisions of a pre-ADA health insurance plan will be
+scrutinized under the same subterfuge standard as are the challenged
+disability-based terms, provisions, and conditions of post-ADA health
+insurance plans.10
+C.  The Respondent's Burden of Proof
+Once the Commission has determined that a challenged health
+insurance term or provision constitutes a disability-based
+distinction, the respondent must prove that the health insurance plan
+is either a bona fide insured plan that is not inconsistent with
+state law, or a bona fide self-insured plan.   The respondent must
+also prove that the challenged disability-based distinction is not
+being used as a subterfuge.  Requiring the respondent to bear this
+burden of proving entitlement to the protection of section 501(c) is
+consistent with the well-established principle that the burden of
+proof should rest with the party who has the greatest access to the
+relevant facts.11  In the health insurance context, it is the
+respondent employer (and/or the employer's insurer, if any) who has
+control of the risk assessment, actuarial, and/or claims data relied
+upon in adopting the challenged disability-based distinction.
+Charging party employees have no access to such data, and, generally
+speaking, have no information about the employer provided health
+insurance plan beyond that contained in the employer provided health
+insurance plan description.  Consequently, it is the employer who
+should bear the burden of proving that the challenged disability-
+based insurance distinction is within the protective ambit of section
+501(c).
+1.  The Health Insurance Plan Is "Bona Fide" and
+Consistent with Applicable Law
+In order to gain the protection of section 501(c) for a
+challenged disability-based insurance distinction, the respondent
+must first prove that the health insurance plan in which the
+challenged distinction is contained is either a bona fide insured
+health insurance plan that is not inconsistent with state law, or a
+bona fide self-insured health insurance plan.12  If the health
+insurance plan is an insured plan, the respondent will be able to
+satisfy this requirement by proving that: 1) the health insurance
+plan is bona fide in that it exists and pays benefits, and its terms
+have been accurately communicated to eligible employees; and 2) the
+health insurance plan's terms are not inconsistent with applicable
+state law as interpreted by the appropriate state authorities.13  If
+the health insurance plan is a self-insured plan, the respondent will
+only be required to prove that the health insurance plan is bona fide
+in that it exists and pays benefits, and that its terms have been
+accurately communicated to covered employees.
+2. The Disability-Based Distinction Is Not a Subterfuge
+The second demonstration that the respondent must make in order
+to gain the protection of section 501(c) is that the challenged
+disability-based distinction is not a subterfuge to evade the
+purposes of the ADA.  "Subterfuge" refers to disability-based
+disparate treatment that is not justified by the risks or costs
+associated with the disability.  Whether a particular challenged
+disability-based insurance distinction is being used as a subterfuge
+will be determined on a case by case basis, considering the totality
+of the circumstances.
+The respondent can prove that a challenged disability-based
+insurance distinction is not a subterfuge in several ways.  A non-
+exclusive list of potential business/insurance justifications
+follows.
+a.  The respondent may prove that it has not engaged in the
+disability-based disparate treatment alleged.  For example, where a
+charging party has alleged that a benefit cap of a particular
+catastrophic disability is discriminatory, the respondent may prove
+that its health insurance plan actually treats all similarly
+catastrophic conditions in the same way.
+b.  The respondent may prove that the disparate treatment is
+justified by legitimate actuarial data,14 or by actual or
+reasonably anticipated experience, and that conditions with
+comparable actuarial data and/or experience are treated in the same
+fashion.  In other words, the respondent may prove that the
+disability-based disparate treatment is attributable to the
+application of legitimate risk classification and underwriting15
+procedures to the increased risks (and thus increased cost to the
+health insurance plan) of the disability, and not to the disability
+per se.
+c.  The respondent may prove that the disparate treatment is
+necessary (i.e., that there is no nondisability-based health
+insurance plan change that could be made) to ensure that the
+challenged health insurance plan satisfies the commonly accepted or
+legally required standards for the fiscal soundness of such an
+insurance plan.  The respondent, for example, may prove that it
+limited coverage for the treatment of a discrete group of
+disabilities because continued unlimited coverage would have been so
+expensive as to cause the health insurance plan to become financially
+insolvent, and there was no nondisability-based health insurance plan
+alteration that would have avoided insolvency.
+d.  The respondent may prove that the challenged insurance
+practice or activity is necessary (i.e., that there is no
+nondisability-based change that could be made) to prevent the
+occurrence of an unacceptable change either in the coverage of the
+health insurance plan, or in the premiums charged for the health
+insurance plan.  An "unacceptable" change is a drastic increase in
+premium payments (or in co-payments or deductibles), or a drastic
+alteration to the scope of coverage or level of benefits provided,
+that would: 1) make the health insurance plan effectively unavailable
+to a significant number of other employees, 2) make the health
+insurance plan so unattractive as to result in significant adverse
+selection16, or 3) make the health insurance plan so unattractive
+that the employer cannot compete in recruiting and maintaining
+qualified workers due to the superiority of health insurance plans
+offered by other employers in the community.
+e.  Where the charging party is challenging the respondent's
+denial of coverage for a disability-specific treatment, the
+respondent may prove that this treatment does not provide any benefit
+(i.e., has no medical value).  The respondent, in other words, may
+prove by reliable scientific evidence that the disability-specific
+treatment does not cure the condition, slow the
+degeneration/deterioration or harm attributable to the condition,
+alleviate the symptoms of the condition, or maintain the current
+health status of individuals with the disability who receive the
+treatment.17
+IV. COVERAGE OF DEPENDENTS
+The coverage of an employee's dependents under an employer
+provided health insurance plan is a benefit available to the employee
+by virtue of employment.  Consequently, insurance terms, provisions,
+and conditions concerning dependent coverage are subject to the same
+ADA standards, including the application of section 501(c) to
+disability-based distinctions, as are other insurance terms,
+provisions, and conditions.
+The ADA, however, does not require that the coverage accorded
+dependents be the same in scope as the coverage accorded the
+employee.  For example, it would not violate the ADA for a health
+insurance plan to cover prescription drugs for employees, but not to
+include such coverage for employee dependents.  Nor does the ADA
+require that dependents be accorded the same level of benefits as
+that accorded the employee.  Thus, it would not violate the ADA for a
+health insurance plan to have a $100,000 benefit cap for employees,
+but only a $50,000 benefit cap for employee dependents.
+V. CHARGE PROCESSING
+1.  In General
+Charges alleging that a term or provision of an employer
+provided health insurance plan discriminates on the basis of
+disability should be processed in accordance with the foregoing
+guidance.  When confronted with a charge alleging that a health
+insurance plan distinction is a disability-based distinction that
+violates the ADA, the investigator should initially determine whether
+the challenged insurance term or provision is, in fact, a disability-
+based distinction .  To do this, the investigator should determine
+whether:
+1)  the insurance term, provision, or condition singles out a
+particular disability, discrete group of disabilities, or disability
+in general; and/or
+2)  the insurance term, provision, or condition singles out a
+procedure or treatment used exclusively, or nearly exclusively, for
+the treatment of a particular disability or discrete group of
+disabilities (e.g., exclusion of a drug used only to treat AIDS).
+(Section III. B, supra.)
+If it is determined that the challenged insurance term or
+provision is not a disability-based distinction and is applied
+equally to all insured employees, the investigator should conclude
+that the health insurance plan distinction does not violate the ADA.
+On the other hand, if the challenged insurance term or provision
+is found to be a disability-based distinction, the investigator
+should determine whether the respondent can justify the disability-
+based distinction by satisfying the requirements of section 501(c) of
+the ADA.  To make this determination, the investigator should take
+the steps described below.
+1)  The investigator should obtain evidence from the respondent that
+the health insurance plan is a bona fide plan.  (Section III.C.1,
+supra.)
+2)  If the health insurance plan is an insured plan, the investigator
+should also obtain evidence from the respondent that the health
+insurance plan is not inconsistent with the applicable state law(s).
+(Section III.C.1, supra.)
+3)  The investigator should obtain evidence from the respondent
+relevant to any business/insurance justification proffered to justify
+the disability-based insurance distinction.  The evidence obtained
+should be specific and detailed.  For example, if the respondent is
+relying on actuarial data to justify the disability-based
+distinction, the investigator should require a detailed explanation
+of the rationale underlying the disability-based distinction,
+including the actuarial conclusions arrived at, the actuarial
+assumptions relied upon to reach those conclusions, and the factual
+data that supports the assumptions and/or conclusions.
+Similarly, if the respondent asserts that the disability-based
+distinction is justified by actual or reasonably anticipated
+experience, the investigator should obtain evidence about the
+respondent's insurance claims experience, and the way in which the
+respondent has reacted to similar previous experience situations.  If
+the respondent asserts that the disability-based distinction was
+necessary to prevent the occurrence of an unacceptable change in
+coverage or premiums, or to assure the fiscal soundness of the health
+insurance plan, the investigator should obtain evidence of the
+nondisability-based options for modifying the health insurance plan
+that were considered and the reason(s) for the rejection of these
+options.  If the respondent asserts that its health insurance plan
+excludes a disability-specific treatment because it is of no medical
+value, the investigator should obtain evidence regarding the
+scientific evidence relied upon by the respondent in reaching that
+determination.  (Section III.C.2, supra.)
+Commission staff should direct questions concerning the guidance
+or its application in particular cases to the Office of Legal Counsel
+Attorney of the Day.
+____________________               _____________________________
+Date                                   Approved:  Tony Gallegos
+Chairman
+1.     In light of the recent amendments to the Rehabilitation Act of
+1973, the analysis in this interim guidance also applies to federal
+sector complaints of discrimination arising under section 501 of that
+statute.
+2.     The ADA also prohibits employment agencies, labor
+organizations, and joint labor management committees from
+discriminating in employment against qualified individuals with
+disabilities.  However, for convenience, only the term "employer" is
+used throughout this document.
+3.     An "insured" health insurance plan is a health insurance plan
+or policy that is purchased from an insurance company or other
+organization, such as a health maintenance organization (HMO).  This
+is in contrast to a "self-insured" health plan, where the employer
+directly assumes the liability of an insurer.  Insured health
+insurance plans are regulated by both ERISA and state law.  Self-
+insured plans are typically subject to ERISA, but are not subject to
+state laws that regulate insurance.
+4.     The term "bona fide" is defined in Section III (C)(1), infra.
+5.     Section 1630.16(f) states:
+(f)  Health insurance, life insurance and other benefit plans-
+(1)  An insurer, hospital, or medical service company, health
+maintenance organization, or any agent or entity that administers
+benefit plans, or similar organizations may underwrite risks,
+classify risks, or administer such risks that are based on or not
+inconsistent with State law.
+(2)  A covered entity may establish, sponsor, observe, or
+administer the terms of a bona fide benefit plan that are based
+on underwriting risks, classifying risks, or administering such
+risks that are based on or not inconsistent with State law.
+(3)  A covered entity may establish, sponsor, observe, or
+administer the terms of a bona fide benefit plan that is not
+subject to State laws that regulate insurance.
+(4)  The activities described in paragraphs (f)(1), (2) and
+(3)... are permitted unless these activities are being used as a
+subterfuge to evade the purposes of [Title I of the ADA].
+6.     If an employer provided health insurance plan is a "multiple
+employer welfare arrangement" (MEWA) pursuant to section 3(40) of
+ERISA, it may be subject to certain state insurance laws even if it
+is self-insured.  See footnote 13, infra.
+7.     The term "discriminates" refers only to disparate treatment.
+The adverse impact theory of discrimination is unavailable in this
+context.  See Alexander v. Choate, 469 U.S. 287 (1985), a case
+brought under § 504 of the Rehabilitation Act of 1973.  See also
+the discussion of Choate in the Senate Report at 85; House Labor
+Report at 137.
+8.     However, it would violate the ADA for an employer to
+selectively apply a universal or "neutral" non-disability based
+insurance distinction only to individuals with disabilities.  Thus,
+for example, it would violate the ADA for an employer to apply a
+"neutral" health insurance plan limitation on "eye care" only to an
+employee seeking treatment for a vision disability, but not to other
+employees who do not have vision disabilities.  Charges alleging that
+a universal or "neutral" non-disability based insurance distinction
+has been selectively applied to individuals with disabilities should
+be processed using traditional disparate treatment theory and
+analysis.
+9.       This position is consistent with the case law developed
+pursuant to § 504 of the Rehabilitation Act of 1973, as amended,
+29 U.S.C. § 794, the statute on which the ADA is patterned.
+Courts faced with challenges to insurance plan distinctions between
+physical benefits and mental/nervous benefits under the
+Rehabilitation Act have held that such distinctions are rational and
+do not discriminate on the basis of disability.  See, e.g., Doe v.
+Colautti, 592 F.2d 704 (3d Cir. 1979)(holding that Pennsylvania's
+medical assistance statute was not required by the Rehabilitation Act
+to provide the same level of benefits for inpatient hospital
+treatment of mental illness as for inpatient hospital treatment of
+physical illness;  the court noted that care for physical illness and
+care for mental illness were two different benefits), and Doe v.
+Devine, 545 F. Supp. 576 (D.D.C. 1982), aff'd on other grounds, 703
+F. 2d 1319 (D.C. Cir. 1983)(holding that Blue Cross "cutbacks" in
+mental health benefits for federal employees are reasonable and do
+not discriminate on the basis of disability).
+10.     It has been suggested that the Commission should interpret
+"subterfuge" under the ADA as having the same meaning as was accorded
+that term under the Age Discrimination in Employment Act (ADEA) of
+1967, 29 U.S.C. § 621 et seq.  In Ohio Public Employees
+Retirement System v. Betts, 492 U.S. 158 (1989), the Court held that
+a pre-ADEA benefit plan could not be a subterfuge, and that, since
+the ADEA did not expressly apply to fringe benefits, subterfuge
+required a showing of the employer's specific intent to discriminate
+in some non-fringe aspect of the employment relationship.  However,
+both the language of the ADA, expressly covering "fringe benefits,"
+and the Act's legislative history, rejecting the concept of a "safe
+harbor" for pre-ADA plans, make plain congressional intent that the
+Betts approach not be applied in the context of the ADA.
+11.     See Morgado v. Birmingham-Jefferson County Civil Defense
+Corps., 706 F.2d 1184, 1189 (11th Cir. 1983, cert. denied, 464 U.S.
+1045 (1984) (employer relying on Equal Pay Act provision allowing pay
+differentials for reasons other than sex must prove entitlement to
+provision's protection because such facts "are peculiarly within the
+knowledge of the employer"); EEOC v. Whitin Machine Works, Inc., 635
+F.2d 1095, 1097 (4th Cir. 1980) (when facts are "within [the] unique
+knowledge" of the employer, it bears burden of proof concerning those
+facts); EEOC v. Radiator Specialty Co., 610 F.2d 178, 185 n. 8 (4th
+Cir. 1979) ("general principle of allocation of proof to the party
+with the most ready access to the relevant
+information" requires Title VII defendant to show inappropriateness
+of labor pool statistics).
+12.     See footnote 3, supra, for a discussion of the difference
+between "insured" and "self-insured" insurance plans.
+13.     The term "applicable state law" refers both to the
+determination of: 1) which state's laws are applicable to the
+particular charge (e.g., which state's laws are applicable in the
+event that the health insurance policy was drawn up in accordance
+with the laws of the state of Maryland, but the insured employee
+resides in the state of Virginia) and 2) which laws of that
+appropriate state are relevant to the particular charge.  With
+respect to health insurance plans that are MEWAs, applicable state
+law is determined with reference to ERISA section 514 (b)(6)(A).
+Questions concerning the "applicable state law" should be directed to
+the Regional Attorney.
+14.     Actuarial data that is seriously outdated and/or inaccurate
+is not legitimate actuarial data.  The respondent, for example, will
+not be able to rely on actuarial data about a disability that is
+based on myths, fears, or stereotypes about the disability.  Nor will
+a respondent be able to rely on actuarial data that is based on false
+assumptions about disability, or on assumptions that may have once
+been, but are no longer, true.  For example, a respondent would not
+be able to justify an exclusion of epilepsy from its insurance plan
+that is based on an erroneous assumption that people with epilepsy
+are more likely to have serious accidents (and thus file more claims
+for insurance benefits) than are individuals who do not have
+epilepsy.
+15.     Risk classification refers to the identification of risk
+factors and the grouping of those factors that pose similar risks.
+Risk factors may include characteristics such as age, occupation,
+personal habits (e.g., smoking), and medical history.  Underwriting
+refers to the application of the various risk factors or risk classes
+to a particular individual or group (usually only if the group is
+small) for the purpose of determining whether to provide insurance.
+16.     Adverse selection is the tendency of people who represent
+poorer-than-average health risks to apply for and/or retain health
+insurance to a greater extent than people who represent average or
+above average health risks.  Drastic increases in premiums and/or
+drastic decreases in insurance benefits foster an increase in adverse
+selection, as those who are considered to be "good" insurance risks
+drop out and seek enrollment in an insurance plan with lower premiums
+and/or better benefits.  An insurance plan that is subjected to a
+significant rate of adverse selection may, as a result of the
+increase in the proportion of "poor risk/high use" enrollees to "good
+risk/low use" enrollees, become not viable or financially unsound.
+17.     However, the respondent may be found to have violated the ADA
+if the evidence reveals that the respondent's health insurance plan
+covers treatments for other conditions that are likewise of no
+medical value.
+Return to top
+U.S. Equal Employment Opportunity Commission
+EEOC Headquarters
+131 M Street, NE
+Washington, DC 20507
+1-800-669-6820
+(TTY)
+1-844-234-5122
+(ASL Video Phone)
+Questions?
+Call 1-800-669-4000
+For Deaf/Hard of Hearing callers:
+1-800-669-6820
+(TTY)
+1-844-234-5122
+(ASL Video Phone)
+info@eeoc.gov
+Find your nearest EEOC office
+Connect With Us
+FOIA
+Privacy Policy
+Disclaimer
+Accessibility
+Office of Inspector General
+USA.gov

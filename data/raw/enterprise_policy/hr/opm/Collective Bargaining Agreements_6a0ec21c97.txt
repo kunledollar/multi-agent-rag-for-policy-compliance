@@ -1,0 +1,277 @@
+Collective Bargaining Agreements
+Skip to page navigation
+An official website of the United States government
+Here's how you know
+Here's how you know
+Official websites use .gov
+A
+.gov
+website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+) or
+https://
+means you’ve safely connected to
+the .gov website. Share sensitive information only on official,
+secure websites.
+Menu
+Search all of OPM
+Submit
+Sections
+About
+Toggle submenu
+Our Agency
+Who We Are
+Our Work
+Mission & History
+Careers at OPM
+Doing Business with OPM
+Reports & Publications
+Open Government
+Get Help
+Contact Us
+News
+Data
+2023 Agency Financial Report
+Combined Federal Campaign
+2023 Annual Performance Report
+FY 2025 Congressional Budget Justification
+2024 Agency Financial Report
+2024 Agency Financial Report
+2024 Annual Performance Report
+FY 2026 Congressional Budget Justification
+Fork
+HR Career Compass
+Executive Summary
+Organizational Framework
+Revolving Funds Activities
+Earned Benefits Trust Funds
+Office of the Inspector General
+Appendix: GAO-IG Act Reporting for Budget Fiscal Year 2026
+List of Acronyms
+Office of Equal Employment Opportunity
+Policy
+Toggle submenu
+CHCO Council
+Reductions in Force
+Assessment & Selection
+Classification & Qualifications
+Data, Analysis & Documentation
+Disability Employment
+Employee Relations
+Enterprise Risk Management Program
+Hiring Information
+Human Capital Management
+Human Capital Framework
+Labor Management Relations
+Oversight and Effectiveness
+Pandemic Information
+Pay & Leave
+Performance Management
+Senior Executive Service
+Settlement Guidelines
+Snow & Dismissal Procedures
+Training & Development
+Tribal Consultation
+Veterans Services
+Work-Life
+Workforce Restructuring
+Policy FAQs
+Contact Policymakers
+Career Paths for Federal Program and Project Management Guide
+Federal Hiring and Selection Outcome Dashboard
+Compliance
+Toggle submenu
+Adjudications
+Insurance
+Toggle submenu
+Open Season
+Healthcare
+FEHB Plan Comparison Tool
+Tribal Employers
+Postal Service Health Benefits Program
+Medicare
+Dental & Vision
+FEDVIP Plan Comparison Tool
+Carriers
+Flexible Spending Accounts
+Life Insurance
+Long Term Care
+Insurance Glossary
+Insurance FAQs
+Contact Healthcare & Insurance
+Special Initiatives
+Changes in Health Coverage
+Issuer
+Life Events
+The Affordable Care Act
+Retirement
+Toggle submenu
+Apply for Retirement
+My Annuity and Benefits
+CSRS Information
+FERS Information
+Phased Retirement
+Retirement Statistics
+Special Notices
+Calculators
+Tax Information for Annuitants
+Publications & Forms
+Benefits Officers Center
+Retirement FAQs
+Survivor Benefits
+How to Make a Payment
+Contact Retirement
+Retirement Information Center
+Suitability
+Toggle submenu
+Suitability Executive Agent
+Position Designation Tool
+Suitability Adjudications
+Suitability Training
+Oversight
+Policy
+Frequently Asked Questions
+Contact SuitEA
+Agency Services
+Toggle submenu
+Talent Management Services
+Talent Systems
+Training and Development
+HR Governance
+Workforce Data
+Contact
+News
+Toggle submenu
+Secrets of OPM
+From the Director’s Desk
+News Releases
+In this section
+Facebook
+Twitter
+A–Z Index
+Contact Us
+Forms
+FAQs
+Operating Status:
+Loading
+Search for
+U.S. Office of Personnel Management
+About
+Open "About" Submenu
+Close Menu
+Policy
+Open "Policy" Submenu
+Close Menu
+Compliance
+Open "Compliance" Submenu
+Close Menu
+Insurance
+Open "Insurance" Submenu
+Close Menu
+Retirement
+Open "Retirement" Submenu
+Close Menu
+Suitability
+Open "Suitability" Submenu
+Close Menu
+Agency Services
+Open "Agency Services" Submenu
+Close Menu
+News
+Open "News" Submenu
+Close Menu
+☰
+About
+Open "About" Submenu
+Close Menu
+Policy
+Open "Policy" Submenu
+Close Menu
+Compliance
+Open "Compliance" Submenu
+Close Menu
+Insurance
+Open "Insurance" Submenu
+Close Menu
+Retirement
+Open "Retirement" Submenu
+Close Menu
+Suitability
+Open "Suitability" Submenu
+Close Menu
+Agency Services
+Open "Agency Services" Submenu
+Close Menu
+News
+Open "News" Submenu
+Close Menu
+OPM.gov
+/
+Skip to main content
+In this section
+Resources For
+New / Prospective Employees
+Federal Employees
+HR Professionals
+Managers
+Collective Bargaining Agreements
+Collective Bargaining Agreement Database
+OPM, under its own statutory and regulatory authority, requires agencies submit to OPM, within 10 days of issuance, any arbitration awards under 5 U.S.C. §7121(e ) and (f) relating to actions taken under Chapter 43 and Chapter 75, United States Code, for analysis in accordance with OPM's authority under 5 U.S.C §7703(d). OPM also requires that other arbitration awards must be submitted within 30 days of issuance. Agencies should also provide OPM with copies of collective-bargaining agreements. This promotes transparency by allowing the public to view the types of agreements reached between agencies and Federal sector unions.
+The CBAs found on this database were submitted to OPM by executive departments and agencies and may not contain all existing CBAs in the Executive Branch. OPM will regularly update this database as existing and new CBAs are provided to OPM.
+Submitting Documents
+Agency labor relations staff, or other appropriate personnel, may register as a user and submit CBAs and arbitration awards through OPM's Labor Relations Document Submission Portal. Once approved, agency users may submit CBAs and arbitration awards directly through this application. CBAs should not include any signatures, individual names, or other personal identifiers. Agencies may simply remove the signature page from CBAs or redact individual signatures, names, and other personal identifiers from the CBAs. Please note that all CBAs must be submitted in a Portable Document Format (PDF) file format that conforms with the standards of Section 508 of the Rehabilitation Act of 1973, as amended (29 U.S.C. § 794 (d) and 36 CFR Part 1194). Arbitration awards do not require Section 508 conformance or redaction but must be in a searchable format. To register for the first time as an agency user, please go to the
+user registration page
+.
+If you have any questions about submitting CBAs and arbitration awards, please contact OPM's Accountability and Workforce Relations staff at
+LRG@opm.gov
+. For questions related to specific CBAs found on this database, please contact the agency associated with that CBA. For information on representational data on all bargaining units certified by the Federal Labor Relations Authority, including the name, description, location, bargaining unit employee population, and other information, please visit the
+Federal Labor Management Information System
+.
+Agency
+Sub-agency
+Activity/Office/Region
+Union
+Local
+BUS Codes
+Search
+Tip:
+Search for specific phrases by wrapping your query in quotation marks (e.g.
+"Blue Ridge Parkway"
+).
+SEARCH
+CLEAR ALL FIELDS
+EXPORT
+{{ transformBusCodes }} {{ agencyName }}
+>  {{ subAgencyOrComponent }}
+PDF
+{{ fileSize }}
+Local:
+{{ local }}
+BUS Codes:
+{{ transformBusCodes }}
+Exp. Date:
+{{ transformExpirationDate }}
+Labor Union:
+{{ laborUnionName }}
+Agency:
+{{ agencyName }}
+>  {{ subAgencyOrComponent }}
+Location:
+{{ activityOfficeRegion }}
+Loading...
+Loading...
+Registered Agency Users
+If you are already a registered agency user, please login to the CBA database to upload your document.
+CBA Login
+About OPM
+FOIA
+No FEAR Act
+Inspector General
+Privacy Program
+USA.gov
+Accessibility
+Control Panel

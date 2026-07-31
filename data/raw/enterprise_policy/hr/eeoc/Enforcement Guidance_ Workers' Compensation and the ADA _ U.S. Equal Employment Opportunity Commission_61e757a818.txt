@@ -1,0 +1,1163 @@
+Enforcement Guidance: Workers' Compensation and the ADA | U.S. Equal Employment Opportunity Commission
+Skip to main content
+An official website of the United States government
+Here’s how you know
+Here’s how you know
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive
+information only on official, secure websites.
+U.S. Equal Employment Opportunity Commission
+Menu
+Header Navigation
+Online Filing
+Public Portal
+Attorney E-file
+Locations
+Operating Status
+Languages
+English
+Español (Spanish)
+Resources in Other Languages
+عربي (Arabic)
+简体中文 (Chinese, Simplified)
+繁體中文 - Chinese (Traditional)
+Kreyòl Ayisyen (Haitian Creole)
+한국어 (Korean)
+Русском (Russian)
+Português (Portuguese)
+Tagalog (Tagalog)
+ไทย (Thai)
+Tiếng Việt (Vietnamese)
+فارسی (Persian. Farsi)
+پښتو (Pashto)
+Toggle Search Form
+Any of these words
+(optional)
+Search
+About EEOC
+About EEOC
+Overview
+The Commission and The General Counsel
+Meetings of the Commission
+Commission Votes
+EEOC History
+News and Information
+Newsroom
+What You Should Know
+Legislative Affairs
+Publications
+Outreach and Education
+FOIA
+Laws and Enforcement
+EEOC Legal Resources
+Mediation
+Litigation
+Systemic Enforcement
+Commissioner Charges
+Directed Investigations
+Programs and Performance
+Budget and Performance
+Initiatives
+Interagency Programs
+State and Local Programs
+Task Forces
+Tribal Programs
+Data and Analytics
+Overview
+Data Governance
+EEO Data Collections
+Data and Statistics
+Data Tools and Products
+No FEAR Act Data
+Inside EEOC
+Careers
+Office for Civil Rights
+Doing Business with EEOC
+AI Governance
+Privacy
+Office of Inspector General
+Employees & Job Applicants
+Employees & Applicants
+Overview
+Coverage
+Timeliness
+Prohibited Practices
+Filing a Charge of Discrimination
+Filing a Charge
+How to File
+After You File a Charge
+Confidentiality
+Mediation
+Remedies
+Existing Charges
+Filing a Lawsuit
+Discrimination by Type
+Age
+Disability
+Equal Pay
+Genetic Information
+Harassment
+National Origin Discrimination
+Pregnancy Discrimination
+Race/Color Discrimination
+Religious Discrimination
+Retaliation
+Sex
+Sexual Harassment
+Employers / Small Business
+Employers / Small Business
+Overview
+Coverage
+After a Charge is Filed
+Resolving a Charge
+Commissioner Charges
+Directed Investigations
+Remedies
+Small Business Resource Center
+Small Business Home
+Small Business Requirements
+Frequently Asked Questions
+Tips for Small Businesses
+Making an Employment Decision?
+EEOC Resources
+Small Business Assistance
+Small Business Fact Sheet
+Small Business Videos
+EEOC Glossary
+Contact Us
+Discrimination by Type
+Age
+Disability
+Equal Pay
+Genetic Information
+Harassment
+National Origin
+Pregnancy
+Race/Color
+Religion
+Retaliation
+Sex
+Sexual Harassment
+Prohibited Practices
+Recordkeeping
+EEO Data Collections
+"Know Your Rights" Poster
+Training
+Other Employment Issues
+Federal Sector
+Federal Agencies
+Overview
+Federal EEO Coordination
+Federal Agency EEO Directors
+EEOC Legal Resources
+Management Directives & Federal Sector Guidance
+Federal Training & Outreach
+Resources
+Federal Employees & Job Applicants
+Overview
+Federal Complaint Process
+Federal Sector Alternative Dispute Resolution
+Prohibited Practices
+Resources
+Contact Us
+Contact EEOC
+Find Your Nearest Office
+Office Operating Status
+How to File a Charge
+Public Portal
+Home
+Laws
+guidance
+Enforcement Guidance: Workers' Compensation and the ADA
+Enforcement Guidance:  Workers' Compensation and the ADA
+Issuing Authority
+This guidance document was issued upon approval by vote of the U.S. Equal Employment Opportunity Commission.
+OLC Control Number
+EEOC-CVG-1996-3
+Concise Display Name
+Enforcement Guidance:  Workers' Compensation and the ADA
+Issue Date
+09-03-1996
+General Topics
+Disability
+Summary
+This document addresses the interaction between Title I of the ADA and state workers’ compensation laws.
+Citation
+ADA, Rehabilitation Act, 29 CFR Part 1630, 29 CFR Part 1614
+Document Applicant
+Employers, Employees, Applicants, Attorneys and Practitioners, EEOC Staff
+Previous Revision
+No
+Disclaimer
+The contents of this document do not have the force and effect of law and are not meant to bind the public in any way. This document is intended only to provide clarity to the public regarding existing requirements under the law or agency policies.
+Notice Concerning The Americans With Disabilities Act Amendments Act Of 2008
+This document was issued prior to enactment of the
+Americans with Disabilities Act Amendments Act of 2008 (ADAAA)
+, which took effect on January 1, 2009.  The ADAAA broadened the statutory definition of disability, as summarized in this
+list of specific changes.
+EEOC NOTICE
+Number 915.002
+Date
+1.     SUBJECT: EEOC Enforcement Guidance: Workers' Compensation and the ADA
+2.     PURPOSE: This enforcement guidance sets forth the
+Commission's position on the interaction between Title I of the
+Americans with Disabilities Act of 1990 and state workers'
+compensation laws.
+3.     EFFECTIVE DATE: Upon receipt.
+4.     EXPIRATION DATE: As an exception to EEOC Order 205.001,
+Appendix B, Attachment 4, § a(5), this Notice will remain in
+effect until rescinded or superseded.
+5.     ORIGINATOR: ADA Division, Office of Legal Counsel.
+6.     INSTRUCTIONS: File after Section 902 of Volume II of the
+Compliance Manual.
+_______________            _____________________________________
+Date                       Gilbert F. Casellas
+Chairman
+EEOC Enforcement Guidance: Workers' Compensation and the ADA
+TABLE OF CONTENTS
+INTRODUCTION
+DISABILITY
+QUESTIONS AND EXAMINATIONS
+CONFIDENTIALITY OF MEDICAL INFORMATION
+HIRING DECISIONS
+RETURN TO WORK DECISIONS
+REASONABLE ACCOMMODATION
+LIGHT DUTY
+EXCLUSIVE REMEDY PROVISIONS
+INDEX (removed in ASCII version)
+EEOC Enforcement Guidance: Workers' Compensation and the ADA
+INTRODUCTION
+This enforcement guidance concerns the interaction
+between Title I of the Americans with Disabilities Act of 1990
+(ADA)1 and state workers' compensation laws.2  The purpose of
+Title I of the ADA is to prohibit employers from discriminating
+against qualified individuals because of disability in all
+aspects of employment.3  On the other hand, the purpose of a
+workers' compensation law is to provide a system for securing
+prompt and fair settlement of employees' claims against employers
+for occupational injury and illness.4  While the purposes of the
+two laws are not in conflict, the simultaneous application of the
+laws has raised questions for EEOC investigators, for employers,
+and for individuals with disabilities in a number of areas.5  In
+this document, the Commission provides guidance concerning the
+following issues:
+* whether a person with an occupational injury has a
+disability as defined by the ADA;
+* disability-related questions and medical examinations
+relating to occupational injury and workers' compensation claims;
+* hiring of persons with a history of occupational
+injury, return to work of persons with occupational injury, and
+application of the direct threat standard;
+* reasonable accommodation for persons with disability-
+related occupational injuries;
+* light duty issues; and
+* exclusive remedy provisions in workers' compensation
+laws.
+DISABILITY
+The Commission has provided general guidance on the
+definition of the term "disability" under the ADA in EEOC:
+Definition of the Term "Disability," 8 FEP Manual (BNA) 405:7251
+(1995).  This section applies that guidance in the context of
+occupational injury and workers' compensation.  The definition of
+"disability" under the ADA is no different in the workers'
+compensation context than in any other context.
+1. Does everyone with an occupational injury have a
+disability within the meaning of the ADA?
+No.  Even if an employee with an occupational injury
+has a "disability" as defined by a workers' compensation statute,
+s/he may not have a "disability" for ADA purposes.
+The ADA defines "disability" as: (1) a physical or
+mental impairment that substantially limits a major life
+activity, (2) a record of such an impairment, or (3) being
+regarded as having such an impairment.  Impairments resulting
+from occupational injury may not be severe enough to
+substantially limit a major life activity, or they may be only
+temporary, non-chronic, and have little or no long term impact.
+2. Does every person who has filed a workers' compensation
+claim have a disability under the "record of" portion of the ADA
+definition?
+No.  A person has a disability under the "record of"
+portion of the ADA definition only if s/he has a history of, or
+has been misclassified as having, a mental or physical impairment
+that substantially limits one or more major life activities.
+3. When does a person with an occupational injury have a
+disability under the "regarded as" portion of the ADA definition?
+A person with an occupational injury has a disability
+under the "regarded as" portion of the ADA definition if s/he:
+(1) has an impairment that does not substantially limit a major
+life activity but is treated by an employer as if it were
+substantially limiting, (2) has an impairment that substantially
+limits a major life activity because of the attitude of others
+towards the impairment, or (3) has no impairment but is treated
+as having a substantially limiting impairment.6
+Example A:  An employee has an occupational injury that
+has resulted in a temporary back impairment that does not
+substantially limit a major life activity.  However, the employer
+views her as not being able to lift more than a few pounds and
+refuses to return her to her position.  The employer regards her
+as having an impairment that substantially limits the major life
+activity of lifting.  The employee has a disability as defined by
+the ADA.
+Example B:  An employer refuses to allow an employee
+whose occupational injury results in a facial disfigurement to
+return to his position because the employer fears negative
+reactions by co-workers or customers.  The employer regards him
+as having an impairment that substantially limits the major life
+activities of interacting with others and working.  The employee
+has a disability as defined by the ADA.
+Example C:  An employee is fully recovered from an
+occupational injury that resulted in a temporary back impairment.
+The employer fires the employee because it believes that, if he
+returns to his heavy labor job, he will severely injure his back
+and be totally incapacitated.  The employer regards the employee
+as having an impairment that disqualifies him from a class of
+jobs (heavy labor) and therefore as substantially limited in the
+major life activity of working.  The employee has a disability as
+defined by the ADA.
+QUESTIONS AND EXAMINATIONS
+The Commission has provided general guidance on disability-
+related questions and medical examinations in ADA Enforcement
+Guidance: Preemployment Disability-Related Questions and Medical
+Examinations, 8 FEP Manual (BNA) 405:7191 (1995).  The guidance
+provided here pertains particularly to disability-related
+questions and medical examinations related to workers'
+compensation and occupational injuries.
+4. When may an employer ask questions about an applicant's
+prior workers' compensation claims or occupational injuries?
+An employer may ask questions about an applicant's
+prior workers' compensation claims or occupational injuries after
+it has made a conditional offer of employment, but before
+employment has begun, as long as it asks the same questions of
+all entering employees in the same job category.
+5. When may an employer require a medical examination of an
+applicant to obtain information about the existence or nature of
+prior occupational injuries?
+An employer may require a medical examination to obtain
+information about the existence or nature of an applicant's prior
+occupational injuries, after it has made a conditional offer of
+employment, but before employment has begun, as long as it
+requires all entering employees in the same job category to have
+a medical examination.  Where an employer has already obtained
+basic medical information from all entering employees in a job
+category, it may require specific individuals to have follow-up
+medical examinations only if they are medically related to the
+previously obtained medical information.
+6. Before making a conditional offer of employment, may an
+employer obtain information about an applicant's prior workers'
+compensation claims or occupational injuries from third parties,
+such as former employers, state workers' compensation offices, or
+a service that provides workers' compensation information?
+No.  At the pre-offer stage, as at any other time, an
+employer may not obtain from third parties any information that
+it could not lawfully obtain directly from the applicant.
+7. May an employer ask disability-related questions or
+require a medical examination of an employee either at the time
+s/he experiences an occupational injury or when s/he seeks to
+return to the job following such an injury?
+Yes, in both instances, provided that the disability-
+related questions or medical examinations are job-related and
+consistent with business necessity.  This requirement is met
+where an employer reasonably believes that the occupational
+injury will impair the employee's ability to perform essential
+job functions or raises legitimate concerns about direct threat.
+However, the questions and examinations must not exceed the scope
+of the specific occupational injury and its effect on the
+employee's ability, with or without reasonable accommodation, to
+perform essential job functions or to work without posing a
+direct threat.7
+8. May an employer ask disability-related questions or
+require a medical examination of an employee with an occupational
+injury in order to ascertain the extent of its workers'
+compensation liability?
+Yes.  The ADA does not prohibit an employer or its
+agent from asking disability-related questions or requiring
+medical examinations that are necessary to ascertain the extent
+of its workers' compensation liability.8
+However, the questions and examinations must be
+consistent with the state law's intended purpose of determining
+an employee's eligibility for workers' compensation benefits.  An
+employer may not use an employee's occupational injury as an
+opportunity to ask far-ranging disability-related questions or to
+require unrelated medical examinations.  Examinations and
+questions must be limited in scope to the specific occupational
+injury and its impact on the individual and may not be required
+more often than is necessary to determine an individual's initial
+or continued eligibility for workers' compensation benefits.
+Excessive questioning or imposition of medical examinations may
+constitute disability-based harassment which is prohibited by the
+ADA.
+9. If an employee with a disability-related occupational
+injury requests a reasonable accommodation, may the employer ask
+for documentation of his/her disability?
+Yes.  If an employee with a disability-related
+occupational injury9 requests reasonable accommodation and the
+need for accommodation is not obvious, the employer may require
+reasonable documentation of the employee's entitlement to
+reasonable accommodation.  While the employer may require
+documentation showing that the employee has a covered disability
+and stating his/her functional limitations, it is not entitled to
+medical records that are unnecessary to the request for
+reasonable accommodation.
+CONFIDENTIALITY OF MEDICAL INFORMATION
+10. Do the ADA's confidentiality requirements apply to
+medical information regarding an applicant's or employee's
+occupational injury or workers' compensation claim?
+Yes.  Medical information regarding an applicant's or
+employee's occupational injury or workers' compensation claim
+must be collected and maintained on separate forms and kept in a
+separate medical file along with other information required to be
+kept confidential under the ADA.  An employer must keep medical
+information confidential even if someone is no longer an
+applicant or an employee.
+The ADA allows disclosure of this information only in
+the following circumstances:
+* supervisors and managers may be told about
+necessary restrictions on the work or duties of the employee and
+about necessary accommodations;10
+* first aid and safety personnel may be told, when
+appropriate, if the disability might require emergency
+treatment;11
+* government officials investigating compliance
+with the ADA must be given relevant information on request;12
+* employers may give information to state workers'
+compensation offices, state second injury funds, and workers'
+compensation insurance carriers in accordance with state workers'
+compensation laws;13 and
+* employers may use the information for insurance
+purposes.14
+HIRING DECISIONS
+11. May an employer refuse to hire a person with a
+disability simply because it assumes, correctly or incorrectly,
+that s/he poses some increased risk of occupational injury and
+increased workers' compensation costs?
+No, unless the employer can show that employment of the
+person in the position poses a "direct threat."  In enacting the
+ADA, Congress sought to address stereotypes regarding disability,
+including assumptions about workers' compensation costs.15  Where
+an employer refuses to hire a person because it assumes,
+correctly or incorrectly, that, because of a disability, s/he
+poses merely some increased risk of occupational injury (and,
+therefore, increased workers' compensation costs), the employer
+discriminates against that person on the basis of disability.
+The employer can refuse to hire the person only if it can show
+that his/her employment in the position poses a "direct threat."
+This means that an employer may not "err on the side of safety"
+simply because of a potential health or safety risk.  Rather, the
+employer must demonstrate that the risk rises to the level of a
+direct threat.
+"Direct threat" means a significant risk of substantial
+harm to the health or safety of the individual or others that
+cannot be eliminated or reduced by reasonable accommodation.16
+The determination that a direct threat exists must be the result
+of a fact-based, individualized inquiry that takes into account
+the specific circumstances of the individual with a disability.
+In determining whether employment of a person in a
+particular position poses a direct threat, the factors to be
+considered are:
+* the duration of the risk;
+* the nature and severity of the potential harm;
+* the likelihood that the potential harm will
+occur; and
+* the imminence of the potential harm.17
+Some state health or safety laws may permit or require
+an employer to exclude a person with a disability from employment
+in cases where the ADA would not permit exclusion because
+employment of the person in the position does not pose a direct
+threat.  Because the ADA supersedes such state laws, an employer
+may not defend its exclusion of a person with a disability on the
+basis of such a law.
+12. May an employer refuse to hire a person with a
+disability simply because s/he sustained a prior occupational
+injury?
+No.  The mere fact that a person with a disability
+experienced an occupational injury in the past does not, by
+itself, establish that his/her current employment in the position
+in question poses a direct threat, i.e., a significant risk of
+substantial harm that cannot be lowered or eliminated by a
+reasonable accommodation.  However, evidence about a person's
+prior occupational injury, in some circumstances, may be relevant
+to the direct threat analysis discussed in question 11, above.
+An investigator should consider the following factors
+regarding a prior occupational injury in applying the direct
+threat analysis set forth in question 11, above:
+* whether the prior injury is related to the
+person's disability (e.g., if employees without disabilities in
+the person's prior job had similar injuries, this may indicate
+that the injury is not related to the disability and, thus, is
+irrelevant to the direct threat inquiry);
+* the circumstances surrounding the prior injury
+(e.g., the actions of others in the workplace or the lack of
+appropriate safety devices or procedures may have caused or
+contributed to the injury);
+* the similarities and differences between the
+position in question and the position in which the prior injury
+occurred (e.g., the prior position may have involved hazards not
+present in the position under consideration);
+* whether the current condition of the person with
+a disability is similar to his/her condition at the time of the
+prior injury (e.g., if the person's condition has improved, the
+prior injury may have little significance);
+* the number and frequency of prior occupational
+injuries;
+* the nature and severity of the prior injury
+(e.g., if the injury was minor, it may have little or no
+significance);
+* the amount of time the person has worked in the
+same or a similar position since the prior injury without
+subsequent injury; and
+* whether the risk of harm can be lowered or
+eliminated by a reasonable accommodation.
+Example A:  CP applies for a position operating a large
+saw with R, a lumber mill.  After making a conditional job offer,
+R discovers that CP, who has insulin-dependent diabetes, was
+seriously injured while operating a similar saw for another
+lumber mill.  The injury was caused by the failure of a safety
+device and was unrelated to CP's diabetes.  R assumes, however,
+that the injury was related to the diabetes and refuses to hire
+CP for safety reasons.  CP's prior occupational injury, which was
+unrelated to her disability, does not constitute evidence that
+she poses a direct threat in the saw operator position because of
+her disability.
+Example B:  CP, who has a shoulder disability, applies
+to R restaurant for the position of bus person which requires
+frequent carrying of basins full of dirty dishes weighing 40-45
+pounds.  After a conditional job offer, R discovers that CP has
+had five serious injuries to his left shoulder while carrying
+basins full of dirty dishes in other bussing jobs over the past
+four years.  A medical examination and physical fitness test show
+that the condition of CP's shoulder has significantly
+deteriorated with each injury.  They also show that, if CP
+carries heavy basins, there is a high probability that his left
+shoulder will be immediately and permanently injured to the point
+where his left arm will be useless.  Assume that there is no
+reasonable accommodation that will enable CP to perform the
+essential functions of the bussing position.  The objective
+medical and other evidence (the number, frequency, nature, and
+severity of the prior injuries; the similarity of the position at
+issue to the positions in which the injuries occurred; the
+progressive deterioration of CP's shoulder with each injury; and
+the evidence that a further injury will render CP's arm useless)
+supports a finding that CP's employment in the position of bus
+person poses a significant risk of substantial harm.  The
+evidence further shows that the risk cannot be lowered or
+eliminated through a reasonable accommodation.  Therefore, CP's
+employment in the position of bus person poses a direct threat.
+Example C:  CP applies for a position as a laborer with
+R, a construction company.  The position requires lifting
+equipment and other items weighing up to 100 pounds.  After
+making a conditional offer of employment to CP, R requires him to
+undergo its standard medical examination.  As a result, R
+discovers that CP previously injured his back while working for
+an automotive repair shop.  CP's prior on-the-job injury, which
+occurred when CP was helping a co-worker push a stalled vehicle,
+was not serious.  CP has completely recovered from the back
+injury.  Nevertheless, R rescinds its offer of employment because
+it is worried about increased workers' compensation costs and
+considers CP to be a poor risk for heavy labor.18  CP's prior
+occupational injury, which was not serious and which occurred in
+a position involving hazards not present in R's position, does
+not constitute evidence that employment of CP in the laborer
+position would pose a direct threat.
+RETURN TO WORK DECISIONS
+13. May an employer require that an employee with a
+disability-related occupational injury be able to return to "full
+duty" before allowing him/her to return to work?
+No.  The term "full duty" may include marginal as well
+as essential job functions or may mean performing job functions
+without any accommodation.  An employer may not require that an
+employee with a disability-related occupational injury who can
+perform essential functions be able to return to "full duty" if,
+because of the disability, s/he is unable to perform marginal
+functions of the position19 or requires a reasonable
+accommodation that would not impose an undue hardship.
+14. May an employer refuse to return to work an employee
+with a disability-related occupational injury simply because it
+assumes, correctly or incorrectly, that s/he poses some increased
+risk of reinjury and increased workers' compensation costs?
+No, unless an employer can show that employment of the
+person in the position poses a "direct threat."  Where an
+employer refuses to return an employee to work because it
+assumes, correctly or incorrectly, that his/her disability-
+related occupational injury creates merely some increased risk of
+further occupational injury and increased workers' compensation
+costs, it discriminates on the basis of disability.  The employer
+may not refuse to return to work an employee who is able to
+perform the essential functions of the job, with or without a
+reasonable accommodation, unless it can show that returning the
+person to the position poses a "direct threat."  (See the
+discussion of direct threat in questions 11 and 12, above.)
+The fact that an employee has had a disability-related
+occupational injury does not, by itself, indicate that s/he is
+unable to perform the essential functions of the job or that
+returning him/her to work poses a direct threat.  In some
+circumstances, evidence about an employee's disability-related
+occupational injury may be relevant to whether s/he can perform
+the essential functions of the job, with or without a reasonable
+accommodation, or it may be relevant to the direct threat
+analysis.  An employer should consider the pertinent factors
+listed in questions 11 and 12, above, in applying the direct
+threat analysis in this context.
+Example A:  CP, a clerk/typist, breaks her wrist while
+trying to move heavy office equipment with a co-worker.  CP is
+unable to work for six weeks and receives workers' compensation.
+After CP's wrist completely heals, she asks to return to work.  A
+physician indicates that there is little risk that repetitive
+motion will damage CP's wrist.  However, R refuses her request to
+return to the clerk/typist position because it believes that any
+repetitive motion will cause serious and permanent reinjury of
+her wrist.20  The following objective evidence supports a finding
+that returning CP to the clerk/typist position does not pose a
+significant risk of substantial harm (i.e., direct threat): (1)
+her injury was not caused by repetitive motion, (2) her wrist has
+completely healed, and (3) there is little risk that she will
+reinjure her wrist through repetitive motion.  R has violated the
+ADA by not returning CP to her clerk/typist position.
+Example B:  CP, a maintenance worker, badly fractures
+both ankles in a workplace accident.  She is unable to work for
+six months and receives workers' compensation.  Although CP's
+ankles partially heal, she is unable to walk and stand for more
+than short periods of time.  CP's maintenance job requires
+extensive walking and standing on cement floors.  The report from
+CP's most recent medical examination shows that there is a high
+probability of immediate, severe, and permanent damage to CP's
+ankles if she walks or stands for more than short periods of
+time, especially on hard surfaces.  Assume that there is no
+accommodation that will lower the risk of harm.  R may refuse to
+return CP to her maintenance position because there is sufficient
+evidence to support a finding that her employment in the position
+poses a direct threat, i.e., a significant risk of substantial
+harm that cannot be eliminated or reduced through a reasonable
+accommodation.  (However, R must reassign CP, as set forth in
+question 22, below, absent undue hardship.)
+15. May an employer refuse to return to work an employee
+with a disability-related occupational injury simply because of a
+workers' compensation determination that s/he has a "permanent
+disability" or is "totally disabled"?
+No.  Workers' compensation laws are different in
+purpose from the ADA and may utilize different standards for
+evaluating whether an individual has a "disability" or whether
+s/he is capable of working.  For example, under a workers'
+compensation statute, a person who loses vision in both eyes or
+has loss of use of both arms or both legs may have a "permanent
+total disability," although s/he may be able to work.  A workers'
+compensation determination also may relate to a different time
+period.  Such a determination is never dispositive regarding an
+individual's ability to return to work, although it may provide
+relevant evidence regarding an employee's ability to perform the
+essential functions of the position in question or to return to
+work without posing a direct threat.
+16. Under the ADA, is a rehabilitation counselor, physician,
+or other specialist responsible for deciding whether an employee
+with a disability-related occupational injury is ready to return
+to work?
+No.  The employer bears the ultimate responsibility for
+deciding whether an employee with a disability-related
+occupational injury is ready to return to work.  Therefore, the
+employer, rather than a rehabilitation counselor, physician, or
+other specialist, must determine whether the employee can perform
+the essential functions of the job, with or without reasonable
+accommodation, or can work without posing a direct threat.
+On the other hand, the employer may find it helpful to
+seek information from the rehabilitation counselor, physician, or
+other specialist regarding the employee's specific functional
+limitations, abilities, and possible reasonable accommodations.
+In order to obtain useful and accurate information from
+a rehabilitation counselor, physician, or other specialist in
+making a return to work decision, an employer may wish to provide
+him/her with specific information about the following:
+* the essential functions of the employee's
+position and the nature of the work to be performed;
+* the work environment and the employer's
+operations, including any unavoidable health or safety hazards
+which may exist; and
+* possible reasonable accommodations.
+An employer also may obtain useful information from
+others who are not experts but who are knowledgeable about the
+employee's current abilities, limitations, and possible
+reasonable accommodations.  Such information will enable the
+employer to make an independent and accurate determination about
+the employee's ability to return to work.
+REASONABLE ACCOMMODATION
+The ADA requires that an employer make reasonable
+accommodation to the known physical or mental limitations of an
+otherwise qualified individual with a disability, unless the
+employer can demonstrate that the accommodation would impose an
+undue hardship.  The general principles regarding reasonable
+accommodation and undue hardship are discussed in the
+Commission's ADA regulations and interpretive guidance (29 C.F.R.
+§§ 1630.2, 1630.9 and Appendix (1995)), and in the
+Technical Assistance Manual at 3.0, 8 FEP Manual (BNA) 405:6998
+(1992).  This section provides specific guidance regarding
+reasonable accommodation in the context of workers' compensation.
+17. Does the ADA require an employer to provide reasonable
+accommodation for an employee with an occupational injury who
+does not have a disability as defined by the ADA?
+No.  The ADA does not require an employer to provide a
+reasonable accommodation for an employee with an occupational
+injury who does not have a disability as defined by the ADA.
+18. May an employer discharge an employee who is temporarily
+unable to work because of a disability-related occupational
+injury?
+No.  An employer may not discharge an employee who is
+temporarily unable to work because of a disability-related
+occupational injury where it would not impose an undue hardship
+to provide leave as a reasonable accommodation.21
+19. What are the reinstatement rights of an employee with a
+disability-related occupational injury?
+An employee with a disability-related occupational
+injury is entitled to return to his/her same position unless the
+employer demonstrates that holding open the position would impose
+an undue hardship.
+In some instances, an employee may request more leave
+even after the employer has communicated that it would impose an
+undue hardship to hold open the employee's position any longer.
+In this situation, the employer must consider whether it has a
+vacant, equivalent position for which the employee is qualified
+and to which the employee can be reassigned without undue
+hardship to continue his/her leave for a specific period of time.
+For example, suppose that an employee needs six months to recover
+from a disability-related occupational injury, but holding
+his/her original position open for more than four months will
+impose an undue hardship.  The employer must consider whether it
+has a vacant equivalent position to which the employee can be
+reassigned for the remaining two months of leave.  If an
+equivalent position is not available, the employer must look for
+a vacant position at a lower level.  Continued leave is not
+required as a reasonable accommodation if a vacant position at a
+lower level is also unavailable.22
+20. Must an employer, as a reasonable accommodation,
+reallocate job duties of an employee with a disability-related
+occupational injury?
+Yes, if the duties to be reallocated are marginal
+functions23 of the position that the employee cannot perform
+because of the disability.  Reasonable accommodation includes
+restructuring a position by reallocating or redistributing the
+marginal functions that the employee cannot perform because of
+the disability.  However, an employer need not eliminate
+essential functions of the position.
+21. May an employer unilaterally reassign an employee with a
+disability-related occupational injury to a different position
+instead of first trying to accommodate the employee in the
+position s/he held at the time the injury occurred?
+No.  An employer must first assess whether the employee
+can perform the essential functions of his/her original position,
+with or without a reasonable accommodation.  Examples of
+reasonable accommodation include job restructuring, modification
+of equipment, or a part-time work schedule.  Reassignment should
+be considered only when accommodation within the employee's
+original position is not possible or would impose an undue
+hardship.24
+22. Must an employer reassign an employee who is no longer
+able to perform the essential functions of his/her original
+position, with or without a reasonable accommodation, because of
+a disability-related occupational injury?
+Yes.  Where an employee can no longer perform the
+essential functions of his/her original position, with or without
+a reasonable accommodation, because of a disability-related
+occupational injury, an employer must reassign him/her to an
+equivalent vacant position for which s/he is qualified, absent
+undue hardship.25  If no equivalent vacant position (in terms of
+pay, status, etc.) exists, then the employee must be reassigned
+to a lower graded position for which s/he is qualified, absent
+undue hardship.
+23. If there is no vacancy for an employee who can no longer
+perform his/her original position because of a disability-related
+occupational injury, must an employer create a new position or
+"bump" another employee from his/her position?
+No.  The ADA does not require an employer to create a
+new position or to bump another employee from his/her position in
+order to reassign an employee who can no longer perform the
+essential functions of his/her original position, with or without
+a reasonable accommodation.
+24. When an employee requests leave as a reasonable
+accommodation under the ADA because of a disability-related
+occupational injury, may an employer provide an accommodation
+that requires him/her to remain on the job instead?
+Yes.  An employer need not provide an employee's
+preferred accommodation as long as the employer provides an
+effective accommodation -- one that is sufficient to meet the
+employee's job-related needs.
+Accordingly, an employer may provide a reasonable
+accommodation that requires an employee to remain on the job, in
+lieu of providing leave (e.g., reallocating marginal functions,
+or providing temporary reassignment).
+The employer is obligated, however, to restore the
+employee's full duties or to return the employee to his/her
+original position once s/he has recovered sufficiently to perform
+its essential functions, with or without a reasonable
+accommodation.
+However, if an employee with a disability-related
+occupational injury does not request a reasonable accommodation,
+but simply requests leave that is routinely granted to other
+employees (e.g., accrued paid leave or leave without pay), an
+employer may not require him/her to remain on the job with some
+type of adjustment unless it also requires employees without
+disabilities who request such leave to remain on the job with
+some type of adjustment.
+(Note that, if an employee qualifies for leave under
+the Family and Medical Leave Act, an employer may not require
+him/her to remain on the job with an adjustment in lieu of taking
+a leave of absence.  29 C.F.R. § 825.702(d)(1) (1995).)
+25. May an employer satisfy its ADA obligation to provide
+reasonable accommodation for an employee with a disability-
+related occupational injury by placing him/her in a workers'
+compensation vocational rehabilitation program?
+No.  An employer cannot substitute vocational
+rehabilitation services in place of a reasonable accommodation
+required by the ADA for an employee with a disability-related
+occupational injury.  An employee's rights under the ADA are
+separate from his/her entitlements under a workers' compensation
+law.  The ADA requires employers to accommodate an employee in
+his/her current position through job restructuring or some other
+modification, absent undue hardship.26  If it would impose an
+undue hardship to accommodate an employee in his/her current
+position, then the ADA requires that an employer reassign the
+employee to a vacant position s/he can perform, absent undue
+hardship.27  (See question 22, above.)
+26. May an employer make a workplace modification that is
+not a required form of reasonable accommodation under the ADA in
+order to offset workers' compensation costs?
+Yes.  Nothing in the ADA prohibits an employer from
+making a workplace modification that is not a required form of
+reasonable accommodation under the ADA for an employee with an
+occupational injury in order to offset workers' compensation
+costs.  For example, the ADA does not require employers to lower
+production standards to accommodate individuals with
+disabilities.  However, an employer is clearly permitted to lower
+production standards for an occupationally injured employee as a
+way of returning him/her to work more quickly.
+LIGHT DUTY
+The term "light duty" has a number of different meanings in
+the employment setting.  Generally, "light duty" refers to
+temporary or permanent work that is physically or mentally less
+demanding than normal job duties.  Some employers use the term
+"light duty" to mean simply excusing an employee from performing
+those job functions that s/he is unable to perform because of an
+impairment.  "Light duty" also may consist of particular
+positions with duties that are less physically or mentally
+demanding created specifically for the purpose of providing
+alternative work for employees who are unable to perform some or
+all of their normal duties.  Further, an employer may refer to
+any position that is sedentary or is less physically or mentally
+demanding as "light duty."
+In the following questions and answers, the term "light
+duty" refers only to particular positions created specifically
+for the purpose of providing work for employees who are unable to
+perform some or all of their normal duties.
+27. Does the ADA prohibit an employer from creating a light
+duty position for an employee when s/he is injured on the job?
+No, in most instances.  An employer may recognize a
+special obligation arising out of the employment relationship to
+create a light duty position for an employee when s/he has been
+injured while performing work for the employer and, as a
+consequence, is unable to perform his/her regular job duties.
+Such a policy, on its face, does not treat an individual with a
+disability less favorably than an individual without a
+disability; nor does it screen out an individual on the basis of
+disability.28
+Of course, an employer must apply its policy of
+creating a light duty position for an employee when s/he is
+occupationally injured on a non-discriminatory basis.  In other
+words, an employer may not use disability as a reason to refuse
+to create a light duty position when an employee is
+occupationally injured.
+An employer need not create a light duty position for a
+non-occupationally injured employee with a disability as a
+reasonable accommodation.  The principle that the ADA does not
+require employers to create positions as a form of reasonable
+accommodation applies equally to the creation of light duty
+positions.  However, an employer must provide other forms of
+reasonable accommodation required under the ADA.  For example,
+subject to undue hardship, an employer must: (1) restructure a
+position by redistributing marginal functions which an individual
+cannot perform because of a disability, (2) provide modified
+scheduling (including part time work), or (3) reassign a non-
+occupationally injured employee with a disability to an
+equivalent existing vacancy for which s/he is qualified.
+Accordingly, an employer may not avoid its obligation to
+accommodate an individual with a disability simply by asserting
+that the disability did not derive from an occupational injury.
+In some cases, the only effective reasonable
+accommodation available for an individual with a disability may
+be similar or equivalent to a light duty position.  The employer
+would have to provide that reasonable accommodation unless the
+employer can demonstrate that doing so would impose an undue
+hardship.
+Example: R creates light duty positions for employees
+when they are occupationally injured if they are unable to
+perform one or more of their regular job duties.  CP can no
+longer perform functions of her position because of a disability
+caused by an off-the-job accident.  She requests that R create a
+light duty position for her as a reasonable accommodation.  R
+denies CP's request because she has not been injured on the job.
+R has not violated the ADA.  However, R must provide another
+reasonable accommodation, absent undue hardship.  If it is
+determined that the only effective accommodation is to
+restructure CP's position by redistributing the marginal
+functions, and the restructured position resembles a light duty
+position, R must provide the reasonable accommodation unless it
+can prove that it imposes an undue hardship.
+28.     If an employer reserves light duty positions for
+employees with occupational injuries, does the ADA require it to
+consider reassigning an employee with a disability who is not
+occupationally injured to such positions as a reasonable
+accommodation?
+Yes.29  If an employee with a disability who is not
+occupationally injured becomes unable to perform the essential
+functions of his/her job, and there is no other effective
+accommodation available, the employer must reassign him/her to a
+vacant reserved light duty position as a reasonable accommodation
+if (1) s/he can perform its essential functions, with or without
+a reasonable accommodation; and (2) the reassignment would not
+impose an undue hardship.  This is because reassignment to a
+vacant position and appropriate modification of an employer's
+policy are forms of reasonable accommodation required by the ADA,
+absent undue hardship.30  An employer cannot establish that the
+reassignment to a vacant reserved light duty position imposes an
+undue hardship simply by showing that it would have no other
+vacant light duty positions available if an employee became
+injured on the job and needed light duty.
+Example: R has light duty positions which it reserves
+for employees in its manufacturing department when they are
+unable to perform their regular job duties because of on-the-job
+injuries.  CP, an assembly line worker, has multiple sclerosis
+(MS) which substantially limits a number of major life
+activities.  Eventually CP is unable to perform the essential
+functions of her position, with or without a reasonable
+accommodation, because of the MS.  As a reasonable accommodation,
+CP requests that she be reassigned to a vacant light duty
+position for which she is qualified.  R says that the vacant
+light duty position is reserved for employees who are injured on
+the job and refuses to reassign CP, although it would not impose
+an undue hardship to do so.  R has violated the ADA by refusing
+to reassign her to the vacant light duty position.
+29.  If an employer has only temporary light duty positions,
+must it still provide a permanent light duty position for an
+employee with a disability-related occupational injury?
+No.  The ADA typically does not limit an employer's
+ability to establish or change the content, nature, or functions
+of its positions.  So, for example, an employer is free to
+determine that a light duty position will be temporary rather
+than permanent.31  Thus, if an employer provides light duty
+positions only on a temporary basis, it need only provide a
+temporary light duty position for an employee with a disability-
+related occupational injury.
+EXCLUSIVE REMEDY PROVISIONS
+30. Do exclusive remedy provisions in workers' compensation
+laws bar employees from pursuing ADA claims?
+No.  The purpose of workers' compensation exclusivity
+clauses is to protect employers from being sued under common law
+theories of personal injury for occupational injury.  Courts have
+generally held that the exclusive remedy provisions of state
+workers' compensation laws cannot bar claims arising under
+federal civil rights laws,32 even where a state workers'
+compensation law provides some relief for disability
+discrimination.  Applying a state workers' compensation law's
+exclusivity provision to bar an individual's ADA claim would
+violate the Supremacy Clause of the U.S. Constitution and
+seriously diminish the civil rights protection Congress granted
+to persons with disabilities.
+INDEX (removed in ASCII version)
+1.     Codified as amended at 42 U.S.C. §§ 12101-
+12117, 12201-12213 (1994).
+2.     The analysis in this guidance also applies to federal
+sector complaints of non-affirmative action employment
+discrimination arising from the interaction between the Federal
+Employee's Compensation Act, 5 U.S.C. §§ 8101-8193
+(1994), and section 501 of the Rehabilitation Act of 1973, 29
+U.S.C. § 791(g) (1994), and to complaints of non-affirmative
+action employment discrimination arising from the interaction
+between sections 503 and 504 of the Rehabilitation Act of 1973,
+29 U.S.C. §§ 793(d), 794(d) (1994), and state workers'
+compensation laws.
+3.     42 U.S.C. § 12112(a); 29 C.F.R. § 1630.4.
+4.     Workers' compensation laws generally require employers to
+compensate employees who are injured or become ill in the course
+of employment for the resulting loss of earning capacity and for
+medical care.  See 1 Arthur Larson, The Law of Workmen's
+Compensation, § 1-1.10 (1994).
+5.     Basic information on this topic may be found in EEOC:
+Technical Assistance Manual on the Employment Provisions (Title
+I) of the Americans with Disabilities Act at 9.0, 8 FEP Manual
+(BNA) 405:7055 (1992) [hereinafter Technical Assistance Manual].
+6.     For a detailed discussion of whether an individual is
+covered under the "regarded as" portion of the ADA definition of
+disability, see EEOC: Definition of the Term "Disability" at
+902.8(a), 8 FEP Manual (BNA) 405:7278-405:7286 (1995).
+7.     If, as a result of an examination or inquiry, an employer
+refuses to return an employee to work because of a disability,
+the reason for doing so must be job-related and consistent with
+business necessity.  See 29 C.F.R. § 1630.10 and Appendix
+(1995).  Where safety considerations are implicated, the employer
+can only refuse to return the employee to work where his/her
+employment in the position would pose a "direct threat."  Direct
+threat is discussed in questions 11, 12, 14, and 15, below.
+8.     This is because the ADA does not invalidate the
+procedures of any federal, state, or local law "that provides
+greater or equal protection for the rights of individuals with
+disabilities" than is provided by the ADA.  42 U.S.C. §
+12201(b) (1994).  Those portions of state workers' compensation
+laws that protect the rights of individuals to be compensated for
+work-related injury provide such greater or equal protection.
+The same is true for the analogous portions of the Federal
+Employee's Compensation Act, 5 U.S.C. §§ 8101-8193
+(1994).
+9.     An individual with a disability may have an occupational
+injury that has nothing to do with the disability.  The term
+"disability-related occupational injury" is used herein when the
+ADA and workers' compensation statutes apply simultaneously,
+i.e., where there is a connection between an occupational injury
+and a disability as defined by the ADA.
+10.     42 U.S.C. § 12112(d)(3)(B)(i) (1994); 29 C.F.R.
+§ 1630.14(b)(1)(i), (c)(1)(i) (1995).
+11.     42 U.S.C. § 12112(d)(3)(B)(ii); 29 C.F.R. §
+1630.14(b)(1)(ii), (c)(1)(ii).
+12.     42 U.S.C. § 12112(d)(3)(B)(iii); 29 C.F.R. §
+1630.14(b)(1)(iii), (c)(1)(iii).
+13.     See 42 U.S.C. § 12201(b); 29 C.F.R. pt. 1630 app.
+§ 1630.14(b).
+14.     See 42 U.S.C. § 12201(c); 29 C.F.R. pt. 1630 app.
+§§ 1630.14(b) and 1630.16(f).  For example, an employer
+may submit medical information to the company's health insurance
+carrier if the information is needed to administer a health
+insurance plan in accordance with § 501(c) of the ADA.
+15.     H.R. Rep. No. 485 pt. 3, 101st Cong., 2d Sess. 31
+(1990).
+16.     29 C.F.R. § 1630.2(r) (1995).
+17.     "Direct threat" is discussed more fully in the
+Commission's ADA regulations and interpretive guidance, 29 C.F.R.
+§ 1630.2(r) and Appendix (1995), and in the Technical
+Assistance Manual at 4.5, 8 FEP Manual (BNA) 405:7022-405:7026
+(1992).
+18.     CP has a disability as defined by the ADA because R
+regards CP as having a substantially limiting impairment.  R,
+which disqualified CP from the heavy laborer position because it
+believed that CP was a poor risk for heavy labor, treated CP as
+unsuitable for the class of heavy labor jobs.  Accordingly, R
+regards CP as substantially limited in the major life activity of
+working.  See EEOC: Definition of the Term "Disability" at
+902.8(f), 8 FEP Manual (BNA) 405:7282 (1995).
+19.     The employer can reallocate or redistribute to other
+employees the marginal functions that the employee is unable to
+perform because of the disability.
+20.     CP has a disability because R regards her as having an
+impairment that disqualifies her from a class of jobs
+(clerk/typist) and therefore as substantially limited in the
+major life activity of working.  See EEOC: Definition of the Term
+"Disability" at 902.8(f), 8 FEP Manual (BNA) 405:7282 (1995).
+21.     Under the ADA, permitting the use of accrued paid leave
+or providing additional unpaid leave for treatment and/or
+recovery are forms of reasonable accommodation that an employer
+must provide, absent undue hardship.  See 29 C.F.R. pt. 1630 app.
+§ 1630.2(o) (1995); Technical Assistance
+Manual at 3.10(4), 8 FEP Manual (BNA) 405:7011 (1992).  In
+addition, an injured employee may be entitled to leave under the
+Family and Medical Leave Act of 1993, 29 U.S.C. §§
+2601-2654 (1994), which is enforced by the United States
+Department of Labor.
+22.     For further information on an employer's obligations
+regarding reassignment, see questions 21 and 22, below.
+23.     For a discussion of essential and marginal job
+functions see 29 C.F.R. § 1630.2(n) and Appendix (1995) and
+the Technical Assistance Manual at 2.3(a)-(c), 8 FEP Man. (BNA)
+405:6993-405:6998 (1992).
+24.     29 C.F.R. pt. 1630 app. § 1630.2(o); Technical
+Assistance Manual at 3.10(5), 8 FEP Manual (BNA) 405:7011-
+405:7012 (1992).  Note, however, that the ADA does not prohibit
+an employer and an employee from choosing reassignment rather
+than accommodation in the original position, if both parties
+voluntarily agree that reassignment is preferable.
+25.     Id.  Note, however, that the ADA does not prohibit an
+employer from removing an essential function that an employee is
+no longer able to perform, in lieu of reassignment, if removing
+the essential function does not result in a diminution of an
+employment opportunity or status.  Where removing an essential
+function results in a diminution of an employment opportunity or
+status, an employer may remove the essential function in lieu of
+reassignment only if both parties voluntarily agree that it is
+preferable to reassignment.  Of course, the ADA does not require
+an employer to remove an essential job function as a reasonable
+accommodation.
+26.     29 C.F.R. pt. 1630 app. § 1630.2(o) (1995);
+Technical Assistance Manual at 3.10(5), 8 FEP Manual (BNA)
+405:7011-405:7012 (1992).
+27.     However, the ADA does not prohibit an employer and an
+employee from choosing vocational rehabilitation as an
+alternative to accommodating the employee in his/her current
+position, if both parties voluntarily agree that vocational
+rehabilitation is preferable.
+28.     A policy of creating light duty jobs for employees when
+they are occupationally injured in some instances may
+disproportionately exclude a class of individuals with
+disabilities.  Where this is established by appropriate evidence
+of adverse impact, an employer must show that the policy is job-
+related and consistent with business necessity.  Similarly, where
+such a policy has a disparate impact on a protected class under
+Title VII of the Civil Rights Act of 1964, as amended, 42 U.S.C.
+§§ 2000e-2000e-17 (1994), or the Age Discrimination in
+Employment Act of 1967, 29 U.S.C. §§ 621-634 (1994),
+the employer must show that the policy is job-related and
+consistent with business necessity.
+29.     If it is established by appropriate evidence that a
+policy of reserving light duty jobs for employees who have been
+occupationally injured has an adverse impact on a protected class
+under any of the laws enforced by the EEOC, an employer must show
+that the policy is job-related and consistent with business
+necessity.  See footnote 28, above.  Of course, an employer may
+not apply the policy in a discriminatory manner.
+30.     29 C.F.R. § 1630.2(o)(2)(ii) (1995).
+31.     Technical Assistance Manual at 9.4, 8 FEP Manual (BNA)
+405:7057-405:7058 (1992).
+32.     The only federal court to have addressed the issue
+under the ADA has held that an individual's ADA rights are not
+precluded by a state workers' compensation exclusive remedy
+provision.  Wood v. County of Alameda, 875 F. Supp. 659, 664, 4
+AD Cas. (BNA) 43 (N.D. Cal. 1995).  Prior to enactment of the
+ADA, it was well established that the exclusive remedy provisions
+of state workers' compensation laws could not bar claims arising
+under federal civil rights laws, including the Rehabilitation
+Act.  See, e.g., Lopez v. S.B. Thomas, Inc., 831 F.2d 1184, 1190
+(2d Cir. 1987) (while workers' compensation law might bar
+plaintiff's state common law claim, it cannot bar relief under 42
+U.S.C. § 1981 for discriminatory discharge); Rosa v.
+Cantrell, 705 F.2d 1208, 1221 (10th Cir. 1982), cert. denied, 464
+U.S. 821 (1983) (state statute's exclusivity provision does not
+bar a federal civil rights claim under 42 U.S.C. § 1983);
+Smith v. Lake City Nursing Home, 771 F. Supp. 985, 987, 1 AD Cas.
+(BNA) 1874 (D. Minn. 1991) (federal remedy under section 504 of
+Rehabilitation Act for disability discrimination cannot be
+limited by a state workers' compensation act).
+Return to top
+U.S. Equal Employment Opportunity Commission
+EEOC Headquarters
+131 M Street, NE
+Washington, DC 20507
+1-800-669-6820
+(TTY)
+1-844-234-5122
+(ASL Video Phone)
+Questions?
+Call 1-800-669-4000
+For Deaf/Hard of Hearing callers:
+1-800-669-6820
+(TTY)
+1-844-234-5122
+(ASL Video Phone)
+info@eeoc.gov
+Find your nearest EEOC office
+Connect With Us
+FOIA
+Privacy Policy
+Disclaimer
+Accessibility
+Office of Inspector General
+USA.gov

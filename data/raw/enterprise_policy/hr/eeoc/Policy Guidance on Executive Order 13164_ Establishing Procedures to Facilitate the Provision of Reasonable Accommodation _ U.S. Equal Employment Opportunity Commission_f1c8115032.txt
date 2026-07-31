@@ -1,0 +1,714 @@
+Policy Guidance on Executive Order 13164: Establishing Procedures to Facilitate the Provision of Reasonable Accommodation | U.S. Equal Employment Opportunity Commission
+Skip to main content
+An official website of the United States government
+Here’s how you know
+Here’s how you know
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive
+information only on official, secure websites.
+U.S. Equal Employment Opportunity Commission
+Menu
+Header Navigation
+Online Filing
+Public Portal
+Attorney E-file
+Locations
+Operating Status
+Languages
+English
+Español (Spanish)
+Resources in Other Languages
+عربي (Arabic)
+简体中文 (Chinese, Simplified)
+繁體中文 - Chinese (Traditional)
+Kreyòl Ayisyen (Haitian Creole)
+한국어 (Korean)
+Русском (Russian)
+Português (Portuguese)
+Tagalog (Tagalog)
+ไทย (Thai)
+Tiếng Việt (Vietnamese)
+فارسی (Persian. Farsi)
+پښتو (Pashto)
+Toggle Search Form
+Any of these words
+(optional)
+Search
+About EEOC
+About EEOC
+Overview
+The Commission and The General Counsel
+Meetings of the Commission
+Commission Votes
+EEOC History
+News and Information
+Newsroom
+What You Should Know
+Legislative Affairs
+Publications
+Outreach and Education
+FOIA
+Laws and Enforcement
+EEOC Legal Resources
+Mediation
+Litigation
+Systemic Enforcement
+Commissioner Charges
+Directed Investigations
+Programs and Performance
+Budget and Performance
+Initiatives
+Interagency Programs
+State and Local Programs
+Task Forces
+Tribal Programs
+Data and Analytics
+Overview
+Data Governance
+EEO Data Collections
+Data and Statistics
+Data Tools and Products
+No FEAR Act Data
+Inside EEOC
+Careers
+Office for Civil Rights
+Doing Business with EEOC
+AI Governance
+Privacy
+Office of Inspector General
+Employees & Job Applicants
+Employees & Applicants
+Overview
+Coverage
+Timeliness
+Prohibited Practices
+Filing a Charge of Discrimination
+Filing a Charge
+How to File
+After You File a Charge
+Confidentiality
+Mediation
+Remedies
+Existing Charges
+Filing a Lawsuit
+Discrimination by Type
+Age
+Disability
+Equal Pay
+Genetic Information
+Harassment
+National Origin Discrimination
+Pregnancy Discrimination
+Race/Color Discrimination
+Religious Discrimination
+Retaliation
+Sex
+Sexual Harassment
+Employers / Small Business
+Employers / Small Business
+Overview
+Coverage
+After a Charge is Filed
+Resolving a Charge
+Commissioner Charges
+Directed Investigations
+Remedies
+Small Business Resource Center
+Small Business Home
+Small Business Requirements
+Frequently Asked Questions
+Tips for Small Businesses
+Making an Employment Decision?
+EEOC Resources
+Small Business Assistance
+Small Business Fact Sheet
+Small Business Videos
+EEOC Glossary
+Contact Us
+Discrimination by Type
+Age
+Disability
+Equal Pay
+Genetic Information
+Harassment
+National Origin
+Pregnancy
+Race/Color
+Religion
+Retaliation
+Sex
+Sexual Harassment
+Prohibited Practices
+Recordkeeping
+EEO Data Collections
+"Know Your Rights" Poster
+Training
+Other Employment Issues
+Federal Sector
+Federal Agencies
+Overview
+Federal EEO Coordination
+Federal Agency EEO Directors
+EEOC Legal Resources
+Management Directives & Federal Sector Guidance
+Federal Training & Outreach
+Resources
+Federal Employees & Job Applicants
+Overview
+Federal Complaint Process
+Federal Sector Alternative Dispute Resolution
+Prohibited Practices
+Resources
+Contact Us
+Contact EEOC
+Find Your Nearest Office
+Office Operating Status
+How to File a Charge
+Public Portal
+Home
+Laws
+guidance
+Policy Guidance on Executive Order 13164: Establishing Procedures to Facilitate the Provision of Reasonable Accommodation
+Policy Guidance on Executive Order 13164:  Establishing Procedures to Facilitate the Provision of Reasonable Accommodation
+Issuing Authority
+This guidance document was issued upon approval by vote of the U.S. Equal Employment Opportunity Commission.
+OLC Control Number
+EEOC-CVG-2001-2
+Concise Display Name
+Policy Guidance on Executive Order 13164:  Establishing Procedures to Facilitate the Provision of Reasonable Accommodation
+Issue Date
+10-20-2000
+General Topics
+Disability
+Summary
+This document addresses steps for federal agencies required under E.O. 13164 to issue procedures for processing requests by applicants and employees for reasonable accommodation.
+Citation
+Rehabilitation Act, 29 CFR Part 1614. E.O. 13164
+Document Applicant
+Employers, Employees, Applicants, Attorneys and Practitioners, EEOC Staff
+Previous Revision
+No
+Disclaimer
+The contents of this document do not have the force and effect of law and are not meant to bind the public in any way. This document is intended only to provide clarity to the public regarding existing requirements under the law or agency policies.
+Notice Concerning The Americans With Disabilities Act Amendments Act Of 2008
+This document was issued prior to enactment of the
+Americans with Disabilities Act Amendments Act of 2008 (ADAAA)
+, which took effect on January 1, 2009.  The ADAAA broadened the statutory definition of disability, as summarized in this
+list of specific changes.
+DIRECTIVES TRANSMITTAL
+Number
+915.003
+EEOC
+October 20, 2000
+The contents of this document do not have the force and effect of law and are not meant to bind the public in any way. This document is intended only to provide clarity to the public regarding existing requirements under the law or agency policies.
+1.
+SUBJECT
+. EEOC Policy Guidance on Executive Order 13164: Establishing Procedures to Facilitate the Provision of Reasonable Accommodation.
+2.
+PURPOSE
+. This policy guidance explains the requirements of Executive Order 13164, which requires federal agencies to establish effective written procedures for processing requests for reasonable accommodation.
+3.
+EFFECTIVE DATE
+. Upon receipt.
+4.
+EXPIRATION DATE
+. As an exception to EEOC Order 205.001, Appendix B, Attachment 4, § a(5), this Notice will remain in effect until rescinded or superseded.
+5.
+ORIGINATOR
+. Office of Legal Counsel, EEOC.
+6.
+INSTRUCTIONS
+. File after Section 902 of Volume II of the Compliance Manual.
+10/20/2000                              /S/
+____________________              _____________________________
+Date                              Ida L. Castro
+Chairwoman
+Policy Guidance On Executive Order 13164: Establishing Procedures To Facilitate The Provision Of Reasonable Accommodation
+Introduction
+On July 26, 2000, President Clinton signed
+Executive Order 13164
+(Order),
+(1)
+which requires each federal agency to establish effective written procedures for processing requests for reasonable accommodation. The Order helps to implement the requirement of the Rehabilitation Act of 1973
+(2)
+that agencies provide reasonable accommodation to qualified employees and applicants with disabilities. It is an important part of the government's national policy to create additional employment opportunities for people with disabilities.
+An accommodation is a change involving the workplace that enables a person with a disability to enjoy equal employment opportunities. Many individuals with disabilities can apply for and perform jobs without the need for an accommodation. However, where workplace barriers exist, such as physical obstacles or rules about how a job is to be performed, reasonable accommodation serves two fundamental purposes. First, reasonable accommodations remove barriers that prevent people with disabilities from applying for, or performing, jobs for which they are qualified. Second, reasonable accommodations enable agencies to expand the pool of qualified workers, thus allowing the agencies to benefit from the talents of people who might otherwise be arbitrarily barred from employment.
+Effective procedures for processing reasonable accommodation requests will advance both these goals. They will enable agencies to handle requests in a prompt, fair, and efficient manner; they will assure that individuals with disabilities understand how to approach the system and know what to expect; and they will be a resource both for individuals with disabilities and for agency employees, so that all parties can understand the legal requirements of the Rehabilitation Act.
+The U.S. Equal Employment Opportunity Commission (EEOC or Commission) is responsible for issuing guidance to implement the Order. This Guidance first sets forth some background information on the obligation to provide reasonable accommodation and the standards of the Rehabilitation Act. It then addresses each of the requirements of the Order. This Guidance is to be read in conjunction with relevant EEOC regulations,
+see
+29 C.F.R. part 1630, and the EEOC's "
+Enforcement Guidance on Reasonable Accommodation and Undue Hardship Under the Americans with Disabilities Act
+," available on the web at
+www.eeoc.gov
+.
+I. Background
+A. Key Terms
+Reasonable accommodation.
+The Rehabilitation Act of 1973 requires federal agencies to provide reasonable accommodation to qualified employees or applicants with disabilities, unless to do so would cause undue hardship. In general, an accommodation is a change in the work environment or in the way things are customarily done that would enable an individual with a disability to enjoy equal employment opportunities.
+(3)
+There are three categories of reasonable accommodations:
+modifications or adjustments to a job application process to permit an individual with a disability to be considered for a job (such as providing application forms in alternative formats like large print or Braille);
+modifications or adjustments necessary to enable a qualified individual with a disability to perform the essential functions of the job (such as providing sign language interpreters); and
+modifications or adjustments that enable employees with disabilities to enjoy equal benefits and privileges of employment (such as removing physical barriers in an office cafeteria).
+Agency procedures must address how to handle requests for each of these categories of accommodation.
+Undue hardship.
+Agencies do not have to provide reasonable accommodations that would impose an undue hardship on the operation of the agency. An undue hardship means that a specific accommodation would require significant difficulty or expense. This determination, which must be made on a case-by-case basis, considers factors such as the nature and cost of the accommodation needed and the impact of the accommodation on the operations of the agency.
+Essential functions.
+The essential functions of a job are those job duties that are so fundamental to the position that the individual cannot do the job without being able to perform them. A function can be "essential" if, among other things, the position exists specifically to perform that function, there are a limited number of other employees who could perform the function if it were assigned to them, or the function is specialized and the incumbent is hired based on his/her ability to perform it.
+For further guidance on their obligation to provide reasonable accommodation, agencies should consult the EEOC's "
+Enforcement Guidance on Reasonable Accommodation and Undue Hardship Under the Americans with Disabilities Act
+" (
+EEOC Reasonable Accommodation Guidance
+).
+(4)
+The
+EEOC Reasonable Accommodation Guidance
+discusses the types of accommodations that employers may be required to make; the ways in which individuals may request reasonable accommodation; the "interactive process" between the agency and the individual following a request for reasonable accommodation; and factors to consider in evaluating undue hardship. All agency reasonable accommodation procedures must, at a minimum, conform to the standards set forth in the
+EEOC Reasonable Accommodation Guidance
+.
+B. General Guidelines for Agency Reasonable Accommodation Procedures
+Reasonable accommodation procedures should be designed to expand employment opportunities for people with disabilities, not to create new bureaucratic requirements. The Rehabilitation Act requires that individuals be given substantial leeway in the ways in which they can make requests for reasonable accommodation.
+Additionally, agency procedures must permit flexibility in the processing of requests and assure that agency officials act expeditiously in providing reasonable accommodations.
+Agency procedures must also inform individuals with disabilities and agency employees about their rights and responsibilities under the Rehabilitation Act. The procedures must be written in plain language so that they can be understood by those not familiar with the law. They must also explain relevant terms (
+e.g.,
+essential functions, undue hardship, etc.).
+An agency may permit different components of the agency to adopt their own procedures as necessary to expedite the processing of reasonable accommodation requests. However, all procedures must comply with the requirements of the Order and the standards set forth in this Guidance.
+Agencies are also required to notify their collective bargaining representatives, and to bargain over their reasonable accommodation procedures, to the extent required by law. Order, Section 3.
+C. Dissemination of Agency Reasonable Accommodation Procedures
+Each agency must make copies of its reasonable accommodation procedures readily available to all agency employees. The procedures can, among other things, be posted on the agency's website or intranet service and included in employee handbooks. They should also be available in designated locations such as agency libraries, EEO offices, and/or personnel offices.
+Each agency's procedures must be accessible to individuals with disabilities. Where agencies post their procedures on their websites, those websites must be accessible. Agencies should also make their procedures available in alternative formats, such as large print or Braille, on request. Moreover, agencies should provide other reasonable accommodations where necessary to make the procedures accessible for particular individuals with disabilities.
+EXAMPLE -
+Matthew, who is mentally retarded, cannot understand the agency's reasonable accommodation procedures as written. The agency must provide the information contained in the procedures in a manner accessible to him.
+Each agency must also educate its employees about its procedures. Agencies may tailor training to suit the needs of their workforces, but must ensure that all agency employees have sufficient information to understand their roles and obligations in the reasonable accommodation process.
+D. Relationship of the Order and the Rehabilitation Act
+This Order does not create any new rights for Executive branch applicants or employees; nor does it limit an individual's rights under the Rehabilitation Act. As a result, an individual who believes that a violation of this Order also constitutes a violation of the Rehabilitation Act may pursue his/her remedies under the Act without limitation.
+II. Components Of Agency Reasonable Accommodation Procedures
+A. Initiating the Reasonable Accommodation Process
+As the Executive Order states, each agency's procedures must:
+"Explain that an employee or job applicant may initiate a request for reasonable accommodation orally or in writing. If the agency requires an applicant or employee to complete a reasonable accommodation request form for recordkeeping purposes, the form must be provided as an attachment to the agency's written procedures."
+(Order, Section 1(b)(1))
+1. May an agency require that individuals with disabilities use particular words to request a reasonable accommodation?
+No.
+A request for accommodation is a statement that an individual needs an adjustment or a change at work or in the application process for a reason related to a medical condition. Agencies may not require, for example, that individuals mention the Rehabilitation Act or use the phrase "reasonable accommodation." The agency's procedures should make this point clear.
+(5)
+EXAMPLE -
+Michelle tells her supervisor, "I'm having trouble getting to work at my scheduled starting time because of the anti-depressants I take." This is a request for reasonable accommodation. Whether or not Michelle is ultimately entitled to an accommodation, the agency must start to consider the request.
+EXAMPLE -
+An applicant who is vision-impaired asks for assistance with the agency's application materials. This is a request for reasonable accommodation and triggers the agency's obligation to engage in its reasonable accommodation process.
+2. May an agency wait to begin processing a request for reasonable accommodation until after an individual has submitted a written request?
+No.
+Although an agency can, for recordkeeping purposes, ask an applicant or employee to fill out a form, an individual's oral request will start the reasonable accommodation process. Accordingly, the time limits set by the agency's procedures (
+see
+Section C below) must also run from the date of the oral request. Of course, a request can be initiated in writing if the individual prefers.
+EXAMPLE -
+Elizabeth, whose left leg is amputated, orally requests that her office be moved closer to the ladies' restroom because of the fatigue and pain caused by using crutches. Agency Z's reasonable accommodation procedures provide that all individuals requesting accommodation should complete a written form for agency records. Elizabeth submits the form to the head of her office one week following her oral request.
+Agency Z's procedures properly require the head of Elizabeth's office to begin processing her request for reasonable accommodation
+on the date of her oral request
+.
+Where an agency requires those requesting reasonable accommodation to complete a written form, the form must be attached to the agency's procedures. Like the procedures, the form must be written in plain language and must conform to Rehabilitation Act limits on requests for medical or disability-related information. (
+See
+Section D below.) Where an individual with a disability requires assistance to complete a written request, an agency must provide that assistance.
+3. When someone requires a reasonable accommodation on a repeated basis, may an agency require the individual to submit a written request for recordkeeping purposes each time the accommodation is needed?
+No.
+Where an employee has requested a type of reasonable accommodation that s/he is likely to need on a repeated basis - for example, the assistance of sign language interpreters or readers - an agency may not require that the individual submit a written request for recordkeeping purposes each time the accommodation is needed. Agency procedures should provide that once the reasonable accommodation is approved the first time, the employee may obtain the accommodation by notice to an appropriate individual or office (
+e.g.
+, his/her supervisor or a centralized accommodation office).
+4. May an agency require that a request for reasonable accommodation be made at a certain time?
+No.
+Under the Rehabilitation Act, the duty to provide reasonable accommodation is an ongoing one. Thus, an individual with a disability must be permitted to request a reasonable accommodation whenever s/he chooses. That request will then trigger the agency's obligation to start the process laid out in its procedures.
+EXAMPLE -
+Agency R's reasonable accommodation procedures require that all requests for reasonable accommodation be made within ten days of the date that an applicant is offered a job or that a current employee is offered a different position within the agency. This is impermissible.
+EXAMPLE
+- Randy, who has multiple sclerosis, requests that his desk be raised to accommodate his wheelchair. The agency promptly processes and approves his request. Six months later, Randy requests an additional accommodation to further assist him in the workplace in light of complications that have arisen from his disability. The agency must promptly process Randy's second request, and should anticipate that other requests may be made if his condition worsens.
+5. May an agency require that a request for reasonable accommodation be made to a certain agency official?
+No.
+An agency's obligation to consider an individual's request begins when the individual makes that request to any of the following: his/her supervisor; a supervisor or manager in his/her immediate chain of command; the EEO office
+(6)
+; any other office designated by the agency to oversee the reasonable accommodation process; or, in connection with the application process, any agency employee with whom the applicant has contact. Agencies may also designate others, in addition to those identified above, to whom requests may be made.
+Agency procedures should advise the employees who are designated to receive reasonable accommodation requests to then notify, if necessary, any other agency personnel who will be involved in the decisionmaking.
+6. Must an agency consider requests made by others on behalf of an individual with a disability?
+Yes.
+A family member, health professional, or other representative may request a reasonable accommodation on behalf of an individual with a disability. Where possible, the agency should then confirm with the person with a disability that s/he in fact wants a reasonable accommodation.
+EXAMPLE
+- An employee has been out of work for six months with a serious injury. The employee's doctor sends the agency a letter, stating that the employee is released to return to work, but with certain work restrictions. The letter is a request for reasonable accommodation. The agency should first confirm with the employee that the doctor's note was sent with the employee's consent.
+B. Processing Requests for Reasonable Accommodation
+As the Executive Order states, each agency's procedures must:
+"Explain how the agency will process a request for reasonable accommodation, and from whom the individual will receive a final decision."
+(Order, Section 1(b)(2))
+7. Should agency procedures be flexible?
+Yes.
+Agencies should
+not
+adopt a "one size fits all" approach to processing requests for reasonable accommodation. Instead, agency procedures should direct decision makers to process requests in a manner that imposes the fewest burdens on individuals with disabilities and permits the most expeditious consideration and delivery of the reasonable accommodation.
+8. May first-line supervisors be authorized to approve requests for reasonable accommodations?
+Yes.
+To eliminate unnecessary levels of review, agencies should authorize first-line supervisors to approve requests for reasonable accommodation wherever possible.
+EXAMPLE -
+David has a disability that causes extreme fatigue at the end of each day. David is an accountant, and is expected to attend budget planning meetings with his supervisor and another colleague every Wednesday afternoon. David asks his supervisor whether the meetings can be changed to the morning so that he can attend them when he does not feel tired. The agency's procedures should authorize David's supervisor to evaluate and approve this type of request, absent undue hardship to the operation of the office.
+9. May an agency designate a particular office, or offices, to be involved in processing a request?
+Yes.
+An agency may choose to establish or designate an office to oversee the agency's reasonable accommodation process. Such an office would develop expertise in the requirements of the Rehabilitation Act, potential accommodations, and available resources, and be a resource for individuals with disabilities and agency decision makers. Additionally, agencies may designate a particular office to handle specialized requests, such as those involving computer technology.
+Agency procedures should identify offices that supervisors or other decision makers can consult for assistance in considering and implementing different types of reasonable accommodation requests.
+EXAMPLE -
+Melissa, who is blind, requests that her supervisor provide equipment that will read information on her computer screen to her. Because the requested accommodation involves the purchase of equipment, Melissa's supervisor may not be able to approve and implement the request on her own. The agency's procedures should identify the office that is to consider requests for computer equipment, and should provide for prompt processing by that office.
+10. Should agency procedures encourage a discussion between the individual requesting the accommodation and the agency decision maker?
+Yes.
+To ensure that all effective accommodations have been considered, agency procedures should require that decision makers talk to the individual requesting the accommodation
+where the specific limitation, problem, or barrier is unclear; where an effective accommodation is not obvious; or where the parties are choosing between different possible reasonable accommodations.
+EXAMPLE
+- Roger has a disability that prevents him from working in the early mornings. He asks for a reasonable accommodation that would permit him to work part-time and to come in every day at 11:00 a.m. The agency decision maker discusses Roger's request with him and proposes that Roger simply shift his schedule to work two hours longer in the evenings. Roger agrees to this alternative reasonable accommodation.
+Such discussions may not be necessary where the existence of the disability, the need for accommodation, and the nature of the effective accommodation are clear.
+11. Should agency procedures specify resources that individuals with disabilities and agency decision makers could consult to identify and evaluate possible accommodations?
+Yes.
+The Appendix to this Guidance provides a non-exhaustive list of relevant resources. This list, as well as any other sources that agencies can identify, should be attached to each agency's procedures.
+Agencies should also develop internal resources to provide technical assistance to agency personnel. These internal resources could, for example, demonstrate and evaluate equipment and assistive devices; expeditiously purchase or lease equipment needed for reasonable accommodation; provide referrals for additional information; and promptly prepare agency printed and audiovisual materials in alternative formats on request.
+(7)
+12. How should agencies fund requested reasonable accommodations?
+Under the Rehabilitation Act, the resources of the agency as a whole -- and not just those of an individual office -- will be factors in determining whether a requested reasonable accommodation poses an undue hardship. As a result, agencies should anticipate the expenses of reasonable accommodation and should include those expenses in their agency-wide budget planning and requests for each fiscal year. In addition, each agency is strongly encouraged to implement practices that will reduce bureaucratic barriers that could make it difficult for individual offices to provide effective accommodations. Possible practices include:
+establishing a central pool of staff assistant slots, that would not be included in a requesting office's personnel ceiling, to provide readers, interpreters, and other assistants throughout the agency; and
+implementing funding mechanisms that will avoid charging individual offices for the cost of accommodations.
+C. Time Limits
+As the Executive Order states, each agency's procedures must:
+"Designate a time period during which reasonable accommodation requests will be granted or denied, absent extenuating circumstances. Time limits for decision making should be as short as reasonably possible."
+(Order, Section 1(b)(3))
+13. How should agencies set applicable time limits?
+Time limits for processing requests for and providing reasonable accommodations should be as short as reasonably possible. The time necessary to respond to any particular request for accommodation will depend largely on the nature of that accommodation. A reassignment is likely, for example, to take longer to review and implement than a request that a desk be put on blocks. Where the requested accommodation is simple and straightforward, the agency should provide it immediately, absent undue hardship. Furthermore, the time frame should be cut down considerably where a supervisor is authorized to grant an accommodation.
+Agencies may wish to identify the
+maximum
+amount of time that the process can take. But agency procedures should make clear that where a particular reasonable accommodation can be provided in less time than is authorized under those procedures, the failure to respond promptly to the request may result in a violation of the Rehabilitation Act.
+EXAMPLE -
+Ruth's agency prohibits employees from eating or drinking at their workstations. Ruth has insulin-dependent diabetes, and asks her supervisor to permit her to eat a candy bar or drink fruit juice at her desk if necessary to avoid going into insulin shock. The agency's reasonable accommodation procedures state that decisions about whether to grant or deny requests for reasonable accommodation should be made within 15 days of the date of the request. In this case, however, the agency should be able to provide the reasonable accommodation in no more than a day or two, and hopefully sooner. The agency should not wait the full 15 days before responding to Ruth's request.
+EXAMPLE -
+Marcus works for the same agency as Ruth. He has a psychiatric disability that causes him to be easily distracted, and requests that he be given a private office on a quiet corridor. Because the agency must investigate the availability of office space and is entitled to consider other effective accommodations, the agency may need to take the full 15 days allotted by its procedures to make a decision on his request.
+Of course, special circumstances may influence the timing of the reasonable accommodation process. For example, agency procedures should require that processing of reasonable accommodation requests be expedited in appropriate cases. Expedited processing might be necessary where, for instance:
+the reasonable accommodation is needed to enable an individual to apply for a job; or
+the reasonable accommodation is needed for a specific agency activity that is scheduled to occur shortly.
+EXAMPLE -
+James, who uses a wheelchair, is chosen to attend a computer training class that will be held in the agency's computer lab starting the following day. James requests that the computer desk be raised in time for him to participate in the class. The agency's procedures should provide for expedited processing of James' request in circumstances like these.
+14. What are "extenuating circumstances" that would justify an agency not processing a request for reasonable accommodation during the designated time period?
+"Extenuating circumstances" are factors that could not reasonably have been anticipated or avoided in advance of the request for the accommodation. These can include situations in which equipment must be back-ordered or the vendor typically used by an agency has unexpectedly gone out of business. In addition, an agency will not be expected to adhere to its usual time frames if an individual's health professional fails to provide needed documentation,
+see
+Section D below, in a timely manner.
+Where there is a delay in either processing a request for, or delivering, a reasonable accommodation, the agency must notify the individual of the reason for the delay. To the extent possible, the agency must also keep the individual informed of the date on which the agency expects to complete the process.
+If there is a delay, the agency must investigate whether there are temporary measures that could be taken to assist the individual with a disability. An agency could consider, for example, a temporary job restructuring or the use of equipment that might permit the individual to perform
+some
+of the functions of his/her job.
+EXAMPLE -
+To perform the essential functions of her job, Maria, who has a vision-related disability, needs a sophisticated piece of equipment that is not readily available from the agency's suppliers. The agency has asked its suppliers to check further, and is also independently pursuing other avenues to obtain the necessary equipment. Because of this delay, the agency is not able to meet the time limit set in its procedures for a response to Maria's request.
+The agency should notify Maria about the delay and tell her when it expects to be able to respond to her request. Whether or not it ultimately grants Maria's request, the agency should also investigate alternative accommodations, such as a qualified reader, that it could provide on an interim basis to remove at least some of the barriers that limit Maria's use of her computer.
+15. Are there steps an agency can take prior to receiving a request for reasonable accommodation that will avoid unnecessary delays in responding if a request is made?
+Yes.
+To anticipate and limit impediments that may cause unnecessary delay in providing reasonable accommodation, agencies should review and modify, in advance of a specific request, policies that might affect the agency's ability to respond promptly to requests for reasonable accommodation. Among the policies that agencies should review are those that affect:
+the purchasing or leasing of equipment;
+the hiring of, or contracting for, readers, interpreters, or other assistants; and
+the flexibility to approve leave or to restructure work schedules.
+Agencies must also ensure that all contracts for the use of external facilities -- such as contracts to use hotels for conferences or training programs -- reflect the obligation that such facilities be accessible to people with disabilities. Of course, an agency's own facilities must also conform to the laws on accessibility of federal buildings.
+(8)
+D. Medical Information
+As the Executive Order states, each agency's procedures must:
+"Explain the responsibility of the employee or applicant to provide appropriate medical information related to the functional impairment at issue and the requested accommodation where the disability and/or need for accommodation is not obvious;
+Explain the agency's right to request relevant supplemental medical information if the information submitted does not clearly explain the nature of the disability, or the need for the reasonable accommodation, or does not otherwise clarify how the requested accommodation will assist the employee to perform the essential functions of the job or to enjoy the benefits and privileges of the workplace; and
+Explain the agency's right to have medical information reviewed by a medical expert of the agency's choosing at the agency's expense."
+(Order, Section 1(b)(4-6))
+16. When may an agency request medical information in connection with a request for reasonable accommodation?
+An agency is entitled to know that an employee or applicant has a covered disability that requires a reasonable accommodation. Thus, when a disability and/or need for accommodation is not obvious, the agency may, if it chooses, require that the individual provide reasonable documentation about the disability and his/her functional limitations. Additionally, the agency may request supplemental documentation when the information already submitted is insufficient to document the disability and/or the functional limitations it causes. The agency is not
+required
+to request documentation in such cases; the agency's procedures should, however, explain that failure to provide necessary documentation where it has been properly requested could result in a denial of reasonable accommodation.
+If it chooses to seek medical information, an agency must, of course, conform to the requirements of the Rehabilitation Act.
+(9)
+Under the Act,
+an agency may not request medical information where (a) both the disability and the need for reasonable accommodation are obvious; or (b) the individual has already provided the agency with sufficient information to document the existence of the disability and his/her functional limitations.
+17. What types of medical information or documentation may an agency request in connection with a request for reasonable accommodation?
+When the standards set forth in Question 16 are met, an agency may request information or documentation regarding:
+the nature, severity, and duration of the individual's impairment;
+the activity or activities that the impairment limits;
+the extent to which the impairment limits the individual's ability to perform the activity or activities; and/or
+why the individual requires reasonable accommodation or the particular reasonable accommodation requested, as well as how the reasonable accommodation will assist the individual to apply for a job, perform the essential functions of the job, or enjoy a benefit of the workplace.
+(10)
+An agency may require that documentation about the disability or functional limitations come from an appropriate professional, such as a doctor, social worker, or rehabilitation counselor. However, the agency may request only the information that is relevant to making a decision about reasonable accommodation. In most situations, this means that the agency may
+not
+request access to a person's complete medical records because they are likely to contain information unrelated to the disability at issue and the need for accommodation.
+Where necessary to enable an individual's health professional to provide information regarding that individual's ability to perform a job, the agency should provide information to the health professional that describes the nature of the job, the essential functions the individual will be expected to perform, and any other information that is relevant to evaluating the request.
+Consistent with the principle that information requested in connection with an employment decision may be disclosed to those making the decision, the agency may share the medical information it obtains, as necessary, with the individuals involved in determining whether to grant a reasonable accommodation. Those individuals must be informed of the limits on further disclosure of the information. (
+See
+Question 20 below.)
+EXAMPLE -
+Richard, who has a severe learning disability, attends numerous meetings. Due to his disability, he finds it extremely difficult to write notes during these meetings, yet his work depends on remembering the details discussed. Richard asks his supervisor for a laptop computer to use in these meetings. Since neither the disability nor the need for accommodation are obvious, the supervisor may ask Richard for reasonable documentation about the nature, severity, and duration of his impairment; the activity or activities that the impairment limits; and the extent to which the impairment limits his ability to perform the activity or activities. The supervisor also may ask why the disability necessitates use of a laptop computer (or any other type of reasonable accommodation, such as a tape recorder) to help Richard retain the information from the meetings.
+Documentation may contain sensitive information about a person's medical condition, which may make some employees uncomfortable about sharing it with supervisors. In order to avoid this problem, agencies should consider designating an individual, such as a disability or reasonable accommodation coordinator or a medical officer, to receive and review the documentation. This individual then may tell those making a decision on the reasonable accommodation request that the employee has a disability rather than sharing all of the details about the medical condition.
+18. May an agency have medical information reviewed by its own medical expert?
+Yes.
+Where an agency is entitled to request medical information under the standards set forth above, the agency may have that information reviewed by its own medical expert at its own expense.
+19. May an agency request that an individual who has asked for reasonable accommodation be examined by its own physician?
+Yes, but only in certain circumstances.
+An agency may request that an individual be examined by its own physician
+only
+if the individual has provided insufficient documentation from his/her own health care or other appropriate professional to substantiate the existence of a disability and the need for reasonable accommodation. If, in response to an agency's initial request, an individual submits insufficient documentation to demonstrate that s/he has a disability and needs accommodation, the agency should explain to that person why the submitted documentation is insufficient; identify the information that is needed; and allow the individual an opportunity to provide the information
+before
+requesting a medical examination. In such circumstances, the agency may ask the individual to sign a limited release and then either submit a list of specific questions to the individual's health care professional or simply have its own physician contact the individual's doctor.
+If the individual requesting an accommodation is still unable to provide sufficient information in support of the request, the agency may request that the individual be examined by a health care professional of the agency's choice at the agency's expense. Any such medical examination must be limited to determining the existence of a disability and/or the functional limitations that require a reasonable accommodation. Where a medical examination is warranted, the agency must explain to the individual with a disability that failure to agree to it could result in a denial of reasonable accommodation.
+20. Are there restrictions on handling medical information after it is obtained by the agency?
+Yes.
+The Rehabilitation Act requires that all medical information be kept
+confidential
+. This means that all medical information that an agency obtains in connection with a request for reasonable accommodation must be kept in files separate from the individual's personnel file. In addition, individuals who have access to information necessary to make a decision about whether to grant a requested accommodation
+may not disclose this information except as follows:
+supervisors and managers who need to know may be told about necessary restrictions on the work or duties of the employee and about the necessary accommodation(s);
+first aid and safety personnel may be told
+if
+the disability might require emergency treatment;
+government officials may be given information necessary to investigate the agency's compliance with the Rehabilitation Act;
+the information may in certain circumstances be disclosed to workers' compensation offices or insurance carriers;
+(11)
+and
+agency EEO officials may be given the information to maintain records and evaluate and report on the agency's performance in processing reasonable accommodation requests.
+(
+See
+Section G below on information tracking.)
+Where medical information is disclosed to any of the foregoing officials, the agency must inform those individuals about the confidentiality requirements that attach to the information.
+E. Reassignment
+(12)
+As the Executive Order states, each agency's procedures must:
+"Provide that reassignment will be considered as a reasonable accommodation if the agency determines that no other reasonable accommodation will permit the employee with a disability to perform the essential functions of his or her current position."
+(Order, Section 1(b)(7))
+21. When is reassignment required under the Rehabilitation Act?
+Reassignment is a form of reasonable accommodation that must be provided, absent undue hardship, to an employee who, because of a disability, can no longer perform the essential functions of the position s/he holds, with or without reasonable accommodation. Reassignment is a "last resort" accommodation that must be considered if there are no effective accommodations that would enable the employee to perform the essential functions of his/her current job, or if all other possible accommodations would impose undue hardship.
+Reassignment is available only to employees, not to applicants. In addition, reassignment may be made only to a vacant position. The law does not require that agencies create new positions or move employees from their jobs in order to create a vacancy.
+22. Must the employee with a disability be qualified for the new position?
+Yes.
+An employee will be qualified if s/he (1) satisfies the requisite skill, experience, education, and other job-related requirements of the position, and (2) can perform the essential functions of the position with or without reasonable accommodation. If the employee is qualified for the position, s/he should be reassigned to the job as a reasonable accommodation and should not have to compete for it.
+23. What should an agency's reasonable accommodation procedures provide with regard to reassignment?
+Agency procedures must explain the circumstances in which reassignment is required. They must also clearly notify supervisors and other relevant agency employees about how and where they are required to conduct a search for available vacancies. Agency procedures should identify the agency personnel who are responsible for conducting the search and require these individuals to consult with the affected employee as necessary to determine whether there are limits on the search the employee would like the agency to conduct; whether the employee is qualified for a particular job; or whether the employee would need a reasonable accommodation to perform the essential functions of a new position.
+F. Denials of Reasonable Accommodation
+As the Executive Order states, an agency's procedures must:
+"Provide that reasonable accommodation denials be in writing and specify the reasons for denial."
+(Order, Section 1(b)(8))
+Where an agency denies an individual's request for a reasonable accommodation, it must notify the individual in writing of the denial and the reasons for it. The denial should be written in plain language with as much specificity as possible, and should identify the employee or office that made the decision.
+EXAMPLE -
+Steven, who has HIV infection, requests that he be allowed to work at home three days a week due to the serious side effects he experiences from his medications. The agency denies the request with a one line statement noting that the "reasonable accommodation requested would pose an undue hardship for the agency."
+This is an inadequate explanation. The agency must identify the basis for its finding of undue hardship - that is, it must explain how allowing Steven to work at home three days a week would create significant difficulty or expense for the agency. The explanation should also identify the decision maker.
+Where an agency has denied a specific requested reasonable accommodation but offered to make a different one in its place, the agency's notice should explain both the reasons for the denial of the requested accommodation and the reasons that it believes that the chosen accommodation will be effective.
+All agency denials must notify the individual that s/he has a right to file an EEO complaint. The agency must also identify and explain any agency procedures that are available for informal dispute resolution.
+See
+Section H below.
+Where the agency grants an individual's request for reasonable accommodation, there is no requirement that the decision be in writing or that reasons for the decision be provided to the individual. Because the agency is required to track its processing of reasonable accommodation requests,
+see
+Section G, however, the agency should monitor its disposition of each request.
+G. Information Tracking
+As the Executive Order states, an agency's procedures must:
+"Ensure that agencies' systems of recordkeeping track the processing of requests for reasonable accommodation and maintain the confidentiality of medical information received in accordance with applicable law and regulations."
+(Order, Section 1(b)(9))
+24. What information must an agency be able to track?
+The Order does not require that agencies maintain particular recordkeeping systems, documents, or databases. Nonetheless, all agencies must be able to identify at least the following information:
+the number and types of reasonable accommodations that have been requested in the application process and whether those requests have been granted or denied;
+the jobs (occupational series, grade level, and agency component) for which reasonable accommodations have been requested;
+the types of reasonable accommodations that have been requested for each of those jobs;
+the number and types of reasonable accommodations for each job, by agency component, that have been approved, and the number and types that have been denied;
+the number and types of requests for reasonable accommodations that relate to the benefits or privileges of employment, and whether those requests have been granted or denied;
+the reasons for denial of requests for reasonable accommodation;
+the amount of time taken to process each request for reasonable accommodation; and
+the sources of technical assistance that have been consulted in trying to identify possible reasonable accommodations.
+25. How long must agencies maintain tracking information?
+Agencies should maintain tracking information for as long as is necessary to serve the purposes of their reasonable accommodation programs. In general, agencies may divide any records they keep into two categories for this purpose.
+Agencies should keep records related to a particular individual who has requested a reasonable accommodation for the duration of that individual's employment.
+These records would include any documentation of the individual's disability or need for reasonable accommodation, as well as information about the disposition of that individual's accommodation request.
+Agencies should keep any cumulative records used to track
+the agency's performance with regard to reasonable accommodation for at least three years.
+Tracking performance over a three year period is critical to enable an agency to assess whether it has adequately processed and provided reasonable accommodations. Agencies can use this tracking information to evaluate whether and where they need to improve their handling of reasonable accommodation requests.
+26. Are individual medical records subject to the confidentiality restrictions of the Rehabilitation Act?
+Yes.
+Records that contain medical information about a particular individual with a disability are fully subject to the confidentiality restrictions discussed above in Section D. Thus, the agency's recordkeeping systems must contain safeguards to ensure that those restrictions are fully observed. The agency's procedures should detail how the agency will ensure that medical records are segregated from official personnel files, and to whom and under what circumstances medical information may be disclosed. Agency procedures should make clear that the EEOC has the right to review all relevant records upon request to evaluate the efficacy of the agency's reasonable accommodation procedures.
+If an agency creates tracking records that contain merely aggregate information - information that does not, and cannot be used to, identify any particular individual with a disability -- the records will not be subject to the confidentiality restrictions of the Rehabilitation Act. Records that identify, for example, the number and types of requests for reasonable accommodation made by job category, will likely not contain medical information about specific employees or applicants with disabilities.
+27. How should agencies use their tracking information?
+Each agency should regularly use its tracking information to evaluate the agency's performance in responding to requests for reasonable accommodation. Among other things, the agency should assess how long it takes its employees to respond to requests for different types of reasonable accommodations; whether there are particular types of reasonable accommodations that the agency has been unable to provide; whether there are agency components that have not granted requests for reasonable accommodations; and what the reasons for denial have been. Where, for example, there have been repeated delays in the processing of reasonable accommodation requests, the agency should investigate the reasons for the problem and take the steps that are necessary to correct it.
+28. Are there any reporting requirements under the Order?
+Yes.
+The Order requires that each agency and agency component that adopts reasonable accommodation procedures submit those procedures to the EEOC no later than July 26, 2001. Each agency or agency component must also submit to the EEOC any modifications to its reasonable accommodation procedures at the time they are adopted. The Order imposes no other formal reporting requirements.
+Procedures and modifications to procedures should be submitted to:
+Director, Federal Sector Programs
+Equal Employment Opportunity Commission
+Office of Federal Operations
+1801 L Street, N.W.
+Washington, D.C. 20507
+H. Informal Dispute Resolution and EEO Complaints
+As the Executive Order states, each agency's procedures must:
+"Encourage the use of informal dispute resolution processes to allow individuals with disabilities to obtain prompt reconsideration of denials of reasonable accommodation. Agencies must also inform individuals with disabilities that they have the right to file complaints in the Equal Employment Opportunity process and other statutory processes, as appropriate, if their requests for reasonable accommodation are denied."
+(Order, Section 1(b)(10))
+29. What is an informal dispute resolution process for purposes of the Order?
+An informal dispute resolution process is any voluntary mechanism through which an individual can request reconsideration of an agency denial of reasonable accommodation, regardless of whether the person has started the EEO complaint process. Any informal dispute resolution process should begin by encouraging individuals to ask the decision maker to reconsider his/her decision. Procedures also could allow individuals to appeal the denial to others in the decision maker's chain of command.
+While the Order encourages the use of informal processes for resolution of reasonable accommodation disputes, it does not require them. Furthermore, agencies are free to tailor any procedures they use to the needs of their own workplaces. Thus, agencies may, if they choose, create programs devoted exclusively to resolving reasonable accommodation disputes. Agencies could alternatively consider making existing mechanisms already set up to address workplace disputes (such as alternative dispute resolution (ADR) programs) available for this purpose. The objective is to permit quick and thoughtful reconsideration of a denial, not to establish cumbersome new procedures.
+30. What is the relationship between an informal dispute resolution process and the EEO or other federal sector complaint processes?
+Three basic principles govern the relationship between an informal process for addressing reasonable accommodation disputes and the EEO and other federal sector complaint processes:
+An agency's informal process must be
+in addition to - and may not modify or replace -
+the EEO complaint process governed by EEOC regulations,
+see
+29 C.F.R. part 1614, and Merit Systems Protection Board (MSPB) and union grievance procedures available to federal sector applicants or employees. While the agency's informal mechanism for resolving reasonable accommodation disputes may rely on the same ADR procedures that the agency uses in its EEO processes, the individual challenging the denial of a reasonable accommodation request must be able to gain access to those procedures without having to contact an EEO counselor or file an EEO complaint.
+The informal process must be voluntary and may not be used to limit an individual's rights.
+An agency may not require that an individual challenging the denial of a reasonable accommodation request use its informal dispute resolution process. Nor may an agency prevent such an individual from filing an EEO complaint, an MSPB claim, or a union grievance, even if s/he is also pursuing the agency's informal process. The agency's informal process is not an administrative remedy that must be exhausted before a complaint may be filed.
+The informal process does not affect the time limits governing the EEO complaint process.
+An individual's participation in the informal process does not satisfy the requirements for bringing a claim under the EEO, MSPB, or union grievance procedures. When an agency denies a request for reasonable accommodation, it must notify the individual
+in writing
+that if s/he wishes to pursue the EEO complaint process, s/he must do so within 45 days of the denial, even if s/he is also participating in the agency's informal dispute resolution process.
+31. What is the procedure for alleging a violation of Section 501 of the Rehabilitation Act?
+The procedure for alleging a violation of Section 501 of the Rehabilitation Act is set forth in the Commission's federal sector EEO process regulations.
+(13)
+Briefly stated, the federal sector process requires the following:
+the individual alleging discrimination must contact an EEO Counselor within 45 days of the date of the discriminatory act or within 45 days of when the individual became aware or should have become aware of the allegedly illegal conduct;
+the agency must conduct EEO counseling or offer mediation or other form of alternative dispute resolution;
+if the matter is not resolved informally, the agency will give the individual a notice of final interview, and the individual will have 15 days from the date of the notice to file a formal complaint;
+once a formal complaint is filed, the matter will either be dismissed or investigated, and may proceed either to an agency decision or a hearing before a Commission Administrative Judge; and
+after either the agency or the Administrative Judge issues a decision, the matter may be appealed to the EEOC's Office of Federal Operations, which will then render a decision.
+Appendix
+Selected Reasonable Accommodation Resources
+U.S. Equal Employment Opportunity Commission
+1-800-669-3362 (Voice) 1-800-800-3302 (TT)
+https://www.eeoc.gov/
+The EEOC's Publication Center has many free documents on the Title I employment provisions of the ADA, including both the statute, 42 U.S.C. § 12101 et seq., and the regulations, 29 C.F.R. § 1630. In addition, the EEOC has published a great deal of basic information about reasonable accommodation and undue hardship. The three main sources of interpretive information are: (1) the Interpretive Guidance accompanying the Title I regulations (also known as the "Appendix" to the regulations), 29 C.F.R. pt. 1630 app. §§ 1630.2(o), (p), 1630.9; (2)
+Enforcement Guidance on Reasonable Accommodation and Undue Hardship Under the Americans with Disabilities Act
+, 8 FEP Manual 405:7601 (1999); and (3)
+A Technical Assistance Manual on the Employment Provisions (Title I) of the Americans with Disabilities Act
+, 8 FEP Manual (BNA) 405:6981, 6998-7018 (1992) (
+Technical Assistance Manual
+). The
+Technical Assistance Manual
+includes a 200-page Resource Directory, including federal and state agencies, and disability organizations that can provide assistance in identifying and locating reasonable accommodations.
+The EEOC also has discussed issues involving reasonable accommodation in the following guidances and documents: (1)
+Enforcement Guidance: Preemployment Disability-Related Questions and Medical Examinations
+at 5, 6-8, 20, 21-22, 8 FEP Manual (BNA) 405:7191, 7192-94, 7201 (1995); (2)
+Enforcement Guidance: Workers' Compensation and the ADA
+at 15-20, 8 FEP Manual (BNA) 405:7391, 7398-7401 (1996); (3)
+Enforcement Guidance: The Americans with Disabilities Act and Psychiatric Disabilities
+at 19-28, 8 FEP Manual (BNA) 405:7461, 7470-76 (1997); (4)
+Fact Sheet on the Family and Medical Leave Act, the Americans with Disabilities Act, Title VII of the Civil Rights Act of 1964
+at 6-9, 8 FEP Manual (BNA) 405:7371, 7374-76 (1996); and (5)
+Enforcement Guidance: Disability-Related Inquiries and Medical Examinations of Employees Under Americans with Disabilities Act
+at 20, 22, 23, 24-5, 8 FEP Manual (BNA) 405:7701, 7711, 7712-14, 7715-16 (2000).
+Finally, the EEOC has a poster that employers and labor unions may use to fulfill the ADA's posting requirement.
+All of the above-listed documents, with the exception of the
+Technical Assistance Manual
+and the poster, are also available through the Internet at
+www.eeoc.gov.
+All of these documents provide guidance that applies to federal agencies through the Rehabilitation Act of 1973, 29 U.S.C. § 791.
+Job Accommodation Network (JAN)
+1-800-232-9675 (Voice/TT)
+https://askjan.org/
+A service of the President's Committee on Employment of People with Disabilities. JAN can provide information, free-of-charge, about many types of reasonable accommodations.
+ADA Disability and Business Technical Assistance Centers (DBTACs)
+1-800-949-4232 (Voice/TT)
+The DBTACs consist of 10 federally funded regional centers that provide information, training, and technical assistance on the ADA. Each center works with local business, disability, governmental, rehabilitation, and other professional networks to provide current ADA information and assistance, and places special emphasis on meeting the needs of small businesses. The DBTACs can make referrals to local sources of expertise in reasonable accommodations.
+Registry of Interpreters for the Deaf
+(301) 608-0050 (Voice/TT)
+http://www.rid.org/
+The Registry offers information on locating and using interpreters and transliteration services.
+RESNA Technical Assistance Project
+(703) 524-6686 (Voice) (703) 524-6639 (TT)
+http://www.resna.org/
+RESNA, the Rehabilitation Engineering and Assistive Technology Society of North America, can refer individuals to projects in all 50 states and the six territories offering technical assistance on technology-related services for individuals with disabilities. Services may include:
+information and referral centers to help determine what devices may assist a person with a disability (including access to large data bases containing information on thousands of commercially available assistive technology products);
+centers where individuals can try out devices and equipment;
+assistance in obtaining funding for and repairing devices; and
+equipment exchange and recycling programs.
+Footnotes
+1.
+65 Fed. Reg. 46565, 2000 WL 1114943 (2000).
+2.
+29 U.S.C. § 791.
+3.
+29 C.F.R. pt. 1630 app. § 1630.2(o).
+4.
+8 FEP Manual (BNA) 405:7601 (1999). The
+EEOC Reasonable Accommodation Guidance
+is also available on the EEOC's website at
+https://www.eeoc.gov/
+. The reasonable accommodation standards of the Americans with Disabilities Act apply to the Rehabilitation Act as well. 29 U.S.C. § 791(g).
+5.
+Agencies should also bear in mind the limited circumstances in which an employer should initiate the reasonable accommodation process without being asked.
+See
+EEOC Reasonable Accommodation Guidance
+, Question 39.
+6.
+Of course, to the extent that an EEO official is involved in the handling of a reasonable accommodation request, s/he should not be involved in the processing of any EEO complaint that is made regarding disposition of the request.
+7.
+Agencies may wish to seek advice from other agencies - such as the Department of Defense's "Computer/Electronic Accommodations Program" (CAP) or the Department of Agriculture's "Technology Accessible Resources Gives Employment Today" (TARGET) Center - that have established programs to provide these types of assistance. Information about the CAP program can be found at
+http://www.cap.mil
+; information about the TARGET Center is posted at
+http://www.targetcenter.dm.usda.gov
+.
+8.
+Architectural Barriers Act of 1968, 42 U.S.C. § 4151
+et seq.
+; Rehabilitation Act Section 504, 29 U.S.C. § 794;
+see also
+Americans with Disabilities Act, 42 U.S.C. § 12131.
+9.
+The EEOC has issued detailed guidance that applies to the provisions of the Rehabilitation Act that address permissible medical inquiries.
+See
+EEOC Reasonable Accommodation Guidance
+; "
+Enforcement Guidance: Preemployment Disability-Related Questions and Medical Examinations,
+" 8 FEP Manual (BNA) 405:7191 (1995); and "
+Enforcement Guidance: Disability-Related Inquiries and Medical Examinations of Employees Under the Americans with Disabilities Act
+,
+" 8 FEP Manual (BNA) 405:7701 (2000). These documents can be found on the EEOC's website at
+https://www.eeoc.gov/
+.
+The Office of Personnel Management (OPM) also regulates when an agency may request medical examinations of applicants and employees.
+See
+5 U.S.C. § 3301 & 3302; 5 C.F.R. Part 339 (Medical Qualification Determination). In making these requests, agencies must comply with Rehabilitation Act requirements.
+10.
+See
+EEOC Reasonable Accommodation Guidance
+, Question 6;
+"
+Enforcement Guidance: Disability-Related Inquiries and Medical Examinations of Employees Under the Americans with Disabilit...
+,
+" Question 10.
+11.
+For further guidance on the circumstances in which it is permissible to disclose confidential medical information to workers' compensation offices or insurance carriers,
+see
+29 C.F.R. pt. 1630 app. §§ 1630.14(b), 1630.16(f).
+12.
+For further information on reassignment,
+see
+EEOC Reasonable Accommodation Guidance
+, Questions. 25-30.
+In March 2000, the Commission also issued a Notice of Proposed Rulemaking regarding proposed revisions to 29 C.F.R. § 1614.203, addressing, among other things, requirements related to reassignment and the obligations of agencies and their unions to bargain over modifications to collective bargaining agreements.
+See
+65 Fed. Reg. 11019
+, 2000 WL 226980 (3/1/00). As of the date of issuance of this Guidance, the Commission is considering the comments received on the proposed rule and is proceeding with the rulemaking process.
+13.
+29 C.F.R. pt. 1614.
+Return to top
+U.S. Equal Employment Opportunity Commission
+EEOC Headquarters
+131 M Street, NE
+Washington, DC 20507
+1-800-669-6820
+(TTY)
+1-844-234-5122
+(ASL Video Phone)
+Questions?
+Call 1-800-669-4000
+For Deaf/Hard of Hearing callers:
+1-800-669-6820
+(TTY)
+1-844-234-5122
+(ASL Video Phone)
+info@eeoc.gov
+Find your nearest EEOC office
+Connect With Us
+FOIA
+Privacy Policy
+Disclaimer
+Accessibility
+Office of Inspector General
+USA.gov

@@ -1,0 +1,1514 @@
+Section 10 Compensation Discrimination | U.S. Equal Employment Opportunity Commission
+Skip to main content
+An official website of the United States government
+Here’s how you know
+Here’s how you know
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive
+information only on official, secure websites.
+U.S. Equal Employment Opportunity Commission
+Menu
+Header Navigation
+Online Filing
+Public Portal
+Attorney E-file
+Locations
+Operating Status
+Languages
+English
+Español (Spanish)
+Resources in Other Languages
+عربي (Arabic)
+简体中文 (Chinese, Simplified)
+繁體中文 - Chinese (Traditional)
+Kreyòl Ayisyen (Haitian Creole)
+한국어 (Korean)
+Русском (Russian)
+Português (Portuguese)
+Tagalog (Tagalog)
+ไทย (Thai)
+Tiếng Việt (Vietnamese)
+فارسی (Persian. Farsi)
+پښتو (Pashto)
+Toggle Search Form
+Any of these words
+(optional)
+Search
+About EEOC
+About EEOC
+Overview
+The Commission and The General Counsel
+Meetings of the Commission
+Commission Votes
+EEOC History
+News and Information
+Newsroom
+What You Should Know
+Legislative Affairs
+Publications
+Outreach and Education
+FOIA
+Laws and Enforcement
+EEOC Legal Resources
+Mediation
+Litigation
+Systemic Enforcement
+Commissioner Charges
+Directed Investigations
+Programs and Performance
+Budget and Performance
+Initiatives
+Interagency Programs
+State and Local Programs
+Task Forces
+Tribal Programs
+Data and Analytics
+Overview
+Data Governance
+EEO Data Collections
+Data and Statistics
+Data Tools and Products
+No FEAR Act Data
+Inside EEOC
+Careers
+Office for Civil Rights
+Doing Business with EEOC
+AI Governance
+Privacy
+Office of Inspector General
+Employees & Job Applicants
+Employees & Applicants
+Overview
+Coverage
+Timeliness
+Prohibited Practices
+Filing a Charge of Discrimination
+Filing a Charge
+How to File
+After You File a Charge
+Confidentiality
+Mediation
+Remedies
+Existing Charges
+Filing a Lawsuit
+Discrimination by Type
+Age
+Disability
+Equal Pay
+Genetic Information
+Harassment
+National Origin Discrimination
+Pregnancy Discrimination
+Race/Color Discrimination
+Religious Discrimination
+Retaliation
+Sex
+Sexual Harassment
+Employers / Small Business
+Employers / Small Business
+Overview
+Coverage
+After a Charge is Filed
+Resolving a Charge
+Commissioner Charges
+Directed Investigations
+Remedies
+Small Business Resource Center
+Small Business Home
+Small Business Requirements
+Frequently Asked Questions
+Tips for Small Businesses
+Making an Employment Decision?
+EEOC Resources
+Small Business Assistance
+Small Business Fact Sheet
+Small Business Videos
+EEOC Glossary
+Contact Us
+Discrimination by Type
+Age
+Disability
+Equal Pay
+Genetic Information
+Harassment
+National Origin
+Pregnancy
+Race/Color
+Religion
+Retaliation
+Sex
+Sexual Harassment
+Prohibited Practices
+Recordkeeping
+EEO Data Collections
+"Know Your Rights" Poster
+Training
+Other Employment Issues
+Federal Sector
+Federal Agencies
+Overview
+Federal EEO Coordination
+Federal Agency EEO Directors
+EEOC Legal Resources
+Management Directives & Federal Sector Guidance
+Federal Training & Outreach
+Resources
+Federal Employees & Job Applicants
+Overview
+Federal Complaint Process
+Federal Sector Alternative Dispute Resolution
+Prohibited Practices
+Resources
+Contact Us
+Contact EEOC
+Find Your Nearest Office
+Office Operating Status
+How to File a Charge
+Public Portal
+Home
+Laws
+guidance
+Section 10 Compensation Discrimination
+Section 10 Compensation Discrimination
+Issuing Authority
+This guidance document was issued upon approval by vote of the U.S. Equal Employment Opportunity Commission.
+OLC Control Number
+EEOC-CVG-2001-3
+Concise Display Name
+Section 10 Compensation Discrimination
+Issue Date
+12-05-2000
+General Topics
+Pay Discrimination, Race, Color, Sex, Religion, National Origin, Age, Disability
+Summary
+This document addresses the standards under which compensation discrimination is established in violation of Title VII, the ADEA, the ADA, and the EPA.
+Citation
+Title VII, EPA, ADEA, ADA, GINA, 29 CFR Parts 1604, 1614, 1620, 1625, 1630
+Document Applicant
+Employers, Employees, Applicants, Attorneys and Practitioners, EEOC Staff
+Previous Revision
+Yes. This document revises Compliance Manual Sections 633, 701, 704, and 708.
+Disclaimer
+The contents of this document do not have the force and effect of law and are not meant to bind the public in any way. This document is intended only to provide clarity to the public regarding existing requirements under the law or agency policies.
+DIRECTIVES TRANSMITTAL
+Number
+915.003
+EEOC
+12/05/00
+SUBJECT:
+EEOC COMPLIANCE MANUAL
+PURPOSE:
+This transmittal covers the issuance of Section 10 of the new Compliance Manual on "Compensation Discrimination." The Manual Section provides guidance and instructions for investigating and analyzing claims of compensation discrimination under each of the statutes enforced by the EEOC.
+EFFECTIVE DATE:
+Upon receipt
+DISTRIBUTION:
+EEOC Compliance Manual holders
+OBSOLETE DATA:
+Sections 633, 701, 704, and 708 of Compliance Manual, Volume 2
+FILING INSTRUCTIONS:
+This is the fourth section issued as part of the new Compliance Manual.
+/s/
+Ida L. Castro
+Chairwoman
+SECTION 10: COMPENSATION DISCRIMINATION
+TABLE OF CONTENTS
+10-I BACKGROUND
+10-II OVERVIEW OF THIS SECTION
+10-III COMPENSATION DISCRIMINATION IN VIOLATION OF TITLE VII, ADEA, OR ADA
+A. Disparate Treatment
+1. Identifying Employees Similarly Situated to the Charging Party
+a. Initial Requests for Information
+b. Job Similarity
+c. Other Objective Factors
+2. Determining Whether Compensation Differences Are Due to Discrimination
+3. Using Statistics
+a. Necessary Information
+b. Threshold Statistical Test
+i) Determining Median Compensation
+ii) Determining Whether a Statistically Significant Pattern Exists
+c. Using More Sophisticated Statistical Techniques to Evaluate Respondent's Explanation
+B. Disparate Impact
+C. Non-base Compensation
+1. Eligibility
+2. Amount
+D. Discriminatory Practices Affecting Compensation
+10-IV COMPENSATION DISCRIMINATION IN VIOLATION OF THE EQUAL PAY ACT
+A. Expeditious Investigation Required
+B. Elements of Claim
+C. Definition of "Wages" and "Wage Rate"
+D. Definition of "Establishment"
+E. Prima facie Case: Appropriate Comparison
+1. Opposite-Sex Comparators
+2. Comparison of Work
+a. Skill
+b. Effort
+c. Responsibility
+d. Working Conditions
+F. Defenses
+1. Seniority, Merit, or Incentive System Must Be Bona Fide
+2. "Factor Other Than Sex"
+a. Education, Experience, Training, and Ability
+b. Participation in Training Program
+c. Shift Differential
+d. Job Classification Systems
+e. "Red Circle" Rates; Temporary Reassignments
+f. Revenue Production
+g. Market Factors
+h. Part-time/Temporary Job Status
+i. Error
+j. Collective Bargaining Agreement
+10-V INTERACTION OF TITLE VII AND EPA
+10-VI RELIEF
+10-VII RETALIATION
+SECTION 10: COMPENSATION DISCRIMINATION
+10-I BACKGROUND
+Despite longstanding prohibitions against compensation discrimination under the federal EEO laws, pay disparities persist between workers in various demographic groups. For example, in 1999, women who worked full-time had median weekly earnings that were 75.7% of the median for men.
+(1)
+Median earnings for African Americans working at full-time jobs were 75.9% of the median for whites.
+(2)
+The median earnings of Hispanics were 65.9% of the median for whites and 86.8% of the median for African Americans.
+(3)
+There also is evidence that median earnings for individuals with disabilities are significantly lower than median earnings for individuals without disabilities.
+(4)
+While some compensation disparities certainly are attributable to differences in occupations, skills, and experience, as well as differences in other legitimate factors, not all disparities can be explained by such factors. In 1998, the President's Council of Economic Advisers issued a report on the gender wage gap in which it stated that one rough but plausible measure of the extent of pay discrimination is the unexplained difference in pay. The Council determined that after accounting for measurable factors, there still is an unexplained 12% gap between the pay of men and women.
+(5)
+In a 2000 report, the Council also estimated an unexplained 12% pay gap between men and women in the field of information technology.
+(6)
+In terms of race, a private study has estimated that only about half of the wage gap between African-American and white women is explainable by differences in occupation, education, and other legitimate factors.
+(7)
+10-II OVERVIEW OF THIS SECTION
+This Manual Section sets forth the standards under which compensation discrimination is established in violation of Title VII of the Civil Rights Act (Title VII), the Age Discrimination in Employment Act (ADEA), the Americans with Disabilities Act (ADA), or the Equal Pay Act (EPA).
+(8)
+It replaces Sections 633, 701, 704, and 708 of Volume II of the Compliance Manual.
+(9)
+Title VII, the ADEA, and the ADA prohibit compensation discrimination based on race, color, sex, religion, national origin, age, disability, or protected activity.
+(10)
+A claim of compensation discrimination can be brought under one of these statutes even if no person outside the protected class holds a "substantially equal," higher paying job. Furthermore, Title VII, the ADEA, and the ADA prohibit discriminatory practices that indirectly affect compensation -- such as limiting groups protected by these statutes to lower paying jobs. These practices are not covered by the EPA.
+The EPA is more targeted. The EPA requires employers to pay male and female employees at the same establishment equal wages "for equal work on jobs the performance of which requires equal skill, effort, and responsibility, and which are performed under similar working conditions."
+(11)
+The jobs that are compared need be only substantially equal, not identical. Unequal compensation can be justified only if the employer shows that the pay differential is attributable to a bona fide seniority, merit, or incentive system, or any other factor other than sex.
+A claim of unequal compensation based on sex can be brought under either the EPA or Title VII, as long as the jurisdictional prerequisites are met. To fully protect the charging party's rights and to maximize recovery, a charge alleging compensation discrimination based on sex should usually allege a violation of both Title VII and the EPA. While there is considerable overlap in the coverage of the two statutes, they are not identical. Title VII broadly prohibits discriminatory compensation practices, while the EPA only prohibits sex-based differentials in compensation for substantially equal jobs in the same establishment. Therefore, not all compensation practices that violate Title VII also violate the EPA. On the other hand, the Commission's EPA guidelines state that a practice that violates the EPA also will violate Title VII.
+(12)
+All of the anti-discrimination statutes prohibit retaliation for opposing violations of the statutes or participating in the statutory complaint process. The anti-retaliation provisions protect persons who take steps to oppose compensation discrimination, or who participate in complaint proceedings addressing allegations of compensation discrimination.
+10-III COMPENSATION DISCRIMINATION IN VIOLATION OF TITLE VII, ADEA, OR ADA
+Title VII, the ADEA, and the ADA prohibit discrimination in "compensation" based on race, color, religion, sex, national origin, age, disability, or protected activity. The term "compensation" includes any payments made to, or on behalf of, an employee as remuneration for employment.
+(13)
+Compensation discrimination in violation of Title VII, the ADEA, or the ADA can exist in a number of forms:
+An employer pays employees inside a protected class less than similarly situated employees outside the protected class, and the employer's explanation (if any) does not satisfactorily account for the differential;
+An employer maintains a neutral compensation policy or practice that has an adverse impact on employees in a protected class and cannot be justified as job-related and consistent with business necessity;
+An employer sets the pay for jobs predominantly held by protected class members below that suggested by the employer's job evaluation study, while the pay for jobs predominantly held by employees outside the protected class is consistent with the level suggested by the job evaluation study;
+(14)
+A discriminatory compensation system has been discontinued, but salary disparities caused by the system have not been eradicated;
+(15)
+or
+The compensation of one or more employees in a protected class is artificially depressed because of a discriminatory employer practice that affects compensation, such as steering employees in a protected class to lower paid jobs than persons outside the class, or discriminating in promotions, performance appraisals, procedures for assigning work, or training opportunities.
+Subsections A through D, below, discuss the standards and suggested steps for investigating a charge of compensation discrimination under Title VII, the ADEA, or the ADA. Subsection A discusses disparate treatment; subsection B discusses disparate impact; subsection C discusses non-base elements of compensation (e.g., bonuses); and subsection D discusses discriminatory practices affecting compensation.
+A. Disparate Treatment
+Because direct evidence of discrimination is rare,
+(16)
+investigators typically must evaluate whether comparative evidence supports a finding of compensation discrimination. Although not intended as an exclusive method, the method suggested in this subsection for conducting a comparative compensation analysis has three general components:
+Identify employees similarly situated to the charging party, based on job similarity and other objective factors, and compare their compensation.
+If the charging party's compensation is lower than the compensation of his or her comparator(s), ask the employer to offer a nondiscriminatory explanation for the differential, and evaluate the employer's explanation.
+Consider a systemic investigation using statistics.
+Each component of the analysis is discussed below.
+1. Identifying Employees Similarly Situated to the Charging Party
+Investigators should identify similarly situated employees both inside and outside the charging party's protected class. Similarly situated employees are those who would be expected to receive the same compensation because of the similarity of their jobs and other objective factors.
+a. Initial Requests for Information
+When beginning an investigation for compensation discrimination, it is important to acquire information about the respondent's general system for compensating its employees. It will be useful to identify employees similarly situated to the charging party for purposes of comparing their compensation. If investigators have questions in any particular case about what the initial request for information should include, they should contact the Research and Technical Information division of the Office of Research, Information and Planning (ORIP), or the Office of General Counsel's Research and Analytical Services (RAS) division.
+(17)
+As in other investigations, the initial request for information may, if necessary, be followed by requests for more specific compensation information. The investigator should design requests for information to facilitate an efficient and thorough investigation. Depending on the case, this request may include, by way of example, the following:
+Organization charts and other documents which reflect the relative position of the charging party in comparison to other employees, including written detailed job descriptions;
+Written descriptions of the respondent's system for compensating employees -- including collective bargaining agreements; entry level wage rates or salaries; any policies or practices with regard to periodic increases, merit and other bonus compensation plans; and the respondent's reasons for its pay practices; and
+Job evaluation studies, reports, or other analyses made by or for the employer with respect to its method of compensation and pay rates.
+Sometimes much of the above information will have been provided by the charging party or other witnesses. After using the information to identify the jobs or positions whose occupants are potentially similarly situated to the charging party, the investigator should obtain relevant job descriptions for those positions, as well as other documents, such as work orders and sample work products, that would reveal the types of tasks performed by those employees and the complexity of the tasks.
+As in any investigation, the investigator should consider supplementing the review of the respondent's written submission with respondent interviews and interviews of other witnesses. An on-site inspection also may be helpful.
+b. Job Similarity
+The investigator should determine the similarity of jobs by ascertaining whether the jobs generally involve similar tasks, require similar skill, effort, and responsibility, working conditions, and are similarly complex or difficult.
+(18)
+The actual content of the jobs must be similar enough that one would expect those who hold the jobs to be paid at the same rate or level. Job titles and formal job descriptions are helpful in making this determination, but because jobs involving similar work may have different titles and descriptions, these things are not controlling.
+(19)
+Similarly, the fact that employees work in different departments or other organizational units may be relevant, but is not controlling.
+(20)
+The facts of Examples 1 and 2, below, illustrate these points.
+Example 1:
+R is a large manufacturer of electronic equipment. R has four line departments: Development, Testing, Manufacturing, and Marketing. CP, an Asian American, is an electronics engineer in the Development department. He is on a team of engineers responsible for upgrades to the "OmniWidget," the company's flagship product. CP's charge alleges that he is paid less than other engineers on his team because he is Asian American. The investigation reveals that the OmniWidget design team has five team members and one supervisor. Teams responsible for the company's other products are similarly structured. The investigator analyzes the content of the electronics engineer jobs on the OmniWidget team and the other product teams and concludes that the jobs involve similar tasks, require similar skill, effort, and responsibility, and are similarly complex or difficult. Therefore, the investigator concludes that the engineers on all the teams in Development are similarly situated for purposes of comparing their treatment.
+c. Other Objective Factors
+Factors other than job content also may be important in identifying similarly situated comparators. For example, minimum objective qualifications, such as a specialized license or certification should be taken into account.
+(21)
+Persons in jobs requiring certain minimum objective qualifications should not be grouped together with persons in jobs that do not require those qualifications, even though the jobs otherwise are similar. Although minimum objective qualifications should be taken into account in defining the pool of similarly situated employees,employees' relative qualifications should
+not
+be considered at this stage. While differences in qualifications, experience, and education ultimately may explain a pay differential, such factors require a pretext or disparate impact analysis to determine whether they are legitimate,
+(22)
+and thus should be considered only after the pool of comparators has been determined (
+see
+10-III A.2 and B,
+infra
+). This approach allows for an orderly analysis that first identifies the relevant comparators, and then gives due consideration to factors that might explain compensation disparities.
+Example 2:
+Same as Example 1, above. The investigator also analyzes the jobs in the Testing, Manufacturing, and Marketing departments. The investigator quickly concludes that the jobs in Manufacturing and Marketing are not similar to CP's job in Development. But the investigator discovers that the engineers in Development work closely with the engineers in Testing, and that engineers in both departments often perform tasks generally associated with the other. The investigator concludes that the jobs in Testing are sufficiently similar to the jobs in Development, in terms of content, that one would expect engineers in the two departments to be paid at the same rate or level. In the respondent's "position statement" that accompanied its initial submission of information, the respondent has identified a number of individuals who it asserts are not similarly situated to the charging party for various reasons such as performance, experience, and other relative qualifications. The factors the respondent proffered to explain the compensation differential are best included in the analysis after the pool of comparators has been established so that they can be properly evaluated. Absent an explanation that does not require such an analysis, the investigator should conclude that engineers in Testing and Development are similarly situated for purposes of comparing their treatment.
+Notwithstanding the facts of Examples 1 and 2, differences in job titles, departments, or other organizational units may reflect meaningful differences in job content or other factors that preclude direct pay comparisons between employees. As always, however, enforcement staff should determine whether evidence uncovered in those other job categories, departments, etc., warrants expanding the investigation's scope, up to and including a systemic investigation.
+(23)
+ORIP and RAS are available to help enforcement staff with the technical issues involved in a systemic investigation.
+(24)
+In any event, after employees similarly situated to the charging party have been identified, the next step is to determine whether the charging party receives less compensation than similarly situated employees outside his or her protected class.
+(25)
+The investigator should request relevant payroll data from the respondent if that information has not already been provided.
+2. Determining Whether Compensation Differences Are Due to Discrimination
+If a compensation differential(s) exists, the respondent should be asked to produce a non-discriminatory reason for the differential. If a respondent leaves the pay disparity unexplained, or provides an explanation that is "too vague, is internally inconsistent, or is facially not credible,"
+(26)
+the investigator should find "cause." If the respondent does provide a nondiscriminatory reason, an inquiry should be made into whether it satisfactorily explains the pay differential.
+(27)
+Example 3:
+CP (African American named A. Jones) is a salaried waiter in an upscale restaurant. A. Jones alleges that he is being discriminatorily paid. The investigation shows that A. Jones is paid less than his comparators, who are white. The respondent alleges that the compensation differential is due to the other employees' superior job performance and their experience as waiters in the restaurant. The investigator then creates the following chart regarding A. Jones and similarly situated employees:
+Employees in Protected Class
+Salary
+Alleged Factors Affecting Salary
+Do Proffered Reasons Explain Disparity?
+Employees Not in Protected Class
+Salary
+Alleged Factors Affecting Salary
+A. Jones (CP)
+$23,000
+-3 yrs. exp.
+-avg. 2 perf. rating
+No - A. Jones has the same experience and avg. perf. ratings as A. Smith but receives a lower salary.
+A. Smith
+$31,000
+-3 yrs. exp.
+-avg. 2 perf. rating
+B. Thomas
+$34,000
+-5 yrs. exp.
+-avg. 4 perf. rating
+C. Adams
+$37,000
+-5 yrs. exp.
+-avg. 5 perf. rating
+D. Buckley
+$40,000
+-6 yrs. exp.
+-avg. 5 perf. rating
+As noted in the middle column above, the investigator concludes that the respondent's explanation does not account for the pay disparity because A. Jones has the same experience and average performance rating as A. Smith but receives a lower salary. Therefore "cause" is found.
+The employer's explanation should account for the entire compensation disparity. Thus, even if the employer's explanation appears to justify some of a compensation disparity, if the disparity is much greater than accounted for by the explanation, the investigator should find cause.
+Example 4:
+Same as Example 3, except A. Smith has more years of experience and a higher average performance rating than A. Jones.
+Employees in Protected Class
+Salary
+Alleged Factors Affecting Salary
+Do Proffered Reasons Explain Disparity?
+Employees Not in Protected Class
+Salary
+Alleged Factors Affecting Salary
+A. Jones (CP)
+$23,000
+-3 yrs. exp.
+-avg. 2 perf. rating
+No - A. Jones' pay differential is out of proportion to the difference in explanatory factors.
+A. Smith
+$31,000
+-4 yrs. exp.
+-avg. 3 perf. rating
+B. Thomas
+$34,000
+-5 yrs. exp.
+-avg. 4 perf. rating
+C. Adams
+$37,000
+-5 yrs. exp.
+-avg. 5 perf. rating
+D. Buckley
+$40,000
+-6 yrs. exp.
+-avg. 5 perf. rating
+In this variation of the example, despite the fact that A. Smith has more years of experience and a higher average performance rating than A. Jones, the investigator concludes that the respondent's explanation for A. Jones' salary is not credible because the explanation accounts for much smaller differences in pay between the white waiters than for A. Jones. For example, the same experience and performance differences that account for an $8000 pay gap between A. Smith and A. Jones (one year of experience; one point average performance) account for only a $3000 difference between B. Thomas and A. Smith. Therefore "cause" is found.
+The investigator should be sure to include in the analysis all employees similarly situated to the charging party. The mere fact that one or more employees in the protected class are paid the same as, or more than, the employees outside the class does not necessarily mean that there is no discrimination.
+(28)
+It could be that other factors, such as red circling
+(29)
+or seniority, account for the higher pay those particular protected-class-members receive, and that the data with respect to the other members of the protected class still suggests discrimination.
+Nevertheless, the investigator should analyze the compensation of all similarly situated employees because even if a comparison of only one or two similarly situated individuals might raise an inference of compensation discrimination, a comparison of all similarly situated individuals might dispel this inference. The next example is designed to demonstrate this.
+Example 5:
+Same as Example 4, except there are additional comparators inside CP's protected class.
+Employees in Protected Class
+Salary
+Alleged Factors Affecting Salary
+Do Proffered Reasons Explain Disparity?
+Employees Not in Protected Class
+Salary
+Alleged Factors Affecting Salary
+A. Jones (CP)
+$23,000
+-3 yrs. exp.
+-avg. 2 perf. rating
+See explanation below.
+A. Smith
+$31,000
+-4 yrs. exp.
+-avg. 3 perf. rating
+B. West
+$33,000
+-4 yrs. exp.
+-avg. 4 perf. rating
+B. Thomas
+$34,000
+-5 yrs. exp.
+-avg. 4 perf. rating
+C. Barnes
+$39,000
+-5 yrs. exp.
+-avg. 5 perf. rating
+C. Adams
+$37,000
+-5 yrs. exp.
+-avg. 5 perf. rating
+D. Buckley
+$40,000
+-6 yrs. exp.
+-avg. 5 perf. rating
+In this variation of the example, the salary of B. West, an African American, is in line with his white counterparts' salaries, given his experience and average performance rating. In addition, C. Barnes, the other African American comparator, receives a higher salary than his white counterpart with the same years of experience and the same average performance rating. These facts suggest that discrimination probably is not the reason for A. Jones' low salary. The charge should be dismissed without a cause finding.
+3. Using Statistics
+Statistics can have various uses in a compensation case. Statistical evidence can help determine if there is a broad pattern of intentional discrimination, i.e., whether intentional discrimination is the respondent's "standard operating procedure."
+(30)
+If the scope of the investigation is narrower, statistics still can help determine whether an individual has suffered from intentional discrimination in compensation.
+(31)
+Statistics also are useful for determining whether a neutral compensation policy or practice has an adverse impact on members of a protected group.
+This subsection explains one approach to investigating compensation practices using an analytical tool known as statistical inference. It allows one to determine whether differences between a protected class target group and a comparison group are "statistically significant," i.e., whether the difference could not be expected to have occurred by chance.
+(32)
+This differs from the basic comparison of raw numbers or percentages, which is known as descriptive statistics. Statistical inference helps ensure consistent decisionmaking, whereas the meaning of descriptive statistics may be interpreted differently by different individuals.
+The decision about whether and how to use statistics to aid in an investigation should be made on a case by case basis. Statistical analyses are less reliable when they encompass a small number of people, so investigators should contact ORIP or RAS (see footnote 17) with questions about whether the number of comparators is large enough to perform a statistical analysis in any particular case.
+a. Necessary Information
+In preparation for performing a statistical analysis, the investigator will have to request from the respondent payroll data for employees in the group of similarly situated employees if that information has not already been provided. Before issuing the request for information, the investigator should consult with ORIP or RAS concerning: (a) what information to request; (b) what format to request the information in; and (c) how to document that format (e.g., how to document what hardware and software produced the data, how the data was organized, etc.).
+It is almost always preferable to request that the employer provide this information in computerized format if possible. This especially is true if: (a) the number of similarly situated individuals exceeds 25; or (b) it is anticipated that the respondent will raise a number of explanations and/or defenses; or (c) it appears that the investigation is likely to raise issues other than pay equity -- especially related ones such as discriminatory promotions or assignments. Once the respondent has submitted the appropriate data for all the similarly situated employees, the investigator can begin to determine the effect of the respondent's pay practices on persons inside and outside the charging party's protected class.
+b. Threshold Statistical Test
+There are alternative statistical tests for analyzing compensation data for patterns of potential discrimination. ORIP or RAS are available to help enforcement staff with statistical procedures and the identification of possible alternatives. Below is a description of one statistical method that takes advantage of the EEOSTAT statistical software already being used by enforcement staff.
+This threshold statistical test will tell the investigator whether there is a statistically significant difference (i.e., a difference unlikely to have occurred by chance) between the expected and actual number of employees in the protected class who earn less than or equal to the median pay of all comparators. However, this test cannot tell an investigator what actually has caused an observed pattern. Investigators therefore are advised to use it only as an initial tool for determining whether a statistically significant pattern exists that warrants the use of more sophisticated and resource-intensive statistical techniques (
+see
+infra
+10-III A.3.c.) to test the respondent's explanation for the pattern, if any.
+i) Determining Median Compensation
+The threshold statistical test first requires the investigator to calculate the median wage or salary of the employees in the comparator pool. The median is the mid-point of the wages or salaries when they are arranged from lowest to highest, or vice versa. Spreadsheet software that will calculate the median is available.
+Example 6:
+Using spreadsheet software, the investigator creates the following table for the pool of similarly situated employees:
+RESPONDENT: EMPLOYEES SORTED BY SALARY
+No.
+ID
+Race
+SALARY
+1
+321-11-7892
+BLACK
+$22,100
+2
+321-11-3211
+WHITE
+$22,200
+3
+421-11-7892
+WHITE
+$22,300
+4
+521-11-7892
+WHITE
+$22,400
+5
+111-11-1115
+BLACK
+$22,500
+6
+111-11-1116
+BLACK
+$22,600
+7
+111-11-1117
+BLACK
+$22,700
+8
+111-11-1118
+BLACK
+$22,800
+9
+111-11-1119
+BLACK
+$22,900
+10
+211-11-1111
+BLACK
+$23,000
+11
+311-11-1111
+BLACK
+$23,100
+12
+511-11-1111
+BLACK
+$23,200
+13
+111-11-1216
+BLACK
+$23,300
+14
+611-11-1111
+BLACK
+$23,400
+15
+711-11-1111
+BLACK
+$23,500
+16
+811-11-1111
+BLACK
+$23,600
+<MEDIAN VALUE>
+17
+911-11-1111
+WHITE
+$23,700
+18
+101-11-1111
+WHITE
+$23,800
+19
+121-11-1111
+WHITE
+$23,900
+20
+131-11-1111
+BLACK
+$24,000
+21
+141-11-1111
+BLACK
+$24,100
+22
+151-11-1111
+WHITE
+$24,200
+23
+201-11-1111
+WHITE
+$24,300
+24
+321-11-1111
+WHITE
+$24,400
+25
+321-47-7892
+WHITE
+$24,500
+26
+459-47-3211
+WHITE
+$24,600
+27
+322-47-7792
+BLACK
+$24,700
+28
+459-47-7892
+BLACK
+$24,800
+29
+321-00-3211
+WHITE
+$24,900
+30
+230-47-3211
+WHITE
+$25,000
+31
+321-74-7801
+WHITE
+$25,100
+Because there is an odd number of comparators, the median salary is $23,600 -- the midpoint of the salaries when arranged from lowest to highest. Had there been an even number of comparators, the median would have been the average of the two salaries closest to the midpoint. Even though this example only considered the comparators' races, the spreadsheet also can be set up to analyze multiple bases together (such as race and sex).
+ii) Determining Whether a Statistically Significant Pattern Exists
+Once the median wage or salary has been determined, a comparison should be made between the expected and actual number of employees in the protected class whose wages or salaries are at or below the median wage or salary of all comparators. The purpose of the comparison is to determine whether there is a statistically significant difference. The Commission's EEOSTAT computer software includes a program called SQUARE, which may be used to make this calculation.
+Example 7:
+Same as Example 6. The investigator obtains the help of ORIP to run the data through the EEOSTAT/SQUARE computer program. The following result indicates that the actual number of blacks with salaries below the median was thirteen (13), but the expected number was slightly less than nine (9). The difference between the expected number and the actual number is statistically significant because the Fisher's Exact probability value is less than 0.05.
+WHITE
+BLACK
+Above
+Median
+11
+6.8
+4
+8.2
+15
+48.4%
+Median
+& Below
+3
+7.2
+13
+8.8
+16
+51.6%
+14
+45.2%
+17
+54.8%
+31
+Chi Square Test
+X
+2 =
+9.31 (7.24)
+df = 1
+p = 0.0023 (0.0071)
+Expected values sufficient
+for the Chi-Square test
+Option is Expected Number
+() = continuity correction
+Fisher's Exact Test
+P (one-tail) =
+0.0031
+P (two-tail) =
+0.0038
+If no statistically significant group-wide pattern is present, the investigator should determine whether reasonable cause exists based only on non-statistical evidence (
+seesupra
+10-III A.2). If the statistical analysis above does produce a statistically significant compensation pattern, the investigator should ask the employer to provide an explanation for the pattern so that a more sophisticated statistical analysis can be performed that takes account of the respondent's explanation.
+c. Using More Sophisticated Statistical Techniques to Evaluate Respondent's Explanation
+A respondent's failure to provide an explanation for a statistically significant pay pattern should result in a "cause" finding. More typically, a respondent will have asserted that pay disparities are caused by nondiscriminatory factors. Such factors could include the employees' education, work experience with previous employers, seniority in the job, time in a particular salary grade, performance ratings, and others. The Commission will need accurate information about all the variables on which the employer relies, for each employee similarly situated to the charging party. The employer should be asked to provide and explain all of its reasons for a compensation differential to reduce the need for burdensome repetitive requests.
+Once a respondent provides one or more legitimate nondiscriminatory reasons for a statistically significant compensation pattern, the reasons must be analyzed to determine whether they explain the compensation disparity. The investigator should contact ORIP or RAS to consider more sophisticated statistical tests for this purpose, including multivariate analyses. A multivariate analysis shows the extent of the relationship between one or more independent factors (e.g., race, length of service, performance rating) and one dependent factor (e.g., compensation). The ultimate question is whether employees' protected status has a statistically significant relationship to their compensation even after taking into account other factors that, according to the respondent, affect compensation. If a respondent prepares and submits a statistical analysis of its own purporting to explain pay disparities in nondiscriminatory terms, the investigator should call ORIP or RAS to evaluate the respondent's analysis.
+Example 8:
+CP, an African-American financial assistant in an investment firm, alleges that she receives lower pay than similarly situated employees who are not African American. The investigator obtains detailed information about the jobs that CP identifies as similar, determines which ones can be compared for Title VII purposes, and then requests the salary and race of all employees in those jobs. The investigator performs the threshold statistical test to determine whether a statistically significant difference in compensation patterns exists. The investigator first calculates the median salary, which is $42,000. Fifty-five (55) out of seventy-five (75) African American employees, and thirty- six (36) out of one hundred twenty (120) employees not African American earn less than the median. The investigator then uses the EEOSTAT/SQUARE program to discover that the difference between the expected and actual number of African Americans whose salaries are at or below the median salary of all comparators is statistically significant. The investigator asks the employer to explain the pay disparity. The respondent alleges that the pay differential is attributable to differences in length of service, education, and performance. After consulting with RAS, the investigator asks the respondent to provide data on each of these factors for all the comparators. RAS performs additional statistical tests and concludes that the compensation factors proffered by the respondent do not satisfactorily account for the pay differential. The investigator therefore relies on RAS's statistical analysis in making the cause determination.
+B. Disparate Impact
+Disparate impact analysis is aimed at "practices that are fair in form, but discriminatory in operation."
+(33)
+It is another analytical tool for determining whether compensation discrimination has occurred.
+(34)
+The focus in a disparate impact analysis is whether a neutral compensation practice or policy disadvantages employees in a protected class. In the area of compensation, practices that may fall within disparate impact analysis include: educational requirements, performance appraisals, examinations, qualification standards, and other practices or policies. A disparate impact analysis can rely on the same statistical methods described above with respect to disparate treatment.
+Under the disparate impact method, the investigator must attempt to determine what particular practice or policy caused the impact. For example, if an employer provides extra compensation to employees who are the "head of household" -- i.e., married with dependents and the primary financial contributor to the household -- that policy may have a disparate impact on women.
+Where the elements of the respondent's decisionmaking process cannot be separated for analysis, the investigator may analyze the decisionmaking process as one unified employment practice.
+(35)
+For example, it may be impossible to identify the particular cause of the disparate impact where the employer destroyed or otherwise failed to keep required records related to its compensation decisions.
+Once a disparate impact has been established, the investigator should determine whether the challenged compensation practice or policy is "job related for the position in question and consistent with business necessity."
+(36)
+If it is not, then the investigator should find "cause." Even if the compensation practice or policy is job-related and consistent with business necessity, the investigator should determine whether there are one or more alternative practices that serve the employer's business need without a disparate impact on the protected class.
+Example 9:
+CP, a janitor, files a charge alleging discriminatory pay because he is Hispanic. The investigation reveals that R's policy is to pay janitorial employees with a high school diploma a higher salary than those without a high school diploma. The investigator determines through statistical data that the high school degree requirement has a disparate impact on Hispanics. The investigator also determines that the higher salary does not correlate with any difference in duties or responsibilities, and therefore is not job related and consistent with business necessity. Therefore "cause" is found.
+C. Non-base Compensation
+Base salaries or wages often make up only part of the compensation package for employees. Employee compensation also can consist of stock options, bonuses, perquisites, and other payments made as remuneration for employment. Non-base compensation can be discriminatory even if base compensation is not.
+Non-base compensation items -- such as bonuses, commissions, and perquisites -- usually are a function of an employer policy defining who is eligible to receive them, and in what amount. As a result, the job content of particular jobs likely will be irrelevant in defining the pool of employees who are similarly situated to the charging party. Instead, investigators should examine the employer's policy to identify those to whom the employer makes the benefit available.
+The investigation should focus on whether the employer's policy is non-discriminatory in design and application. There are two issues the investigator should explore: (1) how the respondent applies the eligibility criteria for non-base compensation to persons inside and outside the protected class; and (2) whether, among those eligible for the non-base compensation, persons inside and outside the protected class receive non-base compensation in nondiscriminatory amounts.
+1. Eligibility
+If all employees are eligible for the same non-base compensation, then no potential exists for discriminatory application of eligibility standards. However, if some employees are not eligible for the same non-base compensation, then the investigator should determine whether, for each type of non-base compensation at issue, the eligibility standards are applied consistently and without regard to the protected characteristic involved (e.g., sex). The statistical methods discussed earlier in this Manual Section can be used to analyze eligibility criteria under the disparate treatment or disparate impact methods of proof, as appropriate.
+Example 10:
+CP, an economist at a management consulting firm, files a charge alleging that she has been denied participation in R's bonus program because of her sex. The investigation reveals that R limits participation in its bonus program to management consultants, and that no economists at the firm, including males, participate in R's bonus program. The charge should be dismissed without a cause finding because nondiscriminatory eligibility standards explain why CP does not participate in R's bonus program.
+Example 11:
+Another charge is filed against R, the management consulting firm in Example 10, this time by a female management consultant who alleges that her bonuses over the last two years have been less than those of her male counterparts. R has one hundred fifty (150) consultants on staff. R operates a two-part cash bonus system for consultants. Half of each consultant's bonus is based on the firm's profitability. This portion of each consultant's bonus is always the same as that of the other consultants. The other half of each consultant's bonus is based on his or her personal performance as measured against predetermined criteria. The investigator concludes that every consultant is eligible to participate in R's bonus system and theoretically is eligible for the same bonuses. The investigator next must determine whether the amount of each person's bonus is nondiscriminatory (see Example 12).
+2. Amount
+Even if the respondent's eligibility standards for non-base compensation are nondiscriminatory in design and application, the amount of non-base compensation paid to the charging party and other members of the protected class still could be discriminatory. Therefore, the investigator should determine whether, among the eligible employees, those in the protected class receive the non-base compensation at issue in the same amount as those outside the protected class -- and, if not, whether the disparity is attributable to discrimination. Again, the statistical methods discussed earlier in this Manual Section can be used here.
+Example 12:
+Same as Example 11. The investigator obtains the help of ORIP to analyze R's bonus system using statistics. That analysis shows a statistically significant difference between the expected and actual number of female consultants whose bonuses are less than the median. R asserts that the difference is attributable to performance. The investigator obtains performance records for the comparator group and ORIP performs additional statistical tests comparing bonus amounts by sex, controlling for performance. The analysis reveals that the sex of employees has a statistically significant relationship to their bonus amounts even when taking performance appraisals into account. Non-statistical evidence does not dispel the inference of discrimination and the investigator finds "cause."
+Example 13:
+R, a thriving computer software company, has an incentive program by which employees receive bonuses in the form of stock options. The stock options give employees the right, after a three-year vesting period, to buy company stock at the market price at the time the bonuses were awarded. All programmers are eligible for the program. CP, a Hispanic programmer, files a charge against R alleging that he received fewer stock options in year 20XX than employees who are not Hispanic. R provides evidence that the number of stock options granted to each programmer is tied to the sales of the software packages for which the programmer is responsible. R also demonstrates that other Hispanics working on projects different than CP's received more stock options than CP and non-Hispanic programmers working on CP's project. The investigator finds no evidence that R's explanation is not credible. Therefore, the charge should be dismissed without a cause finding.
+D. Discriminatory Practices Affecting Compensation
+Compensation disparities also can arise because of discriminatory practices that affect compensation indirectly. For example, the so-called "glass ceiling" phenomenon -- i.e., artificial barriers to the advancement of individuals within protected classes -- can depress the compensation of members of protected classes. These types of unlawful practices can include, for example, discriminatory promotion decisions, performance appraisals, procedures for assigning work, or training opportunities, or a company practice of steering protected class members into low paying jobs or limiting their opportunity to transfer to better jobs.
+(37)
+These practices violate Title VII, the ADEA, and the ADA in their own right, in addition to affecting employee compensation. Thus, when investigating a charge of compensation discrimination, the investigator also should be alert to evidence that the respondent has violated Title VII, the ADEA, or the ADA by engaging in glass-ceiling type practices.
+(38)
+Example 14:
+CP, a Hispanic administrative assistant, filed a charge alleging that she receives less pay than the office manager even though in her opinion they perform similar work. The investigator concludes that CP is not similarly situated to the office manager due to the difference in responsibility associated with the jobs. Nevertheless, the investigation reveals that all but one of R's Hispanic employees hold lower paying clerical, secretarial, and low-level administrative positions. Many of these employees testified to the lack of promotional opportunities into higher paying jobs. R asserted that it does not employ Hispanics in higher paying jobs because of a lack of qualified applicants. The investigator determines that qualified Hispanic employees have applied for these jobs but nearly all, like CP, have not been promoted. "Cause" is therefore found with respect to steering Hispanics into the lower-paying positions and denying them promotions.
+Example 15:
+CP (female) has worked six months in R's human resources department as a recruiter when she files a charge alleging that she receives a lower salary than a male counterpart. The investigator analyzes the two jobs and concludes that they are not similar because CP recruits for low level positions whereas the male recruits for upper level positions and thus has more responsibility. However, the investigation also reveals that at the same time CP applied for a job in R's human resources department, she also applied for an opening in R's marketing department. CP was qualified for both jobs, but the marketing job was her first choice. The investigator obtains an e-mail authored by the person who rejected CP for the marketing job that states that CP is a "better fit" for human resources because women "tend not to be assertive enough for the marketing department." The investigator also uncovers, through further investigation, evidence that other women were unlawfully steered away from jobs in line departments to less lucrative jobs in support departments such as human resources. Based on this evidence, the investigator finds "cause" to believe that R had a practice of unlawfully steering women into lower-paying jobs.
+10-IV COMPENSATION DISCRIMINATION IN VIOLATION OF THE EQUAL PAY ACT
+In addition to Title VII, the ADEA, and the ADA, the Equal Pay Act (EPA) also prohibits discrimination in compensation. Because of this overlap, enforcement staff may refer to the applicable analysis in 10-III, including the discussion on statistical analysis, when analyzing EPA complaints. The EPA, however, is a different statute with its own scheme. Moreover, it is targeted only at pay discrimination between men and women performing substantially equal work in the same establishment.
+A. Expeditious Investigation Required
+An individual alleging a violation of the EPA may go directly to court and is not required to file an EEOC charge beforehand. The time limit for filing an EPA charge with the EEOC and the time limit for going to court are the same: within two years of the alleged unlawful compensation practice
+(39)
+or, in the case of a willful violation, within three years. The filing of an EPA charge does not toll the time frame for going to court. Investigations thus should be completed well before the time limit expires, so that the charging party and/or the Commission will be able to bring a timely lawsuit with the benefit of a completed investigation. In addition, the EPA limits the recovery of back pay to two years (or three years if the violation was willful) before the filing of suit or the end of successful conciliation. The back pay period will be a rolling two- or three-year window, with each added day of investigation moving the back pay period forward one day, resulting in lower relief for a charging party. Therefore, each added day of investigation will directly impact the bottom-line relief for the charging party.
+B. Elements of Claim
+The elements of an EPA claim are as follows:
+EPA Claim
+Prima Facie Case:
+(1) the complainant receives a lower wage than paid to an employee of the opposite sex in the same establishment; and (2) the employees perform substantially equal work (in terms of skill, effort, and responsibility) under similar working conditions.
+Affirmative Defense:
+If the respondent cannot defeat the showing of unequal pay for substantially equal work, it must prove that the compensation difference is based on a seniority, merit, or incentive system, or on any other factor other than sex.
+The models of proof under Title VII, the ADEA, and the ADA do not apply to the EPA. The complainant need only demonstrate a sex-based wage disparity in substantially equal jobs in the same establishment. If the employer cannot rebut that showing, it must prove that the wage disparity is based on one of the four affirmative defenses.
+C. Definition of "Wages" and "Wage Rate"
+The term "wages" encompasses all forms of compensation, including fringe benefits.
+"Wage rate" is the measure by which an employee's wage is determined.
+"Wages" include "all payments made to [or on behalf of] an employee as remuneration for employment."
+(40)
+The term encompasses all forms of compensation, including fringe benefits. Wages include payments whether paid periodically or at a later date, and include (but are not limited to) wages, salary, overtime pay; bonuses; vacation or holiday pay; cleaning or gasoline allowances; hotel accommodations; use of company car; medical, hospital, accident, life insurance; retirement benefits; stock options, profit sharing, or bonus plans; reimbursement for travel expenses, expense account, and benefits. Thus, for example, if male and female employees performing substantially equal work receive equal salaries but unequal fringe benefits, an EPA violation can be established.
+"Wage rate" is the measure by which an employee's compensation is determined. It encompasses rates of pay calculated on a time, commission, piece, job incentive, profit sharing, bonus, or other basis. An employer that pays different wages to a male than to a female performing substantially equal work does not violate the EPA if the wage rate is the same. For example, if a male and a female employee performing substantially equal sales jobs are paid on the basis of the same commission rate, then a difference in the total commissions earned by the two workers would not violate the Act. Conversely, if the commission rates are different, then a prima facie violation could be established even if the total compensation earned by both workers is the same.
+(41)
+Equal wages must be paid in the same form. For example, a male and female who are paid on an hourly basis for substantially equal work must receive the same hourly wage. The employer cannot pay a higher hourly wage to one of those employees and then attempt to equalize the difference by periodically paying a bonus to the employee of the opposite sex.
+Example 16:
+A male tennis instructor and a female tennis instructor at a particular health club provide tennis lessons that are substantially equal. The male instructor is paid a weekly salary, but the female instructor is paid by the lesson. Even if the two instructors receive essentially the same pay per week, there is a violation because the male and female are not paid in the same form for substantially equal work.
+D. Definition of "Establishment"
+"Establishment" ordinarily means a physically separate place of business.
+Two or more physically separate portions of a business should be considered one "establishment" if personnel and pay decisions are determined centrally and the operations of the separate units are interconnected.
+The prohibition against compensation discrimination under the EPA applies to jobs "within any establishment." An "establishment" is "a distinct physical place of business rather than . . . an entire business or 'enterprise' which may include several separate places of business."
+(42)
+For example, separate facilities of a chain store generally cannot be compared to each other.
+(43)
+In certain circumstances, however, physically separate places of business should be treated as one establishment. This would be the case if a central administrative unit hires the employees, sets the compensation, and assigns work locations.
+(44)
+Example 17
+: CP, a school teacher, alleges that she is paid less than a male teacher who performs equal work in the same school district. The school district asserts that their compensation cannot be compared under the EPA because they work in different schools. The investigation determines that the school district is a single establishment because hiring, assignments of teachers, and compensation rates are determined centrally, and personnel are sometimes reassigned to different schools. Therefore, the compensation rates of the two teachers can be compared.
+Example 18:
+CP, a female, works for a computer services firm that has offices in numerous cities. She alleges that she is paid less than a male who performs the same job in a different branch office. The employer claims that the separate offices are separate establishments and that, therefore, the compensation rates in each office cannot be compared. The evidence shows that while the headquarters of the company exercises some control over the branches, the specific salaries offered to job applicants are determined by supervisors in each local office. The local offices therefore constitute separate establishments, and CP's salary cannot be compared to the salary of an employee in a different office.
+In narrow circumstances two or more portions of a business enterprise that are located in a single place of business may constitute separate establishments. This would be the case if, for example, portions of the enterprise are physically segregated, engage in functionally separate operations, and have separate administrative structures, employees, and record keeping.
+E. Prima facie Case: Appropriate Comparison
+1. Opposite-Sex Comparators
+A prima facie EPA violation is established by showing that a male and a female receive unequal compensation for substantially equal jobs within the same establishment. A complainant cannot compare herself or himself to a hypothetical male or female; rather, the complainant must show that a specific employee of the opposite sex earned higher compensation for a substantially equal job.
+There is no requirement that the complainant show a pattern of sex-based compensation disparities in a job category.
+(45)
+In other words, if a woman is paid less than male employees performing the same work, the lack of other women with low salaries in the job category does not preclude finding an EPA violation as to the complainant. However, the employer's treatment of other women is relevant to the complainant's case -- if other women are paid the same as or more than males, this may indicate that a factor other than sex explains the complainant's compensation.
+(46)
+The comparators need not have held their jobs at the same time. For example, a prima facie violation of the EPA can be established if a male employee is replaced with a lower paid female, or a female employee is replaced with a higher paid male. On the other hand, if there have never been any men performing substantially the same work as women in a work establishment, or vice versa, it is not possible to establish an EPA violation.
+(47)
+2. Comparison of Work
+The important comparison in determining whether the "equal work" requirement is met is the comparison of the jobs, not the people performing the jobs. Thus, a difference between the
+comparators
+has no bearing on whether the
+jobs
+are equal. The critical question at this point in the analysis is whether the jobs involve equal work. However, a difference between the comparators could qualify as a defense to a compensation disparity. Such defenses are explained later in this Manual Section.
+(48)
+The EPA speaks in terms of "equal work," but the word "equal" in the EPA does not require that the jobs that are compared be identical, only that they be substantially equal. Thus, minor differences in the job duties, or the skill, effort, or responsibility required for the jobs will not render the work unequal. In comparing two jobs for purposes of the EPA, consideration should be given to the
+actual
+duties that the employees are required to perform. Job
+content
+, not job titles or classifications, determines the equality of jobs.
+(49)
+The fact that jobs are in different departments is not determinative, although in some cases it may be indicative of a difference in job content.
+(50)
+In evaluating whether two jobs are substantially equal, an inquiry should first be made as to whether the jobs have the same "common core" of tasks, i.e., whether a significant portion of the tasks performed is the same.
+(51)
+If the common core of tasks is not substantially the same, no further examination is needed and "no cause"can be found on the EPA violation.
+(52)
+If a significant portion of the tasks performed in the two jobs is the same, an inquiry should be made as to whether the comparators perform extra duties which make the work substantially different. Jobs with the same common core of tasks are equal, even though the comparators perform extra duties, if the extra duties are insubstantial.
+(53)
+Example 19:
+CP, a college teacher, alleges that she is paid less than a male teacher in the same school, in violation of the EPA. The school alleges that their jobs are not equal because the male teacher has a heavier load of courses. The evidence shows, however, that the only difference in workload is that the male teacher gives an occasional additional lecture. This difference is not significant enough to defeat a finding that the jobs are substantially equal.
+Example 20:
+CP manages insurance claims for an insurance brokerage firm. She investigates claims, submits claims to insurance companies, and advises clients with respect to their claims. CP alleges that she is paid less than male account executives in violation of the EPA. The male comparators do brokerage work, negotiating appropriate insurance coverage between insurance carriers and the firm's clients. CP does not do brokerage work and the male comparators do not manage claims. The differences in job tasks render the two jobs unequal.
+If the jobs to be compared share the same common core of tasks, consideration should be given to whether, in terms of overall job content, the jobs require substantially equal skill, effort, and responsibility and whether the working conditions are similar.
+a. Skill
+Skill
+is measured by factors such as the experience, ability, education, and training required to perform a job.
+Two jobs require equal skill for purposes of the EPA if the experience, ability, education, and training required are substantially the same for each job.
+(54)
+In comparing the skill required to perform two jobs, the characteristics of the
+jobs
+should be compared. Possession of a skill not needed to meet the requirements of the job should not be considered.
+(55)
+If two jobs generally share a common core of tasks, the fact that one of the jobs includes certain duties that entail a lower level of skill would not defeat a finding that the jobs are equal. For example, if two people work as bookkeepers, and one of the individuals performs clerical duties in addition to bookkeeping tasks, the skill required to perform the two jobs would be substantially equal.
+On the other hand, if the jobs require different experience, ability, education, or training, then the jobs are not equal. For example, a vice president of a trade association could not show that her work was equal to the work performed by other vice presidents, where they performed key policymaking for the association, a skill that her position did not require.
+(56)
+The proper analysis is the functional one -- the analysis of the skills the jobs actually require.
+Example 21:
+CP, a hotel clerk, alleges that she is paid less than a male who performs substantially equal work. CP only has a high school degree, while the male comparator has a college degree. However, performance of the two jobs requires the same education, ability, experience, and training. A college degree is not needed to perform either job. Therefore, the skill required to perform the two jobs is substantially equal.
+Example 22:
+CP, a male, works for a telephone company diagnosing problems with customer lines. He alleges that he is paid less than hisfemale predecessor in violation of the EPA. The evidence shows that the job of CP's predecessor required expert training in diagnostic techniques and a high degree of specialized computer skill. The respondent switched to a newer, more advanced computer testing system after CP's predecessor resigned. The job now requires much less overall skill, including computer skill, than was required when CP's predecessor held it. Therefore, the skill is not equal, and no violation is found.
+Example 23:
+CP, a sales person in the women's clothing department of the respondent's store, alleges that she is paid less than a male sales person in the men's clothing department. The respondent asserts that differences in skills required for the two jobs make them unequal. The investigation reveals, however, that the sale of clothing in the two departments requires the same skills: customer contact, fitting, knowledge of products, and inventory control. Therefore, the skill required for the two jobs is substantially equal.
+b. Effort
+Effort
+is the amount of physical or mental exertion needed to perform a job.
+Job factors that cause physical or mental fatigue or stress are to be considered in determining the effort required for a job. Differences in the
+kind
+of effort exerted do not justify a compensation differential if the
+amount
+of effort is substantially the same.
+Example 24:
+CP alleges that she and other female grocery store workers are paid less than males who perform substantially equal work. Most of the tasks performed by the males and females are the same. In addition to those same tasks, the male employees place heavy items on the store shelves, while the female employees arrange displays of small items. The extra task performed by the men requires greater physical effort, but the extra task performed by the women is more repetitive, making the amount of effort required to perform the jobs substantially the same.
+Example 25:
+Same as Example 24, except two of the male grocery store workers also regularly haul heavy crates from trucks into the store. In this case, the employer can lawfully pay a higher rate to the persons who perform the extra task. On the other hand, a violation would be found if all males receive higher compensation based on the extra effort required for only some of the males' jobs.
+c. Responsibility
+Responsibility
+is the degree of accountability required in performing a job.
+Factors to be considered in determining the level of responsibility in a job include:
+the extent to which the employee works without supervision;
+the extent to which the employee exercises supervisory functions; and
+the impact of the employee's exercise of his or her job functions on the employer's business.
+Differences in job responsibilities do not depend on job titles. Thus, designation of an employee as a "supervisor" will not, by itself, defeat a comparison under the EPA with an employee who is not designated as such. Moreover, the mere fact that an employee has assistants does not necessarily demonstrate that he or she has a more responsible position than one who does not have assistants. In addition, investigators should consider whether employees of the lower paid sex are being discriminatorily denied the opportunity to assume the additional responsibilities borne by the employees of the higher paid sex.
+(57)
+If one employee in a group performing otherwise equal jobs is given a different task that requires a significant degree of responsibility, then the level of responsibility in that person's job is not equal to the others.
+(58)
+Example 26:
+CP, a female sales clerk, claims that a male sales clerk performs substantially equal work for higher compensation. The evidence shows that the male comparator, in addition to performing the tasks that CP performs, is solely responsible for determining whether to accept personal checks from customers. That extra duty is significant because of potential losses if bad checks are accepted. The two jobs are not substantially equal due to the difference in responsibility.
+Example 27:
+Same as Example 26, except that CP, her male comparator, and the other sales clerks rotate handling the additional responsibility of determining whether to accept personal checks. In this case, the jobs are substantially equal.
+Example 28:
+Same as Example 26, except the only difference in responsibility between the jobs of CP and her comparator is that the comparator occasionally is given the responsibility for performing a "walk around" inside the building at the end of the day to make sure nothing is out of the ordinary. In this case, the jobs are substantially equal because the difference in responsibility is minor.
+d. Working Conditions
+Working conditions
+consist of two factors:
+surroundings; and
+hazards.
+"Surroundings" take into account the intensity and frequency of environmental elements encountered in the job, such as heat, cold, wetness, noise, fumes, odors, dust, and ventilation. "Hazards" take into account the number and frequency of physical hazards and the severity of injury they can cause. The time of day or night in which each of the jobs is performed is not a working condition for purposes of determining whether the jobs are substantially equal within the meaning of the EPA.
+(59)
+The fact that jobs are performed in different physical surroundings does not necessarily defeat a finding that the working conditions are similar.
+(60)
+Comparability of "working conditions" is measured by a more flexible standard than skill, effort, or responsibility, because the statute only requires that the working conditions be "similar," not "equal." Similarity of working conditions is seldom in dispute because employees who perform jobs requiring substantially equal skill, effort, and responsibility are likely to be performing them under similar working conditions.
+Example 29:
+R is a company that occupies a large office park. CP, a female, delivers intra-office mail for R. CP files a charge alleging she is being paid less than a male who also delivers mail. The investigator discovers, however, that the male's job involves extended periods of time outside, carrying mail between buildings in the office park, often under extreme weather conditions (heat in the summer; cold and snow in the winter). CP, on the other hand, delivers mail only within one building. There is no evidence that the company bars women, including CP, from obtaining the more lucrative position when there is an opening. The investigator determines that the jobs are not equal because of different working conditions (there may also be a difference in the effort required in the two jobs).
+F. Defenses
+If the evidence establishes a prima facie violation of the EPA, then the employer must prove that the compensation disparity is based on one of the four affirmative defenses in the statute. The burden is a heavy one, because the employer must show that sex played no part in the compensation differential.
+EPA Defenses
+A sex-based compensation difference in substantially equal jobs is justified if it is based on:
+a
+seniority system
+;
+a
+merit system
+;
+a
+system which measures earnings by quantity or quality of production ("incentive system")
+; or
+any other factor other than sex
+.
+1. Seniority, Merit, or Incentive System Must Be Bona Fide
+An employer may lawfully compensate employees differently on the basis of a bona fide seniority, merit, or incentive system. A seniority system rewards employees according to the length of their employment. A merit system rewards employees for exceptional job performance. An incentive system provides compensation on the basis of the quality or quantity of production. To be a bona fide system, it must not have been adopted with discriminatory intent; it must be based on predetermined criteria; it must have been communicated to employees; and it must have been applied consistently and even-handedly to employees of both sexes.
+Seniority, Merit, or Incentive System Defense
+A seniority, merit, or incentive system must be bona fide to operate as an EPA defense. This means it:
+was
+not adopted with discriminatory intent
+;
+is an established system containing
+predetermined criteria
+for measuring seniority, merit, or productivity;
+has been
+communicated
+to employees;
+has been
+consistently and even-handedly applied
+to employees of both sexes; and
+is in fact the basis
+for the compensation differential.
+A seniority system allocates rights, benefits, and compensation according to length of employment. It should be consistently applied to all employees unless there are defined exceptions which are known and understood by the employees.
+A merit system, to operate as a defense, must be a structured procedure in which employees are evaluated at regular intervals according to predetermined criteria, such as efficiency, accuracy, and ability.
+(61)
+The merit system can be based on an objective measurement such as a test, or a subjective rating. However, a merit system that is subjective should be strictly scrutinized to assure that it is consistently applied.
+(62)
+Example 30:
+CP, a bank teller, alleges that she is paid less than a male bank teller who performs the same job. The respondent claims that the compensation disparity is justified because wages are paid under a merit system. That alleged merit system is unstructured, based on a manager's "gut feeling." Furthermore, the respondent offers no objective evidence to support CP's lower compensation under its merit system. In this case, the merit system is not bona fide and does not justify the compensation disparity.
+Example 31:
+Same as Example 30, except that the respondent proves that its merit system is a systematic and formal process that was communicated to employees and is guided by sex-neutral, objective standards. The respondent also proves that under its merit system, the comparator's work performance merited higher compensation than CP's. In this case, the merit system justifies the compensation disparity.
+An incentive or productivity system is designed to encourage employees to work more productively and efficiently. For example, an employer might pay word processors a certain amount of money for every document produced. Similarly, a store may pay sales people by commission, based on their volume of sales.
+A seniority, merit, or incentive system operates as a defense only to the extent that it accounts for the compensation disparity.
+Example 32:
+CP, a high school teacher, alleges that she is paid $5,000 less than a male teacher who performs substantially equal work. The respondent states that the compensation difference is due to its seniority system and that the male teacher has greater seniority. The investigation reveals that the male has worked at the school three years longer than CP, which would only justify a $3,000 difference in pay under the seniority system. An EPA violation is found.
+Example 33:
+Same as Example 32, except there is a $10,000 pay disparity. The respondent asserts that the disparity is caused by both its seniority system and its merit system. Again, the investigation reveals that seniority accounts for about a $3,000 difference in pay. The investigator also determines that the respondent in fact does have a merit system, and it appears bona fide. But CP's merit increases have been about the same as those of the male comparator, so differences in merit do not explain the remaining $7,000 gap in pay. An EPA violation is found.
+2. "Factor Other Than Sex"
+The EPA permits a compensation differential based on a factor other than sex.
+(63)
+While this defense encompasses a wide array of possible factors, the employer must establish that a gender-neutral factor, applied consistently, in fact explains the compensation disparity.
+(64)
+An employer asserting a "factor other than sex" defense also must show that the factor is related to job requirements or otherwise is beneficial to the employer's business.
+(65)
+Moreover, the factor must be used reasonably in light of the employer's stated business purpose as well as its other practices.
+(66)
+The following are examples of justifications that employers have asserted as factors other than sex, along with a discussion of the appropriate analysis:
+a. Education, Experience, Training, and Ability
+While the relative education, experience, training, and/or ability of individual jobholders are not relevant to determining whether their jobs require equal skill, these factors can, in some cases, justify a compensation disparity. Employers can offer higher compensation to applicants and employees who have greater education, experience, training, or ability where the qualification is related to job performance or otherwise benefits the employer's business.
+(67)
+Such a qualification would not justify higher compensation if the employer was not aware of it when it set the compensation, or if the employer does not consistently rely on such a qualification.
+(68)
+Furthermore, the difference in education, experience, training, or ability must correspond to the compensation disparity. Thus, a very slight difference in experience would not justify a significant compensation disparity. Moreover, continued reliance on pre-hire qualifications is less reasonable the longer the lower paid employee has performed at a level substantially equal to, or greater than, his or her counterpart.
+(69)
+Example 34:
+CP had been employed as an office manager. Her starting salary was $42,000. She resigned one year later. Her male successor was hired at a starting salary of $50,000. CP filed a charge claiming that the difference in starting salaries violated the EPA. The employer proves that the salary difference was based on the successor's extensive experience as an office manager, as compared to CP's lack of any job-related experience. The difference in experience qualifies as a factor other than sex justifying the compensation disparity.
+Example 35:
+Same as Example 34, except that the evidence shows that the employer relies inconsistently on work experience in setting salaries for office manager jobs, and that males who lacked experience were offered higher starting salaries than CP. A violation of the EPA is found.
+Example 36:
+Same as Example 34, except that CP did have job-related experience, though her successor had a slightly greater amount of experience. The difference in their experience was not commensurate with the $8,000 difference in starting salaries, and therefore a violation of the EPA is found.
+b. Participation in Training Program
+A compensation disparity attributable to participation in a bona fide training program is permissible. While an organization might offer numerous types of training programs, a bona fide training program that can justify a compensation disparity must be a structured one with a specific course of activity. Elements of a legitimate training program include: (1) employees in the program are aware that they are trainees; (2) the training program is open to both sexes; and (3) the employer identifies the position to be held at the program's completion.
+(70)
+If the training involves rotation through different jobs, the compensation of an employee in such a training program need not be revised each time he or she rotates through jobs of different skill levels.
+Example 37:
+CP, a bank teller, alleges that she is paid less than a male bank teller who performs substantially equal work. The respondent alleges that the male comparator is a participant in a management training program that is open to both sexes. The evidence shows, however, that the program is not bona fide because it is not a formal one, no other employees are identified as participants in the program, and the comparator does not receive any formal instruction or even know that he is in a management training program. An EPA violation therefore is found.
+c. Shift Differential
+While a difference between night and day work is not a difference in "working conditions," it could constitute a "factor other than sex" that justifies a compensation differential. A shift differential operates as a defense only if both sexes have an equal opportunity to work either shift, if sex was not the reason the employer established the compensation differential, and if there is a business purpose that the shift differential is being used reasonably to serve.
+Example 38:
+CP, a female security guard, gets paid less than male security guards whose jobs are substantially equal to CP's job in terms of skill, effort, responsibility, and similar working conditions. The male comparators work night shifts, while CP works a day shift, and the respondent's pay scale provides for higher compensation for night shift jobs. Other male security guards who work day shifts get paid the same rate as CP. There is no evidence that the pay differential had its origins in discrimination, that sex plays any role in shift assignments, or that women are steered to the lower paying shift. R's justification for the differential is that it pays a premium for night shift work because it is less desirable and a harder shift for which to recruit employees. The charge is dismissed without a finding of an EPA violation.
+d. Job Classification Systems
+An employer's assertion that its compensation rates are based on a job classification system does not, by itself, justify a compensation disparity between men and women performing substantially equal work. The employer must prove that the job classification system accurately reflects job duties and/or job-related employee qualifications and is uniformly applied to men and women.
+(71)
+For example, a store might have a job classification system under which head cashiers are paid more than cashiers. If the classification system accurately reflects job duties and/or job-related employee qualifications, the compensation disparity is justified.
+(72)
+Example 39:
+CP works as a cleaner in an elementary school. Most of the cleaners are female. CP establishes that her job is substantially equal to that of "custodians" in the school who are paid more and who are mostly male. The school fails to prove that the different classifications for the two jobs accurately reflect differences in job duties or job-related employee qualifications. Therefore, an EPA violation is found.
+e. "Red Circle" Rates; Temporary Reassignments
+"Red circling" means that an employee is paid a higher than normal compensation rate for a particular reason. Such a practice does not violate the EPA if sex is not a factor and it is supported by a valid business reason. For example, an employer might transfer a long-time employee who can no longer perform his regular duties because of deteriorating health to an otherwise lower paid job, but maintain the employee's higher salary in gratitude for his long tenure of service. Similarly, an employer might assign employees in skilled jobs to less demanding work temporarily until the need for the higher skill arises again. As with all factors other than sex, the investigator should determine whether the red-circle rate is consistent with the respondent's business justification or whether, instead, the employer's reason is pretextual. If the red-circling defense is satisfied, the employer may continue to pay the employees their original salaries, even though opposite sex employees perform the same work for lower pay.
+(73)
+An employer may temporarily assign an employee to work in a higher paid job, without changing his or her compensation. However, investigators should scrutinize such situations to determine whether sex is the real reason for the differential.
+See
+29 C.F.R. 1620.26(b).
+f. Revenue Production
+An employer may be able to justify a compensation disparity by proving that the higher paid employee generates more revenue for the employer than the lower paid employee.
+(74)
+However, the
+Commission will scrutinize this defense carefully to determine whether the employer has provided reduced support for revenue production to the lower paid employee. If that is the case, then the difference in revenue will not justify the compensation disparity. Furthermore, a mere assumption that the higher paid employee will produce greater revenue will not justify the compensation disparity.
+Example 40:
+CP, an associate attorney at a mid-size law firm, claims that she was hired at a lower starting salary than a male attorney who performs the same work. The employer proves that it offered a higher salary to the male because he brought clients to the firm who generated substantial revenue, while CP brought in no clients. This evidence establishes that a factor other than sex justified the compensation disparity.
+Example 41:
+Same as Example 40, except neither CP nor her male comparator brought clients to the firm at the time they were hired. But in the four years since their hire, the male comparator has generated more revenue than CP due to cultivating a better relationship with the firm's clients, bringing in a couple clients of his own, and consistently producing more billable hours than CP. The investigation reveals, however, that the firm has given the male attorney more exposure to firm clients (e.g., more chances to work one-on-one with clients), and provided the male attorney more opportunities to speak at legal seminars, giving him valuable exposure to potential clients. The evidence also shows that the firm's partners provide CP with less complex work, exacerbating the difference in billable hours. In this variation of the example, revenue production is not a valid factor other than sex.
+g. Market Factors
+Employers have sometimes asserted that they must pay more to a male employee than a female employee performing the same job because of the male employee's market value. Of course, payment of lower wages to women based on an assumption that women are available for employment at lower compensation rates does not qualify as a factor other than sex that would justify unequal compensation for substantially equal work.
+(75)
+As one court stated, "the argument that supply and demand dictates that women
+qua
+women may be paid less is exactly the kind of evil that the [EPA] was designed to eliminate, and has been rejected."
+(76)
+Market value qualifies as a factor other than sex only if the employer proves that it assessed the marketplace value of the particular individual's job-related qualifications, and that any compensation disparity is not based on sex.
+Prior salary cannot, by itself, justify a compensation disparity. This is because prior salaries of job candidates can reflect sex-based compensation discrimination. Thus, permitting prior salary alone as a justification for a compensation disparity "would swallow up the rule and inequality in compensation among genders would be perpetuated."
+(77)
+However, if the employer can prove that sex was not a factor in its consideration of prior salary, and that other factors were also considered, then the justification can succeed.
+(78)
+The employer could, for example, show that it: (1) determined that the prior salary accurately reflected the employee's ability based on his or her job-related qualifications; and (2) considered the prior salary, but did not rely solely on it in setting the employee's current salary.
+If the employer did not bargain with the higher-paid comparator it will cast doubt on the employer's argument that it had to offer a higher salary to compete for him/her. And even if there was bargaining, the investigator should consider whether the employer bargains differently with men than with women (e.g., responds more favorably to men's demands than to women's demands).
+Example 42:
+CP, a certified public accountant (CPA), claims that R accounting firm violated the EPA by offering her a lower starting salary than it offered a male CPA. R proves that it offered a higher salary to the male because he had very favorable job references based on his productivity and successful track record in providing tax advice to clients; he received other job offers at the higher salary; and he relied on those job offers as a bargaining tool for negotiating the higher salary. R began salary discussions with CP with the same opening offer as given to the male, and indicated it was "willing to go higher if necessary." But CP did not bargain as assertively as the male CPA, and ended up with a lower starting salary. There is no evidence that R treated CP any differently than the male in salary negotiations. R has proved that the compensation disparity is based on a factor other than sex, and therefore no EPA violation is found.
+A difference in the relative market value of employees at the time of their hire may not accurately reflect their relative market value in later years. Thus, if an employee has made out a prima facie case under the EPA, the employer's continued reliance on market value to justify the pay disparity should be evaluated to determine whether such reliance is reasonable.
+h. Part-time/Temporary Job Status
+Labor force data show that substantially more women than men perform part-time work.
+(79)
+Women also disproportionately fill temporary jobs.
+(80)
+Thus, payment of disproportionately lower wages and benefits to part-time and temporary workers affects women more than men. For this reason, investigators should scrutinize closely employer assertions of part-time or temporary status as a factor other than sex that explains a compensation disparity. Part-time or temporary status, of course, operates as a defense only if sex was not the reason the employer established the compensation differential and both sexes have an equal opportunity to work under either arrangement (e.g., no evidence of steering).
+Example 43:
+CP does editing and proofreading for a company that publishes newsletters. She works 3 days each week, but is paid less than half the salary of full-timers performing the same job. She also receives no health insurance, while full-timers do receive that benefit. CP claims that the disparity between her compensation and that provided to male full-time employees performing the same job violates the EPA. The investigator discovers that all part-timers are women and no part-timers in recent history have moved into full time status, despite numerous attempts. A violation of the EPA is found. The investigator also finds cause to believe the respondent has violated Title VII, both on pure unequal pay grounds (
+see
+29 C.F.R. 1620.27(a)) and by unlawfully limiting women's access to full time jobs (
+see
+10-III D.).
+Like any "factor other than sex," if the employee can make out a prima facie case, an employer can justify paying part-time or temporary workers disproportionately less than full-time or permanent workers only if it can show that this justification is related to a legitimate business purpose and is used reasonably in light of that purpose. The classifications "part-time" or "temporary" also must be accurate. Thus, if workers designated as "part-time" work substantially the same number of hours as full-timers, or "temporary" workers appear not to be temporary, the investigator should not give credence to the employer's assertion that these designations satisfy the "factor other than sex" defense.
+(81)
+i. Error
+If a compensation disparity is sex-based, the employer cannot defend the disparity on an assertion that it resulted from an erroneous belief that the jobs in question were different, or general assertions of good faith.
+(82)
+However, an employer's proof of good-faith and reasonable grounds to believe it did not violate the EPA may serve as a basis for the employer to avoid an award of liquidated damages. (
+See infra
+10-VI).
+j. Collective Bargaining Agreement
+An employer's assertion that a compensation differential is attributable to a collective bargaining agreement does not constitute a defense under the EPA. If the union contributed to the creation of a compensation differential, the union should be added as a respondent.
+(83)
+10-V INTERACTION OF TITLE VII AND EPA
+The Bennett Amendment to Title VII sought to reconcile Title VII and the EPA in cases of pay discrimination between men and women. The Bennett Amendment is found in 703(h) of Title VII:
+It shall not be an unlawful employment practice under this subchapter for an employer to differentiate upon the basis of sex in determining the amount of the wages or compensation paid or to be paid to employees of such employer if such differentiation is authorized by the provisions of section 206(d) of Title 29 [the EPA].
+The Supreme Court in
+County of Washington v. Gunther
+, 452 U.S. 161 (1981), interpreted the Bennett Amendment not to incorporate the EPA's "equal work" requirement in Title VII sex-based wage claims, but to subject such claims to the EPA's four affirmative defenses: seniority system, merit system, a system based on quality or quantity of production or any other factor other than sex. Title VII's incorporation of the EPA's four affirmative defenses also incorporated the EPA's burden of proof as to each of the EPA defenses, as the employer bears the burden of proof as to the four affirmative defenses under the EPA.
+(84)
+The purpose of the Bennett Amendment was to "resolve any potential conflicts between Title VII and the Equal Pay Act,"
+(85)
+and to clarify that "the standards of the Equal Pay Act would govern even those wage discrimination cases where only Title VII would otherwise apply."
+(86)
+Thus, once the plaintiff makes out a prima facie case of sex-based pay discrimination under Title VII, the employer has the burden of proving one of the four affirmative defenses.
+(87)
+However, compensation discrimination on the basis of sex in violation of Title VII does not necessarily constitute a violation of the EPA. This is because Title VII compensation discrimination claims are not limited to claims of unequal pay for equal work. Compensation discrimination in violation of Title VII can be established even if no member of the opposite class holds an equal, higher paying job. Comparisons can be made under Title VII between the compensation rates of "similarly situated" employees, which is a more relaxed standard than the equal work requirement under the EPA. Furthermore, a Title VII claim can be brought based on an employer's segregating or classifying protected class workers in lower paying jobs and limiting their opportunities to secure higher paying jobs. Finally, compensation discrimination claims under Title VII are not restricted to claims in which comparisons are made between jobs in the same establishment,
+(88)
+although Title VII does not forbid applying different standards of compensation to employees "who work in different locations" as long the difference is not the result of discrimination.
+(89)
+10-VI RELIEF
+If compensation discrimination is found, the investigator should seek appropriate relief. The calculation and formulation of relief can be complicated. ORIP and RAS are available to assist enforcement staff.
+The remedy should include a salary increase and back pay in the amount of the unlawful difference between the wages of the lower and higher paid comparator(s).
+(90)
+It should also include attorneys' fees and costs, and appropriate damages. If the violation involved segregated job categories, the employer cannot correct the violation merely by opening the higher-paid category to all. Instead, the pay of the employees in the lower-paid job category must be raised to an equal level,
+(91)
+and back pay must be provided. Furthermore, the employer cannot equalize an unlawful compensation differential by periodically paying the underpaid employees bonuses. Because systemic compensation discrimination often is a "continuing violation,"
+(92)
+relief for a systemic violation generally is available for all discriminatory actions that occurred in furtherance of the policy or practice (e.g., each paycheck), including those that occurred outside the charge filing period, subject to generally applicable limitations on remedies.
+In addition to back pay and a raise, Title VII and the ADA permit recovery of compensatory damages for intentional discrimination and recovery of punitive damages for discrimination that is intentional and engaged in with malice or reckless indifference to the federally protected rights of an individual. 42 U.S.C. 1981a. The ADEA does not allow for compensatory or punitive damages, but does provide for liquidated damages for willful violations. 29 U.S.C. 626(b). The EPA also provides for liquidated damages, at an amount equal to back pay, unless the respondent proves that it acted in "good faith" and had reasonable grounds to believe that its actions did not violate the EPA. 29 U.S.C. 260.
+Unlike Title VII, the ADEA, and the ADA, an individual alleging a violation of the EPA may go directly to court without filing an EEOC charge beforehand. Moreover, filing a charge does not toll the time frame for going to court. This means the limitations period continues to run even after the charge has been filed, and during the investigation. Thus, investigators should investigate EPA charges expeditiously so the charging party and/or the Commission can file suit with the benefit of a completed investigation, and so that relief for the charging party is not unduly limited.
+Liquidated damages under the EPA are compensatory in nature.
+(93)
+Therefore, in sex-based pay cases under both the EPA and Title VII, a charging party cannot obtain both liquidated damages under the EPA and compensatory damages under Title VII for the same injury because that would amount to a double recovery. Nevertheless, relief should be computed to give each individual the highest benefit which entitlement under either statute would provide.
+See
+29 C.F.R. 1620.27(b). Thus, the charging party may receive the greater of the liquidated damages available under the EPA or compensatory damages available under Title VII. The availability of EPA liquidated damages does not affect the availability of punitive damages under Title VII.
+Injunctive relief also is available. For example, because the EPA is an amendment to the Fair Labor Standards Act (FLSA), the Commission may seek an injunction against any person for violating the FLSA's so-called "hot goods" provision.
+(94)
+The hot goods provision prohibits any person from transporting or selling goods produced in violation of the EPA.
+(95)
+Companies are exempted from the hot goods provision in two circumstances: (1) common carriers transporting in the regular course of their business goods they did not produce; and (2) purchasers who acquired goods without notice of a violation and in good faith reliance on a written assurance from the goods' producer that they were produced in compliance with the EPA.
+(96)
+Thus, if goods were produced in violation of the EPA, the Commission may seek an injunction in federal district court to prevent the respondent, and others not exempt, from transporting or selling the goods in interstate commerce.
+Example 44:
+CP, a female sales representative for a thriving pharmaceutical company, establishes that her annual salary is $5,000 less than a male who performs substantially equal work and is otherwise similarly situated. CP and her comparator had both been receiving 5% annual bonuses. Also, the employer makes a 10% matching contribution into sales representatives' pension plan. The investigation finds that the compensation disparity violates the EPA and Title VII. The investigator concludes that the EPA violation is willful because the respondent ignored CP's complaints about her compensation. The investigator seeks the following remedies: an increase in CP's salary and benefits to the level of her comparator; back pay of $17,250 reflecting the three-year difference in salary, bonuses, and pension contributions ($5,000 salary difference + $250 bonus difference + $500 pension difference, multiplied by three); and liquidated damages of $17,250. CP's total monetary relief, therefore, would equal $34,500.
+Example 45:
+Same as Example 44, except CP demonstrates through documentary and medical evidence that she is entitled to $10,000 in Title VII compensatory damages for emotional harm and medical expenses incurred as a result of complaining about her salary disparity but being ignored. However, because EPA liquidated damages are compensatory in nature, and the liquidated damages are greater than the Title VII damages, the investigator pursues the EPA remedy ($17,250 in EPA liquidated damages rather than the $10,000 in Title VII compensatory damages). Thus, CP would receive total monetary relief of $34,500, the same amount as in Example 44.
+Example 46:
+Same as Example 45, except testimony reveals that CP's manager believed CP's reduced compensation violated Title VII but did not correct it, even in response to CP's numerous complaints. In addition, there was no evidence that the respondent had educated itself or its employees on Title VII's prohibition against compensation discrimination. Punitive damages are appropriate. Given the character of the respondent's discrimination and its good financial condition, punitive damages are assessed at $75,000, which is within the respondent's cap. This is in addition to backpay ($17,250) and liquidated damages ($17,250). CP's total monetary relief would equal $109,500.
+10-VII RETALIATION
+It is unlawful for an employer to retaliate against an employee because he or she opposed compensation discrimination under any of the EEO statutes or participated in complaint proceedings. Although the EPA does not specify that retaliation based on "opposition" is unlawful, employees are protected against retaliation for making either formal or informal complaints about unequal compensation.
+(97)
+Compensatory and punitive damages are available for retaliation claims brought under the EPA and the ADEA, as well as under Title VII and the ADA. Compensatory and punitive damages for retaliation obtained under the EPA and the ADEA are not subject to statutory caps because the EPA and ADEA borrow their remedies provision for retaliation from the Fair Labor Standards Act, which contains no provision capping compensatory or punitive damages for retaliation.
+1.
+See
+Bureau of Labor Statistics, Department of Labor,
+Usual Weekly Earnings Summary,Table 1
+(July 2000).
+2.
+Id.
+3.
+Id.
+4.
+See
+Lita Jans and Susan Stoddard,
+Chartbook on Women and Disability
+, U.S. Department of Education 23 (1999).
+5. President's Council of Economic Advisers,
+Explaining Trends in the Gender Wage Gap
+(June 1998).
+6. President's Council of Economic Advisers,
+Opportunities and Gender Pay Equity in New Economy Occupations
+(May 2000).
+7. Deborah Anderson and David Shapiro,
+Racial Differences in Access to High-Paying Jobs and the Wage Gap Between Black and White Women
+, 49 Industrial and Labor Relations Review 273, 278-79 (Jan. 1996). There is evidence, as well, that women of color encounter practices that indirectly affect compensation -- collectively known as the "glass ceiling" -- at a higher rate than their white counterparts: "[A]lthough women of color make up 23% of the U.S. women's workforce, they account for only 14% of women in managerial roles. African-American women comprise only 6% of the women in managerial roles." Debra E. Meyerson and Joyce K. Fletcher,
+A Modest Manifesto for Shattering the Glass Ceiling
+, Harvard Business Review 136 n.1 (Jan.-Feb. 2000).
+8. This Manual Section also applies to federal sector complaints.
+9. The Commission's Guidelines on the Equal Pay Act, at 29 C.F.R. Part 1620, remain in force.
+10. 42 U.S.C. 2000e-2(a)(1) (Title VII); 29 U.S.C. 623 (a)(1) (ADEA); and 42 U.S.C. 12112(a) (ADA).
+11. 29 U.S.C. 206(d)(1).
+12. 29 C.F.R. 1620.27(a). For further discussion of the interaction between Title VII and the EPA, see 10-V of this Manual Section.
+13. "Compensation" has the same meaning as "wages" under the EPA. The terms include (but are not limited to) payments whether paid periodically or at a later date, and whether called wages, salary, overtime pay; bonuses; vacation and holiday pay; cleaning or gasoline allowances; hotel accommodations; use of company car; medical, hospital, accident, life insurance; retirement benefits; stock options, profit sharing, or bonus plans; reimbursement for travel expenses, expense account, benefits, or some other name. Specific issues related to discrimination in life and health insurance benefits, long-term and short-term disability benefits, severance benefits, pension or other retirement benefits, and early retirement incentives are covered in the Manual Section on
+Employee Benefits
+(available at www.eeoc.gov).
+14.
+See, e.g., County of Washington v. Gunther
+, 452 U.S. 161, 180-81 (1981).
+15.
+See, e.g., Bazemore v. Friday
+, 478 U.S. 385, 395-96 (1986).
+16. If there is an explicit policy or other direct evidence of compensation discrimination, cause should be found. Such evidence might include, for example, discriminatory statements by officials of the respondent, combined with evidence of pay disparities, or documentation that the respondent's pay practices are applied differently to those inside and outside the protected class.
+17. Investigators generally should contact ORIP with questions during an investigation. However, RAS also is an available resource for investigators. EEOC attorneys generally should seek litigation support from RAS.
+18. While most of these factors overlap with those statutorily prescribed under the Equal Pay Act (
+seeinfra
+10-IV E.2), job "similarity" for purposes of Title VII, the ADEA, and the ADA is a more relaxed standard than under the EPA because the EPA only permits comparisons of employees in "substantially equal" jobs.
+See
+,
+e.g
+.,
+Crockwell v. Blackmon-Mooring Steamatic, Inc
+., 627 F. Supp. 800, 806 (W.D. Tenn. 1985) ("Although the work performed by household cleaners and cleaning technicians was not 'substantially equal' within the meaning of the Equal Pay Act, [for Title VII purposes] cleaning technicians were situated similarly to plaintiff. The jobs had many similarities and included similar requirements of effort and responsibility."). Enforcement staff should contact their legal units on this issue, as there is disagreement in the courts on whether the EPA's strict equal work requirement applies in sex-based pay cases under Title VII where there is no direct evidence of discrimination.
+See Miranda v. B&B Cash Grocery Store, Inc
+., 975 F.2d 1518, 1530 (11th Cir. 1998) (citing cases).
+19.
+See Coward v. ADT Sec. Sys., Inc
+., 140 F.3d 271, 275 (D.C. Cir. 1998) (job titles not determinative).
+20.
+See
+Gibbons v. Auburn Univ. at Montgomery
+, 108 F. Supp. 2d 1311,1318 (M.D. Ala. 2000) (holding black university faculty member and white comparator who worked in different schools within university still were similarly situated for Title VII purposes -- university "failed to explain why a difference in the schools where the faculty members worked, or in the academic merit of the programs that they administered, is 'relevant' to an evaluation of their relative salaries" -- but granting summary judgment for university on procedural grounds).
+21.
+See Anderson v. Zubieta,
+180 F.3d 329, 341-42 (D.C. Cir. 1999) (minimum objective qualifications are relevant to whether employees are similarly situated).
+22.
+Id.
+at 341 (where the employer had certain eligibility criteria for a pay differential, the court held that the employer could not use those same eligibility criteria as the basis for arguing that black plaintiffs who challenged the pay differential were not similarly situated to white employees: "To adopt such a position would be to assume the very thing the
+McDonnell Douglas
+test is aimed at ferreting out -- namely, that a facially-neutral factor is indeed a pretext.").
+23. The charge of course may allege that the employer has engaged in systemic compensation discrimination. But a charge that alleges discrimination only against the charging party also may trigger a systemic investigation, because an individual charge of compensation discrimination can be indicative of a broader problem. EEOC has broad investigatory powers.
+See
+42 U.S.C. 2000e-8(a) (EEOC investigation must be relevant to the charge under investigation);
+EEOC v. Shell Oil Co.
+, 466 U.S. 54, 68 (1984) ("courts have generously construed the term 'relevant'"). The Commission also may investigate a company's compensation practices on its own initiative, through the filing of a Commissioner's charge under Title VII or the ADA, or a "directed investigation" under the EPA or ADEA.
+See
+29 C.F.R. 1601.11 (Title VII and ADA); 29 C.F.R. 1620.30 (EPA); 29 C.F.R. 1626.15 (ADEA).
+24. See 10-III A.3., explaining an approach to using statistics.
+25. Any difference is sufficient to support a charge and subsequent investigation. As a practical matter, however, enforcement staff should exercise reasonable discretion in deciding how to allocate resources to individual investigations.
+26. Barbara Lindemann & Paul Grossman, Employment Discrimination Law 19 (3d ed. 1996).
+27. Note that, unlike other Title VII cases, in sex-based compensation cases the employer bears the burden of proving one of four affirmative defenses. For a discussion of the interaction between Title VII and the EPA in sex-based pay cases, see 10-V and footnote 87. While burdens of proof typically are insignificant during the investigative phase, they can be important in litigation.
+28.
+E.g
+.,
+Connecticut v. Teal
+, 457 U.S. 440, 455 (1982) ("Congress never intended to give an employer license to discriminate against some [members of a protected class] merely because he favorably treats other members of the employees' group.").
+29.
+See
+10-IV F.2.e., discussing the concept of red-circling.
+30.
+See Bazemore
+, 478 U.S. at 398 (quoting
+Teamsters v. United States
+, 431 U.S. 324, 336 (1977)). A cause finding of systemic discrimination rarely should be based on statistics alone. Where possible, evidence of individual instances of discrimination should be used to bring the "cold numbers convincingly to life."
+Teamsters
+, 431 U.S. at 339, 340 (also stating that the usefulness of statistics "depends on all of the surrounding facts and circumstances").
+See also
+Bazemore
+, 478 U.S. at 400 (stating that the probative value of statistics will "depend in a given case on the factual context of each case in light of all the evidence").
+31.
+See, e.g., McDonnell Douglas Corp. v. Green.
+, 411 U.S. 792, 804-05 (1973) (statistics as to employer's general policy or practice are relevant to whether employer's asserted reason for an individual employment decision is a pretext for discrimination).
+32. While not intending to suggest that "precise calculations of statistical significance are necessary in employing statistical proof," the Supreme Court has stated that "a fluctuation of more than two or three standard deviations would undercut the hypothesis that decisions were being made randomly with respect to [a protected trait]."
+Hazelwood
+Sch. Dist. v. United States
+, 433 U.S. 299, 311 n.17 (1977).
+33.
+Griggs v. Duke Power Co.
+, 401 U.S. 424, 431 (1971).
+34. Enforcement staff should be aware that questions have been raised regarding the availability of disparate impact theory in sex-based compensation discrimination cases. The Supreme Court, in
+County of Washington v. Gunther
+, 452 U.S. 161, 170 (1981), noted in
+dicta
+that Title VII's incorporation of the EPA's "any other factor other than sex" defense by virtue of the Bennett Amendment "could have significant consequences" for Title VII litigation of sex-based compensation cases under the disparate impact theory. Some courts have concluded from this language that the disparate impact method of proof is not available in such cases.
+See
+,
+e.g.
+,
+Mullin v. Raytheon Co.
+, 164 F.3d 696, 702 (1st Cir.) (reading
+Gunther
+as precluding disparate impact in EPA and sex-based Title VII equal pay cases, and applying same reasoning to ADEA),
+cert. denied
+, 120 S. Ct. 44 (1999). The Commission, however, believes the
+Gunther
+Court's comment on this issue raises more questions than it answers. After
+Gunther
+, in fact, at least two courts appear to have recognized the disparate impact theory as viable in sex-based Title VII compensation cases.
+See Aldrich v. Randolph Cent. Sch. Dist.
+, 963 F.2d 520, 528 (2d Cir.),
+cert. denied
+, 506 U.S. 965 (1992);
+EEOC v. J.C. Penney Co.,
+843 F.2d 249, 252 (6th Cir. 1988). The Commission's view is that the disparate impact method of proof is available for sex-based compensation discrimination under Title VII.
+Enforcement staff also should be aware that three courts of appeals have ruled that the disparate-impact theory is not available under the ADEA.
+See Mullin v. Raytheon Co.
+, 164 F.3d 696, 699-704 (1st Cir. 1999);
+Blackwell v. Cole Taylor Bank
+, 152 F.3d 666, 672 (7th Cir. 1998);
+Ellis v. United Airlines, Inc
+., 73 F.3d 999, 1006-10 (10th Cir. 1996). In the other circuits, disparate impact claims can still be pursued under the ADEA.
+35. 42 U.S.C. 2000e-2(k)(1)(B)(i).
+36.
+See
+42 U.S.C. 2000e-2(k)(1)(A)(i).
+37. Depending on the facts of the case, such practices may fall under either or both of sections 703(a)(1) and 703(a)(2) of Title VII, or counterpart provisions in the ADEA and ADA.
+See
+42 U.S.C. 2000e-2(a)(1) & (a)(2) (Title VII); 29 U.S.C. 623(a)(1) & (a)(2) (ADEA); 42 U.S.C. 12112(a) & (b)(1) (ADA).
+38.
+See
+supra
+note 23 (EEOC's broad investigatory authority).
+39. Generally, each discriminatory paycheck received by the charging party is a separate violation.
+See Bazemore
+, 478 U.S. at 395-96.
+See
+Section 2:
+Threshold Issues
+, EEOC Compliance Manual, Volume II (BNA) (2000) (available at www.eeoc.gov).
+40. 29 C.F.R. 1620.10.
+41.
+See, e.g., Bence v. Detroit Health Corp.
+, 712 F.2d 1024, 1027 (6th Cir. 1983) (compensation disparity found where employer paid higher commission rate to males than females, even though total remuneration was substantially equal).
+42. 29 C.F.R. 1620.9.
+43. Such a comparison might, however, be appropriate under Title VII, the ADEA, and the ADA.
+See supra
+10-III.
+44.
+See, e.g., Mulhall v. Advance Sec., Inc.
+, 19 F.3d 586, 592-93 (11th Cir.) (plaintiff, who worked for a security services company, and her comparators, who worked at military facilities pursuant to the security company's contracts, were employed at the same "establishment" because of centralized control and the functional interrelationship between the plaintiff and the comparators),
+cert. denied
+, 513 U.S. 919 (1994);
+Brennan v. Goose Creek Consol. Indep. Sch. Dist.
+, 519 F.2d 53, 58 (5th Cir. 1975) (school district was one "establishment").
+45.
+See, e.g., EEOC v. Maricopa County Community College Dist.
+, 736 F.2d 510, 515 (9th Cir. 1984) (existence of female in the higher paid classification does not defeat female plaintiff's prima facie showing of compensation disparity).
+46.
+See
+infra
+10-IV F.2.
+47. While no EPA violation could be established, the long-standing presence of only one sex in a job category may indicate sex discrimination in violation of Title VII.
+48.
+See
+infra
+10-IV F.2.a (explaining how differences in the comparators' education, experience, training, and ability may be a "factor other than sex" justifying a compensation disparity);
+infra
+10-IV F.1 (explaining how differences in the work efficiency of comparators may support a defense that a compensation disparity is based on a merit or incentive system).
+49.
+See, e.g., Katz v. School Dist. of Clayton, Mo.
+, 557 F.2d 153, 156-57 (8th Cir. 1977) (teacher's aide performed duties of teacher and therefore job was substantially equal to that of teacher).
+50.
+See, e.g., Strag v. Board of Trustees
+, 55 F.3d 943, 950 (4th Cir. 1995) (professorship in Mathematics department of university was not substantially equal to professorship in Biology department because of difference in skills and responsibilities required by the departments).
+51.
+See, e.g., Stanley v. University of S. Cal.
+, 178 F.3d 1069, 1074 (9th Cir.) (EPA requires two-step analysis: first, the jobs must have a common core of tasks; second, court must determine whether any additional tasks incumbent on one of the jobs make the two jobssubstantially different),
+cert. denied
+, 120 S. Ct. 533 (1999);
+Stopka v. Alliance of Am. Insurers
+, 141 F.3d 681, 685 (7th Cir. 1998) (critical issue in determining whether two jobs are equal under the EPA is whether the two jobs involve a "common core of tasks" or whether "a significant portion of the two jobs is identical");
+Brewster v. Barnes
+, 788 F.2d 985, 991 (4th Cir. 1986) (same).
+52. A Title VII violation can be found even without a finding of "substantially equal work" under the EPA.
+53.
+See, e.g., EEOC v. Central Kansas Med. Ctr.
+, 705 F.2d 1270, 1272-73 (10th Cir. 1983) (janitors and housekeepers performed equal work; any extra work performed by the janitors was insubstantial or was balanced by additional responsibilities performed by housekeepers),
+overruled on other grounds by
+McLaughlin v. Richland Shoe Co.
+, 486 U.S. 128 (1988);
+Corning Glass Works v. Brennan
+, 417 U.S. 188, 203 n.24 (1974) (noting that Court of Appeals concluded that extra packing, lifting, and cleaning performed by night inspectors was of so little consequence that the job remained substantially equal to those of day inspectors);
+Goodrich v. International Bhd. of Elec. Workers
+, 815 F.2d 1519, 1525 (D.C. Cir. 1987) (job of female union employee was not substantially equal to that of males who did the same work because males had additional duties which, though consuming little time, were essential to the operation and mission of the union);
+Brock v. Georgia Southwestern College
+, 765 F.2d 1026, 1034 (11th Cir. 1985) (two college teachers' jobs could be compared under EPA even though one served as Coordinator of Business Education Division because any additional duties he performed were ephemeral and took up insignificant amount of time),
+overruled on other grounds by
+McLaughlin v. Richland Shoe Co.
+, 486 U.S. 128 (1988) (adopting definition of "willful" violation announced in
+Trans World Airlines, Inc. v. Thurston
+, 469 U.S. 111 (1985)).
+54.
+See, e.g., Brock
+, 765 F.2d at 1033 (skill required to teach two different courses in the Business Administration Division of college was substantially equal, given commonality of discipline and substantial equality of course loads and student loads).
+55.
+See, e.g., Mulhall
+, 19 F.3d at 594 (fact that comparator had accounting degree and plaintiff did not was irrelevant to consideration of whether their jobs required equal skill since the job did not require an accounting degree),
+cert. denied
+, 513 U.S. 919 (1994);
+Soto v. Adams Elevator Equip. Co.
+, 941 F.2d 543, 549-50 (7th Cir. 1991) (female buyer's job equal to that of male even though he had prior purchasing experience and a college degree).
+56.
+Stopka
+, 141 F.3d at 686.
+57. Regarding glass ceilings, steering, and other discriminatory practices affecting compensation, see 10-III D.
+58.
+See, e.g., Krenik v. County of LeSueur
+, 47 F.3d 953, 961 (8th Cir. 1995) (maintenance engineer and assistant jobs were not equal even though both jobs involved same type of maintenance work, because maintenance engineer supervised the assistant and served as department head);
+Fallon v. State of Ill.
+, 882 F.2d 1206, 1209 (7th Cir. 1989) (comparators' added responsibility to make sure field office would open and close on time when they were absent due to travel was not substantial enough to render jobs unequal).
+59.
+Corning Glass
+, 417 U.S. at 202-03. However, the times when the jobs are performed may be a factor other than sex justifying a compensation differential.
+See infra
+10-IV F.2.c.
+60.
+See, e.g., Fallon
+, 882 F.2d at 1209 (jobs of Veterans Service Officer and Veterans Service Officer Associate were substantially equal even though Veterans Service Officers did itinerant work; the mere fact that some travel was required did not override conclusion that the work was substantially the same).
+61.
+See, e.g., Willner v. University of Kan.
+, 848 F.2d 1023, 1031 (10th Cir. 1988) (merit system justified compensation disparity where system was explained to professors and the professors were judged on the basis of quality of their instruction, their research, and service),
+cert. denied
+, 488 U.S. 1031 (1989).
+62.
+See, e.g., Brock
+, 765 F.2d at 1036 (alleged merit system did not justify compensation disparity where it operated in informal and unsystematic manner; no teachers were aware of any system and evaluations were carried out by Dean and division heads on ad hoc subjective basis; salary and raise decisions were based on "personal, and in many cases, ill-informed judgments of what an individual or his or her expertise was worth").
+63. For a discussion of potential defenses based on a factor other than sex in the context of sports coach jobs in educational institutions, see
+Enforcement Guidance on Sex Discrimination in the Compensation of Sports Coaches in Educational Institutions
+(1997) (available at www.eeoc.gov).
+64.
+See Corning Glass
+, 417 U.S. at 204 (shift differential not a factor other than sex because higher rate for night shift arose "simply because men would not work at the low rates paid women inspectors, and it reflected a job market in which Corning could pay women less than men for the same work");
+Brewster
+, 788 F.2d at 992 (employer claimed as factor other than sex a job requirement that employees could only be paid salary of correctional officer if they spent over 50 percent of their time performing correctional officer duties; defense rejected because employer never attempted to determine whether plaintiff met the requirement despite numerous requests that it do so).
+65. Congress enacted the EPA with business principles in mind. In
+Corning Glass
+, the Court observed that earlier versions of the Equal Pay bill were amended to define equal work and to add the fourth affirmative defense because of a concern that bona fide job-evaluation systems used by American businesses would otherwise be disrupted.
+See Corning Glass
+, 417 U.S. at 198-201. The factor-other-than-sex defense is most reasonably read in this light.
+See Aldrich
+, 963 F.2d at 525. As one court stated, "[t]he Equal Pay Act concerns business practices. It would be nonsensical to sanction the use of a factor that rests on some consideration unrelated to business. An employer thus cannot use a factor that causes a wage differential between male and female employees absent an acceptable business reason."
+Kouba v. Allstate Ins. Co.
+, 691 F.2d 873, 876 (9th Cir.1982).
+There is disagreement in the courts with regard to whether a factor other than sex must be based on the requirements of the job or otherwise beneficial to the business. The Commission agrees with the courts in the Second, Sixth, Ninth, and Eleventh Circuits that such a basis must be shown.
+See Aldrich
+, 963 F.2d at 525;
+J.C. Penney,
+843 F.2d at 253;
+Kouba
+, 691 F.2d at 876;
+Glenn v. General Motors Corp.
+, 841 F.2d 1567, 1571 (11th Cir. 1988). In other circuits, enforcement staff should contact their legal units on this issue.
+See Fallonv.
+State of Ill.
+, 882 F.2d 1206, 1211 (7th Cir. 1989) (business-related reason need not be shown).
+66.
+Kouba
+, 691 F.2d at 876-77 ("Even with a business-related standard, an employer might assert some business reason as a pretext for a discriminatory objective. . . . [But] [t]he Equal Pay Act entrusts employers, not judges with making the often uncertain decision of how to accomplish business objectives. . . . A pragmatic standard [for judicial inquiry], which protects against abuse yet accommodates employer discretion, is that the employer must use the factor reasonably in light of the employer's stated purpose as well as its other practices.").
+67.
+See, e.g., Tomka v. Seiler Corp.,
+, 66 F.3d 1295, 1312 (2d Cir. 1995) (employer who claims that experience justifies higher salary for male employee must prove both that it based the higher salary on this factor and that experience is a job-related qualification for the position in question);
+EEOC v. First Citizens
+, 758 F.2d 397, 401 (9th Cir.) (greater experience of male comparator did not justify pay disparity where the main qualities necessary for the job were speed and accuracy, not experience; greater education of another comparator also did not justify pay disparity where that qualification was only marginally related to the job),
+cert. denied
+, 474 U.S. 902 (1985).
+68.
+See EEOC v. White and Son Enters.
+, 881 F.2d 1006, 1010 (11th Cir. 1989) (male employees' prior experience did not justify their higher compensation where defendant did not know what prior experience its employees possessed when they began employment). Consistency can be determined using the same method as set out in 10-III A.2,
+supra
+.
+69.
+See Kouba
+, 691 F.2d at 878 (one consideration in determining reasonableness of relying on prior salary to justify a pay differential was "whether the employer attributes less significance to prior salary once the employee has proven himself or herself on the job");
+Jones v. Westside Urban Health Ctr., Inc
+., 760 F. Supp. 1575, 1580 (S.D. Ga. 1991) ("Presumably, defendants initially hired [the female comparator] at a higher rate of pay because, in their informed judgment, they assumed that experience and education would make her perform at a higher level than [the male plaintiff,] a less-educated novice. Defendants have offered no explanation for clinging to a salary discrepancy when their underlying assumption has been proved, as plaintiff alleges, grossly incorrect.").
+70.
+See, e.g., First Citizens
+, 758 F.2d at 400.
+71.
+See, e.g., Lindale v. Tokheim Corp.
+, 145 F.3d 953, 958 (7th Cir. 1998) (stating that "[s]ince there is no proof that the Equal Pay Act was violated when [the female plaintiff] was hired at a lower salary than her [male comparator], the question becomes whether the disparity ripened into a violation when she failed to catch up to her [male comparator's] salary," and answering the question "no" in this case because the disparity was based on the employer's nondiscriminatory job classification system that reflected legitimate factors such as seniority, credentials and competition in the labor market);
+Aldrich
+, 963 F.2d at 525 (job classification system does not justify compensation disparity unless it is rooted in legitimate business-related differences in work responsibilities and qualifications for the particular positions at issue).
+72.
+See Maricopa
+, 736 F.2d at 515 (plaintiff who had been performing work beyond her job classification so that her job had effectively become substantially equal to that of male employees was entitled to same compensation as males; where employee takes on responsibilities beyond those in job description, employer has duty to determine if reclassification of employee's job is warranted).
+73. "Red circling" only justifies a compensation disparity where an existing employee's higher compensation is
+maintained
+for a valid business reason. It does not justify higher payment to a new employee.
+See Mulhall
+, 19 F.3d at 596 ("red circling" did not apply to situation where new employees who were formerly owners or principals in businesses purchased by the defendant were hired at salaries that were set as part of the negotiated sale of the businesses).
+74.
+See, e.g., Byrd v. Ronayne
+, 61 F.3d 1026, 1034 (1st Cir. 1995) (higher compensation for male attorney justified because he generated substantially greater revenue for law firm).
+75.
+Corning Glass
+, 417 U.S. at 205.
+76.
+Brock
+, 765 F.2d at 1037.
+77.
+Irby v. Bittick
+, 44 F.3d 949, 955 (11th Cir. 1995).
+See also Glenn v. General Motors Corp
+., 841 F.2d 1567, 1571 (11th Cir. 1988) (prior salary alone cannot justify a pay disparity);
+Faust v. Hilton Hotels Corp.
+, 1990 WL 120615, at *5 (E.D. La. 1990) (reliance on prior salary as a factor other than sex would "allow employer to pay one employee more than an employee of the opposite sex because that employer or a previous employer discriminated against the lower paid employee").
+78.
+See Irby,
+44 F.3d at 955 (prior salary alone cannot justify pay disparity under EPA, but there is no prohibition on utilizing prior pay as one of a mixture of motives, such as prior pay and more experience);
+Kouba
+, 691 F.2d at 878 ("[R]elevant considerations in evaluating reasonableness [of considering prior salary in setting pay] include (1) whether employer also uses other available predictors of the new employee's performance, (2) whether the employer attributes less significance to prior salary once the employee has proven himself or herself on the job, and (3) whether the employer relies more heavily on salary when the prior job resembles [the new job].").
+79.
+See, e.g.,
+"Highlights of Women's Earnings in 1998," Bureau of Labor Statistics Report 928 (April 1999) (14,361,000 women and 6,501,000 men performed part-time jobs in 1998).
+80. "Contingent and Alternative Employment Arrangements," Bureau of Labor Statistics, U.S. Dept. of Labor (February 1997).
+81. The Commission has stated that employment for longer than one month will raise questions as to whether a job is temporary.
+See
+29 C.F.R. 1620.26(b). Moreover, even if the respondent is a client of a staffing firm for whom the temporary employee works, the respondent shares in the staffing firm's obligation not to discriminate in compensation. However, if the EEOC determines that the respondent client had no involvement in or control over the wages paid to the worker, it may decline to pursue relief against the client.
+See Enforcement Guidance: Application of EEO Laws to Contingent Workers Placed by Temporary Employment Agencies and Other Staffing Firms
+, Question 10 & n.40, N:2219-21 (BNA) (1997) (available at www.eeoc.gov).
+Cf. Vizcaino v. Microsoft Corp.
+, 120 F.3d 1006 (9th Cir. 1997) (workers labeled by company as independent contractors and employees of temporary agencies really were common-law employees of company, and thus entitled to participate in company's savings and stock purchase plans under the terms of the plans),
+cert. denied
+, 522 U.S. 1098 (1998).
+82.
+Laffey v. Northwest Airlines, Inc.
+, 740 F.2d 1071, 1078 (D.C. Cir. 1984) (where higher-paid purser jobs were reserved for men, and lower-paid stewardess jobs were reserved for women, the employer's actual but erroneous belief that the two jobs were different did not shelter employer from liability under EPA; to allow such a defense contradicts congressional direction which gives courts discretion only to limit, not to eliminate, damages when an employer in "good faith" believed his conduct conformed to legal requirements),
+cert. denied
+, 472 U.S. 1021 (1985).
+Cf. Albemarle Paper Co. v. Moody
+, 422 U.S. 405, 422-23 & n.17 (absence of bad faith "not a sufficient reason for denying backpay" for proven Title VII violation);
+United States v. Gregory
+, 871 F.2d 1239, 1247 n.30 (4th Cir. 1989) (citing
+Albemarle
+and holding same: "The district court erred in relying on the Sheriff's good faith when it realized that the evidence manifestly showed that the Sheriff had no legitimate reason for not hiring [the discriminatee]".),
+cert. denied
+, 493 U.S. 1020 (1987).
+83. The EPA specifically provides that no labor organization "shall cause or attempt to cause" a covered employer to violate the statute. 29 U.S.C. 206(d)(2).
+84.
+Corning Glass
+, 417 U.S. at 196-97.
+85.
+Gunther
+, 452 U.S. at 170.
+86.
+Id.
+at 175.
+87. Enforcement staff should be aware that there is disagreement in the courts on this issue. The Fourth, Fifth, Seventh, Tenth, and Eleventh Circuits apply different burdens in EPA claims than in sex-based wage discrimination claims under Title VII.
+See
+Brewster v. Barnes
+, 788 F.2d 895, 992 (4th Cir. 1986);
+Plemer v. Parsons-Gilbane
+, 713 F.2d 1127, 1136 (5th Cir. 1983);
+Fallon v. State of Ill.
+, 882 F.2d 1206, 1215-18 (7th Cir. 1989);
+Tidwell v. Fort Howard Corp.
+, 989 F.2d 406, 410 (10th Cir. 1993);
+Meeks v. Computer Assocs. Int'l
+, 15 F.3d 1013 (11th Cir. 1994). Enforcement staff in these jurisdictions should contact their legal units on this issue. For the reasons stated in the text, the Commission believes these cases were wrongly decided on this point.
+See
+Kouba
+, 691 F.2d at 875 (EPA burdens apply in sex-based pay cases under Title VII). The Commission's interpretation also is consistent with its longstanding position that any violation of the EPA constitutes a Title VII violation.
+See
+29 C.F.R. 1620.27(a).
+88.
+See, e.g.
+,
+Bartelt v. Berlitz Sch. of Languages of Am., Inc.
+, 698 F.2d 1003 (9th Cir.) (female director of a language school who brought Title VII sex-based compensation discrimination claim could rely on evidence that defendant paid higher wages to male directors of other language schools which were operated by the defendant but were not part of the same "establishment"),
+cert. denied
+, 464 U.S. 915 (1983). For a discussion of the restriction under the EPA to compensation comparisons in the same "establishment," see 10-IV D.
+89.
+See
+42 U.S.C. 2000e-2(h);
+Russell v. American Tobacco Co.
+, 528 F.3d 357, 362-63 (4th Cir. 1975) (holding that most important criterion for determining "different locations" within the meaning of Title VII is whether separate facilities draw from the same labor market, though not intending to define the term for every situation),
+cert. denied
+, 435 U.S. 935 (1976).
+90. Under Title VII and the ADA, a charging party may recover back pay for two years prior to the filing of the charge. 42 U.S.C. 2000e-5(g)(1). Back pay under the EPA dates back to two years prior the date conciliation is reached or suit is filed. In cases of willful violations, the back pay period is three years. It is the Commission's position that the ADEA contains no back pay limitation period.
+91. The EPA explicitly prohibits lowering the pay of any employee to correct a discriminatory pay differential.
+See
+29 U.S.C. 206(d)(1). Title VII, the ADEA, and the ADA do not contain an analogous provision.
+92.
+Bazemore
+, 478 U.S. at 395-96.
+See
+Section 2:
+Threshold Issues
+, EEOC Compliance Manual, Volume II (BNA) (2000) (available at www.eeoc.gov).
+93.
+See Laffey
+, 740 F.2d at 1096.
+Cf. Brooklyn Sav. Bank v. O'Neil
+, 324 U.S. 697 (1946).
+94. 29 U.S.C. 217.
+95. 29 U.S.C. 215(a)(1) (making it unlawful "to transport, offer for transportation, ship, deliver, or sell in commerce, or to ship, deliver, or sell with knowledge that shipment or delivery or sale thereof in commerce is intended, any goods in the production of which any employee was employed in violation of section 206 . . . of this title").
+96.
+Id.
+97.
+See, e.g., EEOC v. Romeo Community Sch.
+, 976 F.2d 985, 989-90 (6th Cir. 1992);
+White & Son Enters
+, 881 F.2d at 1011;
+Love v. Re/Max of America
+, 738 F.2d 383, 387 (10th Cir. 1984)
+.Contra Lambert v. Genessee Hosp.
+, 10 F.3d 46, 55 (2d Cir. 1993),
+cert. denied
+, 511 U.S. 1052 (1994).
+See
+Section 8:
+Retaliation
+, EEOC Compliance Manual, Volume II (BNA) (1998) (available at www.eeoc.gov).
+Return to top
+U.S. Equal Employment Opportunity Commission
+EEOC Headquarters
+131 M Street, NE
+Washington, DC 20507
+1-800-669-6820
+(TTY)
+1-844-234-5122
+(ASL Video Phone)
+Questions?
+Call 1-800-669-4000
+For Deaf/Hard of Hearing callers:
+1-800-669-6820
+(TTY)
+1-844-234-5122
+(ASL Video Phone)
+info@eeoc.gov
+Find your nearest EEOC office
+Connect With Us
+FOIA
+Privacy Policy
+Disclaimer
+Accessibility
+Office of Inspector General
+USA.gov

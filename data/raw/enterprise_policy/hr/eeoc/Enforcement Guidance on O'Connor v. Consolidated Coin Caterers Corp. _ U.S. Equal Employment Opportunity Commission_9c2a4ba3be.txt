@@ -1,0 +1,524 @@
+Enforcement Guidance on O'Connor v. Consolidated Coin Caterers Corp. | U.S. Equal Employment Opportunity Commission
+Skip to main content
+An official website of the United States government
+Here’s how you know
+Here’s how you know
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive
+information only on official, secure websites.
+U.S. Equal Employment Opportunity Commission
+Menu
+Header Navigation
+Online Filing
+Public Portal
+Attorney E-file
+Locations
+Operating Status
+Languages
+English
+Español (Spanish)
+Resources in Other Languages
+عربي (Arabic)
+简体中文 (Chinese, Simplified)
+繁體中文 - Chinese (Traditional)
+Kreyòl Ayisyen (Haitian Creole)
+한국어 (Korean)
+Русском (Russian)
+Português (Portuguese)
+Tagalog (Tagalog)
+ไทย (Thai)
+Tiếng Việt (Vietnamese)
+فارسی (Persian. Farsi)
+پښتو (Pashto)
+Toggle Search Form
+Any of these words
+(optional)
+Search
+About EEOC
+About EEOC
+Overview
+The Commission and The General Counsel
+Meetings of the Commission
+Commission Votes
+EEOC History
+News and Information
+Newsroom
+What You Should Know
+Legislative Affairs
+Publications
+Outreach and Education
+FOIA
+Laws and Enforcement
+EEOC Legal Resources
+Mediation
+Litigation
+Systemic Enforcement
+Commissioner Charges
+Directed Investigations
+Programs and Performance
+Budget and Performance
+Initiatives
+Interagency Programs
+State and Local Programs
+Task Forces
+Tribal Programs
+Data and Analytics
+Overview
+Data Governance
+EEO Data Collections
+Data and Statistics
+Data Tools and Products
+No FEAR Act Data
+Inside EEOC
+Careers
+Office for Civil Rights
+Doing Business with EEOC
+AI Governance
+Privacy
+Office of Inspector General
+Employees & Job Applicants
+Employees & Applicants
+Overview
+Coverage
+Timeliness
+Prohibited Practices
+Filing a Charge of Discrimination
+Filing a Charge
+How to File
+After You File a Charge
+Confidentiality
+Mediation
+Remedies
+Existing Charges
+Filing a Lawsuit
+Discrimination by Type
+Age
+Disability
+Equal Pay
+Genetic Information
+Harassment
+National Origin Discrimination
+Pregnancy Discrimination
+Race/Color Discrimination
+Religious Discrimination
+Retaliation
+Sex
+Sexual Harassment
+Employers / Small Business
+Employers / Small Business
+Overview
+Coverage
+After a Charge is Filed
+Resolving a Charge
+Commissioner Charges
+Directed Investigations
+Remedies
+Small Business Resource Center
+Small Business Home
+Small Business Requirements
+Frequently Asked Questions
+Tips for Small Businesses
+Making an Employment Decision?
+EEOC Resources
+Small Business Assistance
+Small Business Fact Sheet
+Small Business Videos
+EEOC Glossary
+Contact Us
+Discrimination by Type
+Age
+Disability
+Equal Pay
+Genetic Information
+Harassment
+National Origin
+Pregnancy
+Race/Color
+Religion
+Retaliation
+Sex
+Sexual Harassment
+Prohibited Practices
+Recordkeeping
+EEO Data Collections
+"Know Your Rights" Poster
+Training
+Other Employment Issues
+Federal Sector
+Federal Agencies
+Overview
+Federal EEO Coordination
+Federal Agency EEO Directors
+EEOC Legal Resources
+Management Directives & Federal Sector Guidance
+Federal Training & Outreach
+Resources
+Federal Employees & Job Applicants
+Overview
+Federal Complaint Process
+Federal Sector Alternative Dispute Resolution
+Prohibited Practices
+Resources
+Contact Us
+Contact EEOC
+Find Your Nearest Office
+Office Operating Status
+How to File a Charge
+Public Portal
+Home
+Laws
+guidance
+Enforcement Guidance on O'Connor v. Consolidated Coin Caterers Corp.
+Enforcement Guidance on O'Connor v. Consolidated Coin Caterers Corp.
+Issuing Authority
+This guidance document was issued upon approval by vote of the U.S. Equal Employment Opportunity Commission.
+OLC Control Number
+EEOC-CVG-1996-4
+Concise Display Name
+Enforcement Guidance on O'Connor v. Consolidated Coin Caterers Corp.
+Issue Date
+09-18-1996
+General Topics
+Age
+Summary
+This document addresses the impact on EEOC enforcement of the Supreme Court's ADEA decision in O'Connor v. Consolidated Coin Caterers Corp. (1996), holding that a prima facie showing of age discrimination in discharge does not require the plaintiff's re
+Citation
+ADEA
+Document Applicant
+Employers, Employees, Applicants, Attorneys and Practitioners, EEOC Staff
+Previous Revision
+No
+Disclaimer
+The contents of this document do not have the force and effect of law and are not meant to bind the public in any way. This document is intended only to provide clarity to the public regarding existing requirements under the law or agency policies.
+EEOC NOTICE
+Number 915.002
+Date 9-18-96
+1.     SUBJECT:  Enforcement Guidance on O'Connor v. Consolidated
+Coin Caterers Corp.
+2.     PURPOSE:  This enforcement guidance analyzes the impact on
+EEOC enforcement activities of the Supreme Court's ADEA decision
+in O'Connor v. Consolidated Coin Caterers Corp., 116 S. Ct. 1307
+(1996), holding that a prima facie showing of age discrimination
+in discharge does not require the plaintiff's replacement to be
+outside the protected age group.1
+3.     EFFECTIVE DATE:  Upon issuance.
+4.     EXPIRATION DATE:  As an exception to EEOC Order 205.001,
+Appendix B, Attachment 4, Section a(5), this Notice will remain
+in effect until rescinded or superseded.
+5.     ORIGINATOR:  ADEA Division, Office of Legal Counsel.
+6.     INSTRUCTIONS:  File after the last Enforcement Guidance in
+the 800 series of Volume II of the EEOC Compliance Manual.
+7.     SUBJECT MATTER:
+I.     Background and Holding of Decision
+On April 1, 1996, the U.S. Supreme Court issued its decision
+in O'Connor v. Consolidated Coin Caterers Corp., 116 S. Ct. 1307
+(1996).2  The O'Connor decision addressed the narrow question of
+whether, in order to make out a prima facie case, a plaintiff
+alleging that he was discharged in violation of the Age
+Discrimination in Employment Act of 1967, as amended (ADEA), 29
+U.S.C. § 621 et seq., must show that he was replaced by
+someone outside the protected age group (i.e., someone under the
+age of 40).  A unanimous Court held that replacement by someone
+under 40 was not a necessary element of an ADEA prima facie case.
+The plaintiff in O'Connor, who was 56 years old at the time
+he was discharged, had filed suit in federal district court
+alleging that he had been dismissed by the defendant corporation
+because of his age.  The district court granted the defendant's
+motion for summary judgment.  On appeal, the Court of Appeals for
+the Fourth Circuit affirmed the district court's dismissal of the
+case.
+Applying the McDonnell Douglas3 framework, the Fourth
+Circuit stated that the plaintiff in a non-reduction-in-force
+case could establish a prima facie case of age discrimination
+only if he showed that: (1) he was in the ADEA protected age
+group (PAG); (2) he was discharged or demoted; (3) at the time of
+his discharge or demotion, he was performing his job at a level
+that met his employer's legitimate expectations; and (4)
+following his discharge or demotion, he was replaced by someone
+of comparable qualifications outside the PAG.  The court
+concluded that the plaintiff had failed to make out a prima facie
+case because the plaintiff's replacement was 40 years old and,
+thus, was in the PAG.  The Supreme Court reversed.
+The Supreme Court initially noted that it had never had
+occasion to decide whether the basic evidentiary framework set
+forth in McDonnell Douglas applied to the ADEA.  However, since
+the parties did not contest that point and since the Fourth
+Circuit, like every other federal court of appeals, had applied
+some variant of McDonnell Douglas to ADEA disparate treatment
+cases, the Court assumed for purposes of the decision that it did
+apply.
+Thus viewing the prima facie case from the perspective of
+the McDonnell Douglas framework, the Court stated that there must
+be "at least a logical connection between each element of the
+prima facie case and the illegal discrimination for which it
+establishes a 'legally mandatory, rebuttable presumption.'"  116
+S. Ct. at 1310 (citation omitted).  The Court found that the
+element of replacement by someone under 40 failed to meet this
+requirement.  Id.  The Court reasoned that no greater inference
+of age discrimination (as opposed to PAG discrimination) could be
+drawn when a 40-year-old is replaced by a 39-year-old (i.e.,
+someone outside the PAG) than when a 56-year-old is replaced by a
+40-year-old (i.e., someone within the PAG).  Id.  The Court
+concluded that, "[b]ecause it lacks probative value, the fact
+that an ADEA plaintiff was replaced by someone outside [the PAG]
+is not a proper element of the McDonnell Douglas prima facie
+case."  Id.
+In reaching its conclusion, the Court emphasized that the
+ADEA prohibits discrimination "because of [an] individual's age."
+The statutory language "does not ban discrimination against
+employees because they are aged 40 or older [i.e., in the PAG];
+it bans discrimination against employees because of their age,
+but limits the protected class to those who are 40 or older."
+116 S. Ct. at 1310.  The Court observed:  "The fact that one
+person in the [PAG] has lost out to another person in the [PAG]
+is thus irrelevant, so long as he has lost out because of his
+age."  Id. (emphasis in original).
+The Court further remarked, in dicta, that a prima facie
+case requires "'evidence adequate to create an inference that an
+employment decision was based on a[n] [illegal] discriminatory
+criterion,'" 116 S. Ct. at 1310 (quoting Teamsters v. United
+States, 431 U.S. 324, 358 (1977)), and that such an inference
+cannot be drawn by the replacement of one worker with another
+worker who is "insignificantly younger."  Id.  Because the ADEA
+prohibits discrimination based on age rather than on class
+membership, the Court suggested that, in the age-discrimination
+context, "the fact that a replacement is substantially younger
+than the plaintiff is a far more reliable indicator of age
+discrimination than is the fact that the plaintiff was replaced
+by someone outside the [PAG]."  Id.
+II.     Questions and Answers
+The following questions and answers set forth the
+Commission's position on issues that arise in relation to the
+O'Connor decision.
+1.     Q.     What is the basic holding of O'Connor?
+A.     The O'Connor decision holds that a prima facie
+showing of age discrimination does not require the plaintiff's
+replacement (if any) to be younger than the PAG minimum age
+(i.e., 40 years old).
+2.     Q.     Does the O'Connor decision change the way in which
+investigators should process age discrimination charges?
+A.     No.  O'Connor is consistent with the Commission's
+long-standing position that an ADEA charge should never be
+rejected or dismissed on the merits solely because a charging
+party states that his or her replacement (or comparator) is an
+individual within the ADEA's protected age group (40 and older).
+Indeed, it is the Commission's view that the
+characteristics of the comparator are not a necessary element of
+the prima facie case under the ADEA, Title VII, the Americans
+with Disabilities Act (ADA), or the Rehabilitation Act of 1973.4
+3.     Q.     Is it possible after O'Connor to establish a prima
+facie case and, ultimately, a violation of the ADEA where the
+respondent does not hire a replacement for the charging party?
+A.     Yes.  The decision's holding is not dependent upon
+the respondent's hiring a replacement for the charging party.
+O'Connor holds only that, when the age of a replacement is made a
+part of the prima facie case, that case is not defeated solely
+because the replacement happens to be within the protected age
+group.
+4.     Q.     In dicta, the O'Connor Court uses the terms
+"insignificantly younger" and "substantially younger" in
+referring to a plaintiff's replacement.  Does the decision define
+these terms?
+A.     No.  In discussing the strength of an inference of
+age discrimination that might be drawn from the facts of a
+particular case, the Court merely offers the example of a 68-
+year-old replaced by a 65-year-old and suggests that such facts
+might amount to "creating a prima facie case on the basis of very
+thin evidence."  116 S. Ct. at 1310.
+5.     Q.     Is it necessary to make a specific determination
+regarding whether the charging party's replacement/ comparator is
+"insignificantly" or "substantially" younger than the charging
+party?  If so, since the O'Connor decision does not define these
+terms, how will the Commission make that determination?
+A.     It is not necessary to specifically categorize that
+age difference as "insignificant" or "substantial."  As in the
+past, however, the relative ages of the charging party and his/
+her replacement/comparator may be relevant evidence as to the
+merits of the case.  Where a specific determination on this point
+must be made, the Commission will make it on a case-by-case
+basis.
+We emphasize, moreover, that there is no "bright line"
+test for determining whether the age difference can be considered
+either "insignificant" or "substantial." Whether the age
+difference is sufficient to support a finding of age
+discrimination is simply one of the issues to be considered in
+assessing the case.  (See discussion below.)
+6.     Q.     Does the O'Connor decision require a "no cause"
+dismissal of a charge where it is determined that the charging
+party was replaced by a person who is only slightly younger?  For
+example, should a charge alleging discharge because of age be
+dismissed if the charging party's replacement is only two or
+three years younger than the charging party?
+A.     No.  Under no circumstances should a charge be
+dismissed without investigation solely because the charging
+party's replacement is only slightly younger.  Field offices have
+the discretion to consider this point along with all other facts
+and circumstances when making a decision on appropriate resource
+commitment and a determination on the merits.
+7.     Q.     Under what circumstances might a field office issue
+a cause determination even though the comparator is only slightly
+younger than the charging party?
+A.     There may be a number of circumstances in which such
+a cause determination is proper.  The fact that the age
+difference between the charging party and his/her comparator is
+not "substantial" is simply one piece of evidence that must be
+weighed along with all other evidence in determining whether
+there is reasonable cause.  For example:
+(1)     If the evidence showed that the slightly
+younger comparator was selected for the purpose of disguising age
+discrimination, the relatively slight difference in age would not
+defeat the charging party's case.  Such might be the case where,
+for instance:
+*     Despite the slight difference in age, the
+comparator looks appreciably younger, more vigorous, and robust,
+and the employer has commented favorably on the comparator's
+"youthful" appearance.
+*     The replacement is someone who is nearing
+retirement age and who has expressed an interest in retiring --
+thus clearing the way for the employer to hire a considerably
+younger replacement.
+(2)     An employer's history of taking action against
+its oldest workers would support an inference of age
+discrimination where the comparator was only slightly younger
+than the charging party.
+(3)     Evidence that age-based comments were made in
+connection with the allegedly discriminatory action would
+buttress an inference of age discrimination despite a relatively
+slight age difference.
+(4)     Even if the comparator is only slightly younger
+than the charging party, his/her being less qualified for the job
+would also support an inference of age discrimination.
+(5)     If the slightly younger replacement was hired
+by someone other than, and outside the control of, the person who
+fired the charging party, the inference of age discrimination
+would not be undermined by the relatively small age difference
+(since the firing and hiring were separate and independent acts
+by two different individuals).
+Where the comparator is only slightly younger than the
+charging party, but the totality of the evidence is adequate to
+create an inference of age discrimination, the field should issue
+a cause determination whenever the respondent fails to articulate
+a legitimate, non-discriminatory reason for its action, or
+whenever it is determined that the articulated reason is a
+pretext for illegal discrimination.
+8.     Q.     Is it appropriate after the O'Connor decision for
+the Commission to continue to apply the McDonnell Douglas prima
+facie case framework in age cases?
+A.     Yes.  Although that framework was developed under
+Title VII, the Commission and virtually all federal courts have
+applied some variant of the basic evidentiary framework developed
+in McDonnell Douglas to ADEA disparate treatment cases.5  Indeed,
+the Supreme Court used  McDonnell Douglas in O'Connor.
+9.     Q.     Is the McDonnell Douglas framework the exclusive
+means of assessing the evidence in a disparate treatment case?
+A.     No.  The McDonnell Douglas model is simply one way of
+assessing the evidence.  For example, where there is direct
+evidence of discrimination, a determination on the merits can be
+made without relying on the McDonnell Douglas framework.  For
+EEOC investigative purposes, however, the important consideration
+is that a  determination on the merits should be made on the
+basis of whatever evidence has been obtained, without rigid or
+inflexible adherence to a prescribed "formula."  As noted by the
+Seventh Circuit in Carson v. Bethlehem Steel Corp., regarding a
+Title VII prima facie case:  "Any demonstration strong enough to
+support a judgment in the plaintiff's favor if the employer
+remains silent will do, even if the proof does not fit into a set
+of pigeonholes."  82 F.3d at 159.
+10.     Q.     Does the O'Connor decision address the
+applicability of the adverse impact theory of discrimination in
+age cases?
+A.     No.  The case deals solely with the disparate
+treatment theory of discrimination.  While the Supreme Court has
+never ruled on the applicability of the adverse impact theory to
+age cases,6 the majority of federal appellate courts have either
+held or assumed that the theory applies in age cases.
+The Commission applies the adverse impact analysis in
+age cases unless the law of the circuit prohibits such
+application.  See 29 C.F.R. § 1625.7(d).
+11.     Q.     Does the holding in O'Connor apply to pending
+cases?  If a case is pending in a field office in the Fourth
+Circuit involving the replacement of one member of the protected
+age group by another member of the protected age group and the
+facts arose before the Supreme Court's decision, how should the
+field office proceed?
+A.     The O'Connor decision does apply to pending cases.
+Therefore, field offices (including those in the Fourth Circuit)
+should apply the law as stated by the Supreme Court.7
+If there are any questions concerning this memorandum or its
+application to a specific charge, EEOC investigative staff should
+contact their legal unit.
+9/18/96
+__________       ______________________________________________
+Date             Gilbert F. Casellas, Chairman
+1.     Although this enforcement guidance addresses this issue in
+the context of private sector discrimination charges, the
+principles and considerations discussed herein are equally
+applicable to federal sector complaints.
+With respect to the applicability of the guidance to
+charges/complaints brought under Title VII of the Civil Rights
+Act of 1964, as amended, 42 U.S.C. § 2000e et seq.; the
+Americans with Disabilities Act of 1990, as amended, 42 U.S.C.
+§ 12101 et seq.; and the Rehabilitation Act of 1973, as
+amended, 29 U.S.C. § 791 et seq., see discussion below at
+Question and Answer 2.
+2.     67 EPD & 43,927, 70 FEP Cases 486 (1996).
+3.     In McDonnell Douglas Corp. v. Green, 411 U.S. 792 (1973)
+(Title VII), the Court held that a plaintiff can establish a
+prima facie case of disparate treatment in hiring by showing
+that:  (i) he/she belongs to a protected class; (ii) he/she
+applied and was qualified for the job at issue; (iii) despite
+these qualifications, he/she was rejected; and (iv) after his/her
+rejection, the position remained open and the employer continued
+to seek applicants having the plaintiff's qualifications.  411
+U.S. at 802.  Courts have adjusted these criteria in analyzing
+the particular issue in dispute.  For example, the prima facie
+case criteria for analyzing a hiring case differ slightly from
+those for analyzing a discharge or a denial of transfer case.
+4.     We note with approval that, in a recent post-O'Connor
+decision under Title VII, the Court of Appeals for the Seventh
+Circuit held that a plaintiff alleging racial discrimination in
+discharge need not show that her replacement was of a different
+race.  Carson v. Bethlehem Steel Corp., 82 F.3d 157 (7th Cir.),
+68 EPD & 44,009, 70 FEP Cases 921 (1996).
+5.     Relevant appellate court decisions applying McDonnell
+Douglas in an ADEA disparate treatment context are cited in
+O'Connor at 116 S. Ct. 1309-10 n.2.
+6.     See Hazen Paper Co. v. Biggins, 507 U.S. 604, 610 (1993).
+7.     For a discussion of the criteria that would preclude
+application of a Supreme Court decision to pending cases and,
+thus, limit it to prospective application, see Chevron Oil v.
+Huson, 404 U.S. 97, 106 (1971).
+Return to top
+U.S. Equal Employment Opportunity Commission
+EEOC Headquarters
+131 M Street, NE
+Washington, DC 20507
+1-800-669-6820
+(TTY)
+1-844-234-5122
+(ASL Video Phone)
+Questions?
+Call 1-800-669-4000
+For Deaf/Hard of Hearing callers:
+1-800-669-6820
+(TTY)
+1-844-234-5122
+(ASL Video Phone)
+info@eeoc.gov
+Find your nearest EEOC office
+Connect With Us
+FOIA
+Privacy Policy
+Disclaimer
+Accessibility
+Office of Inspector General
+USA.gov

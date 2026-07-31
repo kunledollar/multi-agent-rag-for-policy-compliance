@@ -1,0 +1,832 @@
+CM-625 Bona Fide Occupational Qualifications | U.S. Equal Employment Opportunity Commission
+Skip to main content
+An official website of the United States government
+Here’s how you know
+Here’s how you know
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive
+information only on official, secure websites.
+U.S. Equal Employment Opportunity Commission
+Menu
+Header Navigation
+Online Filing
+Public Portal
+Attorney E-file
+Locations
+Operating Status
+Languages
+English
+Español (Spanish)
+Resources in Other Languages
+عربي (Arabic)
+简体中文 (Chinese, Simplified)
+繁體中文 - Chinese (Traditional)
+Kreyòl Ayisyen (Haitian Creole)
+한국어 (Korean)
+Русском (Russian)
+Português (Portuguese)
+Tagalog (Tagalog)
+ไทย (Thai)
+Tiếng Việt (Vietnamese)
+فارسی (Persian. Farsi)
+پښتو (Pashto)
+Toggle Search Form
+Any of these words
+(optional)
+Search
+About EEOC
+About EEOC
+Overview
+The Commission and The General Counsel
+Meetings of the Commission
+Commission Votes
+EEOC History
+News and Information
+Newsroom
+What You Should Know
+Legislative Affairs
+Publications
+Outreach and Education
+FOIA
+Laws and Enforcement
+EEOC Legal Resources
+Mediation
+Litigation
+Systemic Enforcement
+Commissioner Charges
+Directed Investigations
+Programs and Performance
+Budget and Performance
+Initiatives
+Interagency Programs
+State and Local Programs
+Task Forces
+Tribal Programs
+Data and Analytics
+Overview
+Data Governance
+EEO Data Collections
+Data and Statistics
+Data Tools and Products
+No FEAR Act Data
+Inside EEOC
+Careers
+Office for Civil Rights
+Doing Business with EEOC
+AI Governance
+Privacy
+Office of Inspector General
+Employees & Job Applicants
+Employees & Applicants
+Overview
+Coverage
+Timeliness
+Prohibited Practices
+Filing a Charge of Discrimination
+Filing a Charge
+How to File
+After You File a Charge
+Confidentiality
+Mediation
+Remedies
+Existing Charges
+Filing a Lawsuit
+Discrimination by Type
+Age
+Disability
+Equal Pay
+Genetic Information
+Harassment
+National Origin Discrimination
+Pregnancy Discrimination
+Race/Color Discrimination
+Religious Discrimination
+Retaliation
+Sex
+Sexual Harassment
+Employers / Small Business
+Employers / Small Business
+Overview
+Coverage
+After a Charge is Filed
+Resolving a Charge
+Commissioner Charges
+Directed Investigations
+Remedies
+Small Business Resource Center
+Small Business Home
+Small Business Requirements
+Frequently Asked Questions
+Tips for Small Businesses
+Making an Employment Decision?
+EEOC Resources
+Small Business Assistance
+Small Business Fact Sheet
+Small Business Videos
+EEOC Glossary
+Contact Us
+Discrimination by Type
+Age
+Disability
+Equal Pay
+Genetic Information
+Harassment
+National Origin
+Pregnancy
+Race/Color
+Religion
+Retaliation
+Sex
+Sexual Harassment
+Prohibited Practices
+Recordkeeping
+EEO Data Collections
+"Know Your Rights" Poster
+Training
+Other Employment Issues
+Federal Sector
+Federal Agencies
+Overview
+Federal EEO Coordination
+Federal Agency EEO Directors
+EEOC Legal Resources
+Management Directives & Federal Sector Guidance
+Federal Training & Outreach
+Resources
+Federal Employees & Job Applicants
+Overview
+Federal Complaint Process
+Federal Sector Alternative Dispute Resolution
+Prohibited Practices
+Resources
+Contact Us
+Contact EEOC
+Find Your Nearest Office
+Office Operating Status
+How to File a Charge
+Public Portal
+Home
+Laws
+guidance
+CM-625 Bona Fide Occupational Qualifications
+CM-625 Bona Fide Occupational Qualifications
+Issuing Authority
+This guidance document was issued upon approval by vote of the U.S. Equal Employment Opportunity Commission.
+OLC Control Number
+EEOC-CVG-1982-2
+Concise Display Name
+CM-625 Bona Fide Occupational Qualifications
+Issue Date
+01-02-1982
+General Topics
+Sex, National Origin, Religion
+Summary
+This document addresses the scope and application of Title VII’s statutory provision permitting assignments based on sex where a “bona fide occupational qualification reasonably necessary to the normal operation of that particular business or enterprise.”
+Citation
+Title VII, 29 CFR Part 1604, 29 CFR Part 1605, 29 CFR Part 1606
+Document Applicant
+Employers, Employees, Applicants, Attorneys and Practitioners, EEOC Staff
+Previous Revision
+No
+Disclaimer
+The contents of this document do not have the force and effect of law and are not meant to bind the public in any way. This document is intended only to provide clarity to the public regarding existing requirements under the law or agency policies.
+Section
+625.1 Introduction
+625.2 The BFOQ Based on National Origin
+(a) Commission Position
+(b) Investigating the BFOQ Claim Based on National Origin
+625.3 The BFOQ Based on Religion
+(a) General
+(b) Investigating the BFOQ Claim Based on Religion
+625.4 The BFOQ Based on Sex
+(a) Commission Position
+(b) Investigating the BFOQ Claim Based on Sex
+625.5 Justifications Frequently Offered for the Sex BFOQ Claim
+(a) We Tried a Few Females and TheyCould Not Do the Work
+(b) The Work Is Too Dangerous or Unpleasant for Females
+(c) Concern About Women WorkingAlone on Late Night Shifts
+(d) Customer Preference
+(e) Male Image Desired
+(f) Job Requires Ability to Entertain Male Customers
+(g) Need to Construct Separate Facilities
+(h) The Presence of Females Would Create a Morale Problem
+(i) Women Are Less Stable and Have Poorer Attendance Records
+(j) It Is Not Good Management to HaveGirls Over Girls
+(k) It Is Too Expensive to Determine Who the Few Qualified Females Are
+625.6 The Sex BFOQ Based on "Ability to Perform"
+(a) State Protective Laws
+(b) "Ability to Perform" Cases and Decisions
+(c) Investigating the Sex BFOQ Claim Based on "Ability to Perform"
+(d) The Sex BFOQ Claim Based on "Ability to Perform" in Particular Jobs
+625.7 The Same-Sex BFOQ: Protecting Client/Customer Interests
+(a) Same-Sex Role Models
+(b) "Contact" Positions in Institutional Settings
+(c) "Contact" Positions in Sexually Segregated Establishments
+625.8 Same-Sex Role Models
+(a) Investigating the BFOQ Claim for Same-Sex Role Models
+(b) Commission Decisions Involving the BFOQ Claim for Same-Sex Role Models
+625.9 "Contact" Positions in Institutional Settings
+(a) Investigating the Same-Sex BFOQ Claim for "Contact" Positions in Institutional Settings
+(b)
+Dothard v. Rawlinson
+Distinguished
+(c) Investigating
+Dothard
+-Type Charges
+(d) Commission Decisions and Court Cases Involving the Sex BFOQ Defense Based on Privacy Rights in Institutional Settings
+625.10 "Contact" Positions in Sexually Segregated Establishments
+SECTION 625
+BONA FIDE OCCUPATIONAL QUALIFICATIONS
+625.1
+Introduction
+-
+In §703(e)(1),
+[1]
+Title VII provides an exception to its prohibition of discrimination based on sex, religion, or national origin. That exception, called the bona fide occupational qualification (BFOQ), recognizes that in some extremely rare instances a person's sex, religion, or national origin may be reasonably necessary to carrying out a particular job function in the normal operation of an employer's
+[2]
+business or enterprise. The protected class of race is not included in the statutory exception and clearly cannot, under any circumstances, be considered a BFOQ for any job.
+Swint v. Pullman-Standard
+, 624 F.2d 525, 23 EPD ¶31,186 (5th Cir. 1980);
+Miller v. Texas State Board of Barber Examiners
+, 615 F.2d 650, 22 EPD ¶30,839 (5th Cir. 1980),
+cert. denied
+, 449 U.S. 891, 24 EPD ¶31,256 (1980).
+Under the terms of §703(e)(1), once an employer's exclusion of a protected class from a particular job has been proved or admitted, then the employer may use the BFOQ exception to justify restricting the job in question to members of a particular sex, religion, or national origin (but never to members of a particular race.
+[3]
+Although the narrowness of the BFOQ exception based on sex was established early,
+[4]
+application of that general principle has been examined in some recent court decisions involving a potential conflict between the sex of an employee in a "contact" position and the privacy interests of an employer's clients or customers. (See §625.9(d) below.) As discussed in §625.4(b), one element in the final determination of the validity of an employer's sex BFOQ claim is an analysis of whether the "essence" of the employer's business would be undermined by not excluding all members of one sex from consideration for the position in question. In the limited circumstances where an employer's sex BFOQ claim is based, in whole or in part, on an alleged invasion of client/customer privacy, consideration of these privacy interests is one factor in this analysis. Such consideration is limited to determining whether it would be feasible to protect legitimate privacy interests without totally excluding members of one sex from employment by, for example, restructuring job responsibilities. (See §§625.9(a)(5) and 625.10(a)(6) below.)
+625.2
+The BFOQ Based on National Origin
+(a)
+Commission Position
+-
+Section 703(e)(1) extends the BFOQ exception to national origin as well as to religion and sex. The Commission's existing Guidelines on Discrimination Because of National Origin, 29 C.F.R. §1606.1
+et
+seq
+. (1980), were revised, and the amended Guidelines became effective upon publication in the Federal Register on December 29, 1980. In §1606.4 of the revised Guidelines, the Commission restated its long-held position: "The exception stated in Section 703(e) of Title VII, that national origin may be a bona fide occupational qualification, shall be strictly construed." 45 Fed. Reg. 85632 (1980) (to be codified in 29 C.F.R. §1606.4). To date, neither the Commission nor the courts have issued a decision squarely reaching the application of the national origin BFOQ exception to a specific fact situation. However, the issue was presented for consideration on remand in
+Avigliano v. Sumitomo Shoji America, Inc.
+, 638 F.2d 552, 24 EPD ¶31,460 (2d Cir. 1981).
+(b)
+Investigating the BFOQ Claim Based on National Origin
+-
+Where the respondent employer claims that being of a particular national origin is a BFOQ for the position at issue, the EOS should:
+(1) List the reasons cited by the employer for excluding persons of other national origins from consideration for the job in question.
+(2) Identify the essence of the employer's business. (For a discussion of "essence" and related considerations, see §625.4(b)(2) below.)
+For example, assume an employer operates a school for persons interested in learning French and employs only native-born French people as instructors. The employer may contend that the practice is necessary in order to provide role models for the students. However, the essence of the employer's business is not providing role models but providing instruction in French. (See next item.)
+(3) Determine whether the essence of the business would be undermined if the employer did not employ exclusively persons of the given national origin. In making this determination, consider whether there is any characteristic or quality directly attributable to the given national origin which makes employing someone of that national origin essential to the normal operation of the employer's business.
+On the basis of the facts in the preceding example, this determination would be that the essence of the employer's business would not be undermined by employing other than native-born French instructors. The ability to speak and teach the French language does not depend upon a person's being of French national origin.
+(4) Ascertain whether the job in question has been successfully performed by persons of other national origins without impairing the normal operation of the business, either for the employer or for employers with similar businesses.
+(5) Interview persons who hold or have held the job to ascertain whether being of the given national origin is necessary for successful performance of the job.
+A cause finding will result from a showing that the essence of the respondent's business would not be undermined by employing persons of other national origins. Such a showing would be supported by evidence that at least some members of the excluded class can perform or have performed successfully the duties of the job in question without impairing the normal operation of the business, even if such performance is or has been with another employer whose business is essentially similar to that of the respondent.
+625.3
+The BFOQ Based on Religion
+(a)
+General
+-
+It is the Commission's position that the exception contained in §703(e)(1) for a bona fide occupational qualification based on religion is, like the exception for national origin and for sex, an extremely narrow one. By contrast, §§702 and 703(e)(2) of Title VII offer broader exemptions for religious corporations, associations, educational institutions, and societies regarding the hiring of persons of a particular religion. (See §604, Theories of Discrimination, and §605, Jurisdiction.) It is probably due to the exemptions available under §§702 and 703(e)(2) that there are to date no court cases or Commission decisions involving the BFOQ exception based on religion.
+(b)
+Investigating the BFOQ Claim Based on Religion
+-
+Where the respondent employer responds to a charge of religious discrimination by claiming that being of a particular religion is a BFOQ for the position at issue, the EOS should:
+(1) List the reasons cited by the employer for excluding members of other religions from consideration for the job in question.
+(2) Identify the essence of the employer's business. (For a discussion of essence and related considerations, see §625.4(b)(2) below.)
+(3) Determine whether the essence of the business would be undermined if the employer did not employ exclusively members of the given religion; that is, whether employing a member of the given religion is essential to the normal operation of the employer's business.
+(4) Ascertain whether the job in question has been successfully performed by members of other religions without impairing the normal operation of the business, either for the employer or for employers with similar businesses.
+(5) Interview persons who hold or have held the job to ascertain whether being a member of the given religion is necessary for successful performance of the job.
+A cause finding will result from a showing that the essence of the respondent's business would not be undermined by employing members of other religions. Such a showing would be supported by evidence that at least some members of the excluded class can perform or have performed successfully the duties of the job in question without impairing the normal operation of the business, even if such performance is or has been with another employer whose business is essentially similar to that of the respondent.
+625.4
+The BFOQ Based on Sex
+(a)
+Commission Position
+-
+The Commission has stated in its Guidelines on Discrimination Because of Sex, 29 C.F.R. §1604.1
+et
+seq
+. (1980), that the BFOQ exception should be interpreted narrowly.
+[5]
+The U.S. Supreme Court has upheld that position in
+Dothard v. Rawlinson
+,
+[6]
+where the Court noted:
+[The District Court relied on] the virtually uniform view of the federal courts that §703(e) provides only the narrowest of exceptions to the general rule requiring equality of employment opportunities. This view has been variously formulated. In
+Diaz v. Pan American World Airways
+, 442 F.2d 385, 388, the Court of Appeals for the Fifth Circuit held that "discrimination based on sex is valid only when the
+essence
+of the business operation would be undermined by not hiring members of one sex exclusively." (Emphasis in original.) In an earlier case,
+Weeks v. Southern Bell Telephone and Telegraph Co.
+, 408 F.2d 228, 235, the same court said that an employer could rely on the BFOQ exception only by proving "that he had reasonable cause to believe, that is, a factual basis for believing, that all or substantially all women would be unable to perform safely and efficiently the duties of the job involved." See also
+Phillips v. Martin Marietta Corp.
+, 400 U.S. 542. But whatever the verbal formulation, the federal courts have agreed that it is impermissible under Title VII to refuse to hire an individual woman or man on the basis of stereotyped characterizations of the sexes...
+[7]
+The Commission has further declared that only characteristics peculiar to one of the sexes qualify for the BFOQ exception, and this position has also been endorsed by the courts.
+[8]
+Generally, the BFOQ exception comes into play when an employer takes adverse action against or excludes either males or females from a particular job because of their sex and then responds to a charge of sex discrimination by claiming that some characteristic held exclusively by the employed sex is necessary to the performance of the job. A successful application of the BFOQ exception depends on evidence showing that only the employed sex possesses the necessary characteristic. The BFOQ exception fails if the "characteristic" is in reality a stereotypical assumption about the excluded sex.
+For example, if an employer has a policy that no women may work on the loading dock of a warehouse because no woman can lift 100 pounds and the lifting of 100-pound crates is necessary to the employer's normal business operation, a showing that at least some women can lift crates weighing 100 pounds would defeat the BFOQ claim in favor of males. Strength is not a characteristic peculiar to the male sex; and the ability to lift 100-pound crates depends on strength, not on being male.
+(b)
+Investigating the BFOQ Claim Based on Sex
+-
+The major questions to be answered in the investigation of a charge involving the BFOQ exception based on sex are (i) whether the job is limited to members of one sex, (ii) whether any characteristic peculiar to one sex is the reason for the limitation, and (iii) whether the limitation is reasonably necessary to the normal operation of the employer's business or enterprise.
+Where the respondent employer claims that being of a particular sex is a BFOQ for the position at issue, the EOS should:
+(1) List the reasons cited by the employer for excluding members of the other sex from consideration for the job in question.
+(2) Identify the essence of the employer's business, focusing on the particular facility (if more than one) in which the job in question is located. The essence of the business can be determined by analyzing the service or product the employer provides. For example, the essence of an airline's business is transporting passengers, not making passengers feel psychologically secure while riding in an airplane. The determination of what constitutes the essence or fundamental objective of an employer's business or enterprise and of what constitutes the normal operation of that business depends on the facts. Therefore, the determination must be made on a case-by-case basis.
+(3) Determine whether the essence of the business would be undermined if the employer did not employ exclusively members of the given sex. In making this determination, consider: whether there is any characteristic or quality peculiar to the given sex which makes employing a member of that sex essential to the normal operation of the employer's business and whether there is any reason or factor that would prevent a member of the excluded sex from being able to perform the job in question.
+The inability to perform a given job function is not significant unless performing the function is essential to the employer's business. For example, assume one of the essential duties of a storeroom position is shelving boxes which are occasionally heavier than most women can lift. On that basis, the employer may not exclude from consideration qualified women job applicants who can in fact lift such boxes. Moreover, the employer may not exclude women applicants who cannot lift such boxes if they can perform all the other essential job duties and alternate means are available for performing the occasional heavy lifting function (for instance, through use of machinery or stock clerks). In such circumstances, personally performing such lifting is not essential to the job. Mere inconvenience to the employer should be noted but accorded little weight in making a final determination.
+(4) Ascertain whether the job in question has been successfully performed by members of the excluded sex without impairing the normal operation of the business, either for the employer or for employers with similar businesses.
+(5) Interview persons who hold or have held the job to ascertain whether being a member of the given sex is necessary for successful performance of the job.
+A cause finding will result if the respondent employer fails to prove by a preponderance of the evidence that: (i) the essence of the business would be undermined by employing members of the excluded sex, and (ii) all or substantially all members of the excluded sex are unable to perform the essential duties of the job in question. Such a finding would be supported by evidence that at least some members of the excluded sex can perform or have performed successfully the essential duties of the job in question without impairing the normal operation of the business, even if such performance is or has been with another employer whose business is essentially similar to that of the respondent.
+Since the existence of an explicit sex-based classification constitutes prima facie showing of a Title VII violation, a respondent employer must prove the above two elements in order to successfully rebut the
+prima
+facie
+case by raising a BFOQ defense. Failure of the respondent to prove these two elements will invalidate the BFOQ claim and result in a cause finding.
+625.5
+Justifications Frequently Offered for the Sex BFOQ Claim
+-
+The following justifications have frequently, and unsuccessfully, been offered by respondent employers in support of a sex BFOQ:
+(a)
+We Tried a Few Females and They Could Not Do the Work
+-
+This defense was rejected in Commission Decision No. 70-88, CCH EEOC Decisions (1973) ¶6057.
+(b)
+The Work is Too Dangerous or Unpleasant for Females
+(1) The employer claimed that the male sex was a BFOQ for its switch-man job based upon, in addition to a weight-lifting requirement, the position's requirement that such employee be prepared to come to work in the middle of the night during an emergency. The record revealed that female employees in other jobs were subject to call after midnight in emergencies. Thus, the employer's argument was shown to be pretextual. However, even without such evidence,". . .
+Title VII
+rejects just this type of romantic paternalism as unduly Victorian and instead
+vests individual women with the power to decide whether or
+not to take on unromantic tasks
+. Men have always had the right to determine whether the incremental increase in remuneration for strenuous, dangerous, obnoxious, boring or unromantic tasks is worth the candle. The promise of Title VII is that women are now to be on equal footing. We cannot conclude that by including the bona fide occupational qualification exception Congress intended to renege on that promise."
+Weeks v. Southern Bell Telephone and Telegraph Company
+, 408 F.2d 228, 236, 1 EPD ¶9970 (5th Cir. 1969) (emphasis added).
+(2) The fact that, in the frantic activity of fighting fires, some fire fighters are prone to use language which might offend or upset some women does not make being a male a BFOQ for the position of fire department ambulance attendant.
+U.S. v. City of Socorro
+, No. 74-624M, 11 EPD ¶10,698 (D.N.M. Jan. 9, 1976).
+(3) Respondent contended that the position of jewelry department manager was "potentially dangerous, and that for security reasons it is better to have a male manager." The record showed that the jewelry department was open to the public approximately 70 hours per week. The only male employed by respondent in its jewelry department was its manager. Thus, the record indicated that for substantial periods of time each week the jewelry department was attended by female employees only. Held: No BFOQ. Commission Decision No. 71-682 (unpublished).
+(4) Respondent labor organization refused to refer female charging party for employment on the ground that lithographic pressroom work was not suitable for females. Held: No BFOQ. Commission Decision No. 71-1941 (unpublished).
+(5) Respondent admitted that it reserved certain job classifications for men, including its "outside" claims jobs, on the basis of the working conditions and hazards associated with the jobs. Held: No BFOQ. Commission Decision No. 72-0996, CCH EEOC Decisions (1973) ¶ 6333.
+(6) Respondent denied a female employee a promotion to office manager claiming the job required occasionally going out on the docks, which would be dangerous for a woman. Held: No BFOQ. Commission Decision No. 72-1883, CCH EEOC Decisions (1973) ¶ 6375. (See also Commission Decision No. 77-32, CCH Employment Practices Guide ¶6583 (no male sex BFOQ based on claim that manager trainee would have to work in supposedly dangerous neighborhoods).)
+The EOS should note that the BFOQ exception
+does
+not
+apply to a situation where an employer excludes members of one sex from working in a position involving exposure to alleged reproductive hazards. This issue is non-CDP. (See §624, Reproductive and Fetal Hazards.)
+(c)
+Concern About Women Working Alone on Late Night Shifts
+-
+Female charging party applied for a computer programmer opening respondent had on its third shift. Although there was some evidence that charging party was not as qualified as the male who was hired, respondent's employment manager did admit that he was concerned about the idea of having a woman work alone on the third shift. Based upon this statement, plus evidence that another rejected applicant was more qualified than the male who was selected, it was inferred that charging party's sex was at least a factor in respondent's refusal to hire her. It was also concluded that, as a matter of law, being a male was not a BFOQ for respondent's third shift programmer position. Held: Cause. Commission Decision No. 72-0282 (unpublished).
+(d)
+Customer Preference
+(1) EEOC Guidelines on Discrimination Because of Sex, at 29 C.F.R. § 1604.2(a)(1)(iii) (1980), provide that the following fact situation is among those which do
+not
+warrant application of the BFOQ exception: the refusal to hire an individual because of the preferences of co-workers, the employer, clients, or customers except where a BFOQ based on sex is necessary for the purpose of authenticity or genuineness;
+e.g.
+, in hiring an actor or actress.
+(2) Respondent asserted that being a male was a BFOQ for its public relations work because of
+client
+preferences
+. Respondent argued that its male clients would have difficulty explaining to their wives that they had been out to dinner with a female. Held: No BFOQ. Commission Decision No. 71-88 (unpublished). (See also Commission Decision No. 72-0644, CCH EEOC Decisions (1973) ¶6315 (female truck drivers not allowed to share driving assignments with male drivers because males' wives might complain).)
+(3) Customers would not accept advice from female sales persons. Held: No BFOQ. Commission Decision No. 72-0066, CCH EEOC Decisions (1973) ¶6296.
+(4) An airline's policy of rejecting male applicants and hiring only females as flight attendants constituted prohibited sex discrimination. Title VII's BFOQ exception to the ban on sex discrimination applies only when the
+essence
+of the business operation would be undermined by not hiring one; sex exclusively. To warrant sex discrimination, the employer must show that the abilities of the employed sex are
+necessary
+to the business, not merely tangential. Here, females' superior abilities in certain non-mechanical aspects of the job--such as reassuring anxious passengers, giving courteous personalized service, and making flight as pleasurable as possible--did not make the female sex a BFOQ for the position of flight attendant since such abilities are merely tangential and not necessary to the airline's primary function of transporting passengers safely from one point to another. Further,
+customer
+preferences
+for such abilities cannot justify sex discrimination.
+Diaz v. Pan American World Airways, Inc.
+, 442 F.2d 385, 3 EPD ¶8166 (5th Cir. 1971),
+cert. denied
+, 404 U.S. 950, 4 EPD ¶7560 (1971).
+The court stated:
+...we do not feel that the fact that Pan Am's passengers prefer female stewardesses should alter our judgment. On this subject, EEOC guidelines state that a BFOQ ought not be based on "the refusal to hire an individual because of the preferences of co-workers, the employer, clients or customers...." 29 C.F.R. [§1604.2(a)(1)(iii)].
+... Indeed, while we recognize that the public's expectation of finding one sex in a particular role may cause some initial difficulty, it would be totally anomalous if we were to allow the preferences and prejudices of the customers to determine whether the sex discrimination was valid. Indeed, it was, to a large extent, these very prejudices the Act was meant to overcome. Thus, we feel that customer preference may be taken into account only when it is based on the company's inability to perform the primary function or service it offers.
+Diaz
+, 442 F.2d at 389. (For a detailed examination of the customer preference issue in light of the
+Diaz
+standard, see
+Wilson v. Southwest Airlines Inc.
+, 517 F. Supp. 292, 26 EPD ¶31,949 (N.D. Tex. 1981); see also cases cited therein.)
+(5) For an excellent analysis concerning the question of customer preference as a BFOQ, see the discussion in
+Developments in the Law--Employment Discrimination & Title VII of the Civil Rights Act of 1964
+, 84 Harv. L. Rev. 1109, 1181-1186 (1971).
+(e)
+Male Image Desired
+-
+Respondent's belief that male waiters added "class" to its restaurant did not establish a BFOQ. Commission Decision No. YSF 9-058, CCH EEOC Decisions (1973) ¶6083. (See also Commission Decision No. LA 68-4-538E, CCH EEOC Decisions (1973) ¶6125.)
+(f)
+Job Requires Ability to Entertain Male Customers
+-
+Respondent refused to consider females for its branch office and credit manager positions. "...Respondent asserts that this position requires the ability to entertain,
+i.e.
+, take customers on plant tours, take customers to football games and to dinner and take customers on hunting trips. An official of Respondent maintains that customers would not go on hunting trips with female managers unless they were 'built like Raquel Welch.'" Held: No BFOQ. Commission Decision No. 71-2338, CCH EEOC Decisions (1973) ¶6247.
+(g)
+Need to Construct Separate Facilities
+-
+When the Commission amended its Guidelines on Discrimination Because of Sex on March 30, 1972, effective April 5, 1972, it eliminated §1604.1(a)(1)(iv) which provided as follows: "The fact that the employer may have to provide separate facilities for a person of the opposite sex will not justify discrimination under the BFOQ exception
+unless the expense would be clearly unreasonable
+." (Emphasis added.)
+This section provided employers with a business expense defense in refusing to hire women if they could establish that building separate bathrooms or other facilities would be a clearly unreasonable expense. In no cases which presented this question before the Commission did an employer meet its burden of persuasion. (See Commission Decision Nos. YNY 9-047, 70-558, and 72-1292, CCH EEOC Decisions (1973) ¶¶6010, 6137, and 6356, respectively.)
+The amended Guidelines speak to the question of
+state
+laws
+which require an employer to provide separate restrooms for each sex. Section 1604.2(b)(5) provides:
+Some states require that separate restrooms be provided for employees of each sex. An employer will be deemed to have engaged in an unlawful employment practice if it refuses to hire or otherwise adversely affects the employment opportunities of applicants or employees in order to avoid the provision of such restrooms for persons of that sex.
+In the past, employers with all-male work forces argued that compliance with state law would prove an economic hardship. (See Commission Decision No. 70-558, CCH EEOC Decisions (1973) ¶6137.) Under the amended Guidelines, such a defense is no longer available. Compare
+City of Los Angeles, Department of Water and Power v. Manhart
+, 435 U.S. 702, 716-717, 16 EPD ¶8250 at 5298 (1978), in which the Supreme Court noted that Title VII contains no cost justification defense.
+Section 708 of Title VII does not relieve employers from the duty to abide by such state laws since they do not conflict with Title VII.
+[9]
+Therefore, the employer's only recourse is to seek amendment or repeal of the state law or a liberal construction of it in court. For example, a state court might allow an employer to install a lock on each restroom so that only one person may use the facility at a time.
+(h)
+The Presence of Females Would Create a Morale Problem
+-
+Respondent defended its refusal to hire a female as a purser on, among other grounds, the presumption that the presence of a woman on a ship would create a morale problem. Held: No BFOQ. Commission Decision No. 71-485 (unpublished).
+(i)
+Women Are Less Stable and Have Poorer Attendance Records
+-
+Commission found that respondent's statements and assertions were without basis in law or fact. Held: No BFOQ. Commission Decision No. 72-0066, CCH EEOC Decisions (1973) ¶6296.
+(j)
+It Is Not Good Management to Have Girls Over Girls
+-
+Respondent denied charging party's request for reclassification from chief clerk to administrative assistant based, in part, on respondent's stereotyped views of women. Held: Cause. Commission Decision No. 72-0697, CCH EEOC Decisions (1973) ¶6317.
+(k)
+It Is Too Expensive to Determine Who the Few Qualified Females Are
+-
+If a job is so demanding that very few women are qualified to perform it, then it stands to reason that a not insignificant number of men will be unqualified as well. Thus, the employer must either (1) have a selection process which is used to weed out the unqualified applicants or (2) give applicants the opportunity to perform the job until they show themselves to be unqualified, regardless of the sex of the applicant.
+625.6
+The Sex BFOQ Based on "Ability to Perform"
+-
+"Ability to perform" cases are those in which an employer, claiming an application of the BFOQ exception, contends that members of the excluded sex are not physically, mentally, or emotionally capable of performing some job function in the normal operation of the employer's business. For example, a grocery store owner refuses to hire females in the job of delivery person on the grounds that some of the grocery packages to be delivered weigh in excess of 50 pounds and females cannot lift 50-pound objects.
+(a)
+State Protective Laws
+-
+In some cases, employers base sex BFOQ claims involving "ability to perform" on certain state laws, known as "protective" or "beneficial" laws, which govern the employment of females. Some such laws prohibit women from holding certain jobs by, for example, restricting the amount of weight a woman can lift in performance of a job or by limiting the number of hours per day or per week a woman can work. Other laws require employers to provide certain benefits to female employees, such as premium pay for overtime work, rest periods, and physical facilities. (For additional examples and a discussion of the effect of Title VII on state protective laws of each type, those which impose restrictions and those which confer benefits, see the Commission's Guidelines on Discrimination Because of Sex, 29 C.F.R. § 1604.2(b) (1980).)
+Where the objectives of state protective laws conflict with the objectives of Title VII, as is the case where such laws impose employment restrictions based on sex, the state laws are superseded by Title VII by operation of the Supremacy Clause
+[10]
+of the U.S. Constitution. (See, for example, Commission Decision No. 71-2114, CCH EEOC Decisions (1973) ¶6277, and
+Rosenfeld v. Southern Pacific Company
+,
+[11]
+where the U.S. Court of Appeals for the Ninth Circuit found that certain California labor laws governing maximum hours and weight-lifting for women ran contrary to and were supplanted by Title VII. See also
+Sail'er Inn, Inc. v. Kirby
+,
+[12]
+where the California Supreme Court voided a state law that prohibited females from tending bar except under certain circumstances.) Consequently, compliance with such laws cannot serve as the basis for application of the BFOQ exception.
+Where state protective laws provide benefits for female employees without requiring employers to discriminate on the basis of sex, such laws are not considered in direct conflict with Title VII and so are not superseded. However, employers must eliminate the discriminatory effects of such laws by providing equal benefits to male employees. Therefore, the refusal to employ women in order to avoid extending the benefits required by state law or the failure to provide the same benefits to male employees constitutes unlawful sex discrimination. (See Commission Decision Nos. 6-8-6654, 71-2046, and 72-1115, CCH EEOC Decisions (1973) ¶¶6021, 6242, and 6348, respectively.)
+An investigation of a charge in which a state protective law is a factor should cover the points outlined below at §625.6(c). The EOS should also:
+(1) Provide a full text of the cited protective law.
+(2) Determine whether the protective law in question conflicts with the objectives of Title VII. Rarely, if ever, do laws which "protect" one class to the exclusion of another harmonize with the goals of Title VII. For example, if a statute seeks to restrict a job to being held exclusively by males on the basis that females are not strong enough to meet the job's demands, then at least facially that statute conflicts with Title VII. Each individual should be afforded the opportunity of demonstrating his or her ability to successfully perform in a job.
+(3) Determine whether the respondent employer relied in good faith on the state law or whether the state protective law defense is a pretext for discrimination. Ascertain, for example, whether respondent issued written instructions referring to the state law and whether respondent has a facility which similarly excludes women in a state without the protective law in question. Also ascertain whether the law in question has a waiver provision allowing an employer to apply to the appropriate state authority for a waiver of the law's requirements and, if so, whether the respondent employer sought such a waiver.
+Any such state statute with provisions that conflict with Title VII's provisions is superseded by Title VII. A cause finding will be made in those cases where a superseded statute serves as the basis for a BFOQ claim. Some of the following summaries of court cases and Commission decisions involve statutory provisions that have been held to conflict with Title VII. These issues are CDP. When other statutory provisions are the basis of a BFOQ claim or of a charge involving provision of benefits (including reduction of benefits to male employees in order to equalize benefits to males and females), the EOS should contact Coordination and Guidance Services, Office of Legal Counsel before writing the LOD.
+(b)
+"Ability to Perform" Cases and Decisions
+(1) "...Colgate may, if it so desires, retain its 35-pound weight-lifting limit as a general guideline for all its employees, male and female. However, it must notify all of its workers that each of them who desires to do so will be afforded a reasonable opportunity to demonstrate his or her ability to perform more strenuous jobs on a regular basis. Each employee who is able to so demonstrate must be permitted to bid on and fill any position to which his or her seniority may entitle him or her."
+Bowe v. Colgate-Palmolive Co.
+, 416 F.2d 711, 718, 2 EPD ¶10,090 (7th Cir. 1969).
+(2) To rely on the BFOQ exception, an employer has the burden of proving that it has "a factual basis for believing that all or substantially all women would be unable to perform safely and efficiently the duties of the job involved."
+Weeks v. Southern Bell Telephone & Telegraph Company
+, 408 F.2d 228, 235, 1 EPD ¶9970 (5th Cir. 1969).
+(3) The employer refused to consider females for its commercial representative position, which required lifting cases of coin boxes weighing 60 pounds on the average and occasionally as much as 90 pounds. The court noted that Title VII does not permit all females to be excluded from a position because some of them may become pregnant and found (i) that it would not impose an unreasonable hardship on respondent to determine qualifications for the position on an individual basis and (ii) that respondent's use of a class distinction deprived at least some women of work they both desired and could perform. Held: "...the male sex is not a [BFOQ] for the position of commercial representative in Montgomery, Alabama."
+Cheatwood v. South Central Bell Telephone & Telegraph Company
+, 303 F. Supp. 754, 760, 2 EPD ¶10,057 (M.D. Ala. 1969).
+(4) "Except in rare and justifiable circumstances, [Section 703(e)], the law no longer permits either employers or the states to deal with women as a class in relation to employment to their disadvantage. 29 C.F.R. §1604.1(a). Individuals must be judged as individuals and not on the basis of characteristics generally attributed to racial, religious, or sexual groups."
+Richards v. Griffith Rubber Mills
+, 300 F. Supp. 338, 340, 2 EPD ¶10,001 (D. Ore. 1969).
+(5) Weight-lifting limitations applied solely to females are forbidden by Title VII. "Section 703(e) creates a very narrow exception to the Act."
+Utility Workers, Local 246 v. Southern California Edison Co.
+, 320 F. Supp. 1262, 1265, 3 EPD ¶8100 (C.D.Calif. 1970) (Title VII supersedes state law forbidding females from lifting 50 pounds or more.)
+(6) The employer argued that being a male was a BFOQ for certain positions because women were physically unsuited to perform the strenuous physical work involved and because employing a woman would violate certain state labor laws restricting the number of hours a woman could work and the amount of weight she could lift. The court found that the BFOQ was not justified on either ground and that the state laws conflicted with and were supplanted by Title VII. The court concluded: "...the Commission is correct in determining that BFOQ establishes a narrow exception inapplicable where, as here, employment opportunities are denied on the basis of characterizations of the physical capabilities and endurance of women, even when those characteristics are recognized in state legislation."
+Rosenfeld v. Southern Pacific Company
+, 444 F.2d 1219, 1227, 3 EPD ¶8247 (9th Cir. 1971).
+The court found that the employer's position concerning female employees' physical capabilities amounted to an attempt "to raise a commonly accepted characterization of women as the 'weaker sex' to the level of a BFOQ" in conflict with 29 C.F.R. §1604[.2(a)(1)(ii)].
+Id
+. at 1224. The court held: "...sexual characteristics, rather than characteristics that might, to one degree or another, correlate with a particular sex, must be the basis for the application of the BFOQ exception."
+Id
+. at 1225.
+(7) Respondent denied female charging parties promotion to full-time grocery clerk positions. It defended on the grounds of state law (25-pound weight-lifting limitation) and BFOQ because the job involved duties such as sweeping, scrubbing, cleaning windows, unloading trucks, and lifting heavy merchandise. There was evidence that charging parties had occasionally performed some of these duties, and the record showed that after filing the charges they were promoted to full-time grocery clerks. Held: No BFOQ. (The decision noted that charging parties must receive all employee benefits to which they would have been entitled if they had originally been hired into full-time, instead of part-time, positions.) Commission Decision No. 71-2114, CCH EEOC Decisions (1973) ¶6277.
+(8) Female charging party was denied promotion to a supervisory position in respondent's store at least in part because of her sex. Respondent indicated that it did not feel a woman would be physically qualified to perform the job because it required lifting of some very heavy merchandise. Charging party testified in her charge that there were stock boys available who performed the heavy lifting and that equivalent positions in other stores were held by females. Respondent did not refute this testimony, nor did respondent make any showing that it was not feasible to consider females for the position on the basis of their individual qualifications and ability. Held: No BFOQ; "We further note that if (1) a job only occasionally involves lifting which is beyond the capacity of most females, and (2) there is a reasonable alternative to requiring that the person who holds the job be able to perform the lifting (
+e.g.
+, having stock boys perform the heavy lifting), then it violates Title VII for an employer to refuse to adopt the alternative which does not exclude a disproportionate percentage of females from work they are otherwise qualified to perform." Commission Decision No. 71-2604 (unpublished), citing Commission Decision No. 71-1332, CCH EEOC Decisions (1973) ¶6212.
+(9) Respondent maintained a policy of assigning only females to "light" jobs and only males to "heavy" jobs. (The collective bargaining agreement also labeled job and wage classifications as "light" and "heavy".) Respondent made no showing that its sex-segregated "light" and "heavy" jobs qualified for the BFOQ exception. Held: Cause; "Thus we conclude that as a matter of law sex is not a
+bona
+fide
+occupational qualification for the 'light' and 'heavy' jobs." Commission Decision No. 72-0324, CCH EEOC Decisions (1973) ¶6303.
+(c)
+Investigating the Sex BFOQ Claim Based on "Ability to Perform"
+-
+Where the respondent employer contends that sex is a BFOQ based on "ability to perform," the EOS should follow the steps outlined at §625.4(b) above and should also:
+(1) Collect testimony from employees who hold or have held the job in question on matters relating to the physical and/or emotional demands of the job and compare such testimony with the written or testimonial description the employer has given for the cited job.
+(2) Gather specific information regarding the medical history and physical characteristics (height, weight, attributes demonstrative of strength, etc.) of persons employed in the position for which the BFOQ is claimed, where possessing such characteristics is raised as part of the employer's BFOQ defense.
+(3) Obtain specific statements and evidence relating to the standards, if any, that are used to disqualify persons applying for the position. The absence of any standards should also be noted. Managerial or administrative inconvenience will not support a BFOQ claim.
+A cause finding will result if the respondent employer fails to prove that: (i) the essence of the business would be undermined by employing members of the excluded sex, and (ii) all or substantially all members of the excluded sex are unable to perform the essential duties of the job in question. (See §625.4(b) above.)
+(d)
+The Sex BFOQ Claim Based on "Ability to Perform" in Particular Jobs
+(1)
+Airline Flight Attendant
+- Female sex is not a BFOQ for employment as a flight cabin attendant. Customer preference does not establish a BFOQ. Commission Decision Nos. 70-37 and 70-89, CCH EEOC Decisions (1973) ¶¶6051 and 6063, respectively;
+Diaz v. Pan American World Airways Inc.
+, 442 F.2d 385, 3 EPD ¶8166 (5th Cir. 1971),
+cert. denied
+, 404 U.S. 950, 4 EPD ¶7560 (1971); and
+Wilson v. Southwest Airlines Inc.
+, 517 F. Supp. 292, 26 EPD ¶31,949 (N.D. Tex. 1981).
+(2)
+Airline Purser
+- Respondent hired only males for its purser jobs. Respondent made no showing that the male sex is a BFOQ for the job. Held: Cause; refusal to hire female pursers violated Title VII. Commission Decision No. 72-0284, CCH EEOC Decisions (1973) ¶6304.
+(3)
+Bartender
+- Male sex is not a BFOQ reasonably necessary to the business of tending bar.
+McCrimmon v. Daley
+, No. 68 C 1665, 2 EPD ¶10,291 (N.D. Ill. Mar. 31, 1970).
+(4)
+Baseball Umpire
+- Male sex is not a BFOQ for such a position.
+New York State Division of Human Rights on the Complaint of Bernice Gera v. New York-Pennsylvania Professional Baseball League
+, 36 A.D. 2d 364, 3 EPD ¶8208 (N.Y. App. Div. 1971),
+aff'd
+, 29 N.Y.2d 921, 329 N.Y.S.2d 99, 4 EPD ¶7641 (1972).
+(5)
+Casino Dealer
+- Title VII supersedes a city resolution forbidding the employment of females as dealers. Commission Decision No.71-77, CCH EEOC Decisions (1973) ¶6161.
+(6)
+Courier Guard
+- Customer preference does not establish a BFOQ. Commission Decision No. 70-11, CCH EEOC Decisions (1973) ¶6025.
+(7)
+Lifeguard
+- The fact that among a lifeguard's duties was the cleaning of locker rooms did not make being a male a BFOQ for that position. Commission Decision No. 70-286, CCH EEOC Decisions (1973) ¶6077.
+(8)
+Male Nurse
+- Respondent's policy of refusing to consider male applicants for nursing positions does not fall within the BFOQ exception. Held: Cause. Commission Decision No. 71-2410, CCH EEOC Decisions (1973) ¶6282.
+But cf. Fesel v. Masonic Home of Delaware Inc.
+, cited and discussed at §625.9(d)(1) below (BFOQ exception upheld for female nurse's aide).
+(9)
+Maritime Industry
+- For a complete discussion of the various bases for claiming male sex as a BFOQ in the maritime industry, see Commission Decision Nos. 70-375 and YNY 9-047, CCH EEOC Decisions (1973) ¶¶6081 and 6010, respectively (no BFOQ exception in either case).
+(10)
+Outside Claims Job (Insurance Company)
+- As a matter of law, sex is not a BFOQ for "outside" claims jobs. Commission Decision No.72-0996, CCH EEOC Decisions (1973) ¶6333.
+(11)
+Outside Classified Sales Position (Newspaper)
+- Male sex is not a BFOQ for the position. Commission Decision No. 72-0066, CCH EEOC Decisions (1973) ¶6296.
+(12)
+Race Track Driver
+- Respondents introduced no evidence that all or nearly all females are unable to perform as race car drivers, making the male sex a BFOQ reasonably necessary for the normal operation of the job. Held: Cause. Commission Decision No. 71-2088, CCH EEOC Decisions (1973) ¶6250.
+(13)
+Truck Driver
+- Respondent refused to hire females as truck drivers unless they were married and their husbands were also employed by respondent as truck drivers. Held: Respondent failed to establish that its restrictive policy fell within the narrow BFOQ exception. Commission Decision No. 71-2048, CCH EEOC Decisions (1973) ¶6244. (See also Commission Decision No. 72-0644, CCH EEOC Decisions (1973) ¶6315.)
+625.7
+The Same-Sex BFOQ: Protecting Client/Customer Interests
+-
+A same-sex BFOQ is applicable where the normal operation of an employer's business depends on an employee's being of the same sex as the employer's clients or customers with whom the employee must work. Such BFOQ claims are usually premised on the employer's need to protect the privacy interests or meet the psychological needs of its customers or clients. Same-sex BFOQ cases generally fall into three major categories:
+(a)
+Same-Sex Role Models
+-
+The employer in these cases seeks to restrict a particular job to being held exclusively by members of one sex in order to meet the psychological needs of its clients of that sex. The "clients" are usually persons requiring some type of mental or social training or rehabilitation. For example, the employer might contend that only males should be allowed on the staff of a dormitory for mentally retarded young men.
+(b)
+"Contact" Positions in Institutional Settings
+-
+The positions involved in these cases are generally in prisons, hospitals, mental health facilities, and homes for the aged or infirm, where the duties of the cited job involve physical contact with or visual observation of the client (inmate) by the employee and a potential invasion of the client/inmate's privacy. For example, the duties of a prison guard's job might include conducting skin searches of prisoners and observing prisoners while they shower, and the duties of some hospital personnel might involve bathing patients. Because of the nature of these duties, the employer might claim a same-sex BFOQ for the position.
+(c)
+"Contact" Positions in Sexually Segregated Establishments
+-
+Typically, the employer in these cases anticipates that for privacy reasons its paying customers or clients would object to having a member of the opposite sex provide services entailing physical contact or visual observation. Consequently, the employer might limit positions involving such services to being held exclusively by employees of the same sex as the customers. For example, the employer might hire only female fitting room attendants to serve the customers of a women's clothing store.
+625.8
+Same-Sex Role Models
+(a)
+Investigating the BFOQ Claim for Same-Sex Role Models
+-
+Where an employer alleges the necessity of meeting the psychological needs of its clients by providing them with a same-sex role model, the EOS should:
+(1) Ascertain whether providing a same-sex role model to fill the psychological needs of clients is necessary to the normal operation of the employer's business. For example, assume the employer is a job training center for ex-convicts who report for instruction twice each week. The employer may contend that its clients, the ex-convicts, need a same-sex role model to help counsel them in matters related to sexual behavior. However, the employer's business is essentially job training, not sex counseling. Therefore, having same-sex role models is not necessary to the conduct of the employer's business.
+(2) Obtain medical evidence from the employer that the employer's clients have psychological needs for a same-sex role model. This evidence is the main element in a same-sex role model investigation and must be in the form of a written statement or affidavit provided by a doctor, psychiatrist, or psychologist. The certifying medical officer may be a member of the employer's staff. This evidence should not be questioned by the EOS.
+(3) Although a no cause finding might be based on the medical evidence alone, determine whether the exception must apply to all persons in the job category for which the BFOQ is claimed or whether the employer's needs can be met by having a limited number of same-sex personnel in the position.
+(4) Determine how many positions on the employer's staff have the potential of being filled by role models and seek evidence as to which of these positions are actually filled with role models and why the others, if any, are not.
+(5) List the duties of the employee designated as the role model and determine whether and how often the duties of the job bring the employee in contact with the client.
+Note
+: A charge might also involve an alleged need for
+opposite
+-sex role models, either as part of the evidence to defeat a same-sex BFOQ claim or as a separate BFOQ claim. Where an employer claims a BFOQ only for same-sex role models, the EOS should additionally obtain medical evidence from the employer on whether the clients have a psychological need for opposite-sex role models as well and, if so, whether and how such a need is being met. Where an employer claims a BFOQ for opposite-sex role models, the EOS should follow the investigative procedure outlined above, substituting "opposite-sex" for "same-sex."
+A cause finding will result unless the respondent employer shows that: (i) based on medical evidence of the type described above, providing a same-sex role model to meet the psychological needs of its clients is necessary to the normal operation of respondent's business, and (ii) it is not feasible to meet these needs without excluding persons of the opposite sex from the clients from consideration for the position in question. A cause finding would be supported by evidence that these psychological needs can be met without a total exclusion of opposite-sex personnel. For example, where it is feasible for respondent to restructure the job duties so that a member of either sex could fill the position and to have a limited number of same-sex personnel perform the role-model functions, then the BFOQ exception does not apply.
+(b)
+Commission Decisions Involving the BFOQ Claim for Same-Sex Role Models
+(1) Respondent, a temporary detention facility for delinquent youths, denied female charging party a lateral transfer to Group Leader I (child care worker) in the facility's male unit, claiming a same-sex BFOQ for the position. Respondent's claim was based on, among other reasons, the alleged need to provide its male detainees with role models. Held: Cause; respondent presented no evidence that providing a same-sex role model to meet the psychological needs of its detainees was reasonably necessary to the normal operation of its business; moreover, females had successfully served as group leaders for male detainees for a three-year period in the recent past. Commission Decision No. 82-4 (unpublished). (For a discussion of respondent's BFOQ claim based on security and privacy reasons, see §625.9(a) and (d)(7) below.)
+(2) Respondent hospital refused to hire a female as a psychiatric orderly, contending that its male patients needed role models and that by hiring only male psychiatric orderlies it was following a state regulation requiring that "an adequate number of males" be hired in each psychiatric unit. Held: Cause; respondent's alleged need to provide role models for male patients was pretextual since respondent had not sexually integrated any of its six other job classifications in order to provide role models or to meet the dictates of the statute requiring the employment of "an adequate number of males." Commission Decision No. 80-25 (unpublished).
+(3) Respondent claimed a same-sex BFOQ for the position of counselor-teacher of mentally retarded young adults as a medical necessity to meet the needs of the clients who "harbor anxieties about members of the opposite sex and manifest keen confusion about their own sexual identity." Held: No Cause; it is essential for both male and female counselors to be available to cope with same-sex clients in toilet training, care during the menses, procedures for dressing, and consultation about sexual behaviors. Commission Decision No. 76-130, CCH Employment Practices Guide ¶6692.
+(4) Respondent sought to justify its selection of a male to operate a headstart program by arguing that children in the program needed a "male image" in their lives. Held: Cause; a female had performed adequately in the job in question, and the duties involved only minimal contact with the children. Commission Decision No. LA 68-4-538E, CCH EEOC Decisions (1973) ¶6125.
+625.9
+"Contact" Positions in Institutional Settings
+-
+"Contact" positions are jobs in which the employee's duties include physical contact with or visual observation of the clients/inmates. As used in the context of this section, institutional settings are facilities designed to confine persons removed from the mainstream of society as a result of, for example, criminal conviction, delinquent behavior, mental or physical illness or infirmity, or advanced age. They include, but are not limited to, prisons, reformatories, mental institutions, hospitals, and homes for the aged or infirm.
+In such institutional settings, "contact" positions usually involve duties that have a potential for invading the privacy interests of the clients/inmates (
+e.g.
+, prison guard positions may include a duty to conduct skin searches of inmates or to observe inmates while they shower). Most same-sex BFOQ claims involving "contact" positions are based on the employer's alleged need to protect the privacy of the clients or to maintain institutional security.
+In comparison with the same-sex role model BFOQ exception, which is based on the psychological needs of clients, the "contact" position BFOQ exception is harder to prove.
+(a)
+Investigating the Same-Sex BFOQ Claim for "Contact" Positions in Institutional Settings
+-
+In investigating a charge involving a same-sex BFOQ claim for a "contact" position in an institutional setting, the EOS should:
+(1) List the reasons (including privacy and security considerations) cited by the employer for excluding members of one sex from consideration for the "contact" position in question.
+(2) Determine the duties of the position and the specific nature and frequency of the "contact" involved (that is, the extent to which the duties of the job actually require the employee to touch or observe the clients/inmates).
+(3) Identify the essence of the employer's business. (See the discussion of "essence" at §625.4(b)(2) above.)
+(4) Determine whether the essence of the business would be undermined if the employer did not employ exclusively members of the given sex.
+(i) In making this determination, consider whether there is any characteristic or quality peculiar to the given sex which makes employing a member of that sex essential to the normal operation of the employer's business. This determination should not hinge upon privacy considerations or conventional notions of decency (
+e.g.
+, females should not be permitted in the presence of nude males).
+(ii) Also consider whether there is any reason or factor that would prevent a member of the excluded sex from being able to perform the job in question. If members of the excluded sex are unable to perform a given job function, that inability is not significant unless the function is essential to the employer's business. (See §625.4(b)(3) above.)
+(5) For a discussion of how privacy considerations, if any are raised, affect the final determination of whether the essence of the business would be undermined by employing members of both sexes, see ¶625.9(d) below. Where client/inmate privacy rights are asserted, the EOS should additionally determine whether it would be feasible for the employer to protect the privacy rights without totally excluding members of one sex from the "contact" position by, for example, (i) assigning job responsibilities in a selective manner, (ii) making structural modifications in the facilities, such as adding privacy screens or installing translucent shower stalls, or (iii) providing appropriate garments or covers.
+(6) Ascertain whether the job in question has been successfully performed by members of the excluded sex without impairing the normal operation of the business, either for the employer or for employers with similar businesses.
+(7) Interview persons who hold or have held the job to ascertain whether being a member of the given sex is necessary for successful performance of the job.
+A cause finding will result from a showing that the essence of the respondent's business would not be undermined by employing members of both sexes. Such a showing would be supported by evidence that the performance of the "contact" position's duties does not depend upon a characteristic peculiar to one sex and that at least some members of the excluded sex can perform or have performed successfully the duties of the job in question without impairing the normal operation of the business, even if such performance is or has been with another employer whose business is essentially similar to that of the respondent.
+See, for example, Commission Decision No. 82-4 (unpublished) in which the Commission rejected respondent's BFOQ claim based, in part, on institutional security reasons. Respondent, a temporary detention facility for delinquent youths, argued that employing females as group leaders in its male unit would present a security risk because detainees had been known to assault and overpower male group leaders and because there was a constant risk of escape attempts by male detainees. However, respondent had previously successfully employed females as group leaders in its male unit over a three-year period, and it failed to show that present employment of female group leaders would pose any greater risk of a security breach than in the past. The Commission noted that respondent's reliance on the
+Dothard
+case, discussed immediately below was misplaced. (For a discussion of respondent's BFOQ claim based on privacy considerations and on the need to provide same-sex role models, see §625.9(d)(7) and §625.8(b)(1), respectively.)
+Largely because the U.S. Supreme Court case
+Dothard v. Rawlinson
+involved a defense based on the BFOQ exception as applied to prison guard positions in Alabama's all-male maximum security prisons, it is a common misconception that the case settled once and for all the question of excluding female guards from male prison settings. Because such a misconception exists, the
+Dothard
+case, as summarized below, is distinguished here from other types of sex BFOQ cases involving prisons.
+(b)
+Dothard v. Rawlinson Distinguished
+-
+In a landmark case,
+Dothard v. Rawlinson
+, 433 U.S. 321, 14 EPD ¶7632 (1977), the U.S. Supreme Court examined the issue of a same-sex BFOQ for "contact" positions in Alabama's maximum security, all-male prisons. Since the decision was limited to the specific facts of that case,
+Dothard
+'s rationale can be applied to only a select few cases involving the BFOQ exception for "contact" positions in prisons.
+The
+Dothard
+case stemmed from the Alabama Board of Corrections' rejection of Dianne Rawlinson's employment application. Rawlinson, then a 22-year-old college graduate who had majored in correctional psychology, had applied for a position as a correctional counselor (prison guard) and was rejected for failing to meet the minimum 120-pound weight requirement established by a state statute (which also established a height minimum of 5 feet, 2 inches). Rawlinson filed a sex discrimination charge with the EEOC, received a right-to-sue letter, and then filed a class complaint in the federal district court, challenging the statutory height and weight minimums as violative of Title VII and the Fourteenth Amendment.
+While the suit was pending, the Alabama Board of Corrections adopted Administrative Regulation 204, establishing gender criteria for correctional counselor "contact" positions in maximum security prisons. Because most of Alabama's prisoners were held in all-male maximum security prisons and most correctional counselor jobs fell within the "contact" position classification, the effect of the regulation was to disqualify women from competing with men for about 75% of the available correctional counselor jobs. Rawlinson amended her class-action complaint to include a challenge to Regulation 204.
+The district court decided the case in Rawlinson's favor. The United States Supreme Court affirmed the district court's holding that the statutory height and weight requirements violated Title VII but reversed the lower court's rejection of the BFOQ defense. Although the Supreme Court noted that the BFOQ exception was intended to be an extremely narrow exception to the general prohibition against sex discrimination, the Court found that Regulation 204 fell within that narrow exception because of the particular factual circumstances of the case.
+In reaching its decision, the Court considered the nature of Alabama's prison system, where the conditions had been held by a federal district court to be in violation of the U.S. Constitution. There, violence was the order of the day, every institution was overcrowded and understaffed, inmate access to guards was facilitated by dormitory living arrangements, inmates were not segregated according to their offense or level of dangerousness, a substantial portion of the inmate population consisted of sex offenders mixed at random with other prisoners, and the evidence showed attacks on women in the prisons. In such a setting, characterized by "rampant violence" and a "jungle atmosphere," the Court concluded that a female guard's very womanhood would directly undermine her capacity to provide the security that is the essence of a correctional counselor's responsibility. The Court noted, however, that Alabama's prisons were not typical and that women guards were successfully used in all-male prisons elsewhere.
+Applying the Supreme Court's
+Dothard
+analysis, the Court of Appeals for the Eighth Circuit affirmed the lower court's rejection of a BFOQ claim for a correctional officer position in an Iowa medium security reformatory for men (described by the lower court as "no rose garden").
+Gunther v. Iowa State Men's
+Reformatory
+, 612 F.2d 1079, 22 EPD ¶30,564 (8th Cir. 1980),
+cert. denied
+, 446 U.S. 966, 23 EPD ¶30,923 (1980). The court noted that the lower court properly distinguished the facts before it from those before the Supreme Court in
+Dothard
+. (For a further discussion of the
+Gunther
+case, see §625.9(d)(2) below.)
+(c)
+Investigating Dothard-Type Charges
+-
+Where a same-sex BFOQ claim is made for a "contact" position in a prison because use of opposite-sex personnel would endanger prison security, the EOS should:
+(1) List the specific ways cited by prison officials in which use of opposite-sex personnel would affect prison security.
+(2) Determine the duties involved in the "contact" position in question and the specific nature and frequency of the "contact" involved.
+(3) Determine the nature and extent of inmate access to employees in these "contact" positions.
+(4) Determine whether the prison is understaffed and overcrowded.
+(5) Determine whether inmates are segregated according to their offense or level of dangerousness.
+(6) Determine what percentage of the prison population is composed of sex offenders and whether sex offenders are segregated from other prisoners.
+(7) Determine whether there is any evidence of violence in the prison and, particularly, of inmate attacks on guards. If there is, ascertain the nature and extent of such violence.
+(8) Determine whether there is any evidence of violence directed specifically at persons of the opposite sex from the inmates, whether employees or non-employees of the prison.
+(9) Interview persons who hold or have held "contact" positions in the prison to determine the requirements of the job and the effect of violence, if any, on the employee's ability to successfully maintain security and control.
+(10) Ascertain whether the respondent prison or similarly situated prisons have successfully employed members of the excluded sex in "contact" positions.
+A cause finding will result from evidence that employing members of the excluded sex in "contact" positions would not threaten prison security.
+(d)
+Commission Decisions and Court Cases Involving the Sex BFOQ Defense Based on Privacy Rights in Institutional Settings
+-
+An employer's exclusion of members of one sex from consideration for "contact" positions is often based, in whole or in part, on the employer's perception of the privacy interests of its clients or customers. As discussed below, there are instances where the privacy rights asserted by the employer have justified otherwise unlawful sex discrimination. However, the Commission and the courts recognize that successful application of the BFOQ exception in such instances depends on an employer's ability to make an additional showing: that due to the nature of the operation of the business, it would not be feasible to, for example, assign job responsibilities in a selective manner or to make structural modifications in the facilities, such as adding privacy screens or installing translucent shower stalls, or to provide appropriate garments or covers in order to avoid a potential invasion of the privacy interests of the clients or customers. Failure to make such a showing defeats the BFOQ claim because the total exclusion of members of one sex is
+not
+"reasonably necessary to the normal operation of that particular business or enterprise," as required by §703(e)(1).
+Although there is a similarity between the judicially created "business necessity" test and the analysis of the statutory BFOQ exception as applied in these privacy cases, the two should not be confused. Where it is feasible for an employer to ensure the alleged privacy interests of its clients or customers without overtly discriminating in violation of Title VII, the employer cannot rely on the BFOQ exception. The following Commission decisions and court cases apply this analysis to the employer's BFOQ claim for "contact" positions in an institutional setting.
+(1) The employer, a residential retirement home, refused to hire a male nurse's aide. The evidence showed that 22 of the 30 residents of the home were females; that many would not consent to intimate personal care from a male; and that, because of the nature of the home's operation and the small size of the staff, the employer could not assure that there would always be at least one female aide on duty in every shift to attend to the personal care needs of objecting female residents. In the narrow circumstances of that case, the court found that the employer successfully established a BFOQ defense based on privacy interests by meeting the burden of proof:
+...[W]hen an employer defends a sex discrimination action by raising the privacy interests of its customers as the basis for a BFOQ defense, that employer must prove not only that it had a factual basis for believing that the hiring of any members of one sex would directly undermine the essence of the job involved or the employer's business, but also that it could not assign job responsibilities selectively in such a way that there would be minimal clash between the privacy interests of the customers and the nondiscrimination principle of Title VII.
+Fesel v. Masonic Home of Delaware, Inc.
+, 447 F. Supp. 1346, 1350-51, 16 EPD ¶8244 (D. Del. 1978),
+aff'd
+, 591 F.2d 1334, 19 EPD ¶9262 (3d Cir. 1979).
+(2) The employer, a medium security reformatory in Iowa, denied a female correctional officer promotion from the level of CO I to CO II because of her sex, alleging security and privacy considerations. The court found that the employer failed to justify the BFOQ claim on either ground. On the privacy issue the court noted that there were female CO II's at the state maximum security prison who performed limited duties (eliminating the need for a BFOQ for the entire CO II classification), that a comparison of the CO I and CO II job descriptions did not indicate that there were more "contact" duties in the CO II position, that administrative changes had allowed female CO I's to perform limited functions without unduly disrupting the system or invading inmate privacy, that there were at least as many CO II as CO I functions which could be similarly performed, and that work schedules had been adjusted in the past to accommodate certain male CO II's. In light of such evidence, the court concluded that the employer failed to meet the burden of proof set forth in
+Fesel
+, discussed above: that it could not reasonably rearrange job responsibilities in a way to minimize the clash between the inmates' privacy interests and the nondiscrimination principle of Title VII. "Title VII requires administrative necessity, not merely administrative inconvenience, to satisfy the BFOQ exception."
+Gunther v. Iowa State Men's Reformatory
+, 612 F.2d 1079, 1087, 22 EPD ¶30,564 (8th Cir. 1980),
+cert.
+denied
+, 446 U.S. 966, 23 EPD ¶30,923 (1980).
+(3) In a case brought by female inmates, the court held that it was not necessary to exclude male prison guards from nighttime cell block duty in order to protect the female inmates' privacy rights. The court noted: "Resolution of [privacy rights versus employment rights] cases requires a careful inquiry as to whether the competing interests can be satisfactorily accommodated before deciding whether one interest must be vindicated to the detriment of the other." The court found that permitting the female inmates to cover their cell windows for short intervals at night, as was permitted during the day, and providing appropriate sleepwear would adequately protect their privacy interests. Moreover, the employer had already been ordered to make minor structural alterations (installing translucent shower screens) and changes in work assignments in the interest of daytime privacy and had indicated its willingness to institute the necessary changes for nighttime privacy.
+Forts v. Ward
+, 621 F.2d 1210, 1216-17, 23 EPD ¶30,935 (2d Cir. 1980).
+(4) In reviewing the district court's decision in
+Mieth v. Dothard
+, 418 F. Supp. 1169, 12 EPD ¶11,040 (M.D. Ala. 1976),
+sub
+nom
+.
+Dothard v. Rawlinson
+, discussed above at §625.9(b), the Supreme Court did not reach the privacy issue which had been raised below as a justification for excluding female correctional officers from "contact" positions in Alabama's all-male maximum security prisons. The lower court found that privacy considerations did not warrant the exclusion of women.
+This Court is of the opinion that this tension between the individual's right to employment without regard to his or her sex and the inmate's right to privacy can be resolved by selective work responsibilities among correctional officers rather than by selective job classifications.... We are convinced that procedures may be arranged so as to alleviate much of the legitimate inmate concern for privacy, short of denying women the job.
+Mieth v. Dothard
+, 418 F. Supp. at 1185. In his dissent in
+Dothard
+, Justice Marshall addressed the issue briefly: "As the District Court suggested, it may well be possible...to rearrange work assignments so that legitimate inmate privacy concerns are respected without denying jobs to women."
+Dothard v. Rawlinson
+, 433 U.S. at 346, n. 5.
+(5) The court held that the exclusion of female correctional officers from institutions for male prisoners discriminated against women in violation of Title VII. The court further held that selective work responsibilities which excluded women from dormitory assignments and shake-down duties was reasonable to insure inmate privacy and did not discriminate against women.
+Reynolds v. Wise
+, 375 F. Supp. 145, 8 EPD ¶9778 (N.D. Tex. 1974).
+(6) Respondent refused to consider male applicants for nursing positions in its convalescence home for senior citizens and contended that it was necessary to have an all-female nursing staff since approximately three-fourths (over 2,000) of its patients were females. Respondent provided no evidence that its female patients would object to treatment by male nurses, and it stated that its male patients never objected to treatment by female nurses. The Commission found that the fact that three-quarters of the patients were female was not, in law, a sufficient basis for invoking the BFOQ exception. Further, even if respondent had demonstrated that its female patients were prejudiced against male nurses, it could not lawfully act on that prejudice unless it had shown that all or nearly all of its patients shared that prejudice
+and
+that the prejudice made it impossible for all or nearly all male nurses to successfully perform the essential elements of the job. The Commission noted that "...although there may well be occasions when a particular patient's psychological needs require that a nurse of a particular sex be assigned to that patient, accommodation of that fact obviously would not justify the total exclusion of males (or females) from the nursing profession." Commission Decision No. 71-2410, CCH EEOC Decisions (1973) ¶6282 (noted with approval by the court in
+Fesel
+, discussed above).
+(7) Respondent, a temporary detention facility for delinquent youths, denied female charging party a lateral transfer to Group Leader I (child care worker) in the facility's male unit, claiming a same-sex BFOQ on the ground, among others, that the presence of females in the male unit would compromise the male detainees' right to privacy. However, the record showed that (i) respondent had successfully employed women as group leaders in the male unit for a three-year period, (ii) during that time, male detainees were issued bathrobes to wear in the living and sleeping quarters of the home, and (iii) back-up male group leaders were called in to conduct skin searches and to supervise shower and toilet activities. While these procedures were utilized, there was no conflict between the male detainees' privacy rights and the female employees' Title VII rights, as demonstrated by the fact that none of the female group leaders in the male unit ever encountered a male detainee who was completely nude. In light of the record and respondent's failure to present any evidence that the manner in which the job had been structured during that three-year period could not presently be employed, the Commission found that respondent did not establish a BFOQ defense based on privacy. Commission Decision No. 82-4 (unpublished). (For a discussion of respondent's BFOQ claim based on security reasons and on the need to provide same-sex role models, see §625.9(a) and §625.8(b)(1), respectively.)
+625.10
+"Contact" Positions in Sexually Segregated Establishments
+-
+Within the meaning of this section, a sexually segregated establishment is characterized mainly by the presence of paying customers usually of the same sex (
+e.g.
+, a women's dress shop). A "contact" position in a sexually segregated establishment is a job whose duties bring the employee into physical proximity with a paying customer and include touching and visual observation of the customer. Because of the physical interaction involved in the position, an employer may contend that a same-sex BFOQ is warranted to prevent a potential invasion of the customer's privacy. For example, the owner of a dress shop might claim that being female is a BFOQ for the job of dressing room attendant.
+In investigating a charge involving a same-sex BFOQ claim for a "contact" position in a sexually segregated establishment, the EOS should:
+(a) List the reasons cited by the employer for excluding members of one sex from consideration for the position involved.
+(b) Where privacy considerations are asserted, itemize the specific ways in which use of opposite-sex personnel would allegedly invade the privacy of customers.
+(c) Determine the duties involved in the "contact" position in question, and note to what extent these duties actually require the employee to touch or observe the customer.
+(d) Identify the essence of the employer's business. (See the discussion of essence at §625.4(b)(2) above.)
+(e) Determine whether the essence of the business would be undermined if the employer did not employ exclusively members of the given sex.
+In making this determination, consider whether there is any characteristic or quality peculiar to the given sex which makes employing a member of that sex essential to the normal operation of the employer's business. This determination should not hinge upon privacy considerations or conventional notions of decency.
+(f) For a discussion of how privacy considerations, if any are raised, affect the final determination of whether the essence of the business would be undermined by employing members of both sexes, see §625.9(d) above. Where customer privacy rights are asserted, the EOS should additionally determine whether it would be feasible for the employer to protect the privacy rights without totally excluding members of one sex from the "contact" position by, for example, (i) assigning job responsibilities in a selective manner, (ii) making structural modifications in the facilities, such as adding privacy screens or installing translucent shower stalls, or (iii) providing appropriate garments or covers.
+(g) Ascertain whether the job in question has been successfully performed by members of the excluded sex without impairing the normal operation of the business, either for the employer or for employers with similar businesses.
+(h) Interview persons who hold or have held the job to ascertain whether being a member of the given sex is necessary for successful performance of the job.
+A cause finding will result from a showing that the essence of the respondent's business would not be undermined by employing members of both sexes. Such a showing would be supported by evidence that at least some members of the excluded sex can perform or have performed successfully the duties of the "contact" position in question without impairing the normal operation of the business, even if such performance is or has been with another employer whose business is essentially similar to that of the respondent.
+[1]
+Section 703(e)(1) of Title VII, 42 U.S.C. §2000e-2(e)(1) (1976 & Supp. II 1978), provides:
+Notwithstanding any other provision of this title, (1) it shall not be an unlawful employment practice for an employer to hire and employ employees, for an employment agency to classify or refer for employment any individual, for a labor organization to classify its membership or to classify or refer for employment any individual, or for an employer, labor organization, or joint labor-management committee controlling apprenticeship or other training or retraining programs to admit or employ any individual in any such program, on the basis of his religion, sex, or national origin in those certain instances where religion, sex, or national origin is a bona fide occupational qualification reasonably necessary to the normal operation of that particular business or enterprise. . .
+[2]
+As used in this manual section, the term "employer" refers to an employer, an employment agency, a labor organization, or a joint labor-management committee controlling apprenticeship or other training or retraining programs.
+[3]
+Although race cannot be a BFOQ, if an employer responds to a charge of race discrimination by alleging the necessity of considering race for purposes of authenticity or genuineness, that issue is non-CDP and the investigator should contact Coordination and Guidance Services, Office of Legal Counsel for further instructions. (See note 5 below and 29 C.F.R. §1604.2(a)(2) (1980) for the Commission's position on this issue with regard to a sex BFOQ claim.)
+[4]
+See,
+e.g.
+,
+Weeks v. Southern Bell Telephone and Telegraph Company
+, 408 F.2d 228, 1 EPD ¶9970 (5th Cir. 1969), and discussion at §625.4(a).
+[5]
+Section 1604.2(a) of the Commission's Guidelines on Discrimination Because of Sex, at 29 C.F.R. §1604.2(a) (1980), provides:
+The Commission believes that the bona fide occupational qualification exception as to sex should be interpreted narrowly. Labels -- "men's jobs" and "women's jobs" -- tend to deny employment opportunities unnecessarily to one sex or the other.
+(1) The Commission will find that the following situations do not warrant the application of the bona fide occupational qualification exception:
+(i) The refusal to hire a woman because of her sex based on assumptions of the comparative employment characteristics of women in general. For example, the assumption that the turnover rate among women is higher than among men.
+(ii) The refusal to hire an individual based on stereotyped characterizations of the sexes. Such stereotypes include, for example, that men are less capable of assembling intricate equipment; that women are less capable of aggressive salesmanship. The principle of nondiscrimination requires that individuals be considered on the basis of individual capacities and not on the basis of any characteristics generally attributed to the group.
+(iii) The refusal to hire an individual because of the preferences of co-workers, the employer, clients or customers except as covered specifically in subparagraph (2) of this paragraph.
+(2) Where it is necessary for the purpose of authenticity or genuineness, the Commission will consider sex to be a bona fide occupational qualification,
+e.g.
+, an actor or actress.
+[6]
+Dothard v. Rawlinson
+, 433 U.S. 321, 14 EPD ¶7632 (1977).
+[7]
+Dothard
+, 433 U.S. at 333, 14 EPD ¶7632 at 5106-5107.
+[8]
+See,
+e.g.
+Rosenfeld v. Southern Pacific Company
+, 444 F.2d 1219, 3 EPD ¶8247 (9th Cir. 1971).
+[9]
+Section 708 of Title VII, 42 U.S.C. §2000e-7 (1976 & Supp. II 1978), provides:
+Nothing in this title shall be deemed to exempt or relieve any person from any liability, duty, penalty, or punishment provided by any present or future law of any State or political subdivision of a State, other than any such law which purports to require or permit the doing of any act which would be an unlawful employment practice under this title.
+[10]
+The Supremacy Clause of the U.S. Constitution, Article VI, clause 2, states:
+This Constitution, and the Laws of the United States which shall be made in Pursuance thereof; and all Treaties made, or which shall be made, under the authority of the United States, shall be the supreme Law of the Land; and the Judges in every State shall be bound thereby, any Thing in the Constitution of Laws of any State to the Contrary notwithstanding.
+[11]
+Rosenfeld v. Southern Pacific Company
+, 444 F.2d 1219, 3 EPD ¶8247 (9th Cir. 1971).
+[12]
+Sail'er Inn, Inc. v. Kirby
+, 5 Cal. 3d 1, 485 P.2d 529, 95 Cal. Rptr. 529, 3 EPD ¶8222 (1971).
+Return to top
+U.S. Equal Employment Opportunity Commission
+EEOC Headquarters
+131 M Street, NE
+Washington, DC 20507
+1-800-669-6820
+(TTY)
+1-844-234-5122
+(ASL Video Phone)
+Questions?
+Call 1-800-669-4000
+For Deaf/Hard of Hearing callers:
+1-800-669-6820
+(TTY)
+1-844-234-5122
+(ASL Video Phone)
+info@eeoc.gov
+Find your nearest EEOC office
+Connect With Us
+FOIA
+Privacy Policy
+Disclaimer
+Accessibility
+Office of Inspector General
+USA.gov

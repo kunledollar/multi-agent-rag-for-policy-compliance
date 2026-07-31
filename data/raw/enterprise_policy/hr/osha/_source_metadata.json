@@ -1,0 +1,31 @@
+{
+  "key": "osha",
+  "group": "hr",
+  "organization": "Occupational Safety and Health Administration",
+  "authority_type": "federal_guidance",
+  "jurisdiction": "United States",
+  "scope": "Workplace safety and health compliance",
+  "seed_urls": [
+    "https://www.osha.gov/publications/",
+    "https://www.osha.gov/publications/bytype/guidance-documents"
+  ],
+  "allowed_hosts": [
+    "osha.gov",
+    "www.osha.gov",
+    "obis.osha.gov"
+  ],
+  "include_patterns": [
+    "publication",
+    "guidance",
+    "standard",
+    "safety",
+    "health",
+    ".pdf"
+  ],
+  "exclude_patterns": [
+    "/news",
+    "/contact"
+  ],
+  "max_depth": 2,
+  "max_documents": 180
+}

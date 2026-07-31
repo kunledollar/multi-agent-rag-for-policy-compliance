@@ -1,0 +1,595 @@
+Promising Practices for Preventing Harassment | U.S. Equal Employment Opportunity Commission
+Skip to main content
+An official website of the United States government
+Here’s how you know
+Here’s how you know
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive
+information only on official, secure websites.
+U.S. Equal Employment Opportunity Commission
+Menu
+Header Navigation
+Online Filing
+Public Portal
+Attorney E-file
+Locations
+Operating Status
+Languages
+English
+Español (Spanish)
+Resources in Other Languages
+عربي (Arabic)
+简体中文 (Chinese, Simplified)
+繁體中文 - Chinese (Traditional)
+Kreyòl Ayisyen (Haitian Creole)
+한국어 (Korean)
+Русском (Russian)
+Português (Portuguese)
+Tagalog (Tagalog)
+ไทย (Thai)
+Tiếng Việt (Vietnamese)
+فارسی (Persian. Farsi)
+پښتو (Pashto)
+Toggle Search Form
+Any of these words
+(optional)
+Search
+About EEOC
+About EEOC
+Overview
+The Commission and The General Counsel
+Meetings of the Commission
+Commission Votes
+EEOC History
+News and Information
+Newsroom
+What You Should Know
+Legislative Affairs
+Publications
+Outreach and Education
+FOIA
+Laws and Enforcement
+EEOC Legal Resources
+Mediation
+Litigation
+Systemic Enforcement
+Commissioner Charges
+Directed Investigations
+Programs and Performance
+Budget and Performance
+Initiatives
+Interagency Programs
+State and Local Programs
+Task Forces
+Tribal Programs
+Data and Analytics
+Overview
+Data Governance
+EEO Data Collections
+Data and Statistics
+Data Tools and Products
+No FEAR Act Data
+Inside EEOC
+Careers
+Office for Civil Rights
+Doing Business with EEOC
+AI Governance
+Privacy
+Office of Inspector General
+Employees & Job Applicants
+Employees & Applicants
+Overview
+Coverage
+Timeliness
+Prohibited Practices
+Filing a Charge of Discrimination
+Filing a Charge
+How to File
+After You File a Charge
+Confidentiality
+Mediation
+Remedies
+Existing Charges
+Filing a Lawsuit
+Discrimination by Type
+Age
+Disability
+Equal Pay
+Genetic Information
+Harassment
+National Origin Discrimination
+Pregnancy Discrimination
+Race/Color Discrimination
+Religious Discrimination
+Retaliation
+Sex
+Sexual Harassment
+Employers / Small Business
+Employers / Small Business
+Overview
+Coverage
+After a Charge is Filed
+Resolving a Charge
+Commissioner Charges
+Directed Investigations
+Remedies
+Small Business Resource Center
+Small Business Home
+Small Business Requirements
+Frequently Asked Questions
+Tips for Small Businesses
+Making an Employment Decision?
+EEOC Resources
+Small Business Assistance
+Small Business Fact Sheet
+Small Business Videos
+EEOC Glossary
+Contact Us
+Discrimination by Type
+Age
+Disability
+Equal Pay
+Genetic Information
+Harassment
+National Origin
+Pregnancy
+Race/Color
+Religion
+Retaliation
+Sex
+Sexual Harassment
+Prohibited Practices
+Recordkeeping
+EEO Data Collections
+"Know Your Rights" Poster
+Training
+Other Employment Issues
+Federal Sector
+Federal Agencies
+Overview
+Federal EEO Coordination
+Federal Agency EEO Directors
+EEOC Legal Resources
+Management Directives & Federal Sector Guidance
+Federal Training & Outreach
+Resources
+Federal Employees & Job Applicants
+Overview
+Federal Complaint Process
+Federal Sector Alternative Dispute Resolution
+Prohibited Practices
+Resources
+Contact Us
+Contact EEOC
+Find Your Nearest Office
+Office Operating Status
+How to File a Charge
+Public Portal
+Home
+Laws
+guidance
+Promising Practices for Preventing Harassment
+Promising Practices for Preventing Harassment
+Issuing Authority
+This technical assistance document was issued upon approval of the Chair of the U.S. Equal Employment Opportunity Commission.
+OLC Control Number
+EEOC-NVTA-2017-2
+Concise Display Name
+Promising Practices for Preventing Harassment
+Issue Date
+11-21-2017
+General Topics
+Harassment, Race, Color, Sex, National Origin, Religion, Age, Disability, Genetic Information
+Summary
+This document addresses promising practices to assist employers in preventing and addressing harassment, based on the 2016 Report of the Co-Chairs of EEOC's Select Task Force on the Study of Harassment in the Workplace.
+Citation
+Title VII, ADEA, ADA, Rehabilitation Act, 29 CFR Part 1601, 29 CFR Part 1604, 29 CFR Part 1605, 29 CFR Part 1606, 29 CFR Part 1625, 29 CFR Part 1630, 29 CFR Part 1635
+Document Applicant
+Employees, Employers, Applicants, HR Practitioners
+Previous Revision
+No
+Disclaimer
+The contents of this document do not have the force and effect of law and are not meant to bind the public in any way. This document is intended only to provide clarity to the public regarding existing requirements under the law or agency policies.
+As many employers recognize, adopting proactive measures may prevent harassment from occurring. Employers implement a wide variety of creative and innovative approaches to prevent and correct harassment.
+[1]
+The Report of the Co-Chairs of EEOC's Select Task Force on the Study of Harassment in the Workplace ("Report") identified five core principles that have generally proven effective in preventing and addressing harassment:
+Committed and engaged leadership;
+Consistent and demonstrated accountability;
+Strong and comprehensive harassment policies;
+Trusted and accessible complaint procedures; and
+Regular, interactive training tailored to the audience and the organization.
+[2]
+The Report includes checklists based on these principles to assist employers in preventing and responding to workplace harassment.
+[3]
+The promising practices identified in this document are based primarily on these checklists.
+[4]
+Although these practices are not legal requirements under federal employment discrimination laws, they may enhance employers' compliance efforts.
+[5]
+A.
+Leadership and Accountability
+The cornerstone of a successful harassment prevention strategy is the consistent and demonstrated commitment of senior leaders to create and maintain a culture in which harassment is not tolerated. This commitment may be demonstrated by, among other things:
+Clearly, frequently, and unequivocally stating that harassment is prohibited;
+[6]
+Incorporating enforcement of, and compliance with, the organization's harassment and other discrimination policies and procedures into the organization's operational framework;
+[7]
+Allocating sufficient resources for effective harassment prevention strategies;
+Providing appropriate authority to individuals responsible for creating, implementing, and managing harassment prevention strategies;
+Allocating sufficient staff time for harassment prevention efforts;
+Assessing harassment risk factors and taking steps to minimize or eliminate those risks;
+[8]
+and
+Engaging organizational leadership in harassment prevention and correction efforts.
+[9]
+In particular, we recommend that senior leaders ensure that their organizations:
+Have a harassment policy that is comprehensive, easy to understand, and regularly communicated to all employees;
+[10]
+Have a harassment complaint system that is fully resourced, is accessible to all employees, has multiple avenues for making a complaint, if possible, and is regularly communicated to all employees;
+[11]
+Regularly and effectively train all employees about the harassment policy and complaint system;
+[12]
+Regularly and effectively train supervisors and managers about how to prevent, recognize, and respond to objectionable conduct that, if left unchecked, may rise to the level of prohibited harassment;
+[13]
+Acknowledge employees, supervisors, and managers, as appropriate, for creating and maintaining a culture in which harassment is not tolerated and promptly reporting, investigating, and resolving harassment complaints;
+[14]
+and
+Impose discipline that is prompt, consistent, and proportionate to the severity of the harassment and/or related conduct, such as retaliation, when it determines that such conduct has occurred.
+In addition, we recommend that senior leaders exercise appropriate oversight of the harassment policy, complaint system, training, and any related preventive and corrective efforts, which may include:
+Periodically evaluating the effectiveness of the organization's strategies to prevent and address harassment, including reviewing and discussing preventative measures, complaint data, and corrective action with appropriate personnel;
+[15]
+Ensuring that concerns or complaints regarding the policy, complaint system, and/or training are addressed appropriately;
+Directing staff to periodically, and in different ways, test the complaint system to determine if complaints are received and addressed promptly and appropriately; and
+Ensuring that any necessary changes to the harassment policy, complaint system, training, or related policies, practices, and procedures are implemented and communicated to employees.
+To maximize effectiveness, senior leaders could seek feedback about their anti-harassment efforts. For example, senior leaders could consider:
+Conducting anonymous employee surveys on a regular basis to assess whether harassment is occurring, or is perceived to be tolerated;
+[16]
+and
+Partnering with researchers to evaluate the organization's harassment prevention strategies.
+B.
+Comprehensive and Effective Harassment Policy
+A comprehensive, clear harassment policy that is regularly communicated to all employees is an essential element of an effective harassment prevention strategy. A comprehensive harassment policy includes, for example:
+A statement that the policy applies to employees at every level of the organization, as well as to applicants, clients, customers, and other relevant individuals;
+[17]
+An unequivocal statement that harassment based on, at a minimum, any legally protected characteristic is prohibited;
+[18]
+An easy to understand description of prohibited conduct, including examples;
+A description of any processes for employees to informally share or obtain information about harassment without filing a complaint;
+[19]
+A description of the organization's harassment complaint system, including multiple (if possible), easily accessible reporting avenues;
+[20]
+A statement that employees are encouraged to report conduct that they believe may be prohibited harassment (or that, if left unchecked, may rise to the level of prohibited harassment), even if they are not sure that the conduct violates the policy;
+A statement that the employer will provide a prompt, impartial, and thorough investigation;
+A statement that the identity of individuals who report harassment, alleged victims, witnesses, and alleged harassers will be kept confidential to the extent possible and permitted by law, consistent with a thorough and impartial investigation;
+A statement that employees are encouraged to respond to questions or to otherwise participate in investigations regarding alleged harassment;
+A statement that information obtained during an investigation will be kept confidential to the extent consistent with a thorough and impartial investigation and permitted by law;
+[21]
+An assurance that the organization will take immediate and proportionate corrective action if it determines that harassment has occurred; and
+An unequivocal statement that retaliation is prohibited, and that individuals who report harassing conduct, participate in investigations, or take any other actions protected under federal employment discrimination laws will not be subjected to retaliation.
+[22]
+In addition, effective written harassment policies
+[23]
+are, for example:
+Written and communicated in a clear, easy to understand style and format;
+Translated into all languages commonly used by employees;
+[24]
+Provided to employees upon hire and during harassment trainings, and posted centrally, such as on the company's internal website, in the company handbook, near employee time clocks, in employee break rooms, and in other commonly used areas or locations;
+[25]
+and
+Periodically reviewed and updated as needed, and re-translated, disseminated to staff, and posted in central locations.
+C.
+Effective and Accessible Harassment Complaint System
+An effective harassment complaint system welcomes questions, concerns, and complaints; encourages employees to report potentially problematic conduct early; treats alleged victims, complainants, witnesses, alleged harassers, and others with respect; operates promptly, thoroughly, and impartially; and imposes appropriate consequences for harassment or related misconduct, such as retaliation.
+For example, an effective harassment complaint system:
+Is fully resourced, enabling the organization to respond promptly, thoroughly, and effectively to complaints;
+Is translated into all languages commonly used by employees;
+[26]
+Provides multiple avenues of complaint, if possible,
+[27]
+including an avenue to report complaints regarding senior leaders;
+Is responsive to complaints by employees and by other individuals on their behalf;
+[28]
+May describe the information the organization requests from complainants, even if complainants cannot provide it all, including: the alleged harasser(s), alleged victim(s), and any witnesses; the date(s) of the alleged harassment; the location(s) of the alleged harassment; and a description of the alleged harassment;
+[29]
+May include voluntary alternative dispute resolution processes to facilitate communication and assist in preventing and addressing prohibited conduct, or conduct that could eventually rise to the level of prohibited conduct, early;
+Provides prompt, thorough, and neutral investigations;
+Protects the privacy of alleged victims, individuals who report harassment, witnesses, alleged harassers, and other relevant individuals to the greatest extent possible, consistent with a thorough and impartial investigation and with relevant legal requirements;
+Includes processes to determine whether alleged victims, individuals who report harassment, witnesses, and other relevant individuals are subjected to retaliation, and imposes sanctions on individuals responsible for retaliation;
+Includes processes to ensure that alleged harassers are not prematurely presumed guilty or prematurely disciplined for harassment; and
+Includes processes to convey the resolution of the complaint to the complainant and the alleged harasser and, where appropriate and consistent with relevant legal requirements, the preventative and corrective action taken.
+[30]
+We recommend that organizations ensure that the employees responsible for receiving, investigating, and resolving complaints or otherwise implementing the harassment complaint system, among other things:
+Are well-trained,
+[31]
+objective, and neutral;
+Have the authority, independence, and resources required to receive, investigate, and resolve complaints appropriately;
+Take all questions, concerns, and complaints seriously, and respond promptly and appropriately;
+Create and maintain an environment in which employees feel comfortable reporting harassment to management;
+Understand and maintain the confidentiality associated with the complaint process; and
+Appropriately document every complaint, from initial intake to investigation to resolution, use guidelines to weigh the credibility of all relevant parties, and prepare a written report documenting the investigation, findings, recommendations, and disciplinary action imposed (if any), and corrective and preventative action taken (if any).
+D.
+Effective Harassment Training
+Leadership, accountability, and strong harassment policies and complaint systems are essential components of a successful harassment prevention strategy, but only if employees are aware of them. Regular, interactive, comprehensive training of all employees may help ensure that the workforce understands organizational rules, policies, procedures, and expectations, as well as the consequences of misconduct.
+Harassment training may be most effective if it is, among other things:
+Championed by senior leaders;
+Repeated and reinforced regularly;
+Provided to employees at every level and location of the organization;
+[32]
+Provided in a clear, easy to understand style and format;
+Provided in all languages commonly used by employees;
+Tailored to the specific workplace and workforce;
+Conducted by qualified, live, interactive trainers, or, if live training is not feasible, designed to include active engagement by participants; and
+Routinely evaluated by participants and revised as necessary.
+In addition, harassment training may be most effective when it is tailored to the organization and audience. Accordingly, when developing training, the daily experiences and unique characteristics of the work, workforce, and workplace are important considerations.
+Effective harassment training for all employees includes, for example:
+Descriptions of prohibited harassment, as well as conduct that if left unchecked, might rise to the level of prohibited harassment;
+Examples that are tailored to the specific workplace and workforce;
+Information about employees' rights and responsibilities if they experience, observe, or become aware of conduct that they believe may be prohibited;
+Encouragement for employees to report harassing conduct;
+Explanations of the complaint process, as well as any voluntary alternative dispute resolution processes;
+[33]
+Explanations of the information that may be requested during an investigation, including: the name or a description of the alleged harasser(s), alleged victim(s), and any witnesses; the date(s) of the alleged harassment; the location(s) of the alleged harassment; and a description of the alleged harassment;
+Assurance that employees who report harassing conduct, participate in investigations, or take any other actions protected under federal employment discrimination laws will not be subjected to retaliation;
+Explanations of the range of possible consequences for engaging in prohibited conduct;
+Opportunities to ask questions about the training, harassment policy, complaint system, and related rules and expectations; and
+Identification and provision of contact information for the individual(s) and/or office(s) responsible for addressing harassment questions, concerns, and complaints.
+Because supervisors and managers have additional responsibilities, they may benefit from additional training. Employers may also find it helpful to include non-managerial and non-supervisory employees who exercise authority, such as team leaders.
+[34]
+Effective harassment training for supervisors and managers includes, for example:
+Information about how to prevent, identify, stop, report, and correct harassment, such as:
+Identification of potential risk factors for harassment and specific actions that may minimize or eliminate the risk of harassment;
+[35]
+Easy to understand, realistic methods for addressing harassment that they observe, that is reported to them, or that they otherwise learn of;
+Clear instructions about how to report harassment up the chain of command; and
+Explanations of the confidentiality rules associated with harassment complaints;
+An unequivocal statement that retaliation is prohibited, along with an explanation of the types of conduct that are protected from retaliation under federal employment discrimination laws, such as:
+Complaining or expressing an intent to complain about harassing conduct;
+Resisting sexual advances or intervening to protect others from such conduct; and
+Participating in an investigation about harassing conduct or other alleged discrimination;
+[36]
+and
+Explanations of the consequences of failing to fulfill their responsibilities related to harassment, retaliation, and other prohibited conduct.
+To help prevent conduct from rising to the level of unlawful workplace harassment, employers also may find it helpful to consider and implement new forms of training, such as workplace civility or respectful workplace training and/or bystander intervention training.
+[37]
+In addition, employers may find it helpful to meet with employees as needed to discuss issues related to current or upcoming events and to share relevant resources.
+[1]
+See, e.g.
+, EEOC,
+Select Task Force Meeting of October 22, 2015 - Workplace Harassment: Promising Practices to Prevent Workplace Harassment
+,
+https://www.eeoc.gov/eeoc/task_force/harassment/10-22-15/index.cfm
+. Promising practices may vary based on the characteristics of the workplace and/or workforce.
+[2]
+See
+Chai R. Feldblum & Victoria A. Lipnic, EEOC,
+Select Task Force on the Study of Harassment in the Workplace, Report of Co-Chairs Chai R. Feldblum & Victoria A. Lipnic
+(2016),
+https://www.eeoc.gov/eeoc/june-2016-report-co-chairs-select-task-force-study-harassmen
+t
+[hereinafter
+Select Task Force Co-Chairs' Report
+].
+[3]
+See
+Select Task Force Co-Chairs' Report
+,
+supra
+note 2, at 79-82 (noting that the checklists are intended as a resource for employers, rather than as a measurement of legal compliance).
+[4] This document focuses primarily on several practices identified in Select Task Force testimony and the subsequent Select Task Force Co-Chair Report. While EEOC believes that these practices may help employers prevent and address harassment, these practices do not represent an exhaustive list of promising preventative and corrective actions. We encourage employers to continue to develop, implement, and share additional promising practices.
+[5] We note, however, that refraining from taking certain actions recommended here as promising practices may increase an employer's liability risk in certain circumstances. For example, failing to develop and implement an adequate anti-harassment policy and complaint procedure may preclude an employer from establishing an affirmative defense to a supervisory harassment complaint, or a defense to a coworker harassment complaint.
+Moreover, state and/or local laws may impose certain harassment prevention-related responsibilities on covered employers that are similar to specific promising practices described in this Appendix; failing to comply with those laws may result in liability.
+See, e.g.,
+Cal. Gov. Code §§ 12950 - 12950.1 (West 2017) (requiring California employers to provide information to employees regarding sexual harassment, internal complaint procedures, and remedies; and requiring California private sector employers with at least 50 employees and all California public sector employers to provide sexual harassment training to supervisors); Conn. Gen. Stat. Ann. § 46a-54(15) - (16) (West 2017) (requiring Connecticut employers with at least three employees to prominently post information about sexual harassment prohibitions and remedies, requiring Connecticut employers with at least 50 employees to provide sexual harassment training to supervisors, and requiring Connecticut public sector employers to provide discrimination training to supervisory and nonsupervisory employees);Me. Rev. Stat. tit. 26, § 807 (2017) (requiring Maine employers to prominently post information about sexual harassment and the external complaint process, and to annually provide employees with a written notice regarding sexual harassment and internal and external complaint processes; and requiring Maine employers with at least 15 employees to provide sexual harassment training to employees and supervisors);
+Mass. Gen. Laws Ann. ch. 151B, § 3A (West 2017) (requiring Massachusetts employers with at least six employees to develop a written sexual harassment policy and to provide the policy to new employees upon hire, and to all employees annually).
+[6]
+For example, in addition to regularly disseminating the organization's harassment policy and complaint procedure, senior leaders could notify employees about relevant policies and resources in response to high profile events.
+[7]
+See, e.g.
+, Patti Perez,
+Written Testimony for the October 22, 2015 Meeting of the EEOC Select Task Force on the Study of Harassment in the Workplace
+,
+https://www.eeoc.gov/eeoc/task_force/harassment/10-22-15/perez.cfm
+[hereinafter
+Perez Task Force Testimony
+] (observing that companies that are committed to preventing inappropriate conduct develop, implement, and incorporate "robust" and "creative" programs into "the fabric of their being").
+For example, leaders could direct human resources staff to request information from supervisory and managerial applicants and/or their references about applicants' demonstrated commitment to and experience with enforcing harassment policies and other EEO policies, practices, and procedures. Leaders could also instruct HR to ensure that employee orientation and training material includes information about the organization's harassment policy, complaint procedure, and any related rules, policies, and expectations. In addition, leaders could ensure that enforcement of, and compliance with, the organization's harassment policy and related policies and procedures is included in executive competencies and performance plans for employees with supervisory or managerial responsibilities.
+[8]
+See
+Select Task Force Co-Chairs' Report
+,
+supra
+note 2, at 25-30, 83-88 (identifying select risk factors for harassment and proposing strategies to reduce the risk of harassment);
+see also, e.g., Preventing Unlawful Workplace Harassment in California
+, Soc'y for Human Res. Mgmt. (Apr. 16, 2016) (noting that human resources and information technology staff can monitor workplace communications for prohibited or unacceptable conduct, such as transmission of pornography, obscenities, and threats); Alexander et al., United States Army Research Institute for the Behavioral and Social Sciences,
+Best Practices in Sexual Harassment Policy and Assessment
+29 (2005) [hereinafter
+Army Research Institute Best Practices Report
+] (explaining a practice at one company in which Human Resources staff and managers make unannounced visits during night shifts, which tend to have less managerial supervision and therefore greater opportunity for harassment).
+[9]
+See, e.g.
+, Heidi-Jane Olguin,
+Written Testimony for the October 22, 2015 Meeting of the EEOC Select Task Force on the Study of Harassment in the Workplace
+,
+https://www.eeoc.gov/eeoc/task_force/harassment/10-22-15/olguin.cfm
+[hereinafter
+Olguin Task Force Testimony
+] (noting that senior leadership involvement is "crucial" in "set[ting] the tone for the entire organization" and describing an organization in which corporate executives were promptly notified of harassment complaints (assuming no conflict of interest), updated about investigation determinations, and involved in prevention analysis).
+For example, organizations could include harassment prevention and corrective activity, as well as other equal employment opportunity-related information, in reports submitted to Boards of Directors or similar advisory or oversight entities. Employers should consult with legal counsel as necessary regarding any relevant legal considerations, such as confidentiality restrictions associated with complaints or disciplinary action.
+[10]
+See infra
+section B for additional information about promising practices related to harassment policies.
+[11]
+See infra
+section C for additional information about promising practices related to complaint procedures.
+[12]
+See infra
+section D for additional information about promising practices related to training.
+[13]
+See infra
+section D for additional information about promising practices related to training.
+[14]
+See Olguin Task Force Testimony
+,
+supra
+note 9 (explaining that appropriate acknowledgement of well-handled complaints - such as by privately praising complainants and managers who promptly reported complaints - may help create a compliance-oriented culture, and noting that senior leaders' willingness to critically examine and "aggressively deal with" managers who participate in harassment or who refrain from properly reporting harassment may enhance workplace morale and productivity).
+[15]
+See, e.g., Perez Task Force Testimony
+,
+supra
+note 7 (describing a company that tracked complaint trends, discovered multiple complaints of racial harassment and discrimination, and implemented a training program to address the perception of race-based conduct)
+; Army Research Institute Best Practices Report
+,
+supra
+note 8, at 30 (describing a company's efforts to measure the success of its sexual harassment policy, including tracking sexual harassment questions and allegations and conducting periodic employee surveys that included questions regarding sexual harassment).
+When evaluating the effectiveness of harassment prevention and correction strategies, it may be helpful for organizations to carefully analyze complaint trends. A relatively high number of internal complaints may signify that harassment has occurred or was perceived to have occurred, but may also indicate employees' awareness of and confidence in the internal complaint process.
+See, e.g., Perez Task Force Testimony
+,
+supra
+note 7 (discussing a company that perceives increases in internal complaints positively as a "testament to the comfort and trust employees put in the [complaint] system"). A relatively low number of internal complaints may result from employees' lack of awareness or trust in the complaint process, or, alternatively, from the absence of harassing conduct in the organization. Organizations may find it helpful to solicit information from employees in anonymous surveys, harassment training sessions, or other settings in which employees may feel comfortable, regarding their awareness of and confidence in the organization's harassment policies and complaint procedures. Organizations could also solicit suggestions from employees about how to enhance employees' knowledge of and faith in the organization's harassment prevention and correction efforts.
+[16]
+See, e.g., Select Task Force Co-Chairs' Report
+,
+supra
+note 2, at 33 (addressing the development and use of climate surveys to assess perceptions of harassment among employees and members of the military).
+[17] It may be helpful to explain and/or provide examples of the non-employees covered by the policy, who may include individuals who interact with the organization's employees during the course of business, such as delivery or repair workers, security guards, and food service workers, as well as individuals otherwise affiliated with the organization, such as members of Boards of Directors or similar advisory or oversight entities.
+[18] Federal law prohibits workplace harassment based on race, color, national origin, religion, sex, age, disability, and genetic information. State and/or local laws may prohibit workplace harassment on additional bases.
+See, e.g.,
+Cal. Gov. Code § 12940(a) (West 2017) (prohibiting workplace harassment based on, among other things, marital status and military and veteran status); D.C. Code Ann. § 2-1402.11 (West 2017) (prohibiting workplace harassment based on, among other things, marital status, personal appearance, family responsibilities, political affiliation, and matriculation); Mich. Comp. Laws Ann. § 37.2202 (West 2017) (prohibiting workplace harassment based on, among other things, height, weight, and marital status); N.J. Stat. Ann. § 10:5-12 (West 2017) (prohibiting workplace harassment based on, among other things, marital status, civil union status, domestic partnership status, and military service); Wis. Stat. Ann. § 111.321 (West 2017) (prohibiting workplace harassment based on, among other things, arrest or conviction records, marital status, and military service). Employers may wish to consult with legal counsel as necessary to ensure that their harassment policies cover, at a minimum, all applicable legally protected bases.
+[19] To encourage employees to share and obtain information about harassment, employers may find it helpful to provide a process, such as a phone line or website, that enables employees (anonymously or identified, at their discretion) to ask questions or share concerns about harassment.
+[20]
+See infra
+note 27.
+[21]
+For example, the National Labor Relations Act restricts the circumstances under which employers may require employees to keep information shared or obtained during ongoing disciplinary investigations confidential.
+See, e.g.,
+Banner Health System d/b/a Banner Estrella Medical Center, 362 NLRB 137, 2015 WL 4179691, at *3 (2015) (holding that employers may restrict employee discussions regarding discipline or ongoing disciplinary investigations involving themselves or their coworkers only if employers can establish a "legitimate and substantial business justification that outweighs employees' Section 7 rights"),
+enforced in part
+, 851 F.3d 35, 40 (D.C. Cir. 2017) (describing employees' right to discuss investigations with coworkers as "settled Board precedent" (quoting
+Inova Health Sys. v. NLRB
+, 795 F.3d 68, 85 (D.C. Cir. 2015))).
+[22]
+See, e.g.,
+EEOC,
+Facts About Retaliation
+,
+https://www.eeoc.gov/laws/types/retaliation.cfm
+(last visited Nov. 20, 2017)
+.
+[23]
+Small businesses may be able to prevent and correct harassment without the use of formal, written harassment policies, though they may develop and use such policies at their discretion. For example, small business owners may verbally inform employees that harassment is prohibited; encourage employees to report harassment promptly; advise employees that harassment may be reported directly to the owner; conduct a prompt, thorough, impartial investigation; and take swift and appropriate corrective action. For additional information about how small businesses can prevent and address harassment,
+see
+EEOC,
+Frequently Asked Questions #5: How can I prevent harassment?,
+https://www.eeoc.gov/employers/smallbusiness/faq/how_can_i_prevent_harassment.cfm
+(last visited Nov. 20, 2017); EEOC,
+Tips for Small Businesses: Harassment Policy Tips,
+https://www.eeoc.gov/employers/smallbusiness/checklists/harassment_policy_tips.cfm
+(last visited Nov. 20, 2017).
+[24] It may also be helpful for employers to periodically determine whether to translate the policy and complaint system into additional languages as a result of any changes in workforce composition and employees' linguistic abilities.
+[25]
+See, e.g., Army Research Institute Best Practices Report, supra
+note 8, at 35 (noting the importance of a coordinated communications campaign to disseminate information about the harassment policy to employees, including policy distribution and strategic, sequenced use of a variety of communication methods and strategies, including bulletin board postings, newsletter and magazine articles, training sessions, and internal website postings);
+Olguin Task Force Testimony
+,
+supra
+note 9 (suggesting that distributing pens or magnets with the complaint hotline phone number or website address may help remind employees about their complaint filing options);
+cf. Perez Task Force Testimony
+,
+supra
+note 7 (describing a company that posted the diversity program mission statement in every elevator in the corporate office).
+Employers may need to take additional steps to ensure that employees who work off-site or outside of regular business hours, or who otherwise may have limited access to the organization's employee handbook, internal website, or relevant officials, receive information about harassment policies and complaint systems, participate in harassment training, and are able to communicate with relevant officials. For example, employers could include information about the policy and complaint procedure with employees' schedules or paychecks; schedule training at a time and location convenient for these employees, if possible, or offer online training; provide contact information for appropriate individuals and/or offices;and ensure that employees receive prompt responses to questions, concerns, and complaints.
+[26]
+See supra
+note 24.
+[27]
+See, e.g.,
+Olguin Task Force Testimony
+,
+supra
+note 9 (describing a "multifaceted" complaint system as "critical," and recommending that organizations provide multilingual complaint hotlines and online complaint systems, in addition to traditional management and Human Resources Department complaint options). Smaller organizations may have fewer avenues of complaint available, due to their size, but may still consider designating multiple individuals to receive harassment complaints, if possible.
+[28]
+See, e.g.,
+HR Specialist,
+Preventing and Handling Workplace Harassment of Teen Workers
+, Ill. Emp't Law 7, 7 (2012) (observing that teenagers may not be comfortable discussing harassment and recommending that employers train supervisors to be receptive to harassment complaints from teenage workers' parents).
+[29]
+Organizations that allow employees to submit anonymous complaints telephonically, online, or through some other process, may find it helpful to include a summary of this information in an introductory message for employees, while recognizing that anonymous complainants may not provide all of the requested information.
+[30] To address potential Privacy Act concerns related to sharing corrective or disciplinary action with complainants, federal agencies may either: (1) maintain harassment complaint records that include information about corrective or disciplinary action by complainants' names; or (2) ensure that the agency's complaint records system includes a routine use permitting disclosure of corrective or disciplinary action to complainants.
+[31]
+See, e.g., Perez Task Force Testimony
+,
+supra
+note 7 (describing a company that provides "comprehensive investigation and conflict resolution training" to internal investigators annually that includes, among other things, information about how to recognize and eliminate implicit or unconscious bias in investigations).
+[32] To facilitate participation and communication and to ensure that relevant information is shared with the appropriate audience, organizations may find it helpful to train employees, managers, and Human Resources staff separately.
+See, e.g., Olguin Task Force Testimony
+,
+supra
+note 9 (noting that this approach may enhance participation and enable organizations to obtain information about potential compliance issues).
+[33]
+See
+EEOC,
+Best Practices of Private Sector Employers
+sections 2.B, 2.G, 3.F (1997),
+https://www.eeoc.gov/eeoc/task_reports/best_practices.cfm
+(identifying several creative dispute prevention and resolution strategies used by employers).
+[34]
+See, e.g., Army Research Institute Best Practices Report
+,
+supra
+note 8, at 29 (noting a company that designated several workers with long-standing positive reputations who were perceived as trustworthy and good listeners as points of contact for their fellow employees, and trained those workers about how to refer sexual harassment complaints to Human Resources).
+[35]
+See supra
+note 8.
+[36]
+See, e.g.,
+EEOC,
+Facts About Retaliation
+,
+https://www.eeoc.gov/laws/types/retaliation.cfm
+(last visited Nov. 20, 2017)
+.
+[37] Broad workplace civility rules that may be interpreted to restrict employees' conduct and/or speech may raise issues under the National Labor Relations Act. Employers may wish to consult with legal counsel prior to implementing training and/or policies to ensure that they do so in a legally compliant manner.
+See also Select Task Force Co-Chairs' Report, supra
+note 2, at 54-58 (describing workplace civility and bystander intervention training, and noting that such trainings "show[] significant promise for preventing harassment in the workplace"); Lilia Cortina,
+Written Testimony for the June 20, 2016 Commission Meeting
+,
+https://www.eeoc.gov/eeoc/meetings/6-20-16/cortina.cfm
+(describing and providing examples of workplace civility training); Dorothy J. Edwards,
+Written Testimony for the October 22, 2015 Meeting of the EEOC Select Task Force on the Study of Harassment in the Workplace,
+https://www.eeoc.gov/eeoc/task_force/harassment/10-22-15/edwards.cfm
+(describing bystander intervention training Green Dot); Melissa Emmal,
+Written Testimony for the October 22, 2015 Meeting of the EEOC Select Task Force on the Study of Harassment in the Workplace,
+https://www.eeoc.gov/eeoc/task_force/harassment/10-22-15/emmal.cfm
+(describing the successful implementation of Green Dot training in Anchorage).
+Return to top
+U.S. Equal Employment Opportunity Commission
+EEOC Headquarters
+131 M Street, NE
+Washington, DC 20507
+1-800-669-6820
+(TTY)
+1-844-234-5122
+(ASL Video Phone)
+Questions?
+Call 1-800-669-4000
+For Deaf/Hard of Hearing callers:
+1-800-669-6820
+(TTY)
+1-844-234-5122
+(ASL Video Phone)
+info@eeoc.gov
+Find your nearest EEOC office
+Connect With Us
+FOIA
+Privacy Policy
+Disclaimer
+Accessibility
+Office of Inspector General
+USA.gov

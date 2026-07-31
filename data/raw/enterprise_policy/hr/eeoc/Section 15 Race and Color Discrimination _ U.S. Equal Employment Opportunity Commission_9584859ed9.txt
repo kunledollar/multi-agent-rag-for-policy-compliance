@@ -1,0 +1,1805 @@
+Section 15 Race and Color Discrimination | U.S. Equal Employment Opportunity Commission
+Skip to main content
+An official website of the United States government
+Here’s how you know
+Here’s how you know
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive
+information only on official, secure websites.
+U.S. Equal Employment Opportunity Commission
+Menu
+Header Navigation
+Online Filing
+Public Portal
+Attorney E-file
+Locations
+Operating Status
+Languages
+English
+Español (Spanish)
+Resources in Other Languages
+عربي (Arabic)
+简体中文 (Chinese, Simplified)
+繁體中文 - Chinese (Traditional)
+Kreyòl Ayisyen (Haitian Creole)
+한국어 (Korean)
+Русском (Russian)
+Português (Portuguese)
+Tagalog (Tagalog)
+ไทย (Thai)
+Tiếng Việt (Vietnamese)
+فارسی (Persian. Farsi)
+پښتو (Pashto)
+Toggle Search Form
+Any of these words
+(optional)
+Search
+About EEOC
+About EEOC
+Overview
+The Commission and The General Counsel
+Meetings of the Commission
+Commission Votes
+EEOC History
+News and Information
+Newsroom
+What You Should Know
+Legislative Affairs
+Publications
+Outreach and Education
+FOIA
+Laws and Enforcement
+EEOC Legal Resources
+Mediation
+Litigation
+Systemic Enforcement
+Commissioner Charges
+Directed Investigations
+Programs and Performance
+Budget and Performance
+Initiatives
+Interagency Programs
+State and Local Programs
+Task Forces
+Tribal Programs
+Data and Analytics
+Overview
+Data Governance
+EEO Data Collections
+Data and Statistics
+Data Tools and Products
+No FEAR Act Data
+Inside EEOC
+Careers
+Office for Civil Rights
+Doing Business with EEOC
+AI Governance
+Privacy
+Office of Inspector General
+Employees & Job Applicants
+Employees & Applicants
+Overview
+Coverage
+Timeliness
+Prohibited Practices
+Filing a Charge of Discrimination
+Filing a Charge
+How to File
+After You File a Charge
+Confidentiality
+Mediation
+Remedies
+Existing Charges
+Filing a Lawsuit
+Discrimination by Type
+Age
+Disability
+Equal Pay
+Genetic Information
+Harassment
+National Origin Discrimination
+Pregnancy Discrimination
+Race/Color Discrimination
+Religious Discrimination
+Retaliation
+Sex
+Sexual Harassment
+Employers / Small Business
+Employers / Small Business
+Overview
+Coverage
+After a Charge is Filed
+Resolving a Charge
+Commissioner Charges
+Directed Investigations
+Remedies
+Small Business Resource Center
+Small Business Home
+Small Business Requirements
+Frequently Asked Questions
+Tips for Small Businesses
+Making an Employment Decision?
+EEOC Resources
+Small Business Assistance
+Small Business Fact Sheet
+Small Business Videos
+EEOC Glossary
+Contact Us
+Discrimination by Type
+Age
+Disability
+Equal Pay
+Genetic Information
+Harassment
+National Origin
+Pregnancy
+Race/Color
+Religion
+Retaliation
+Sex
+Sexual Harassment
+Prohibited Practices
+Recordkeeping
+EEO Data Collections
+"Know Your Rights" Poster
+Training
+Other Employment Issues
+Federal Sector
+Federal Agencies
+Overview
+Federal EEO Coordination
+Federal Agency EEO Directors
+EEOC Legal Resources
+Management Directives & Federal Sector Guidance
+Federal Training & Outreach
+Resources
+Federal Employees & Job Applicants
+Overview
+Federal Complaint Process
+Federal Sector Alternative Dispute Resolution
+Prohibited Practices
+Resources
+Contact Us
+Contact EEOC
+Find Your Nearest Office
+Office Operating Status
+How to File a Charge
+Public Portal
+Home
+Laws
+guidance
+Section 15 Race and Color Discrimination
+Section 15 Race and Color Discrimination
+Issuing Authority
+This guidance document was issued upon approval by vote of the U.S. Equal Employment Opportunity Commission.
+OLC Control Number
+EEOC-CVG-2006-1
+Concise Display Name
+Section 15 Race and Color Discrimination
+Issue Date
+04-19-2006
+General Topics
+Race, Color, National Origin
+Summary
+This document addresses Title VII’s prohibition on race or color discrimination in employment, including disparate treatment, harassment, and other topics.
+Citation
+Title VII, 29 CFR Parts 1600, 1607, 1608,
+Document Applicant
+Employers, Employees, Applicants, Attorneys and Practitioners, EEOC Staff
+Previous Revision
+No
+Disclaimer
+The contents of this document do not have the force and effect of law and are not meant to bind the public in any way. This document is intended only to provide clarity to the public regarding existing requirements under the law or agency policies.
+Notice Concerning the Supreme Court's Decision in
+Vance v. Ball State University
+, 133 S. Ct. 2434 (2013)
+The standard for employer liability for hostile work environment harassment depends typically on whether or not the harasser is the victim's supervisor. An employer is vicariously liable for a hostile work environment created by a supervisor. In
+Vance v. Ball State University
+, 133 S. Ct. 2434 (2013), the Supreme Court rejected in part the EEOC's definition of "supervisor." The Court held that an employee is a "supervisor" if the employer has empowered that employee "to take tangible employment actions against the victim,
+i.e.
+, to effect a 'significant change in employment status, such as hiring, firing, failing to promote, reassignment with significantly different responsibilities, or a decision causing a significant change in benefits.'" The Court stated that an employer is liable for hostile work environment harassment by employees who are not supervisors if the employer was "negligent in failing to prevent harassment from taking place." In assessing such negligence, the Court explained, "the nature and degree of authority wielded by the harasser is an important factor to be considered in determining whether the employer was negligent." Also relevant is "[e]vidence that an employer did not monitor the workplace, failed to respond to complaints, failed to provide a system for registering complaints, or effectively discouraged complaints from being filed."
+DIRECTIVES TRANSMITTAL
+Number
+915.003
+EEOC
+4/19/2006
+The contents of this document do not have the force and effect of law and are not meant to bind the public in any way. This document is intended only to provide clarity to the public regarding existing requirements under the law or agency policies.
+SUBJECT:
+EEOC COMPLIANCE MANUAL
+PURPOSE:
+This transmittal covers the issuance of Section 15 of the new Compliance Manual, on “Race and Color Discrimination.” The Manual Section provides guidance on analyzing charges of race and color discrimination under Title VII of the Civil Rights Act of 1964.
+ORIGINATOR:
+Office of Legal Counsel, Title VII/ADEA/EPA Division
+EFFECTIVE DATE:
+Upon receipt
+DISTRIBUTION:
+EEOC Compliance Manual holders
+__________/s/__________
+Cari M. Dominguez
+Chair
+SECTION 15: RACE & COLOR DISCRIMINATION
+TABLE OF CONTENTS
+OVERVIEW
+WHAT IS "RACE" DISCRIMINATION?
+WHAT IS "COLOR" DISCRIMINATION?
+RELATED PROTECTED BASES
+NATIONAL ORIGIN
+RELIGION
+INTERSECTIONAL DISCRIMINATION
+EVALUATING EMPLOYMENT DECISIONS
+RACIAL DISPARATE TREATMENT
+Recognizing Racial Motive
+Conducting a Thorough Investigation
+Potential Evidence of Racial Disparate Treatment
+Employer Credibility
+Recognizing "Pattern or Practice" Race Discrimination
+RACIAL DISPARATE IMPACT
+EQUAL ACCESS TO JOBS
+RECRUITING
+Job Advertisements and Employment Agencies
+Word-of-Mouth Referrals
+Homogeneous Recruitment Sources
+Discriminatory Screening of Recruits
+HIRING AND PROMOTION
+Uniform and Consistently Applied Standards
+Job-Related Standards, Consistent with Business Necessity
+Education Requirements
+Employment Testing
+Conviction and Arrest Records
+DIVERSITY AND AFFIRMATIVE ACTION
+EQUAL OPPORTUNITY FOR JOB SUCCESS
+RACIAL HARASSMENT
+Unwelcome Conduct
+Severe or Pervasive
+Employer Liability
+Conduct of Supervisors
+Conduct of Owner, President, Partners, or Officers
+Conduct of Co-workers and Non-employees
+RACIAL BIAS IN OTHER EMPLOYMENT TERMS AND CONDITIONS
+Work Assignments
+Performance Evaluations
+Training and Constructive Feedback
+Workplace Networks
+Appearance and Grooming Standards
+Compensation
+Discipline and Discharge
+RETALIATION
+REMEDIES
+PROACTIVE PREVENTION
+15-I OVERVIEW
+With the enactment of the Civil Rights Act of 1964, Congress sought to eliminate the problems of segregation and discrimination in the United States. The impetus for the Act was the civil rights movement of the 1950s and 1960s, which challenged the denial of the right of Blacks to participate equally in society.
+The employment title of the Act — Title VII — covers employment discrimination based on race, color, religion, sex, national origin, or protected activity. Title VII’s prohibitions against race and color discrimination were aimed at ending a system in which Blacks were “largely relegated to unskilled and semi-skilled jobs.”
+(1)
+However, Congress drafted the statute broadly to cover race or color discrimination against anyone – Whites, Blacks, Asians, Latinos, Arabs, American Indians and Alaska Natives, Native Hawaiians and Pacific Islanders, persons of more than one race, and all other persons.
+(2)
+Today, the national policy of nondiscrimination is firmly rooted in the law.
+(3)
+In addition, it generally is agreed that equal opportunity has increased dramatically in America, including in employment. Blacks and other people of color now work in virtually every field, and opportunities are increasing at every level.
+Yet significant work remains to be done. Charges alleging race discrimination in employment accounted for 35.5 percent of the Commission’s 2005 charge receipts, making race still the most-alleged basis of employment discrimination under federal law.
+(4)
+In addition, several private studies conducted in the early 2000s provide telling evidence that race discrimination in employment persists. A 2003 study in Milwaukee found that Whites with a criminal record received job call-backs at a rate more than three times that of Blacks with the same criminal record, and even at a rate higher than Blacks
+without
+a criminal record.
+(5)
+A 2003 study in California found that temporary agencies preferred White applicants three to one over African American applicants.
+(6)
+And, a 2002 study in Boston and Chicago found that résumés of persons with names common among Whites were 50 percent more likely to generate a request for an interview than equally impressive résumés of persons with names common among Blacks.
+(7)
+Moreover, racial and ethnic disparities still exist in the labor market. People of color are more likely than Whites to work in lower-paying jobs and less likely to work in higher-paying jobs.
+(8)
+Unlawful employment discrimination is one of the reasons for these disparities. Therefore, vigorous law enforcement, and proactive prevention of discrimination – i.e., enhanced outreach, education, and technical assistance to promote voluntary compliance – remain critical to ensuring that race and color play no part in employment decisions.
+The purpose of this Manual Section is to provide guidance on Title VII’s prohibition against workplace discrimination based on race or color.
+(9)
+It discusses coverage issues, the importance of conducting a thorough investigation, various employer practices, and remedies for a violation.
+(10)
+The Manual Section includes numerous examples, as well as guidance reflecting the Commission’s strong interest in proactive prevention and “best practices.”
+(11)
+15-II WHAT IS "RACE" DISCRIMINATION?
+Title VII prohibits employer actions that discriminate, by motivation or impact, against persons because of race. Title VII does not contain a definition of “race,” nor has the Commission adopted one. For the collection of federal data on race and ethnicity, the Office of Management and Budget (OMB) has provided the following five racial categories:
+American Indian or Alaska Native
+;
+Asian
+;
+Black or African American
+;
+Native Hawaiian or Other Pacific Islander
+; and
+White
+; and one ethnicity category,
+Hispanic or Latino
+.
+(12)
+OMB has made clear that these categories are “social-political constructs . . . and should not be interpreted as being genetic, biological, or anthropological in nature.”
+(13)
+Title VII’s prohibition of race discrimination generally encompasses:
+Ancestry:
+Employment discrimination because of racial or ethnic ancestry. Discrimination against a person because of his or her ancestry can violate Title VII’s prohibition against race discrimination. Note that there can be considerable overlap between “race” and “national origin,” but they are not identical.
+(14)
+For example, discrimination against a Chinese American might be targeted at her Asian ancestry and not her Chinese national origin. In that case, she would have a claim of discrimination based on race, not national origin.
+Physical Characteristics:
+Employment discrimination based on a person’s physical characteristics associated with race, such as a person’s color, hair, facial features, height and weight.
+(15)
+Race-linked Illness:
+Discrimination based on race-linked illnesses. For example, sickle cell anemia is a genetically-transmitted disease that affects primarily persons of African descent. Other diseases, while not linked directly to race or ethnicity, may nevertheless have a disproportionate impact. For example, Native Hawaiians have a disproportionately high incidence of diabetes.
+(16)
+If the employer applies facially neutral standards to exclude treatment for conditions or risks that disproportionately affect employees on the basis of race or ethnicity, the employer must show that the standards are based on generally accepted medical criteria.
+(17)
+Culture:
+Employment discrimination because of cultural characteristics related to race or ethnicity. Title VII prohibits employment discrimination against a person because of cultural characteristics often linked to race or ethnicity, such as a person’s name,
+(18)
+cultural dress and grooming practices,
+(19)
+or accent or manner of speech. For example, an employment decision based on a person having a so-called “Black accent,” or “sounding White,” violates Title VII if the accent or manner of speech does not materially interfere with the ability to perform job duties.
+Perception:
+Employment discrimination against an individual based on a belief that the individual is a member of a particular racial group, regardless of how the individual identifies himself. Discrimination against an individual based on a perception of his or her race violates Title VII even if that perception is wrong.
+Association:
+Employment discrimination against an individual because of his/her association with someone of a particular race. For example, it is unlawful to discriminate against a White person because he or she is married to an African American or has a multiracial child,
+(20)
+or because he or she maintains friendships or otherwise associates with persons of a certain race.
+Subgroup or “Race Plus”:
+Title VII prohibits discrimination against a subgroup of persons in a racial group because they have certain attributes in addition to their race. Thus, for example, it would violate Title VII for an employer to reject Black women with preschool age children, while not rejecting other women with preschool age children.
+(21)
+“Reverse” Race Discrimination:
+Title VII prohibits race discrimination against all persons, including Caucasians.
+(22)
+A plaintiff may prove a claim of discrimination through direct or circumstantial evidence. Some courts, however, take the position that if a White person relies on circumstantial evidence to establish a reverse discrimination claim, he or she must meet a heightened standard of proof.
+(23)
+The Commission, in contrast, applies the same standard of proof to all race discrimination claims, regardless of the victim’s race or the type of evidence used.
+(24)
+In either case, the ultimate burden of persuasion remains always on the plaintiff.
+(25)
+15-III WHAT IS “COLOR” DISCRIMINATION?
+Title VII prohibits employment discrimination because of “color” as a basis separately listed in the statute. The statute does not define “color.” The courts and the Commission read “color” to have its commonly understood meaning – pigmentation, complexion, or skin shade or tone. Thus, color discrimination occurs when a person is discriminated against based on the lightness, darkness, or other color characteristic of the person. Even though race and color clearly overlap, they are not synonymous.
+(26)
+Thus, color discrimination can occur between persons of different races or ethnicities, or between persons of the same race or ethnicity.
+(27)
+EXAMPLE 1
+COLOR-BASED HARASSMENT
+James, a light-complexioned African American, has worked as a waiter at a restaurant for over a year. His manager, a brown-complexioned African American, has frequently made offensive comments and jokes about James’s skin color, causing him to lose sleep and dread coming in to work. James’s requests that the conduct stop only intensified the abuse. James has been subjected to harassment in the form of a hostile work environment, based on his color. (See
+§ 15-VII.A.
+for a discussion of harassment.)
+EXAMPLE 2
+COLOR-BASED EMPLOYMENT DECISIONS
+Melanie, a brown-complexioned Latina, works as a sales clerk for a major department store. She applies for a promotion to be the Counter Manager for a major line of beauty products, but the employer denies her the promotion because the vendor prefers a “light skinned representative” to manage its product line at this particular location. The employer has unlawfully discriminated on the basis of color.
+Throughout the remainder of this Manual Section, the term “race,” rather than “color,” generally is used. This is done for stylistic reasons, as well as to reflect that many more race claims are made each year than color claims. However, the same analyses apply to both race and color.
+15-IV RELATED PROTECTED BASES
+Multiple protected bases of discrimination can be raised by the same set of facts, both because negative stereotypes and biases may be directed at more than one protected basis at a time, and because certain protected bases overlap considerably. Thus, for example, a discrimination complaint by an “Asian Indian” can implicate race, color, and national origin,
+(28)
+as can, for example, a complaint by a Black person from an African nation, or by a dark-skinned Latino. For Title VII purposes, the question is whether any prohibited factors led to an adverse employment action, alone or combined.
+All bases of discrimination that are reasonably implicated by the facts should be included in the charge or complaint (e.g., race, color, national origin, religion, sex, etc.). Failure to include all possible bases may result in a court dismissing a legitimate claim.
+(29)
+A. NATIONAL ORIGIN
+In forbidding “national origin” discrimination, Title VII prohibits the denial of equal employment opportunity because of the place of origin of an individual or his or her ancestors, or because an individual has the physical, cultural, or linguistic characteristics of a national origin group. National origin and race often overlap because persons who themselves are, or whose ancestors were, of the same national origin frequently are of the same race.
+(30)
+The overlap between race and national origin is particularly clear in the case of Asian Americans.
+(31)
+For a thorough discussion of national origin discrimination, see Section 13:
+National Origin Discrimination
+(2002),
+available at
+https://www.eeoc.gov/national-origin-discrimination
+, and see Guidelines on Discrimination Because of National Origin, at 29 C.F.R. § 1606.1.
+B. RELIGION
+Title VII’s prohibition against race discrimination also may overlap with its prohibition against discrimination based on religion. Both race and religion might be implicated where, for example, an employer discriminates against an employee based on the employee’s belief in a religion tied to a particular race or ethnicity (e.g., Hinduism/Asians).
+C. INTERSECTIONAL DISCRIMINATION
+Title VII prohibits discrimination not just because of one protected trait (e.g., race), but also because of the intersection of two or more protected bases (e.g., race and sex). For example, Title VII prohibits discrimination against African American women even if the employer does not discriminate against White women or African American men.
+(32)
+Likewise, Title VII protects Asian American women from discrimination based on stereotypes and assumptions about them “even in the absence of discrimination against Asian American men or White women.”
+(33)
+The law also prohibits individuals from being subjected to discrimination because of the intersection of their race and a trait covered by another EEO statute – e.g., race and disability,
+(34)
+or race and age.
+(35)
+15-V EVALUATING EMPLOYMENT DECISIONS
+Race and color cases generally fall under one of two categories, depending on which category most suits the facts – disparate treatment and disparate impact. Disparate treatment discrimination occurs when race or another protected trait is a motivating factor in how an individual is treated. Disparate impact discrimination occurs when a neutral policy or practice has a significant negative impact on one or more protected groups, and either the policy or practice is not job-related and consistent with business necessity or there is a less discriminatory alternative and the employer has refused to adopt it.
+A. RACIAL DISPARATE TREATMENT
+1. Recognizing Racial Motive
+Title VII is violated if race was all or part of the motivation for an employment decision.
+(36)
+The most obvious violation is a decision driven by racial animus.
+EXAMPLE 3
+RACIAL ANIMUS
+The employer is a family-owned construction company in need of a construction manager for one of its work crews. Dexter, an African American, is new to the area and applies for the job. He held the same position with another company before relocating. Dexter is rejected. When he finds out that a less-qualified White person was hired instead of him, Dexter alleges discrimination. The company secretary credibly testifies that she overheard an argument between the owner and his son over whether Dexter should be hired. Because Dexter was clearly the most qualified applicant, the son wanted to hire Dexter, but the owner did not. At one point the secretary heard the owner say: “As long as I’m running this company I won’t have a Black man doing a White man’s job!” The employer has violated Title VII.
+Racially biased decisionmaking and treatment, however, are not always conscious.
+(37)
+The statute thus covers not only decisions driven by racial animosity, but also decisions infected by stereotyped thinking or other forms of less conscious bias.
+(38)
+EXAMPLE 4
+RACIAL STEREOTYPING OR BIAS
+Charles, an African American, files a charge alleging that the employer, a retailer, used an interview to discriminate against him in favor of a less experienced White applicant. During the EEOC investigator’s discussion with the hiring manager, she notices that the hiring manager’s statements are peppered with comments such as “we were looking for a clean cut image,” and “this is a sophisticated upscale location . . . I have to make sure the people I hire have, you know, the ‘soft-skills’ we need.” Knowing that these statements could be reflective of racial stereotyping and bias,
+(39)
+the investigator evaluates the employer’s decisionmaking very carefully. The investigator interviews Charles’s most recent employer, who tells the investigator that “customers just loved working with Charles . . . he was one of our most effective and motivated employees.” The investigator also interviews the person hired and finds no basis for believing her “soft skills,” or her “image,” were any better than Charles’s. In addition, the investigator notices that, like the person hired over Charles, the rest of the staff also is White even though the qualified labor market is significantly more diverse. The investigator concludes that the employer rejected Charles based on racial stereotyping or bias.
+Title VII also does not permit racially motivated decisions driven by business concerns – for example, concerns about the effect on employee relations,
+(40)
+or the negative reaction of clients or customers.
+(41)
+Nor may race or color ever be a bona fide occupational qualification under Title VII.
+(42)
+EXAMPLE 5
+RACIAL STEERING OR ASSIGNMENT
+An employer admits that it usually assigns Black and Asian American salespersons to sales territories with a high percentage of Blacks and Asian Americans. It is uncontested that the employer does not harbor ill-will toward either group. Instead, the employer believes they will better serve sales territories with high percentages of Blacks and Asian Americans, and thus increase sales to the benefit of the firm’s bottom line and their careers. Charges are filed by employees who want the opportunity to work in territories regardless of their racial makeup. The employer has violated Title VII, which prohibits employers from depriving employees of employment opportunities by limiting, segregating, or classifying them on the basis of race.
+(43)
+EXAMPLE 6
+YIELDING TO CUSTOMERS' RACIAL PREFERENCES
+The employer is a home care agency that hires out aides to provide personal, in-home assistance to elderly, disabled, and ill persons. It has a mostly White clientele. Many of its clients have expressed a desire for White home care aides. Gladys, an African American aide at another agency, applies for a job opening with the employer because it pays more than her current job. She is well qualified and has received excellent performance reviews in her current position. The employer wants to hire Gladys but ultimately decides not to because it believes its clientele would not be comfortable with an African American aide. The employer has violated Title VII because customer preference is not a defense to race discrimination.
+(44)
+2. Conducting a Thorough Investigation
+Because discrimination often is subtle, and there rarely is a “smoking gun,”
+(45)
+determining whether race played a role in the decisionmaking requires examination of all of the surrounding facts and circumstances.
+(46)
+The presence or absence of any one piece of evidence often will not be determinative. Sources of information can include witness statements, including consideration of their credibility; documents; direct observation; and statistical evidence such as EEO-1 data, among others. See EEOC Compl. Man., Vol. I, Sec. 26, “Selection and Analysis of Evidence.” A non-exhaustive list of important areas of inquiry and analysis is set out below.
+Potential Evidence of Racial Disparate Treatment
+Race-related statements (oral or written) made by decisionmakers or persons influential to the decision.
+Race-related statements include not only slurs and patently biased statements, but also “code words” that are purportedly neutral on their face but which, in context, convey a racial meaning.
+(47)
+The credibility of the witness(es) attesting to discriminatory statements, and the credibility of the witness(es) denying them, are critical to determining whether such statements actually were made. If racially discriminatory statements were made, their importance will depend on their egregiousness and how closely they relate – in time and content – to the decision in question. For example, a statement that there are “too many Asians” in a department, made by a hiring official when discussing applicants, would be strong evidence supporting an Asian American’s failure-to-hire claim. Such a statement also would support a claim of hostile work environment by Asian American employees.
+(48)
+Comparative treatment evidence.
+This is evidence as to whether the claimant was treated the same as, or differently than, similarly situated persons of a different race. Such evidence is not always required, but a difference in the treatment of similarly situated persons of different races is probative of discrimination because it tends to show that the treatment was not based on a nondiscriminatory reason. Conversely, an employer’s consistent treatment of similarly situated persons of different races tends to support its contention that no discrimination occurred. Comparator evidence that supports either party’s position must be weighed in light of all the circumstances. For example, if the group of similarly situated persons who were treated better than the claimant included persons of the claimant’s race, that would weaken his or her claim, but it would not be conclusive proof of nondiscrimination because the balance of the evidence overall might still more convincingly point to discrimination.
+(49)
+Identification of persons who are similarly situated to the claimant should be based on the nature of the allegations, the alleged nondiscriminatory reasons, and other important factors suggested by the context,
+(50)
+but should not be based on unduly restrictive standards.
+(51)
+Relevant background facts.
+Specific employment decisions and issues should not be looked at in isolation. Other information that can shed light on whether the employer’s adverse employment decision was motivated by race includes the employer’s treatment of other employees (or customers, etc.), race-related attitudes, the work environment generally, and the context of the challenged employment decision.
+(52)
+For example, background evidence that an employer has permitted racial jokes and slurs about Asian Americans in the workplace would support an Asian American employee’s allegation that her termination was based on her race.
+(53)
+Similarly, background evidence that an employer has discriminated against African Americans in hiring, pay, or promotions would support an African American employee’s claim that a pattern of mistreatment – e.g., her supervisor undermining her work, ostracizing her, and making snide comments – is actually a pattern of race-based harassment.
+(54)
+The point is that background evidence can help determine the employer’s state of mind and otherwise provide important context. Also, as suggested by the above examples, the inquiry into background evidence can reveal other potential violations of the statute.
+Relevant personnel policies.
+An employer’s deviation from an applicable personnel policy, or a past practice, can support an inference of a discriminatory motive. Conversely, acting in conformance with a consistently applied nondiscriminatory policy or practice would suggest there is no such motive.
+The decisionmaker’s race.
+The race of the decisionmaker may be relevant, but is not controlling.
+(55)
+In other words, it should not be presumed that a person would not discriminate against members of his own race. As the Supreme Court has noted, “[b]ecause of the many facets of human motivation, it would be unwise to presume as a matter of law that human beings of one definable group will not discriminate against other members of their group.”
+(56)
+Statistical evidence.
+Statistics reflecting the employer’s general policy or practice can be helpful in determining whether race was a factor in a particular selection decision. For example, a Black applicant’s allegation of hiring discrimination would be bolstered by evidence that the selection rate of qualified Black applicants is significantly below the selection rate of qualified applicants of other races, or that Blacks are significantly under-represented in the employer’s workplace given their availability in the qualified labor market.
+(57)
+Conversely, while a racially diverse workforce cannot immunize an employer from liability for specific acts of discrimination, the more racially diverse the relevant part of the employer’s workforce is, the less credible would be the claim of discrimination.
+(58)
+Statistical evidence also is important in determining whether the employer has a systemic pattern or practice of discriminating (see
+§ 15-V.A.3.
+).
+Employer Credibility
+The credibility of the employer’s explanation is key and must be judged in light of all the evidence obtained during the investigation. If an employer’s explanation for the employee’s treatment ultimately is not credible, that is powerful evidence that discrimination is the most likely explanation.
+(59)
+An employer’s credibility will be undermined if its explanation is unsupported by or contrary to the balance of the facts. Similarly, the credibility of the explanation can be called into question if it is unduly vague,
+(60)
+appears to be an after-the-fact explanation, or appears otherwise fabricated (e.g., the explanation shifts, or inconsistent reasons are given).
+Of course, even if the employer’s explanation lacks credibility, discrimination will not be found if the evidence affirmatively demonstrates that the employer’s real motivation was not race or another protected EEO trait, but something not covered by the laws enforced by EEOC – for example, an employee’s blowing the whistle to the SEC about violations of securities laws. Also, an employer’s business decision cannot be found discriminatory simply because it appears that the employer acted unwisely, or that the employer’s decision was in error or a misjudgment. At the same time, the reasonableness of the employer’s explanation is an important part of the overall picture.
+(61)
+The investigator must look at the totality of the evidence to determine if there is reason to believe the employer acted in a racially motivated manner.
+EXAMPLE 7
+EMPLOYER EXPLANATION CREDIBLE
+Alex, of Hispanic descent, has been progressively promoted and now holds a mid-level management position in a public relations firm in which he is responsible for several important accounts. The clients and the employer are happy with his performance. A senior-level management position that involves more responsibility opens up. The employer desires someone with demonstrated creativity to fill it. Alex applies for the job, but is not selected. Instead, the employer chooses Jennifer, a White female who, while qualified, has slightly less seniority and relevant experience. Alex files a charge alleging race and/or national origin discrimination. The investigation reveals that while Jennifer has somewhat less experience than Alex, she has displayed more creativity than Alex by developing a new way to reach the youth market, consistently suggesting improvements on the design of marketing materials, and implementing a new system for quickly disseminating time-sensitive documents. Alex, on the other hand, is seen as competent, hard working, and professional, but not as someone who displays quite as much creativity as wanted for the new job. There is clear and reasonably specific evidence verifying the perceived difference between Alex’s and Jennifer’s creativity. There is no evidence of discrimination other than comparative qualifications. The relatively minor differences in the employees’ qualifications, alone, do not warrant a conclusion that Alex’s nonpromotion was motivated by race or national origin.
+(62)
+EXAMPLE 8
+EMPLOYER EXPLANATION NOT CREDIBLE
+To change Example 7, if Alex outshone Jennifer in the other performance categories important for the promotion, such as customer relations, and leadership skills, the employer’s stated reason – that it chose the most qualified person – would lack credibility and it would be reasonable to suspect that Alex’s race/national origin motivated the employer. Similarly, if there was any evidence supporting Alex’s case other than relative qualifications – e.g., derogatory statements about the leadership potential of Hispanics, shifting explanations, a pattern of not promoting Hispanics, or inconsistency suggesting bias against Hispanics in measuring creativity – the totality of the evidence could lead one to conclude that Alex’s race/national origin likely motivated the employer.
+(63)
+3. Recognizing "Pattern or Practice" Race Discrimination
+A systemic “pattern or practice” of intentional discrimination involves statistical and/or other evidence that demonstrates that discrimination is “standard operating procedure – the regular rather than the unusual practice.”
+(64)
+For example, a pattern or practice would be established if, despite the fact that Blacks made up 20 percent of a company’s applicants for manufacturing jobs and 22 percent of the available manufacturing workers, not one of the 87 jobs filled during a six year period went to a Black applicant.
+(65)
+To the extent possible, the statistical analysis must include nondiscriminatory factors that reasonably might be said to account for any disparity. In a hiring case, for example, relevant factors would include the racial makeup and qualifications (e.g., education and experience relevant to the job) of the applicants, or of the general labor market if applicant data are unreliable or difficult to obtain.
+(66)
+The disparity also should be “statistically significant,” meaning unlikely to have occurred by chance.
+(67)
+Other instances and evidence of discrimination should be examined in conjunction with the statistics.
+(68)
+If the statistical disparity is gross, it alone can establish a pattern or practice claim, such as when there is an “inexorable zero.”
+(69)
+In all cases, the employer’s explanation or rebuttal (which may be statistical, nonstatistical, or both) should be fully analyzed and weighed against the evidence supporting the claim. EEOC staff should contact headquarters experts for assistance in statistical cases.
+(70)
+B. RACIAL DISPARATE IMPACT
+A finding of discrimination in the form of disparate impact does not depend on the existence of an unlawful motive.
+(71)
+Disparate impact analysis is aimed at removing barriers to EEO that are not necessarily intended or designed to discriminate – “practices that are fair in form, but discriminatory in operation”
+(72)
+in that they operate as “built-in headwinds for [a protected class] and are unrelated to measuring job capability.”
+(73)
+The statute exempts certain policies or practices from disparate impact challenges – most notably, seniority systems.
+(74)
+Otherwise, however, the disparate impact approach applies to all types of employment criteria, whether objective or subjective,
+(75)
+including:
+recruitment practices
+hiring or promotion criteria
+layoff or termination criteria
+appearance or grooming standards
+education requirements
+experience requirements
+employment tests
+Proving unlawful disparate impact under Title VII first requires a statistical demonstration that the employer has an employment policy or practice that causes a significant disparate impact based on race (or another protected trait). The particular policy or practice causing the impact must be identified, unless the elements of the employer’s decision-making process cannot be separated for analysis, in which case the decision-making process can be analyzed as one employment practice.
+(76)
+Once a policy or practice has been proven to cause a significant impact, the employer has the burden of demonstrating that the policy or practice is job related for the position in question and consistent with business necessity.
+(77)
+If the employer satisfies this burden, the case focuses on whether the person challenging the policy or practice can demonstrate that a less discriminatory alternative exists that meets the business need and whether the employer refuses to adopt it.
+(78)
+EXAMPLE 9
+NO-BEARD POLICY
+A pizza delivery restaurant has an inflexible no-beard policy. The restaurant fires Jamal, one of its African American drivers, for failing to remain clean shaven. Jamal has a severe case of pseudofolliculitis barbae (“PFB”), an inflammatory skin condition that occurs primarily in Black men and that is caused by shaving. The severity of the condition varies, but many of those who suffer from PFB effectively cannot shave at all. If Jamal or EEOC were to challenge the no-beard policy as unlawful because it has a significant negative impact on Blacks, the employer would have to prove the policy is job-related and consistent with business necessity.
+(79)
+See also
+§ 15-VII.B.5.
+15-VI EQUAL ACCESS TO JOBS
+A. RECRUITING
+Who
+ultimately receives employment opportunities is highly dependent on how and where the employer looks for candidates. Accordingly, Title VII forbids not only recruitment practices that purposefully discriminate on the basis of race but also practices that disproportionately limit employment opportunities based on race and are not related to job requirements or business needs.
+(80)
+For example, recruiting from racially segregated sources, such as certain neighborhoods, schools, religious institutions, and social networks, leads to hiring that simply replicates societal patterns of racial segregation.
+1. Job Advertisements and Employment Agencies
+Title VII specifically forbids job advertisements based on race, color, and other protected traits.
+(81)
+The statute also prohibits discrimination by employment agencies.
+(82)
+If an employer asks an employee-referral agency or search firm not to refer or search for candidates of a particular race, both the employer that made the request and the employment agency that honored it would be liable.
+(83)
+2. Word-of-Mouth Referrals
+While word-of-mouth recruiting in a racially diverse workforce can be an effective way to promote diversity, the same method of recruiting in a non-diverse workforce is a barrier to equal employment opportunity if it does not create applicant pools that reflect the diversity in the qualified labor market.
+(84)
+Similarly, unions that are not racially diverse should avoid relying solely on member referrals as the source of new members.
+(85)
+3. Homogeneous Recruitment Sources
+Title VII is violated by recruiting persons only from largely homogeneous sources if the recruitment practice has a racial purpose, or if it has a significant racial impact and cannot be justified as job related and consistent with business necessity. For example, Title VII might be violated if a municipal employer with an overwhelmingly White population and workforce abuts a major city with an overwhelmingly Black population, but the municipality only hires its own residents and refuses to advertise its jobs in newspapers that circulate in the abutting major city.
+(86)
+As another example, Title VII might be violated if a statistically significant racial disparity results from recruiting persons exclusively from predominantly White schools, or exclusively from predominantly Black schools, when it would be feasible to recruit qualified students from a range of sources. More investigation would be needed to determine whether a racial motivation exists, or whether the employer’s recruitment practices can be justified as job related and consistent with business necessity.
+4. Discriminatory Screening of Recruits
+The process of screening or culling recruits presents another opportunity for discrimination. Race obviously cannot be used as a screening criterion. Nor may employers use a screening criterion that has a significantly disparate racial impact unless it is proven to be job related and consistent with business necessity.
+EXAMPLE 10
+DISCRIMINATORY SCREENING
+An executive in a large company asks a recruiter in the human resources department to find her a new secretary. The executive tells the recruiter that in addition to excellent secretarial skills, she wants only to interview candidates who will relate well with high level executives inside and outside the company. In response to this, the recruiter searches the company's résumé database. The search produces 50 current résumés. In order to reduce this to a more manageable number, the recruiter refines the search to eliminate résumés from zip codes that are predominantly Black or Latino. This violates Title VII.
+B. HIRING AND PROMOTION
+The law generally leaves it to the employer’s business judgment to determine who should be hired or promoted. Within that context, however, an applicant’s race should not affect his or her chances. This means that employers cannot treat persons of different races differently in the hiring or promotion process. Nor may employers use selection criteria that have a significant discriminatory effect without being able to prove that the criteria are job-related and consistent with business necessity. Thus, a sound way for employers both to achieve business goals and to comply with the law is to hire and promote based on job-related ability, as measured by uniform and consistently applied qualification/selection standards.
+1. Uniform and Consistently Applied Standards
+When making hiring and promotion decisions, employers must apply the same selection criteria to persons of different races, and apply them in the same way, giving the same weight to each criterion for each person. The reasons given for selection decisions should be credible and supported by the evidence. The following are examples.
+EXAMPLE 11
+NONDISCRIMINATORY SELECTION DECISION
+Malcolm, an Asian American, applies for an executive position with the employer, a health maintenance organization. Malcolm is well qualified; he has a B.S. in biology from a large state university and an M.D. from a prestigious private university. Malcolm also has seven years’ experience practicing internal medicine and recently obtained an Executive M.B.A. from a well-respected business school. The employer interviewed Malcolm and eight other candidates. Malcolm was one of two finalists brought back for a final round of interviews. The employer’s selection committee ultimately chose Robert, a White finalist with slightly fewer qualifications but with experience in a similar job for a competitor. The employer tells EEOC that given Robert’s experience, it believed it would gain the most competitive benefit by hiring him. The EEOC investigator confirms Robert’s experience working for a competitor, and reads the minutes of the selection committee’s final meeting which reflect that this was the reason discussed at the meeting for choosing Robert over Malcolm. Here, the evidence supports the employer’s legitimate, nondiscriminatory reason.
+EXAMPLE 12
+DISCRIMINATORY SELECTION DECISION
+Kai, a Native American, files a charge after he applied for a promotion, was interviewed, and was not selected. The investigation reveals that, based on objective qualifications, Kai was deemed one of the top candidates but the job ended up going to Ted, a similarly qualified White candidate from outside the company. The hiring manager tells the investigator that he thought that Kai was well qualified but he chose Ted because he “seemed to be a better fit; I’m comfortable with him and I can see him in my job one day.” When pressed to be more specific,
+(87)
+the manager says he liked the fact that Ted worked for a competitor. However, the investigation reveals that although Ted did work for another company in the industry, it was not really a competitor. Employee and management witnesses tell the investigator that Ted’s experience working for another company in the industry was no more valuable than Kai’s experience working for the company itself. The witnesses also tell the investigator that, until now, the company practice had been to prefer qualified internal candidates over similarly qualified external candidates. There is reasonable cause to believe that Kai was discriminated against based on his race or national origin.
+EXAMPLE 13
+DISCRIMINATORY SELECTION DECISION
+Rita, an African American, has worked seven years as a Program Analyst for a federal agency. She consistently has received outstanding performance evaluations. Each of the last four years, Rita has applied for openings for jobs in her office in a higher grade. The agency has rejected Rita each time. After the fourth rejection, Rita initiated EEO counseling, and then a formal complaint, because she believed she had been repeatedly discriminated against. She stated that four White employees were promoted over her, each time for a different reason. The investigation reveals that the agency actually did apply the same promotion criteria during each selection. Importantly, however, witness interviews and documentary evidence (e.g., the employer’s interview notes) strongly suggest that the agency weighted the criteria differently each time so that Rita was the least qualified applicant. In other words, it appears that when a job-related qualification favored Rita it was deemed less important than when a qualification favored a White candidate. Moreover, statistics reveal that Whites are promoted more often than similarly qualified African Americans. There is reasonable cause to believe Rita was discriminated against based on her race.
+2. Job-Related Standards, Consistent with Business Necessity
+In an employer’s important effort to hire the best candidate, it might unintentionally engage in race discrimination by using selection standards that measure differences between racial groups that are not related to the job. Title VII provides that, if a selection standard is shown to have a significant impact based on race, the employer must demonstrate that the standard is job-related and consistent with business necessity. Thus, employers should be sure to “measure the person for the job and not the person in the abstract.”
+(88)
+Education Requirements
+Educational requirements obviously may be important for certain jobs. For example, graduation from medical school is required to practice medicine. However, employers often impose educational requirements out of their own sense of desirable qualifications. Such requirements may run afoul of Title VII if they have a disparate impact and exceed what is needed to perform the job. As the Supreme Court stated in one of its earliest interpretations of Title VII: “History is filled with examples of men and women who rendered highly effective performance without the conventional badges of accomplishment in terms of certificates, diplomas, or degrees. Diplomas and tests are useful servants, but Congress has mandated the commonsense proposition that they are not to become masters of reality.”
+(89)
+EXAMPLE 14
+EDUCATION REQUIREMENT
+Chloe, White, is the Head Secretary for a division of XYZ Corp. She took the job right after college and now is departing after three years to go to graduate school. The employer was thrilled with Chloe’s work, and when it gets notice that she is leaving, it sets out to find a replacement. Sylvia, an African American, applies for the job. Sylvia is a successful graduate of the local business institute, and has spent the last five years working as a secretary for a regional bank, rising a year ago to become the Executive Secretary in one of its major departments. The employer rejects Sylvia’s application because she is not a college graduate, which triggers a charge. Statistical evidence shows that in the local labor market African Americans and Hispanics in the pool of administrative and clerical workers are significantly less likely to have college degrees than Whites. The employer defends its education requirement by attributing Chloe’s success to the fact that she was college educated, noting that the Head Secretary position involves not only traditional secretarial work, but also more complex responsibilities such as preparing reports, and training and supervising other clerical staff. The investigation reveals, however, that none of the firm’s prior successful Head Secretaries had college degrees, and it is not the industry standard. Most importantly, the employer presents no evidence that a college degree is more predictive of, or correlated with, job performance than a degree from a business institute plus significant relevant experience (i.e., Sylvia’s qualifications), or other credentials and experiences that would render a person qualified for the job. The evidence establishes that the employer has violated Title VII because the college-degree requirement screens out African Americans and Hispanics to a significant degree but it has not been demonstrated to be job related and consistent with business necessity.
+Employment Testing
+Employment testing is another practice to which the disparate impact principle frequently is applied. Title VII provides that it is not an unlawful employment practice for an employer to give and to act upon the results of any professionally developed ability test “provided that such test, its administration or action upon the results is not designed, intended or used to discriminate on the basis of race” or other protected bases.
+(90)
+Under this provision, employment tests that have a disparate impact based on race or another protected trait must be validated pursuant to the government’s Uniform Guidelines on Employee Selection Procedures.
+(91)
+For example, if an employer decides to use a personality test to determine which employees are “management material,” and the test has a significant disparate impact based on race or another protected trait, the employer first must have the test professionally validated to ensure that the test is predictive of, or significantly correlates with, important elements of a manager’s job performance.
+(92)
+Even if the employer meets that standard, the test still may violate Title VII if there is another, less discriminatory alternative to the test that serves the employer’s needs and the employer fails to use this alternative.
+(93)
+Title VII also explicitly prohibits employers from race-norming employment tests, i.e, adjusting scores, using different cutoff scores, or otherwise altering the results of employment tests on the basis of race or other Title VII-protected bases.
+(94)
+For example, it is illegal to use different “passing” scores for different racial groups or to alter scores on employment tests in order to make the mean score the same for each race. This does not mean an employer cannot change the way it grades employment tests. For example, an employer may go from a straight ranking system to a grade banding system (i.e., a system that groups similar grades together) if done for nondiscriminatory purposes.
+(95)
+Conviction and Arrest Records
+Of course, it is unlawful to disqualify a person of one race for having a conviction or arrest record while not disqualifying a person of another race with a similar record. For example, an employer cannot reject Black applicants who have conviction records when it does not reject similarly situated White applicants.
+(96)
+In addition to avoiding disparate treatment in rejecting persons based on conviction or arrest records, upon a showing of disparate impact, employers also must be able to justify such criteria as job related and consistent with business necessity.
+(97)
+This means that, with respect to conviction records, the employer must show that it considered the following three factors: (1) the nature and gravity of the offense(s); (2) the time that has passed since the conviction and/or completion of the sentence; and (3) the nature of the job held or sought.
+(98)
+A blanket exclusion of persons convicted of any crime thus would not be job-related and consistent with business necessity.
+(99)
+Instead, the above factors must be applied to each circumstance. Generally, employers will be able to justify their decision when the conduct that was the basis of the conviction is related to the position, or if the conduct was particularly egregious.
+Arrest records are treated slightly differently. While a conviction record constitutes reliable evidence that a person engaged in the conduct alleged (i.e., convictions require proof “beyond a reasonable doubt”), an arrest without a conviction does not establish that a person actually engaged in misconduct.
+(100)
+Thus, when a policy or practice of rejecting applicants based on arrest records has a disparate impact on a protected class, the arrest records must not only be related to the job at issue, but the employer must also evaluate whether the applicant or employee actually engaged in the misconduct. It can do this by giving the person the opportunity to explain and by making follow-up inquiries necessary to evaluate his/her credibility.
+(101)
+Other employment policies that relate to off-the-job employee conduct also are subject to challenge under the disparate impact approach, such as policies related to employees’ credit history. People of color have also challenged, under the disparate impact theory, employer policies of discharging persons whose wages have been garnished to satisfy creditors’ judgments.
+(102)
+C. DIVERSITY AND AFFIRMATIVE ACTION
+In order to open the American workplace to historically excluded groups, some employers use diversity and affirmative action programs. Diversity and affirmative action are related concepts, but the terms have different origins and legal connotations. Workforce diversity is a business management concept under which employers voluntarily promote an inclusive workplace. Employers that value diversity create a culture of respect for individual differences in order to “draw talent and ideas from all segments of the population” and thereby potentially gain a “competitive advantage in the increasingly global economy.”
+(103)
+Many employers have concluded that a diverse workforce makes a company stronger, more profitable, and a better place to work,
+(104)
+and they implement diversity initiatives for competitive reasons rather than in response to discrimination, although such initiatives may also help to avoid discrimination.
+Title VII permits diversity efforts designed to open up opportunities to everyone. For example, if an employer notices that African Americans are not applying for jobs in the numbers that would be expected given their availability in the labor force, the employer could adopt strategies to expand the applicant pool of qualified African Americans such as recruiting at schools with high African American enrollment.
+(105)
+Similarly, an employer that is changing its hiring practices can take steps to ensure that the practice it selects minimizes the disparate impact on any racial group.
+(106)
+For example, an employer that previously required new hires to have a college degree could change this requirement to allow applicants to have a college degree or two years of relevant experience in the field. A need for diversity efforts may be prompted by a change in the population’s racial demographics, which could reveal an underrepresentation of certain racial groups in the work force in comparison to the current labor pool.
+Affirmative action, in contrast, “means those actions appropriate to overcome the effects of past or present practices, policies, or other barriers to equal employment opportunity.”
+(107)
+Affirmative action under Title VII may be (1) court-ordered after a finding of discrimination,
+(108)
+(2) negotiated as a remedy in consent decrees and settlement agreements, or (3) conducted pursuant to government regulation.
+(109)
+Also, employers may implement voluntary affirmative action plans in appropriate circumstances, such as to eliminate a manifest imbalance in a traditionally segregated job category.
+(110)
+In examining whether such a voluntary affirmative action plan is legal under Title VII, courts consider whether the affirmative action plan involves a quota or inflexible goal, whether the plan is flexible enough so that each candidate competes against all other qualified candidates, whether the plan unnecessarily trammels the interests of third parties, and whether the action is temporary, e.g., not designed to continue after the plan’s goal has been met.
+(111)
+An affirmative action plan implemented by a public sector employer is subject to both Title VII of the Civil Rights Act of 1964 and the Equal Protection Clause of the United States Constitution.
+(112)
+Some federal courts have held that public law enforcement agencies may satisfy the Equal Protection Clause if an “operational need” justifies the employer’s voluntary affirmative action efforts.
+(113)
+In the higher education context, the Supreme Court decided in
+Grutter v. Bollinger
+that attaining a diverse student body can justify considering race as a factor in specific admissions decisions at colleges and universities without violating the Equal Protection Clause or Title VI of the Civil Rights Act of 1964. The Supreme Court has not yet ruled on whether an “operational need” or diversity rationale could justify voluntary affirmative action efforts under Title VII, but a number of legal scholars and practitioners have debated the issue.
+(114)
+The Commission encourages voluntary affirmative action and diversity efforts to improve opportunities for racial minorities in order to carry out the Congressional intent embodied in Title VII.
+(115)
+Further, the Commission believes that “persons subject to Title VII must be allowed flexibility in modifying employment systems and practices to comport with the purposes” of the statute.
+(116)
+However, employers are cautioned that very careful implementation of affirmative action and diversity programs is recommended to avoid the potential for running afoul of the law.
+(117)
+EEOC investigators should consult with attorneys from their legal unit on charges of discrimination involving affirmative action and diversity plans.
+15-VII EQUAL OPPORTUNITY FOR JOB SUCCESS
+A. RACIAL HARASSMENT
+Failing to provide a work environment free of racial harassment is a form of discrimination under Title VII. Liability can result from the conduct of a supervisor, coworkers, or non-employees such as customers or business partners over whom the employer has control.
+(118)
+A hostile environment can be comprised of various types of conduct. While there is not an exhaustive list, examples include offensive jokes, slurs, epithets or name calling, physical assaults or threats, intimidation, ridicule or mockery, insults or put-downs, offensive objects or pictures, and interference with work performance. The conduct need not be explicitly racial in nature to violate Title VII’s prohibition against race discrimination, but race must be a reason that the work environment is hostile
+(119)
+. To determine if a work environment is hostile, all of the circumstances should be considered. Incidents of racial harassment directed at other employees in addition to the charging party are relevant to a showing of hostile work environment.
+(120)
+There are two requirements for race-based conduct to trigger potential liability for unlawful harassment: (1) the conduct must be unwelcome; and (2) the conduct must be sufficiently severe
+or
+pervasive to alter the terms and conditions of employment in the mind of the victim and from the perspective of a reasonable person in the victim’s position. At this point, the harassing conduct “offends Title VII’s broad rule of workplace equality.”
+(121)
+1. Unwelcome Conduct
+The conduct must be unwelcome in the sense that the alleged victim did not solicit or incite the conduct and regarded it as undesirable or offensive. When the conduct involves mistreatment or is racially derogatory in nature, unwelcomeness usually is not an issue, even when the alleged harasser and victim are of the same race.
+(122)
+Sometimes employers argue that the conduct in question was not unwelcome because it was playful banter, and the alleged victim was an active participant. The facts in such cases require careful scrutiny to determine whether the alleged victim was, in fact, a willing participant.
+(123)
+2. Severe or Pervasive
+To violate Title VII, racially abusive conduct does not have to be so egregious that it causes economic or psychological injury.
+(124)
+At the same time, Title VII is not “a general civility code,”
+(125)
+and thus conduct is not illegal just because it is uncomfortable, or inappropriate. The “severe or pervasive” standard reflects what the Supreme Court has called a “middle path” between these extremes.
+(126)
+Harassment must be analyzed on a case-by-case basis, by looking at all the circumstances and the context. Relevant factors in evaluating whether racial harassment creates a sufficiently hostile work environment may include any of the following (no single factor is determinative):
+The frequency of the discriminatory conduct;
+The severity of the conduct;
+Whether the conduct was physically threatening or humiliating;
+Whether it unreasonably interfered with the employee’s work performance; and
+The context in which the harassment occurred, as well as any other relevant factor.
+The more severe the harassment, the less pervasive it needs to be, and vice versa. Accordingly, unless the harassment is quite severe, a single incident or isolated incidents of offensive racial conduct or remarks generally do not create an abusive working environment.
+(127)
+But a single, extremely serious incident of harassment may be sufficient to constitute a Title VII violation, especially if the harassment is physical.
+(128)
+Examples of the types of single incidents that can create a hostile work environment based on race include: an actual or depicted noose or burning cross (or any other manifestation of an actual or threatened racially motivated physical assault)
+(129)
+, a favorable reference to the Ku Klux Klan, an unambiguous racial epithet such as the “N-word,”
+(130)
+and a racial comparison to an animal.
+(131)
+Racial comments or other acts that are not sufficiently severe standing alone may become actionable when repeated, although there is no threshold magic number of harassing incidents giving rise to liability.
+(132)
+Moreover, investigators must be sensitive to the possibility that comments, acts, or symbols that might seem benign to persons of the harasser’s race could nevertheless create a hostile work environment for a reasonable person in the victim’s position.
+(133)
+Below are examples designed to explain the concept of conduct sufficiently “severe or pervasive” to alter someone’s working conditions.
+EXAMPLE 15
+SUFFICIENTLY SEVERE CONDUCT
+Tim, an African American, is an employee at an auto parts manufacturing plant. After a racially charged dispute with a White coworker, the coworker told Tim: “Watch your back, boy!” The next day, a hangman’s noose, reminiscent of those historically used for racially motivated lynchings, appeared above Tim’s locker. Given the violently threatening racial nature of this symbol and the context, this incident would be enough to alter Tim’s working conditions.
+(134)
+EXAMPLE 16
+SUFFICIENTLY PERVASIVE CONDUCT
+Miyuki, of Japanese descent, gets a job as a clerk in a large general merchandise store. After her first day on the job, a small group of young male coworkers starts making fun of her when they see her by slanting their eyes, or performing Karate chops in the air, or intentionally mispronouncing her name. This occurs many times during her first month on the job. This is pervasive harassment because of race and/or national origin.
+(135)
+EXAMPLE 17
+CONDUCT NOT SUFFICIENTLY SEVERE OR PERVASIVE
+Steven, an African American, is a librarian at a public library. Steven approaches his supervisor, White, with the idea of creating a section in the stacks devoted to books of interest particularly to African Americans, similar to those he has seen in major bookstore chains. Steven’s supervisor rejects the idea out of hand, stating that he does not want to create a “ghetto corner” in the library. This statement alone, while racially offensive, does not constitute severe or pervasive racial harassment, absent more frequent or egregious incidents.
+(136)
+EXAMPLE 18
+SUFFICIENTLY SEVERE OR PERVASIVE CONDUCT
+Patrick, Caucasian, is a new employee in a company owned by an African American. All of the employees in Patrick’s department, including his manager, also happen to be African American. Patrick’s manager was pressured to hire Patrick because his father is a friend of a company executive. On Patrick’s first day on the job, the manager said to him, “This is a Black company. Whiteboys like you might get all the breaks in your world, but not here. Your daddy got you this job, but he can’t do it for you.” Although Patrick made every effort to prove himself, he was unable to do so because over the course of the next six months the manager subjected him to a pattern of mistreatment. For example, the manager would assign Patrick the majority of the uninteresting and routine work, and would set artificial and unrealistic deadlines. The manager would yell at Patrick when he made a mistake due to having to rush. The manager also frequently failed to inform Patrick of important meetings, or ignored Patrick when he spoke at meetings he did attend. Once the manager asked Patrick to get him a cup of coffee – a task not part of his job, and which no one else ever was asked to do – and said to him, “By the way, as you’ve probably guessed, I like my coffee black.” In contrast to the manager’s treatment of Patrick, the manager assigned Patrick’s coworkers – all African American – challenging assignments, provided them with coaching and training, and often extended their work deadlines. The totality of the evidence supports the conclusion that Patrick suffered from race-based harassment sufficient to alter his working conditions.
+(137)
+EXAMPLE 19
+SUFFICIENTLY SEVERE OR PERVASIVE CONDUCT
+Kyra is a newly hired programer at a computer software development company. She is the first African American, and the first woman, to be hired by the company. All of the other employees are White or Asian American men. During her first few weeks on the job, several employees made insensitive comments to her. For example, one of her coworkers told her, “You’re so articulate for a Black person.” Kyra also overheard a conversation between a group of coworkers in which one said, “I didn’t know Oprah could write code,” to which the group responded with laughter. Her team leader said to her, “I know you got this job because you’re a ‘twofer’ under our new affirmative action program, but you won’t get any breaks here.” Over her first few weeks, Kyra learned that the team leader held her to more exacting standards than her newly hired White and Asian American counterparts. While normally each programer’s work was reviewed once by management to look for bugs – a process the company called “code review” – the computer code Kyra wrote was put to an extra round of code review, without any evidence that it was warranted. After the first project Kyra was assigned to work on was complete, Kyra had trouble getting assigned to another project because other team leaders incorrectly assumed that Kyra’s work was substandard. When she raised the issue with management, she was told that the company had always had a word-of-mouth assignment system, and she needed to learn how to “play with the boys.” The evidence supports the conclusion that Kyra was subjected to a hostile work environment because of her race, sex, or the intersection of both, in light of the pattern of offensive comments and evidence that the bias altered the terms and conditions of Kyra’s employment.
+3. Employer Liability
+Employers and employees each have an essential role in preventing race harassment. When employers and employees both take appropriate steps to prevent and correct harassment, offensive conduct generally will be corrected before escalating to the point of violating Title VII.
+Conduct of Supervisors
+The rules for liability differ depending on whether the harasser is a supervisor. An individual qualifies as an employee’s supervisor if the individual has authority to undertake or recommend tangible employment decisions affecting the employee, or the individual has authority to direct the employee’s daily work activities.
+(138)
+As a general rule, employers are responsible for the behavior of their supervisors because employers act through their supervisors.
+Thus, any time discrimination by a supervisor results in the victim suffering a tangible employment action, such as being fired (or quitting in response to intolerable harassment accompanied by an official company act),
+(139)
+demoted, not promoted, or docked in pay, the employer is automatically liable, and there are no defenses available to the employer. For example, if a supervisor has a racially motivated grudge against an employee and acts on it by denying the employee a raise otherwise deserved under the employer’s pay system, the employer would be automatically liable and no defense would be available.
+There is an exception to the general rule that applies when the supervisor’s harassment was not tangible – i.e., the case involves a hostile work environment instead of a firing, demotion, pay cut, etc. In this situation, the employer avoids liability if it proves the elements of the following affirmative defense:
+The employer exercised reasonable care to prevent and correct promptly any harassing behavior;
+and
+The employee unreasonably failed to take advantage of any preventive or corrective opportunities provided by the employer or to avoid harm otherwise.
+(140)
+EXAMPLE 20
+EMPLOYER NOT LIABLE FOR UNLAWFUL HARASSMENT BY A SUPERVISOR
+Carla, an Asian American, claims that she was subjected to frequent offensive comments based on race and sex by her first-level supervisor. Carla was aware of the employer’s anti-harassment complaint procedures, but did not notify her employer; nor were there extenuating circumstances explaining her failure to follow the employer’s procedures. The employer learned of the harassment from Carla’s coworker, and immediately conducted an investigation. The employer reprimanded the supervisor and transferred him to another division. The employer is not liable for the harassment because it took reasonable preventative and corrective measures and Carla unreasonably failed to complain about the harassment.
+(141)
+For a full discussion of the affirmative defense for supervisory harassment, see Enforcement Guidance:
+Vicarious Employer Liability for Unlawful Harassment by Supervisors
+(June 1999),
+available at
+https://www.eeoc.gov/policy/docs/harassment.html
+.
+Conduct of Owner, President, Partners, or Officers
+If the harasser is of a sufficiently high rank to fall “within that class . . . who may be treated as the organization’s proxy,”
+(142)
+the employer cannot raise the affirmative defense even if the harassment did not result in a tangible employment action. Examples of officials who qualify as “proxies” or “alter egos” include a president, an owner, partners, and corporate officers.
+Conduct of Co-Workers and Non-Employees
+For the unlawful harassing conduct of non-supervisory employees, or non-employees over whom the employer has control (e.g., independent contractors or customers on the premises), the employer will be liable if it knew or should have known about the conduct and failed to take prompt and appropriate corrective action.
+(143)
+This means that an employer should have an anti-harassment policy and complaint procedure and should be vigilant enough to detect harassing conduct that it reasonably should know about even without a complaint.
+(144)
+It should also create an environment in which employees feel free to raise concerns, and are confident that those concerns will be addressed. Victims of harassment, in turn, should make sure management knows about the harassing conduct.
+EXAMPLE 21
+EMPLOYER LIABLE FOR UNLAWFUL HARASSMENT BY A NON-EMPLOYEE OVER WHOM IT HAS CONTROL
+Charles is a frequent visitor on XYZ Senior Community’s “neighborhood days,” when XYZ allows senior citizens in the neighborhood to visit its residents. During his visits, Charles often yells derogatory comments about Blacks and Latinos at Cheryl, a Black employee of Puerto Rican national origin, and has even pushed and tripped her on a few occasions. Cheryl complains about the conduct to a manager, and is told that XYZ cannot take any action against Charles because he is not a resident. On subsequent visits, Charles continues to yell racial and ethnic slurs at Cheryl, and she files an EEOC charge. XYZ is liable for the actions of Charles, a non-employee, because it had the power to control Charles’s access to the premises, was aware of Charles’s offensive conduct, and did not take corrective action.
+B. RACIAL BIAS IN OTHER EMPLOYMENT TERMS AND CONDITIONS
+Even if a company works hard to recruit and hire in a way that provides equal opportunity, and even if it maintains a harassment-free workplace, it still must ensure that race is not otherwise a barrier to employee success. Employers cannot permit race bias to affect work assignments, performance measurements, pay, training, mentoring or networking, discipline, or any other term, condition, or privilege of employment.
+(145)
+1. Work Assignments
+Work assignments are part-and-parcel of employees’ everyday terms and conditions of employment and are also important for gaining valuable on-the-job experience. Work assignments must be distributed in a nondiscriminatory manner. This means that race cannot be a factor in determining the amount of work a person receives, or in determining who gets the more, or less, desirable assignments.
+EXAMPLE 22
+WORK ASSIGNMENTS
+After receiving an advanced business degree, Mary was hired as an entry-level associate at a management and technology consulting firm. She was the only Black associate among the new entry-level associates. Most of the firm’s managers are White males. Initially, as with other new associates, Mary received routine assignments, and consistently met the expectations of the assigning managers. But as other associates became increasingly busy with complex, long-term projects, Mary noticed that she continued to receive projects that were short-term and routine. At her six-month performance review, the firm told Mary that her performance was good, and she received a bonus on par with other associates. She told the reviewers that she would like to receive more demanding work. Nevertheless, Mary’s difficulty getting choice assignments became compounded in the remaining half of the year as managers gave important work to those associates who had successfully handled it for them in the past. This happened despite Mary’s repeating on several occasions her request for more challenges. After a year at the firm, it was clear that her contemporaries had much higher standing in the firm than she did, as reflected in the low pay raise she received as compared to others. Mary opted to seek a fresh start with another firm. Soon after, Mary filed a charge against the employer alleging race discrimination in the terms and conditions of her employment. The employer cannot offer, and the investigation does not reveal, a credible nondiscriminatory explanation for Mary’s treatment. Thus, the evidence suggests that race bias affected how managers assigned Mary work, which in turn stalled her career development and affected her pay.
+(146)
+2. Performance Evaluations
+Performance evaluations frequently serve as the basis for numerous other employment decisions, such as pay, promotions, and terminations. They should be unaffected by race bias.
+EXAMPLE 23
+PERFORMANCE EVALUATIONS
+Daniel is a customer service representative, and the only African American in his unit. Until recently he has received uniformly stellar performance ratings, received performance awards, and earned a good reputation among his customers and colleagues. Things began to change, however, when a new supervisor was assigned a year ago to manage his unit. While Daniel had long been rated one of the best employees, the new supervisor began rating Daniel as below average, which has affected Daniel’s quarterly bonuses. He files a charge alleging race discrimination. A review of the performance evaluations of Daniel and others in his unit reveals that while Daniel’s overall performance rating has dropped markedly, the ratings of his counterparts have gone up. Significantly, on the most objective part of his performance evaluation – “quantity of results,” which measures the number of accounts serviced – Daniel was rated below average when in actuality he serviced more accounts than persons with higher ratings in this performance category. In addition, there is evidence that the supervisor undermined Daniel’s professional standing with customers – for example, by taking over meetings Daniel was supposed to lead, and refusing to correct a customer’s clearly mistaken belief that Daniel was responsible for an error. This treatment is markedly different than that of Daniel’s colleagues. The investigation reveals no evidence of a nondiscriminatory reason – such as a pure personality clash (i.e., one not rooted in the alleged bias)
+(147)
+– that explains Daniel’s treatment. There is reasonable cause to believe Daniel’s performance evaluations, and thus his pay, were racially discriminatory.
+(148)
+3. Training and Constructive Feedback
+Training is important for employees to become proficient in their jobs and to prepare for advancement. This includes both formal training and informal training through feedback from supervisors. As with other aspects of the employment relationship, race cannot be a factor in who receives training and constructive feedback.
+EXAMPLE 24
+TRAINING AND CONSTRUCTIVE FEEDBACK
+Tina, a brown-skinned woman of Mexican descent, is a new office clerk. Her primary duties are to sort and file purchase orders and invoices. Within a few weeks, it is clear to the employer that Tina is processing her purchase orders and invoices too slowly due to mistakes. The employer terminates Tina, who then files a charge alleging race discrimination. The investigation reveals that although White employees who perform at a substandard level are coached toward increasingly good performance, Tina and other employees of color get less feedback and thus tend to repeat mistakes and make new ones that could have been avoided. The evidence establishes that the employer unlawfully terminated Tina.
+(149)
+4. Workplace Networks
+Informal workplace networks can be just as important to an organization as official job titles and reporting relationships. Thus, an employee’s success may depend not only on his or her job duties, but also on his or her integration into important workplace networks. Employers cannot allow racial bias to affect an employee’s ability to become part of these networks.
+EXAMPLE 25
+WORKPLACE NETWORKS
+Suhail, of Arab descent, works for a computer software company. The company thrives on active socializing between employees and decisionmakers both on and off the job – from lunch outings, after-work happy hours and weekend golf outings, to children’s birthday parties and family barbeques. Many employees establish strong relationships with decisionmakers through these informal networks, and as a result, tend to get put on the plum projects and get the plum promotions. Suhail has experienced difficulty in building relationships with decisionmakers because he often receives invitations late or indirectly from peers, rather from the decisionmakers themselves. After being passed over for several important projects, Suhail files a charge alleging race/national origin discrimination because he believes he is being excluded from his workplace network for reasons related to his Arab descent. Suhail’s exclusion would be actionable if it affects the terms and conditions of his employment.
+(150)
+5. Appearance and Grooming Standards
+Appearance standards generally must be neutral, adopted for nondiscriminatory reasons, consistently applied to persons of all racial and ethnic groups, and, if the standard has a disparate impact, it must be job-related and consistent with business necessity.
+(151)
+The following are examples of areas in which appearance standards may implicate Title VII’s prohibition against race discrimination:
+Height and Weight:
+Standards for height and weight sometimes are challenged as having an unlawful adverse impact. For example, a requirement that employees be at least six feet tall might have an adverse impact on Asian Americans due to average height and weight differences, and thus such a requirement would need to be job-related and consistent with business necessity.
+(152)
+Dress:
+An employer can impose the same dress code on all workers in similar jobs, regardless of their race or ethnicity, as long as the policy was not adopted for discriminatory reasons and is enforced evenhandedly. However, an employer must treat racial or ethnic attire that complies with the dress code the same as other attire that complies with the dress code.
+(153)
+For example, Title VII prohibits employers from banning the wearing of traditional Hawaiian dress that complies with the employer’s dress code requirements.
+Hair:
+Employers can impose neutral hairstyle rules – e.g., that hair be neat, clean, and well-groomed – as long as the rules respect racial differences in hair textures and are applied evenhandedly. For example, Title VII prohibits employers from preventing African American women from wearing their hair in a natural, unpermed “afro” style that complies with the neutral hairstyle rule. Title VII also prohibits employers from applying neutral hairstyle rules more restrictively to hairstyles worn by African Americans.
+(154)
+Beards:
+Employers generally can require employees to be clean-shaven. However, Title VII requires an employer to make exceptions to a no-beard policy for men with pseudofolliculitis barbae, an inflammatory skin condition that occurs primarily in Black men and that is caused by shaving, unless being clean-shaven is job-related and consistent with business necessity (see Example 9 and accompanying footnote).
+6. Compensation
+Employees must receive compensation without regard to race. All forms of compensation are covered, such as salary, overtime pay, bonuses, stock options, expense accounts, commissions, life insurance, vacation and holiday pay, and benefits.
+EXAMPLE 26
+COMPENSATION
+Andrew Kim, of Korean descent, alleges that he is being discriminatorily paid less than his White counterparts. The employer cites Kim’s performance as the reason for his lower pay. The investigator then compares the compensation of Kim and similarly situated employees, according to the factors the employer says go into salary (experience (“Exp.”) and performance rating (“Perf.”)):
+Protected Class
+Salary
+Salary Factors
+Not in Protected Class
+Salary
+Salary Factors
+Kim (CP)
+$28,000
+Exp. = 3 yrs
+Perf. = 3
+Smith
+$31,000
+Exp. = 3 yrs
+Perf. = 4
+Thomas
+$34,000
+Exp. = 5 yrs
+Perf. = 4
+Adams
+$37,000
+Exp. = 5 yrs
+Perf. = 5
+The employer’s explanation for Kim’s salary is credible because it accounts for the pay disparity. While Kim has the same amount of experience as Smith, Kim’s performance rating is one point lower. There is no evidence that the performance rating itself was discriminatory. The $3000 difference between the pay of Kim and Smith is in line with the $3000 differences between the pay of Smith and the other non-Asian American employees. The evidence does not indicate discrimination.
+For further information on discrimination in compensation, see Section 10:
+Compensation Discrimination
+(2000),
+available at
+https://www.eeoc.gov/policy/docs/compensation.html
+.
+7. Discipline and Discharge
+Discipline and discharge decisions are typically based on either employee misconduct or unsatisfactory work performance. Such rules and policies regarding discipline and discharge must be enforced in an evenhanded manner, without regard to race.
+EXAMPLE 27
+DISCIPLINE AND DISCHARGE
+Monica, a Filipino sales representative, is the only person of color in her district. Monica’s job requires that she travel to the offices of clients and potential clients to market company products. Company policy requires sales representatives to be in the field from 8:30 a.m. to 5:30 p.m., and that they make sales calls on at least seven clients each and every day. Actual practice, however, is different. Most sales representatives “bank” their sales calls so that if they have a particularly productive day, they record the “extra” sales calls as occurring on a less productive day. When Monica learns that the practice is common among sales representatives, she begins to do it too, because she likes the flexibility that it offers. Things change after the company assigns a new District Manager to Monica’s district. The new manager tells Monica that “banking” sales calls is against policy and that he intends to ask the Regional Manager for permission to discipline Monica, which would deny her a bonus and make her a candidate for layoff. When Monica protests that other sales representatives in her district use the same practice, her supervisor feigns ignorance and does nothing about it. The Regional Manager approves the discipline based upon the District Manager’s recommendation. Monica files a charge alleging race discrimination. The investigation does not reveal a credible and persuasive nondiscriminatory explanation for what otherwise appears to be a racial double standard. Thus, it is likely that Monica’s discipline was racially motivated, in violation of Title VII.
+(155)
+C. RETALIATION
+Employees have a right to be free from retaliation for their opposition to discrimination or their participation in an EEOC proceeding by filing a charge, testifying, assisting, or otherwise participating in any manner in an investigation, proceeding, or hearing under Title VII.
+(156)
+There are three essential elements of a retaliation claim:
+Employee Protected Activity
+– opposition to discrimination or participation in the statutory complaint process;
+Employer Adverse Action
+– any adverse treatment (beyond a petty slight or a trivial annoyance) that is based on a retaliatory motive and is reasonably likely to deter protected activity; and
+Causal Connection
+– between the protected activity and the adverse action.
+EXAMPLE 28
+RETALIATION
+Pedro files a charge alleging discrimination because of his race, Black, and his national origin, Dominican. In the months following his charge, Pedro begins receiving less and less overtime work. He files another charge alleging that the denial of overtime is retaliatory. The employer states that Pedro was not assigned overtime because there is less work. The investigation reveals no significant change in the amount of overtime available before and after Pedro’s charge. Other employees with similar qualifications as Pedro have continued to be assigned overtime at approximately the same rate. These facts establish that Pedro has been subjected to retaliation for filing a charge, in violation of Title VII.
+For a detailed discussion of the prohibition against retaliation, refer to Section 8:
+Retaliation
+, EEOC Compliance Manual (1998),
+available at
+https://www.eeoc.gov/policy/docs/retal.html
+.
+15-VIII REMEDIES
+In a disparate treatment case, the statute allows the following remedies (as applicable): injunctive relief, reinstatement, front pay (until or in lieu of reinstatement), back pay, attorney’s fees and costs, compensatory damages for any past or future out-of-pocket losses and any emotional harm, and punitive damages if the employer acted with malice or with reckless indifference to the individual’s federally protected rights. Punitive damages are unavailable against a federal, state, or local government employer.
+The law places caps on the sum of compensatory and punitive damages for which an employer may be liable. The caps are based on the size of the employer’s workforce:
+Employers with 15 - 100 employees: up to $50,000
+Employers with 101 - 200 employees: up to $100,000
+Employers with 201 - 500 employees: up to $200,000
+Employers with 501 or more employees: up to $300,000
+See 42 U.S.C. § 1981a(b). The caps apply to the sum of: punitive damages, and compensatory damages for emotional harm and future pecuniary losses. The caps do not apply to back pay and interest on back pay, front pay, or past pecuniary losses.
+(157)
+For further information, see Enforcement Guidance:
+Compensatory and Punitive Damages Available Under §102 of the Civil Rights Act of 1991
+(1992),
+available at
+https://www.eeoc.gov/policy/docs/damages.html
+.
+In a “mixed motives” case, in which an employment decision was motivated in part by race but the employer proves it also was motivated in part by a nondiscriminatory reason that would have resulted in the same decision by itself, Title VII still is violated but the remedies available are limited. The law allows declaratory relief, injunctive relief, and attorney’s fees and costs, but not reinstatement, hiring, back pay, or compensatory or punitive damages.
+(158)
+In an “after-acquired evidence” case, in which an employment decision was motivated by race but the employer proves that it subsequently discovered evidence of the applicant’s or employee’s wrongdoing that would have led to a similar decision on legitimate grounds even absent discrimination, Title VII still is violated. However, the remedies available are limited as follows: back pay is generally limited to the period from the date of the unlawful employment action to the date that the misconduct was discovered, compensatory damages are typically excluded for out-of-pocket losses incurred after the date that the evidence of wrongdoing was discovered, and reinstatement (or instatement) and front pay are not available. Other remedies, including compensatory damages for emotional harm and punitive damages, are not affected. For a fuller discussion of after-acquired evidence, see
+Enforcement Guidance on After-Acquired Evidence and McKennon v. Nashville Banner Publishing Co.
+(1995),
+available at
+https://www.eeoc.gov/policy/docs/mckennon.html
+.
+In a disparate impact case, in which a policy or practice has a significant disparate impact but cannot be justified by job-relatedness and business necessity, the employee is entitled to injunctive relief, reinstatement, front pay (until or in lieu of reinstatement), back pay, and attorney’s fees and costs. Compensatory damages and punitive damages are not available in disparate impact cases.
+(159)
+15-IX PROACTIVE PREVENTION
+The following are examples of
+best practices
+for employers – proactive measures designed to reduce the likelihood of Title VII violations and to address impediments to equal employment opportunity.
+General
+Develop a
+strong EEO policy
+that is
+embraced by the CEO
+and top executives,
+train managers and employees
+on its contents, enforce it, and
+hold company managers accountable
+.
+Make sure decisions are
+transparent (to the extent feasible) and documented
+. The reasons for employment decisions should be well explained to affected persons. Make sure managers maintain records for at least the statutorily-required periods.
+Recruitment, Hiring, and Promotion
+Recruit, hire, and promote with EEO in mind, by implementing practices designed to widen and
+diversify the pool of candidates
+considered for employment openings, including openings in upper-level management.
+Monitor for EEO by
+conducting self-analyses
+to determine whether current employment practices disadvantage people of color, treat them differently, or leave uncorrected the effects of historical discrimination in the company.
+Analyze the duties, functions, and competencies relevant to jobs. Then create
+objective, job-related qualification standards
+related to those duties, functions, and competencies. Make sure they are
+consistently applied
+when choosing among candidates.
+Identify and remove barriers
+to EEO – such as word-of-mouth recruiting in a workforce that does not reflect the diversity of the qualified labor market, or employment tests – if they cannot demonstrably be tied to job performance and business necessity.
+Develop the potential of employees, supervisors, and executives with EEO in mind, by providing
+training and mentoring
+to give workers of all backgrounds the opportunity, skill, experience, and information necessary to perform well, and to ascend to upper-level jobs.
+(160)
+Make sure
+promotion criteria
+are made
+known
+, and that
+job openings
+are
+communicated
+to all eligible employees.
+Harassment
+To protect employees from unlawful racial (and other) harassment, employers should adopt a strong anti-harassment
+policy
+, periodically
+train
+each employee on its contents and procedures, and vigorously
+follow and enforce
+it. The policy should contain:
+A clear
+explanation
+of prohibited conduct, including examples;
+Clear assurance that employees who make complaints or provide information related to complaints will be
+protected against retaliation
+;
+A clearly described
+complaint process
+that provides multiple, accessible avenues of complaint;
+Assurance that the employer will protect the
+confidentiality
+of harassment complaints to the extent possible;
+A complaint process that provides a
+prompt, thorough, and impartial investigation
+; and
+Assurance that the employer will take
+immediate and appropriate corrective action
+when it determines that harassment has occurred.
+For a full explanation of these points, see Enforcement Guidance:
+Vicarious Employer Liability for Unlawful Harassment by Supervisors
+(June 1999),
+available at
+https://www.eeoc.gov/policy/docs/harassment.html
+.
+Terms, Conditions, and Privileges of Employment
+Monitor
+compensation practices and performance appraisal systems for
+patterns of potential discrimination
+. Make sure performance appraisals are based on employees’ actual job performance. Ensure consistency, i.e., that comparable job performances receive comparable ratings regardless of the evaluator, and that appraisals are neither artificially low nor artificially high. Allow employees, without negative consequences, to have their appraisals reviewed and corrected when appropriate.
+Develop the potential of employees, supervisors, and executives with EEO in mind, by providing
+training and mentoring
+that provides workers of all backgrounds the opportunity, skill, experience, and information necessary to perform well, and to ascend to upper-level jobs.
+Promote an
+inclusive culture
+in the workplace by inculcating an environment of professionalism and respect for personal differences. In addition, employees of all backgrounds should have equal
+access to workplace networks
+.
+(161)
+Foster open communication and early dispute resolution. This will minimize the chance of misunderstandings escalating into legally actionable EEO problems. In addition,
+an alternative dispute-resolution (ADR) program
+can resolve EEO problems without the acrimony associated with an adversarial process. Importantly, however, even if there is such a program, an employee still is free to file a charge of discrimination with EEOC, and utilizing a company grievance procedure or other ADR mechanism does not suspend the running of the time period for filing an EEOC charge. As a best practice, however, employers should consider expressly waiving in advance any defense related to an employee’s failure to adhere to the charge-filing time period if the employee properly utilizes the employer’s ADR program.
+Protect against retaliation. Provide clear and credible assurances that if employees make complaints or provide information related to complaints the employer will
+protect employees from retaliation
+, and consistently follow through on this guarantee.
+Footnotes
+1.
+See United Steelworkers of America v. Weber
+, 443 U.S. 193, 202-03 (1979) (also noting: the 1962 unemployment rate of Blacks and other people of color was 124 percent higher than that of Whites).
+2.
+The following terms are used interchangeably in this document due to their frequent and accepted vernacular usage: “Black” and “African American”; “White” and “Caucasian”; “Asian” and “Asian American”; “American Indian” and “Native American”; and “Latino” and “Hispanic.” The document will refer to non-Whites generally as “people of color.”
+3.
+See Franks v. Bowman Transp. Co., Inc.,
+424 U.S. 747, 763 (1976) (“Congress intended to prohibit all practices in whatever form which create inequality in employment opportunity due to discrimination [prohibited by Title VII] . . . and ordained that its policy of outlawing such discrimination should have the highest priority.”) (citations omitted). For a good discussion of the history of Title VII enforcement, see Celebrating the 40th Anniversary of Title VII (2004), at
+https://www.eeoc.gov/celebrating-40th-anniversary-title-vii
+; and The Story of The United States Equal Employment Opportunity Commission: Ensuring the Promise of Opportunity for 35 Years (2000), available at
+https://catalog.hathitrust.org/Record/003581425
+.
+4.
+See
+EEOC Charge Statistics, at
+https://www.eeoc.gov/data/enforcement-and-litigation-statistics-0
+.
+5.
+See Devah Pager, The Mark of a Criminal Record
+, American Journal of Sociology (Mar. 2003) (audit study sending matched pairs of Black and White male college students with similar self-presentation styles to apply for 350 low-skilled jobs advertised in the Milwaukee classifieds; purpose was to test the degree to which a criminal record affects subsequent employment opportunities; study found that when the White “testers” were assigned a fake 18-month prison record – for possession of cocaine with intent to sell – they were called back by employers 17% of the time, while the Black testers assigned the same record were called back only 5% of the time; Whites without a criminal record had a 34% call back rate versus a 14% call back rate for Blacks without a criminal record), available at
+https://users.ssc.wisc.edu/~gwallace/Papers/Pager%20(2003).pdf
+.
+6.
+See
+Jenny Bussey and John Trasviña, Racial Preferences:
+The Treatment of White and African American Job Applicants by Temporary Employment Agencies in California, at
+http://www.impactfund.org/DRC%20December%202003%20Report.pdf
+(Dec. 2003) (audit study sending specially trained matched pairs of White and Black job applicants to temporary agencies to determine whether one applicant received better treatment in one way or another, such as in obtaining an interview or job offer, higher pay, or longer job assignment; study found that the temporary agencies audited in Los Angeles preferred the White applicants 4 to 1 over the African American applicants, and more than 2 to 1 in San Francisco).
+7.
+See
+Marianne Bertrand and Sendhil Mullainathan,
+Are Emily and Brendan More Employable than Lakisha and Jamal? A Field Experiment on Labor Market Discrimination, at
+https://www.aeaweb.org/articles?id=10.1257/0002828042002561
+(Nov. 18, 2002) (after randomly assigning names common among Whites or Blacks to résumés of similar quality, Professors Bertrand and Mullainathan responded to over 1300 job advertisements in Boston and Chicago, and found that the hypothetical White applicants were 50 percent more likely to receive responses seeking interviews than the hypothetical Black applicants; moreover, the study revealed that improvements in résumé quality significantly increased the chances for a callback for Whites but did not significantly increase the chances for Blacks).
+8.
+See
+generally the Census 2000 Special EEO Tabulation (Employment by EEO-1 Job Categories), available at
+https://www.census.gov/acs/www/data/eeo-data/
+.
+9.
+Section 1981 of the Civil Rights Act of 1866 – 42 U.S.C. § 1981 – also provides a federal remedy for race discrimination in employment. Section 1981 prohibits race discrimination in the making and enforcing of contracts, which includes, but is not limited to, most employment relationships. While Title VII provides that private employers must have 15 or more employees to be covered, Section 1981 covers employers with any number of employees. The EEOC does not enforce Section 1981.
+10.
+The analysis in this Section generally applies to private, state and local, and federal sector complaints of race or color discrimination under Title VII. Moreover, while this document focuses on discrimination by employers, Title VII also prohibits discriminatory practices by labor organizations, including union membership and representation, and employment agencies, including referral practices.
+11.
+Best practices are proactive measures designed to reduce the likelihood of Title VII violations and to address impediments to equal employment opportunity. A comprehensive overview of best practices is presented in the 1998 report “‘Best’ Equal Employment Opportunity Policies, Programs, and Practices in the Private Sector,” which was prepared by an EEOC task force headed by former Commissioner Reginald E. Jones. See Equal Employment Opportunity Commission, “Best” Equal Employment Opportunity Policies, Programs, and Practices in the Private Sector (2d ed. 1998). According to the report, a “best practice”: complies with the law; promotes equal employment opportunity; shows management commitment and accountability; ensures management and employee communication; produces noteworthy results; and does not result in unfairness. The complete report is available at
+https://www.eeoc.gov/eeoc/task_reports/best_practices.cfm
+.
+12.
+See
+Office of Management and Budget, Provisional Guidance on the Implementation of the 1997 Standards for Federal Data on Race and Ethnicity 6-7 (12/15/00).
+13.
+See id.
+9-10.
+14.
+See also
+§ 15-IV.A.
+,
+infra
+.
+15.
+See also
+§ 15-VII.B.5
+,
+infra
+, on Appearance and Grooming Standards.
+16.
+See
+Centers for Disease Control and Prevention Fact Sheet, available at
+https://www.cdc.gov/chronicdisease/resources/publications/factsheets/diabetes-prediabetes.htm
+(last visited 11/30/05).
+17.
+See
+Section 3:
+Employee Benefits
+, EEOC Compliance Manual, Title VII/EPA Issues § II.B.,
+available at
+https://www.eeoc.gov/policy/docs/benefits.html
+.
+18.
+See supra note 7; cf. El-Hakem v. BJY, Inc
+., 415 F.3d 1068, 1073 (9th Cir. 2005) (“names are often a proxy for race and ethnicity”).
+19.
+See also
+§ 15-VII.B.5
+,
+infra
+, on Appearance and Grooming Standards.
+20.
+See Tetro v. Elliott Popham Pontiac, Oldsmobile, Buick, & GMC Trucks, Inc.,
+173 F.3d 988, 994-95 (6th Cir. 1999) (holding employee stated a claim under Title VII when he alleged that company owner discriminated against him after his biracial child visited him at work: “A white employee who is discharged because his child is biracial is discriminated against on the basis of his race, even though the root animus for the discrimination is a prejudice against the biracial child” because “the essence of the alleged discrimination . . . is the contrast in races.”).
+21.
+Cf. Phillips v. Martin Marietta Corp.
+, 400 U.S. 542, 544 (1971) (holding that an employer’s refusal to hire a subgroup of women – those with preschool-age children – was sex-based).
+22.
+See McDonald v. Santa Fe Trail Transp. Co
+., 427 U.S. 273, 280 (1976) (Title VII prohibits race discrimination against all persons, including Whites).
+23.
+See, e.g., Mattioda v. White,
+323 F.3d 1288 (10th Cir. 2003) (Caucasian plaintiff failed to establish prima facie case because he did not present “background circumstances that support an inference that the defendant is one of those unusual employers who discriminates against the majority”);
+Phelan v. City of Chicago
+, 347 F.3d 679, 684-85 (7th Cir. 2003) (in cases of reverse race discrimination, White employee must show background circumstances demonstrating that particular employer has reason or inclination to discriminate invidiously against whites or evidence that there is something “fishy” about facts at hand);
+Gagnon v. Sprint Corp.
+, 284 F.3d 839, 848 (8th Cir. 2002) (in a Title VII claim of reverse race discrimination, employee must show that defendant is that unusual employer who discriminates against the majority, but if the employee fails to make this showing, he may still proceed by producing direct evidence of discrimination).
+But see, e.g., Iadimarco v. Runyon
+, 190 F.3d 151, 163 (3d Cir.1999) (rejecting heightened “background circumstances” standard);
+Lucas v. Dole,
+835 F.2d 532, 533-34 (4th Cir. 1987) (declining to decide whether a “higher prima facie burden” applies in reverse discrimination cases).
+24.
+See McDonald,
+427 U.S. at 280 (“Title VII prohibits racial discrimination against the white petitioners in this case upon the
+same standards
+as would be applicable were they Negroes”) (emphasis added).
+25.
+Reeves v. Sanderson Plumbing Prods.
+, Inc., 530 U.S. 133, 143 (2000).
+26.
+See Walker v. Secretary of the Treasury, IRS
+, 713 F. Supp. 403, 405-08 (N.D. Ga. 1989) (discrimination based on color not necessarily the same as race; cause of action available for suit by light skinned Black person against a dark skinned Black person),
+aff’d
+953 F.2d 650 (11th Cir. 1992);
+cf. Rodriguez v. Guttuso,
+795 F. Supp. 860, 865 (N.D. Ill. 1992) (Fair Housing claim succeeded on statutory ground of “color” discrimination where light-complexioned Latino defendant refused to rent to Latino couple because husband was a dark-complexioned Latino).
+27.
+See Santiago v. Stryker Corp.
+, 10 F. Supp. 2d 93, 96 (D.P.R. 1998) (holding dark-complexioned Puerto Rican citizen replaced by light-complexioned Puerto Rican citizen could establish a prima facie case of “color” discrimination (quoting, with approval,
+Felix v. Marquez,
+24 EPD ¶ 31,279 (D.D.C.1980): “‘Color may be a rare claim, because color is usually mixed with or subordinated to claims of race discrimination, but considering the mixture of races and ancestral national origins in Puerto Rico, color may be the most practical claim to present.’”)).
+28.
+See, e.g., Dixit v. City of New York Dep’t of General Servs.,
+972 F. Supp. 730, 735 (S.D.N.Y. 1997) (holding that a charge that alleged discrimination on the basis of being “Asian Indian” sufficed to raise both race and national origin because EEOC could reasonably be expected to investigate both).
+29.
+Although a lawsuit can encompass any claim that can reasonably be expected to flow from the charge of discrimination, some courts narrowly construe what can reasonably be expected to flow.
+Compare, e.g., Bryant v. Bell Atlantic Md., Inc.
+, 288 F.3d 124 (4th Cir. 2002) (plaintiff whose charge alleged only race discrimination could not later bring suit based on, inter alia, color)
+with, e.g., Deravin v. Kerik
+, 335 F.3d 195 (2d Cir. 2003) (African American who checked “national origin” in his charge, alleging preferential treatment of Irish Americans, could bring subsequent lawsuit based on race).
+30.
+Cf. St. Francis College v. Al-Khazraji,
+481 U.S. 604, 614 (1987) (Brennan, J., concurring) (noting that, according to EEOC’s definition of “national origin” at 29 C.F.R. § 1606.1, “in the Title VII context, the terms [race and national origin] overlap as a legal matter,” and reading the majority opinion to state only that § 1981 does not cover discrimination where the two do not overlap, i.e., where the discrimination is based on “birthplace alone,” which is purely national origin);
+Perkins v. Lake County Dep’t of Utils.
+, 860 F. Supp. 1262, 1272-73 (N.D. Ohio 1994) (listing the § 1981 cases in which courts engaged in what it called “mental gymnastics” to define “race” and to distinguish it from national origin).
+31.
+Race and national origin also clearly overlap with respect to American Indians, because they often are perceived in racial terms and they originate from tribes that “were at one time considered to be nations by both the colonizing countries and later the United States.”
+Dawavendewa v. Salt River Project Agric. Improvement and Powers Distr.
+, 154 F.3d 1117, 1119-20 (9th Cir. 1998). Thus, an allegation that an employer discriminated against an American Indian may be analyzed as either race discrimination or national origin discrimination.
+See Perkins,
+860 F. Supp. at 1273 n.7 (noting that courts have analyzed discrimination against American Indians in terms of both national origin and race discrimination).
+32.
+See Jeffries v. Harris County Comty. Action Comm’n,
+615 F.2d 1025, 1032-34 (5th Cir. 1980) (“we hold that when a Title VII plaintiff alleges that an employer discriminates against black females, the fact that black males and white females are not subject to discrimination is irrelevant”). For a discussion of the progress that women of color have made, as well as stubborn patterns of stagnation, see EEOC’s study titled Women of Color: Their Employment in the Private Sector (2003),
+available at
+https://www.eeoc.gov/eeoc/statistics/reports/womenofcolor/index.html
+.
+33.
+Lam v. University of Hawaii,
+40 F.3d 1551, 1561-62 (9th Cir. 1994) (holding lower court erred when it treated the claim of an Asian woman in terms of race
+or
+sex separately; lower court should have considered whether discrimination occurred because of the plaintiff’s combined race
+and sex
+).
+34.
+See
+Peter Blanck et al.,
+The Emerging Workforce of Entrepreneurs with Disabilities: Preliminary Study of Entrepreneurship in Iowa,
+85 Iowa L. Rev. 1583 n.157 (2000) (African American women with disabilities disproportionately disadvantaged in employment opportunities). The Americans with Disabilities Act of 1990 (ADA) forbids employers with 15 or more employees from discriminating against qualified individuals with disabilities.
+See
+42 U.S.C. §§ 12101
+et seq
+. Numerous EEOC resources explaining the ADA can be found on the Commission’s web site at www.eeoc.gov.
+35.
+The Age Discrimination in Employment Act of 1967 (ADEA) forbids employers with 20 or more employees from discriminating against applicants or employees age 40 and over because of their age.
+See
+29 U.S.C. §§ 621
+et seq
+.
+36.
+However, note that under certain circumstances the statute permits “a business or enterprise on or near an Indian reservation” to give a preference to “an Indian living on or near a reservation.” 42 U.S.C. § 2000e-2(i); Section 2:
+Threshold Issues
+, EEOC Compl. Man., § 2-II.B.4.ii, at
+https://www.eeoc.gov/policy/docs/threshold.html#2-III-B-4-b-ii
+. See also § 15-VI.C,
+infra
+, discussing diversity and affirmative action.
+37.
+See Thomas v. Eastman Kodak Co.
+, 183 F.3d 38, 42, 59-61 (1st Cir. 1999) (holding layoff could be found unlawful where performance evaluations on which layoffs were based were racially biased, and discussing the longstanding recognition that unlawful discrimination can stem from stereotyping and cognitive bias, as well as from conscious animus). For an academic discussion of the role unconscious bias can play in discrimination, see also Charles R. Lawrence III,
+The Id, the Ego, and Equal Protection: Reckoning with Unconscious Racism
+, 39 Stan. L. Rev. 317 (1987).
+38.
+For example, although a “personality conflict” can be a legitimate, nondiscriminatory reason for an employment decision, the personality conflict must not be rooted in any employer racial bias toward the employee. See generally Chad Derum and Karen Engle,
+The Rise of the Personal Animosity Presumption in Title VII and the Return of “No Cause” Employment,
+81 Tex. L. Rev. 1177, 1224-47 (2003).
+39.
+See Philip Moss & Chris Tilly, Stories Employers Tell: Race, Skill, and Hiring in America (2001) (discussing wide-ranging survey of employers in major U.S. cities regarding skills employers seek for jobs requiring no more than a high school education; concluding that in this segment of labor market racial disparities are caused by hard-to-separate mix of objective skill differences, cultural gaps, and employer racial bias in assessing skills, particularly “soft skills,” i.e., positive attitude, interaction skills, motivation, dependability).
+40.
+See International Union, UAW v. Johnson Controls, Inc
+., 499 U.S. 187, 199 (1991) (disparate treatment liability “does not depend on why the employer discriminates but rather on the explicit terms of the discrimination”);
+Goodman v. Lukens Steel Co.
+, 482 U.S. 656, 668-69 (1987) (though there was “no suggestion below that the Unions held any racial animus against or denigrated Blacks generally,” Unions violated Title VII and § 1981 by intentionally not pressing the work grievances of Black employees so as not to antagonize the employer or upset White workers).
+41.
+Cf. Rucker v. Higher Educational Aids Bd., 669
+F.2d 1179 (7th Cir. 1982) (Black employee had viable retaliation claim for opposing employer’s rejection of White person for promotion to youth counselor on grounds that the predominantly Black community preferred a Black counselor: stating “Title VII is a blanket prohibition of racial discrimination, rational and irrational alike, even more so than of other forms of discrimination attacked in Title VII . . . . [Thus,] it is clearly forbidden by Title VII to refuse on racial grounds to hire someone because your customers or clientele do not like his race.”).
+42.
+See
+42 U.S.C. § 2000e-2(e)(1) (Title VII’s “bona fide occupational qualification” (BFOQ) exception applies to all Title VII bases except race and color); 42 U.S.C. § 2000e-2(k)(2) (“business necessity” defense available in disparate impact cases is not available in intentional discrimination cases).
+43.
+See
+42 U.S.C. § 2000e-2(a) ((1) unlawful to discriminate in, among other things, compensation, terms, conditions, or privileges of employment, because of such individual’s race, etc; (2) unlawful to deprive employment opportunities by limiting, segregating, or classifying employees because of race or other Title VII-protected traits);
+Johnson v. Zema Sys. Corp.
+, 170 F.3d 734, 743-44 (7th Cir. 1999) (African American Plaintiff who alleged he was fired because of race could survive summary judgment because a jury could infer from unlawful segregation and job limitations – i.e, African-American salespersons were required to serve predominantly African-American accounts, and White salespersons were required to serve accounts owned or frequented by Whites – that the employer’s stated nondiscriminatory reason for firing Plaintiff was pretext);
+cf. Ferrill v. The Parker Group, Inc.,
+168 F.3d 468, 472-73 & 475 n.7 (11th Cir. 1999) (holding liable under § 1981 telephone marketing firm that admittedly assigned Black employees to make calls to Black households, and White employees to make calls to White households).
+44.
+E.g., Ray v. University of AK
+, 868 F. Supp. 1104, 1126-27 (E.D. Ark. 1994) (even if race could be a BFOQ, customer preference could not satisfy the defense);
+Rucker
+, at note 41,
+supra
+.
+45.
+See Aman v. Cort Furniture Rental Corp.
+, 85 F.3d 1074, 1081-82 (3d Cir. 1996) (“It has become easier to coat various forms of discrimination with the appearance of propriety, or to ascribe some other less odious intention to what is in reality discriminatory behavior. In other words, while discriminatory conduct persists, violators have learned not to leave the proverbial ‘smoking gun’ behind.”);
+cf. McDonnell Douglas Corp. v. Green,
+411 U.S. 792, 801 (1973) (“it is abundantly clear that Title VII tolerates no racial discrimination, subtle or otherwise”).
+46.
+Circumstantial evidence can be just as useful and persuasive as direct evidence, and sometimes more so.
+See Desert Palace, Inc. v. Costa,
+539 U.S. 90, 100 (2003) (“The reason for treating circumstantial and direct evidence alike is both clear and deep-rooted: ‘Circumstantial evidence is not only sufficient, but may also be more certain, satisfying and persuasive than direct evidence.’”) (citation omitted).
+47.
+See, e.g., Ash v. Tyson Foods, Inc.
+, No. 05-379, 2006 WL 386343, at *1 (U.S. Feb. 21, 2006) (per curiam) (referring to African American men as “boy” could be evidence of discrimination without any explicit racial modifiers: “Although it is true the disputed word will not always be evidence of racial animus, it does not follow that the term, standing alone, is always benign. The speaker’s meaning may depend on various factors including context, inflection, tone of voice, local custom, and historical usage. Insofar as the Court of Appeals held that modifiers or qualifications are necessary in all instances to render the disputed term probative of bias, the court's decision is erroneous.”);
+McGinest v. GTE Serv. Corp
+., 360 F.3d 1103, 1117 (9th Cir. 2004) (“The reference to McGinest as a ‘drug dealer’ might certainly be deemed to be a code word or phrase. In fact, reported cases have recognized the racial motivations behind this and other comments and slurs experienced by McGinest. . . . GTE’s attempt to deny the possible racial overtones of many of the comments made to McGinest or uttered in his presence indicates a willful blindness to racial stereotyping.”) (citations omitted);
+Aman
+, 85 F.3d at 1083 (supervisor’s statement to Black employee that he would get rid of “all of you” could be seen, in context, as conveying a racially offensive message).
+48.
+See subsection
+15-VII.A.
+for a discussion of harassment.
+49.
+See
+,
+e.g.
+,
+Connecticut v. Teal
+, 457 U.S. 440, 455 (1982) (“Congress never intended to give an employer license to discriminate against some [persons of a certain race] merely because he favorably treats other members of the employees’ group.”);
+cf. Sinai v. New England Telephone & Telegraph Co
+, 3 F.3d 471, 474 (1st Cir. 1993) (in a Section 1981 case: “The relevant issue in a discrimination claim is whether the defendant discriminates against the plaintiff on an improper basis. The fact that the defendant hired other members of the protected class is evidence that the jury can consider in reaching the ultimate issue, but is not dispositive in itself. The jury must weigh all of the evidence.”).
+50.
+For example, if an employee alleges that his race was a reason he was discharged or disciplined for misconduct, similarly situated employees should be identified who engaged in misconduct of comparable seriousness.
+See McDonnell Douglas,
+411 U.S. at 804 (Court stated that Black employee who was terminated and refused rehire because of alleged misconduct should be given a fair opportunity to show that the reason was pretextual, and “[e]specially relevant to such a showing would be evidence that white employees involved in acts . . . of comparable seriousness . . . were nevertheless retained or rehired”).
+51.
+Some courts engage in an analysis of “similarly situated” that is unduly restrictive.
+See, e.g., Holbrook v. Reno
+, 196 F.3d 255, 261 (D.C. Cir. 1999) (requiring plaintiff to show that all relevant aspects of her employment situation were “nearly identical” to those of her comparator). See generally Ernest F. Lidge III,
+The Courts’ Misuse of the Similarly Situated Concept in Employment Discrimination Law, 67
+Mo. L. Rev. 831, 863-82 (2002).
+52.
+See, e.g., National Railroad Passenger Corp. v. Morgan,
+536 U.S. 101, 113 (2002) (prior discriminatory acts may be used as background evidence to support a claim);
+Aman
+, 85 F.3d at 1083 (“A play cannot be understood on the basis of some of its scenes but only on its entire performance, and similarly, a discrimination analysis must concentrate not on individual incidents, but on the overall scenario.”) (citation and quotation marks omitted).
+53.
+See, e.g., United States Postal Serv. Bd. of Governors v. Aikens,
+460 U.S. 711, 713 n.2 (1983) (background evidence that person responsible for promotion decisions made derogatory remarks about Blacks in general and Plaintiff in particular was relevant to Plaintiff’s failure to promote claim);
+Robinson v. Runyon,
+149 F.3d 507, 512-13 (6th Cir. 1998) (evidence that coworkers circulated fake employment application incorporating racial stereotypes of African-Americans, and that supervisors laughed upon reading the document, was relevant to African American employee’s discriminatory discharge claim).
+54.
+See subsection
+15-VII.A.
+for a discussion of harassment.
+55.
+See United States v. Crosby
+, 59 F.3d 1133, 1135 n. 4 (11th Cir.1995) (although a Title VII violation may occur even where a supervisor or decisionmaker is of the same race as the alleged victim, there was no evidence here that the Black supervisor held members of his own race to a higher standard of conduct than members of another race) (citing
+Billingsley v. Jefferson County
+, 953 F.2d 1351, 1353 (11th Cir.1992) (Title VII cause of action even where decision-maker and employee are of the same race)). Same-race harassment also violates Title VII.
+See infra
+note 122
+.
+56.
+Oncale v. Sundowner Offshore Servs., Inc.
+, 523 U.S. 75, 78 (1998) (quoting
+Castaneda v. Partida
+, 430 U.S. 482, 499 (1977)).
+57.
+See McDonnell Douglas
+, 411 U.S. at 804-05 (statistical evidence showing an employer’s general policy or practice is relevant to whether individual employment decision was discriminatory);
+Bell v. E.P.A.
+, 232 F.3d 546, 553-54 (7th Cir. 2000) (stating statistical evidence may be “relevant to and probative of the issue of pretext even when it is insufficient to support a pattern and practice disparate treatment case” and “the evidence that blacks are not promoted as often as nonblacks, even though not statistically significant, is still circumstantial evidence of possible discrimination”).
+58.
+See Furnco Constr. Corp. v. Waters
+, 438 U.S. 567, 579-80 (1978) (while “[a] racially balanced work force cannot immunize an employer from liability for specific acts of discrimination, . . . [p]roof that [the employer’s] workforce was racially balanced or that it contained a disproportionately high percentage of minority employees is not wholly irrelevant”).
+59.
+See Reeves,
+530 U.S. at 147 (“Proof that the defendant’s explanation is unworthy of credence is simply one form of circumstantial evidence that is probative of intentional discrimination, and it may be quite persuasive. Proving the employer’s reason false becomes part of (and often considerably assists) the greater enterprise of proving that the real reason was intentional discrimination. In appropriate circumstances, the trier of fact can reasonably infer from the falsity of the explanation that the employer is dissembling to cover up a discriminatory purpose. Such an inference is consistent with the general principle of evidence law that the factfinder is entitled to consider a party’s dishonesty about a material fact as affirmative evidence of guilt.”) (citations and internal quotation marks omitted).
+60.
+Employers have leeway to make subjective decisions, but regardless of whether the reasons are objective or subjective, the employer’s “explanation of its legitimate reasons must be clear and reasonably specific” so that “the plaintiff is afforded a ‘full and fair opportunity’ to demonstrate pretext.”
+See Texas Dep’t of Community Affairs v. Burdine
+, 450 U.S. 248, 258 (1981). The explanation must be clearly set forth through the presentation of evidence.
+Id
+. at 255. A person evaluating a decision based on subjective factors should do so carefully because subjective factors “are more susceptible of abuse and more likely to mask pretext.”
+See Goosby v. Johnson & Johnson Med., Inc
+., 228 F.3d 313, 320 (3d Cir. 2000) (citation and quotation marks omitted).
+61.
+See, e.g., Burdine,
+450 U.S. at 259 (Title VII “was not intended to ‘diminish traditional management prerogatives.’ . . . The fact that a court may think that the employer misjudged the qualifications of the applicants does not in itself expose him to Title VII liability, although this may be probative of whether the employer’s reasons are pretexts for discrimination”) (citations omitted).
+62.
+In
+Ash v. Tyson Foods, Inc.
+, the Supreme Court declined to articulate a standard for inferring pretext from superior qualifications, but the Court rejected the Eleventh Circuit’s formulation – that “the disparity in qualifications [must be] so apparent as virtually to jump off the page and slap you in the face” – as unhelpful, imprecise, and unlikely to yield consistent results in the courts. See
+Ash v. Tyson Foods, Inc.
+, No. 05-379, 2006 WL 386343, at *2 (U.S. Feb. 21, 2006) (per curiam).
+63.
+See Goosby
+, 228 F.3d at 320-21 (summary judgment for employer inappropriate because sufficient evidence existed for a jury to find discrimination; even though the employer contended that the decision was based on Plaintiff’s score on a competency-assessment tool called “the Matrix” that was purported to be objective, its criteria and their weighting actually were highly subjective and decisions based on the Matrix were inconsistent in that Plaintiff pointed out that her supervisor did not follow the Matrix with respect to certain Whites);
+Bell
+, 232 F.3d at 554 (reversing summary judgment for employer because Plaintiffs’ comparative qualifications, coupled with statistical evidence, were sufficient to support the conclusion that the employer’s stated reason that it promoted the best persons was pretextual).
+64.
+Teamsters v. United States,
+431 U.S. 324, 336 (1977). “Absent explanation, it is ordinarily to be expected that nondiscriminatory hiring practices will in time result in a work force more or less representative of the racial and ethnic composition of the population from which employees are hired,” and statistics showing a stark imbalance are often a “telltale sign” of discrimination. Id. at 339 n.20. At the same time, Title VII does not require an employer’s workforce to be racially balanced.
+See
+42 U.S.C. § 2000e-2(j) (Title VII does not require race-based hiring simply because there is a racial imbalance between the employer’s workforce and the community).
+65.
+This example is based on the facts in
+EEOC v. O&G Spring and Wire Forms Specialty Co
+., 38 F.3d 872, 876-78 & n.8 (7th Cir. 1994) (company engaged in pattern or practice of race discrimination).
+66.
+For example, in a pattern-or-practice case involving alleged hiring discrimination against Blacks, the analysis could measure the difference between the percentage of qualified Black applicants selected and the percentage of qualified non-Black applicants selected. If applicant flow data are unreliable, or are difficult or impossible to obtain, the analysis could measure the difference between the percentage of Blacks in the job(s) at issue and the percentage of Blacks in the relevant geographical area working in comparable positions.
+See Hazelwood Sch. Dist. v. United States
+, 433 U.S. 299, 311 n.13 (1977).
+See also Bazemore v. Friday,
+478 U.S. 385, 400 (1986) (regression analysis that accounted for major relevant factors – here, job title, education, tenure – was admissible; failure of analysis to include “all measurable variables” went not to admissibility, but to probative value). The probative value of statistics also may be affected by the size of the at-issue pool (i.e., sample size).
+See Teamsters
+, 431 U.S. at 339 n.20.
+67.
+See Hazelwood
+, 433 U.S. at 311 n.17 (“a fluctuation of more than two or three standard deviations would undercut the hypothesis that decisions were being made randomly with respect to race,” though “not intend[ing] to suggest that precise calculations of statistical significance are necessary in employing statistical proof”). When statistics are not being relied upon as the core of a pattern-or-practice case, but as circumstantial evidence in an individual case, the statistics need not be as finely tuned, nor is statistical significance required.
+See supra note
+57 and accompanying text.
+68.
+See, e.g., Teamsters
+, 431 U.S. at 339-40 (anecdotal evidence of discrimination experienced by specific individuals brings the “cold numbers convincingly to life,” and the usefulness of statistics depends on all of the surrounding facts and circumstances);
+Bazemore
+, 478 U.S. at 400 (probative value of statistics will “depend in a given case on the factual context of each case in light of all the evidence”).
+69.
+See Hazelwood
+, 433 U.S. at 307-08 (“Where gross statistical disparities can be shown, they alone may in a proper case constitute prima facie proof of a pattern or practice of discrimination.”); Teamsters, 431 U.S. at 341 n.23 (“In any event, fine tuning of the statistics could not have obscured the glaring absence of minority line drivers. As the Court of Appeals remarked, the company's inability to rebut the inference of discrimination came not from a misuse of statistics but from ‘the inexorable zero.’”);
+cf. United States v. City of Warren
+, 138 F.3d 1083, 1094 (6th Cir. 1998) (in disparate impact case: “The fact that as of 1986, when both the durational residency requirement and the challenged recruiting practices were intact, the City of Warren employed not a single black person out of a workforce of 1500 certainly demonstrates a grossly discriminatory impact. Statistical analysis is unnecessary to establish this point.”).
+70.
+Investigators generally should contact the Research and Technical Information division of the Office of Research, Information and Planning (ORIP) with questions during an investigation. The Office of General Counsel’s Research and Analytical Services (RAS) unit also is an available resource for investigators and attorneys.
+71.
+See
+42 U.S.C. § 2000e-2(k) (disparate impact provision of Title VII); 29 C.F.R. Part 1607 (Uniform Guidelines on Employee Selection Procedures);
+Griggs v. Duke Power Co
+., 401 U.S. 424 (1971).
+72.
+Griggs
+, 401 U.S. at 431.
+73.
+Id
+. at 432.
+74.
+The disparate impact exemption for bona fide seniority systems and certain other bona fide systems is in section 703(h) of Title VII. See 42 U.S.C. § 2000e-2(h);
+Teamsters
+, 431 U.S. at 353-54. Title VII also exempts from disparate impact challenge rules barring the employment of individuals who currently and knowingly use or possess a controlled substance, unless the use or possession is under the supervision of a licensed health care professional or otherwise authorized by Federal law.
+See
+42 U.S.C. § 2000e-2(k)(3).
+75.
+See Watson v. Fort Worth Bank & Trust
+, 487 U.S. 977, 990-91 (1988) (“If an employer’s undisciplined system of subjective decision-making has precisely the same effects as a system pervaded by impermissible intentional discrimination, it is difficult to see why Title VII’s proscription against discriminatory actions should not apply.”).
+76.
+See
+42 U.S.C. § 2000e-2(k)(1)(B)(i).
+77.
+See
+42 U.S.C. § 2000e-2(k)(1)(A)(i). If a policy or practice used at a certain point of the selection process has a discriminatory impact, the employer must justify the discriminatory policy or practice even if later stages of the selection process eliminate the disparate impact when looking at the selection process as a whole.
+See Teal
+, 457 U.S. at 453-55.
+78.
+See
+42 U.S.C. §§ 2000e-2(k)(1)(A)(ii) & (k)(1)(C).
+79.
+See Bradley v. Pizzaco of Nebraska,
+7 F.3d 797, 798-99 (8th Cir. 1993) (granting EEOC an injunction against a pizza restaurant because burden of a narrow exception for Black men with PFB was minimal and the restaurant “failed to prove a compelling need for the strict no-beard policy as applied to those afflicted with PFB and has failed to present any evidence suggesting that the current policy is without workable alternatives or that it has a manifest relationship to the employment in question”). The analysis of job-relatedness and business necessity is fact specific – there are no absolutes. For example, a no-beard policy could be legal in a situation in which beards were shown to interfere with safely using a respirator and no viable alternative existed under the circumstances.
+See 29
+C.F.R. § 1910.134(g)(1)(i) (OSHA respirator standard); Interpretation Letter from John L. Henshaw, Assistant Secretary of Labor for OSHA, to Senator Carl Levin (Mar. 7, 2003) (while employers “cannot permit respirators with tight-fitting facepieces to be worn by employees who have facial hair that comes between the sealing surface of the facepiece and the face, or that interferes with valve function,” the problem sometimes can be solved by trimming the beard, and “[s]ome types of respirators do not require a face seal and can usually be worn by bearded employees. . . . All respirators must be selected based on the respiratory hazard to which the worker is exposed. The employer must also consider user factors that affect performance and reliability.”),
+available at
+http://www.osha.gov/
+.
+80.
+See
+42 U.S.C. §§ 2000e-2(a)(1), (a)(2).
+81.
+See
+42 U.S.C. § 2000e-3(b) (unlawful for entities covered by Title VII to print or publish or cause to be printed or published any notice or advertisement indicating any preference, limitation, specification, or discrimination based on race, color, religion, sex, or national origin, except when religion, sex, or national origin is a BFOQ (race and color can never be BFOQs)).
+82.
+See
+42 U.S.C. § 2000e-2(b) (unlawful for employment agencies to discriminate); 42 U.S.C. § 2000e(c) (defining “employment agency”).
+83.
+See
+Enforcement Guidance:
+Application of EEO Laws to Contingent Workers Placed by Temporary Employment Agencies and Other Staffing Firms
+, at Question 7 (Dec. 1997),
+available at
+https://www.eeoc.gov/policy/docs/conting.html
+.
+84.
+Investigative staff should contact their legal units when investigating potential disparate impact of word-of-mouth recruiting, nepotism, and the like.
+Compare Thomas v. Washington County Sch. Bd
+., 915 F.2d 922, 924-26 (4th Cir. 1990) (affirming disparate impact ruling where employer’s “practices of nepotism and word-of-mouth hiring kept [African Americans] unaware of job openings”),
+with EEOC v. Chicago Miniature Lamp Works, Inc
+., 947 F.2d 292 (7th Cir. 1991) (passive reliance on employee referrals by accepting applicants who learned of jobs through current employees could be basis of pattern or practice disparate treatment claim, but disparate impact claim not allowed because, without an affirmative act by the employer, such a claim would in essence be a “bottom-line” attack on employer’s workforce statistics).
+85.
+See EEOC v. Steamship Clerks Union, Local 1066
+, 48 F.3d 594 (1st Cir. 1995) (affirming lower court ruling that union’s “membership sponsorship policy” had unlawful disparate impact on Blacks);
+cf. Teamsters
+, 431 U.S. at 349 n.32 (describing how neutral practices can unlawfully perpetuate the effect of discrimination: “
+Local 53 Asbestos Workers v. Vogler
+. . . provides an apt illustration: There a union had a policy of excluding persons not related to present members by blood or marriage. When in 1966 suit was brought to change this policy, all of the union’s members were white, largely as a result of pre-Act intentional [racial] discrimination. The court observed: ‘While the nepotism requirement is applicable to black and white alike and is not on its face discriminatory, in a completely white union the present effect of its continued application is to forever deny to [Blacks] and Mexican-Americans any real opportunity for membership’”).
+86.
+Compare United States v. City of Warren, MI
+, 138 F.3d 1083, 1094 (6th Cir. 1998) (on similar facts, holding Department of Justice established that municipality’s recruiting practices had a disparate impact on Black potential job applicants in violation of Title VII: “Warren’s limitation of its applicant pool to residents of the overwhelmingly white city, combined with its refusal to publicize jobs outside the racially homogenous county, produced a de facto barrier between employment opportunities and members of a protected class. A plaintiff need not identify a sign reading ‘No Blacks Need Apply’ before invoking Title VII.”),
+and NAACP v. Town of Harrison, NJ
+, 940 F.2d 792, 799-805 (3d Cir. 1991) (affirming lower court’s finding that requirement that town employees become residents within one year of hire had unlawful disparate impact on Blacks; town’s population was 0.2 percent Black and town had never hired a Black person, though the metropolitan area was home to over 214,000 Blacks, and Blacks made up 22 percent of town’s private sector workforce),
+with NAACP v. City of Bayonne, NJ
+, 134 F.3d 113, 123-25 (3d Cir. 1998) (upholding finding that the plaintiff did not prove that residency requirement caused disparate impact – statistical evidence was not strong, and city showed that its four-year moratorium on the residency requirement did not raise the number of Black employees).
+87.
+See supra
+note 60
+.
+88.
+Griggs
+, 401 U.S. at 433.
+89.
+Id
+.
+90.
+See
+42 U.S.C. § 2000e-2(h).
+91.
+See
+29 C.F.R. Part 1607 (UGESP);
+Griggs
+, 401 U.S. at 436 (“From the sum of the legislative history relevant in this case, the conclusion is inescapable that the EEOC’s construction of §703(h) to require that employment tests be job-related comports with Congressional intent.”).
+92.
+See
+29 C.F.R. § 1607.3A (“The use of any selection procedure which has an adverse impact on the hiring, promotion, or other employment or membership opportunities of members of any race, sex, or ethnic group will be considered to be discriminatory and inconsistent with these guidelines, unless the procedure has been validated in accordance with these guidelines, or the provisions of section 6 below are satisfied.”).
+93.
+See
+42 U.S.C. § 2000e-2(k)(1)(A).
+94.
+See
+42 U.S.C. § 2000e-2(l).
+95.
+See Chicago Firefighters Local 2 v. City of Chicago
+, 249 F.3d 649, 655-56 (7th Cir. 2001) (rather than using a straight ranking system to measure and compare test scores on a promotional exam, the fire department banded similar scores together; court stated that the banding was designed to simplify scoring and remove meaningless gradations, not for the unlawful purpose of making the scores of any particular race seem higher).
+96.
+A 2003 study suggests this is a significant problem.
+See
+Devah Pager,
+The Mark of a Criminal Record
+, American Journal of Sociology (Mar. 2003) (audit study sending matched pairs of Black and White male college students with similar self-presentation styles to apply for 350 low-skilled jobs advertised in the Milwaukee classifieds; purpose was to test the degree to which a criminal record affects subsequent employment opportunities; study found that when the White “testers” were assigned a fake 18-month prison record – for possession of cocaine with intent to sell – they were called back by employers 17% of the time, while the Black testers assigned the same record were called back only 5% of the time; Whites without a criminal record had a 34% call back rate versus a 14% call back rate for Blacks without a criminal record),
+available at
+https://users.ssc.wisc.edu/~gwallace/Papers/Pager%20(2003).pdf
+97.
+See Green v. Missouri Pacific Railroad Co.
+, 523 F.2d 1290, 1293-99 (8th Cir. 1975) (applying Title VII disparate impact principles to employer’s “no convictions” hiring policy);
+Caston v. Methodist Medical Center of Ill
+., 215 F. Supp. 2d 1002, 1008 (C.D. Ill. 2002) (race-based disparate impact claim challenging employer’s policy of not hiring former felons was cognizable under Title VII and thus survived motion to dismiss).
+98.
+See generally
+EEOC’s
+Policy Statement on the Issue of Conviction Records under Title VII of the Civil Rights Act of 1964
+(1987).
+99.
+See Green
+, 523 F.2d at 1298-99 (striking down employer’s absolute bar of anyone ever convicted of a crime other than a minor traffic offense: “Although the reasons [the employer] advances for its absolute bar can serve as relevant considerations in making individual hiring decisions, they in no way justify an absolute policy which sweeps so broadly. We cannot conceive of any business necessity that would automatically place every individual convicted of any offense, except a minor traffic offense, in the permanent ranks of the unemployed. This is particularly true for blacks who have suffered and still suffer from the burdens of discrimination in our society.”).
+100.
+See Gregory v. Litton Sys., Inc
+., 316 F. Supp. 401 (C.D. Cal. 1970) (judgment for Plaintiff who challenged employer policy of not hiring anyone who had been arrested on “a number of occasions,” where this threshold was undefined, and company had in its employ many persons who had been arrested),
+aff’d
+, 472 F.3d 631 (9th Cir. 1972).
+101.
+See generally
+EEOC’s
+Policy Guidance on the Consideration of Arrest Records in Employment Decisions under Title VII of the Civil Rights Act of 1964
+(1990).
+102.
+Compare, e.g., Robinson v. City of Dallas
+, 514 F.2d 1271 (5th Cir. 1975) (recognizing policy of discharging persons who failed to pay “just debts” could be challenged, but ruling for employer because although Plaintiffs established that Blacks comprised a disproportionately large portion of the poor people in Dallas, they did not offer statistics showing that people who do not pay their just debts tend to be poor people),
+with Johnson v. Pike Corp. of America, 332 F. Supp. 490
+(C.D. Cal. 1971) (approving stipulation for judgment against defendant where garnishment policy had disparate impact on Blacks and other people of color and was not supported by business necessity).
+103.
+Equal Employment Opportunity Commission, "Best" Equal Employment Opportunity Policies, Programs, and Practices in the Private Sector 7 (2d ed. 1998). The complete report is available at
+https://www.eeoc.gov/eeoc/task_reports/best_practices.cfm
+.
+104.
+Cf. Grutter v. Bollinger,
+539 U.S. 306, 330 (2003) (“major American businesses have made clear that the skills needed in today’s increasingly global marketplace can only be developed through exposure to widely diverse people, cultures, ideas, and viewpoints. . . . What is more, high- ranking retired officers and civilian leaders of the United States military assert that, ‘[b]ased on [their] decades of experience,’ a ‘highly qualified, racially diverse officer corps . . . is essential to the military’s ability to fulfill its principle mission to provide national security’”) (citations to briefs omitted).
+105.
+Cf. Duffy v. Wolle
+, 123 F.3d 1026, 1038-39 (8th Cir. 1997) (Bivens action under the McDonnell Douglas framework: “An employer’s affirmative efforts to recruit minority and female applicants [do] not constitute discrimination. An inclusive recruitment effort enables employers to generate the largest pool of qualified applicants and helps to ensure that minorities and women are not discriminatorily excluded from employment. This not only allows employers to obtain the best possible employees, but it is an excellent way to avoid lawsuits.”) (citations and quotation marks omitted).
+106.
+See
+EEOC Uniform Guidelines on Employee Selection Procedures, 29 C.F.R. §§ 1607.3(B), 1607.6(A) (approving use of alternative selection procedures in order to eliminate or decrease adverse impact).
+107.
+EEOC Guidelines on Affirmative Action, 29 C.F.R. § 1608.1(c).
+108.
+See, e.g., Local 28 of the Sheet Metal Workers’ Int’l Ass’n v. EEOC
+, 478 U.S. 421, 448-49 (1986) (Congress gave lower courts broad power under Title VII to fashion the most complete relief possible to remedy discrimination, including the power to fashion affirmative action relief).
+109.
+For example, federal contractors may be subject to affirmative action requirements of Executive Order 11246, which is enforced by the Department of Labor’s Office of Federal Contract Compliance Programs (
+http://www.dol.gov/ofccp/
+) and/or the affirmative action requirements of state and local governments. Federal executive branch agencies must have “an affirmative program of equal employment opportunity” for all employees and applicants for employment,
+see
+42 U.S.C. § 2000e-16 and 29 U.S.C. § 791, as set forth in EEOC’s Management Directive 715 (
+https://www.eeoc.gov/federal/directives/md715.cfm
+).
+110.
+See United Steel Workers of America v. Weber
+, 443 U.S. 193 (1979),
+and Johnson v. Transportation Agency
+, 480 U.S. 616 (1987).
+111.
+See Weber
+, 443 U.S. at 208 (because Blacks had long been excluded from craft unions because of race, only 1.83% of the plant’s craft workers were Black, and thus the union and the employer collectively bargained an affirmative action plan that reserved for Blacks 50% of the openings in an in-plant craft training program, to be followed until the percentage of Black craftworkers in the plant was commensurate with the percentage of Blacks in the local labor force; Supreme Court upheld the affirmative action plan on grounds that its purposes mirrored those of Title VII, the plan did not unnecessarily trammel the interests of White employees, and the plan was a temporary measure not intended to maintain a racial balance, but intended to eliminate a racial imbalance);
+Sheet Metal Workers
+, 478 U.S. at 448 (“[t]he availability of race-conscious affirmative relief . . . as a remedy for a violation of Title VII . . . furthers the broad purposes underlying the statute” because “Congress enacted Title VII based on its determination that racial minorities were subject to pervasive and systematic discrimination in employment”).
+See also Johnson,
+480 U.S. at 632 (“manifest imbalance” does not need to reach the level of a
+prima facie
+case of discrimination); EEOC Guidelines on Affirmative Action, 29 C.F.R. Part 1608.
+112.
+Compare Wygant v. Jackson Board of Education,
+476 U.S. 267, 273-76 (1986) (finding that a race-based layoff provision in a collective-bargaining agreement, which was created by a public school board and teachers union to remedy present effects of societal discrimination against minority employees and to provide minority role models for minority students, violated the Equal Protection Clause),
+with Johnson
+, 480 U.S. at 620 n.2 & 641-42 (upholding under Title VII a public employer’s voluntary affirmative action plan which permitted sex to be considered as a factor for promotions to positions within a traditionally segregated job classification, and noting that, “where the issue is properly raised, public employers must justify the adoption and implementation of a voluntary affirmative action plan under the Equal Protection Clause”). The
+Johnson
+Court observed, in a footnote, that “[Title VII] was not intended to extend as far as . . . the Constitution.”
+Johnson
+, 480 U.S. at 628 n.6.
+113.
+See, e.g., Petit v. City of Chicago
+, 352 F.3d 1111, 1115 (7th Cir. 2003) (Chicago Police Department had a compelling interest in diversity in police force serving large, racially and ethnically divided metropolitan area, justifying, under Equal Protection Clause, city’s affirmative action promotions of African American and Hispanic officers to rank of sergeant);
+Reynolds v. City of Chicago
+, 296 F.3d 524, 530-31 (7th Cir. 2002) (upholding non-remedial promotion of Hispanic officer because city proved it was warranted by compelling public safety need for Hispanic officers in supervisory roles to sensitize other officers to special problems related to Hispanic neighborhoods, and to promote trust in the citizens of those neighborhoods; court recognized this as particularly compelling in light of the need for effective police work in the age of public concern about international terrorism);
+Talbert v. City of Richmond
+, 648 F.2d 925, 931-32 (4th Cir. 1981) (holding that “the attainment of racial diversity in the top ranks of the police department was a legitimate interest of the city” and thus promotion of City’s first Black officer to Major over White plaintiff in a city with a 50% Black population was lawful);
+accord Cotter v. City of Boston
+, 323 F.3d 160, 172 n.10 (1st Cir. 2002) (declining to address whether meeting the operational needs of the police department are compelling state interests but stating that Court is “sympathetic to the argument that communities place more trust in a diverse police force and that the resulting trust reduces crime rates and improves policing”).
+But see Patrolmen's Benevolent Ass'n. v. City of New York
+, 310 F.3d 43, 52-53 (2d Cir. 2002) (acknowledging that “‘a law enforcement body’s need to carry out its mission effectively, with a workforce that appears unbiased, is able to communicate with the public and is respected by the community it serves,’ may constitute a compelling state interest,” but holding that race-based transfers of Black and Hispanic police officers to precinct where a Black man was tortured were not lawful because “mere assertion of an ‘operational need’ to make race-conscious employment decisions does not give a police department carte blanche to dole out work assignments based on race if no such justification is established”) (internal citation omitted).
+114.
+See
+, e.g., Richard N. Appel,
+Affirmative Action in the Workplace: Forty Years Later, 22
+Hofstra Lab. & Emp. L.J. 549, 571-74 (Spring 2005) (addressing whether
+Grutter
+diversity rationale will justify race-conscious decisions in the private sector employment context under Title VII); Michael L. Foreman, Kristin M. Dadey and Audrey J. Wiggins,
+The Continuing Relevance of Race-conscious Remedies and Programs in Integrating the Nation's Workforce,
+22 Hofstra Lab. & Emp. L.J. 81, 101-104 (Fall 2004) (discussing the implications of
+Grutter
+for affirmative action plans in employment); Paul Frymer and John D. Skrentny,
+The Rise of Instrumental Affirmative Action: Law and the New Significance of Race in America
+, 36 Conn. L. Rev. 677, 693-697 (Spring 2004) (discussing the treatment of “operational need” cases involving police under Title VII and the Equal Protection Clause); Rebecca Hanner White,
+Affirmative Action in the Workplace: The Significance of Grutter,
+92 Ky. L.J. 263, 272-78 (2003-2004) (distinguishing affirmative action in employment context from educational context and analyzing whether the diversity rationale in
+Grutter
+will justify affirmative use of race for non-remedial purpose under Title VII, especially for private employers).
+115.
+EEOC Guidelines on Affirmative Action, 29 C.F.R. § 1608.1(c).
+116.
+Id.
+117.
+See, e.g., Frank v. Xerox Corp
+., 347 F.3d 130, 137 (5th Cir. 2003) (a jury could consider Xerox’s “Balanced Workforce Initiative” (BWF), in which Xerox identified explicit, specific racial goals for each grade and job level, to be direct evidence of discrimination against Blacks in light of evidence that Blacks were considered to be “over-represented” and Whites “under-represented,” and managers were evaluated on how well they complied with the BWF; thus “a jury looking at these facts could find that Xerox considered race in fashioning its employment policies and that because Plaintiffs were black, their employment opportunities had been limited”);
+Taxman v. Board of Education of the Township of Piscataway,
+91 F.3d 1547, 1557-58 (3d Cir. 1996) (holding that where Black employees were not underutilized or under-represented, school district conducting reduction in force could not choose to retain a Black employee instead of a White employee of equal seniority, ability, and qualifications, solely on grounds of diversity).
+118.
+For a more detailed discussion of the standards for unlawful harassment, see Enforcement Guidance:
+Vicarious Employer Liability for Unlawful Harassment by Supervisors
+(June 1999);
+Enforcement Guidance on Harris v. Forklift Sys., Inc
+. (November 1993);
+Policy Guidance on Current Issues of Sexual Harassment
+(Mar. 1990); 29 C.F.R. § 1604.11.
+119.
+See Aman
+, 85 F.3d at 1083 (conduct need not be overtly racial in character as long as harassment was because of race);
+Policy Guidance on Current Issues of Sexual Harassment
+, at 19 (Mar. 1990) (harassment need not be explicitly sexual, racial, religious, etc. to give rise to Title VII liability as long as it was because of the protected trait),
+available at
+https://www.eeoc.gov/policy/docs/currentissues.html
+.
+120.
+See Spriggs v. Diamond Auto Glass
+, 242 F.3d 179, 185-86 (4th Cir. 2001) (racial harassment both directed at Plaintiff, and not specifically directed at Plaintiff but part of Plaintiff’s work environment, could be considered);
+Schwapp v. Town of Avon
+, 118 F.3d 106, 111-12 (2d Cir. 1997) (permitting claim of Black Plaintiff to survive summary judgment based on racially offensive incidents involving Plaintiff directly, as well as incidents he was aware of involving other Blacks (some occurring prior to his employment) and other minority groups). Courts might give less weight to racially offensive conduct experienced second-hand.
+See Singletary v. Missouri Dep’t of Corrections,
+423 F.3d 886, 893 (8th Cir. 2005) (affirming summary judgment for employer in part because racial epithets about Plaintiff were not made in his presence, which lessened the objective hostility of his work environment);
+Smith v. Northeastern Ill. Univ
+., 388 F.3d 559, 567 (7th Cir. 2004) (“We do not mean to hold that a plaintiff can never demonstrate a hostile work environment through second-hand comments or in situations where a plaintiff is not the intended target of the statements. However, what Weaver personally experienced does not amount to an objectively hostile work environment. She heard an offensive term directed at a third person once and only learned from others about other offensive comments directed at third persons.”).
+121.
+Harris v. Forklift Sys., Inc
+., 510 U.S. 17, 22 (1993).
+122.
+See, e.g., Kang v. U. Lim America,
+296 F.3d 810, 817 (9th Cir. 2002) (hostile work environment could be found where Korean supervisor with stereotypical beliefs about the superiority of Korean workers held Korean Plaintiff to higher standards, required him to work harder for longer hours, and subjected Plaintiff to verbal and physical abuse when he failed to live up to supervisor’s expectations);
+Ross v. Douglas County
+, 234 F.3d 391, 393 & 395-97 (8th Cir. 2000) (affirming verdict in favor of Black employee whose Black supervisor subjected him to racially derogatory slurs, such as the “N-word” and “black boy,” and referred to the employee’s wife, who was White, as “whitey”: “Such comments were demeaning to Ross. They could have been made to please Johnson’s white superior or they may have been intended to create a negative and distressing environment for Ross. Whatever the motive, we deem such conduct discriminatory.”).
+123.
+E.g., Vaughn v. Pool Offshore Co
+., 683 F.2d 922, 924-25 (5th Cir. 1982) (trial court did not err in finding for employer where plaintiff used racial slurs along with his co-employees, other employees were subjected to the same obnoxious treatment as plaintiff, his co-workers expressed amicable feelings towards him, and plaintiff testified at trial that he did not believe that pranks against him were racially motivated or that he was singled out for abusive treatment).
+124.
+See Harris
+, 510 U.S. at 22;
+Meritor Savings Bank, FSB v. Vinson
+, 477 U.S. 57 (1986).
+125.
+Oncale
+, 523 U.S. at 80-81.
+126.
+Harris
+, 510 U.S. at 21 (“This standard, which we reaffirm today, takes a middle path between making actionable any conduct that is merely offensive and requiring the conduct to cause a tangible psychological injury.”).
+127.
+See Faragher v. City of Boca Raton
+, 524 U.S. 775, 788 (1998) (“‘simple teasing,’ offhand comments, and isolated incidents (unless extremely serious) will not amount to discriminatory changes in the ‘terms and conditions of employment’”).
+128.
+See Smith v. Sheahan
+, 189 F.3d 529, 533-34 (7th Cir. 1999) (a sufficiently severe episode may occur as rarely as once and still violate Title VII).
+129.
+See Reedy v. Quebecor Printing Eagle, Inc
+., 333 F.3d 906, 909 (8th Cir. 2003) (racially hateful bathroom graffiti that amounted to death threat aimed at Plaintiff could be fairly characterized as severe);
+Williams v. New York City Housing Auth
+., 154 F. Supp. 2d 820, 824-25 (S.D.N.Y. 2001) (“Indeed, the noose is among the most repugnant of all racist symbols, because it is itself an instrument of violence. It is impossible to appreciate the impact of the display of a noose without understanding this nation’s opprobrious legacy of violence against African-Americans.”);
+cf. Jackson v. Flint Ink North Am. Corp
+., 379 F.3d 791, 795 (8th Cir. 2004) (in racial discrimination case involving graffiti depicting a burning cross, court noted that because “its symbolism is potentially more hostile and intimidating than the racial slurs[,] [e]ven a single instance of workplace graffiti, if sufficiently severe, can go a long way toward making out a Title VII claim”),
+rev’d on reh’g on other grounds
+, 382 F.3d 869, 870 (8th Cir. 2004).
+130.
+Cf. Spriggs
+, 242 F.3d at 185 (“Far more than a mere offensive utterance,” the N-word is “pure anathema to African Americans. Perhaps no single act can more quickly alter the conditions of employment and create an abusive working environment than the use of an unambiguously racial epithet such as ‘n-----’ by a supervisor in the presence of his subordinates.”) (citation and quotation marks omitted).
+131.
+In an
+amicus curiae
+brief in
+Oates v. Discovery Zone
+, 116 F.3d 1161 (7th Cir. 1997), the Commission argued that a Black employee provided sufficient evidence of racial harassment where he complained to his supervisor that a picture of gorillas with his name written on it was racially offensive, and his supervisor laughed at his complaint, refused to take the picture down, and allowed it to remain on display for a week after his complaint. The Seventh Circuit did not reach the merits of the Commission’s argument, finding that the plaintiff had waived his racial harassment claim by not alleging it in his complaint.
+Id
+. at 1168. One member of the panel, however, noted that “[h]ad it been properly before the district court, I agree with the amicus brief filed by the Equal Employment Opportunity Commission that it would not have been a proper candidate for summary judgment.”
+Id
+. at 1177 (Wood, J., concurring in part and dissenting in part). A copy of the Commission’s amicus curiae brief is available at
+https://www.eeoc.gov/eeoc/litigation/briefs/oates_v_discovery.txt
+.
+See also Spriggs
+, 242 F.3d at 185 (“To suggest that a human being’s physical appearance is essentially a caricature of a jungle beast goes far beyond the merely unflattering; it is degrading and humiliating in the extreme.”).
+132.
+The character of the comments or acts is important in determining the frequency needed to alter someone’s working conditions.
+See, e.g., Cerros v. Steel Technologies, Inc
+., 288 F.3d 1040, 1047 (7th Cir. 2002) (no magic number of offensive comments needed; unambiguous racial epithets fall on the more severe end of the spectrum).
+See also
+Example 16 and accompanying note 135,
+infra
+.
+133.
+Cf. Dixon v. Coburg Dairy, Inc
+., 369 F.3d 811, 824 (4th Cir. 2004) (Gregory, Circuit Judge, concurring in the judgment) (“While many Southerners unquestionably embrace the [Confederate] flag, not out of malice or continued belief in racial subordination, but out of genuine respect for their ancestors, we must also acknowledge that some minorities and other individuals feel offended, threatened or harassed by the symbol.”). See also discussion of “code words,” at
+note 47
+,
+supra
+.
+134.
+See supra
+notes 129-131 and accompanying text.
+135.
+Compare with, e.g., Manatt v. Bank of America
+, 339 F.3d 792 (9th Cir. 2003) (Asian Plaintiff’s working environment was not so objectively abusive as to alter the conditions of her employment where, over a two-and-a-half year period, harassment consisted of: two offensive and inappropriate incidents (one in which two co-workers cruelly ridiculed Plaintiff for mispronouncing a word, and another instance in which co-workers pulled their eyes back with their fingers in an attempt to imitate or mock the appearance of Asians), as well as other offhand remarks by her coworkers and supervisors (Plaintiff overheard jokes in which the phrase ‘China man’ was used, and overheard a reference to China and communism); the court noted that the incidents occurred over a span of two-and-a-half years and that if they had occurred over a shorter period of time or been repeated more frequently, Plaintiff “may very well have had an actionable hostile environment claim”).
+136.
+Compare with, e.g., Reedy
+, 333 F.3d at 908-09 (working environment of Plaintiff, Black, was so objectively abusive as to alter the conditions of his employment where, over a seven-month period coworkers called him and other Black employees “n------” on numerous occasions and threatened them with violence, and the company allowed racial slurs, pictures, and threats to linger in the men’s bathroom).
+137.
+See Aman
+, 85 F.3d at 1078-84 (reasonable jury could find two Black employees were subjected to racially hostile environment where managers and coworkers repeatedly made coded racial remarks, and managers required them to do menial tasks outside their job description, yelled at them, and made their jobs more difficult by withholding necessary information, refusing to deal with them, and falsely accusing them of misconduct).
+138.
+See
+Enforcement Guidance:
+Vicarious Employer Liability for Unlawful Harassment by Supervisors
+, § III (June 1999). The Guidance also states the Commission’s position that even if the harasser had no actual supervisory power over the employee, the employer will be subject to vicarious liability if the employee reasonably believed that the harasser had such authority. But, if the harasser had no actual supervisory authority over the employee and the employee did not reasonably believe that the harasser had such authority, then the standard of liability for co-worker harassment applies.
+Id
+.
+139.
+The Supreme Court has held that a claim for constructive discharge is available under Title VII when the harassment is so egregious or intolerable that quitting is a fitting response, and no affirmative defense is available when the constructive discharge is caused by an official company act, such as when a person quits in response to a humiliating demotion, an extreme cut in pay, or a transfer to a position that is unbearable.
+See Pennsylvania State Police v. Suders
+, 542 U.S. 129 (2004).
+140.
+See Burlington Indus., Inc. v. Ellerth
+, 524 U.S. 742, 765 (1998);
+Faragher
+, 524 U.S. at 807. The failure to complain is not necessarily fatal if it was not unreasonable – for example, if the victim can establish that he or she reasonably believed, based on evidence (not mere speculation), that a complaint would result in retaliation, or that there were obstacles to making or filing a complaint, or that the employer’s complaint mechanism otherwise was ineffective.
+141.
+Compare with, e.g., Spriggs
+, 242 F.3d at 188-89 (jury could conclude that employer did not meet duty to prevent and correct supervisor’s racial harassment: Black Plaintiff complained to management that his White supervisor repeatedly used epithets such as “n-----” and “monkey” to describe Plaintiff and Blacks generally, as well as to describe the supervisor’s own wife (who was Black), but management downplayed the complaints, tried to defend the conduct, or responded with indifference, and thus the conduct continued).
+142.
+Faragher
+, 524 U.S. at 789-90.
+143.
+See, e.g., Reedy
+, 333 F.3d at 910 (reversing summary judgment for employer because “Reedy offered sufficient evidence that Quebecor knew or should have known about the harassment but failed to take prompt and effective remedial action”).
+144.
+See, e.g., Miller v. Kenworth of Dothan, Inc
+., 277 F.3d 1269, 1278-79 (11th Cir. 2002) (under circuit precedent the employer did not have actual notice that Mexican employee was being called epithets such as “Julio,” “taco,” and “sp--,” but there was “ample evidence” that it had constructive notice: harasser’s supervisor’s office was located in the department where much of the abuse occurred; and the abuse occurred up to three to four times each day and in the presence of others).
+145.
+See
+42 U.S.C. § 2000e-2(a)(1) (unlawful “to discriminate . . . with respect to . . . compensation, terms, conditions, or privileges of employment”); Section 2:
+Threshold Issues
+, EEOC Compliance Manual, § 2-II.B.1,
+available at
+https://www.eeoc.gov/policy/docs/threshold.html
+; Section 613:
+Terms, Conditions and Privileges of Employment
+, EEOC Compliance Manual, Volume II.
+146.
+Cf. Herrnreiter v. Chicago Housing Authority
+, 315 F.3d 742, 744-45 (7th Cir. 2002) (in this circuit, among the employment actions an employee may challenge are those that “reduce the employee’s career prospects by preventing him from using the skills in which he is trained and experienced, so that the skills are likely to atrophy and his career is likely to be stunted”).
+147.
+See supra
+note 38
+, regarding “personality conflict” as a potential mask for unconscious bias.
+148.
+See Thomas
+, 183 F.3d at 62-65 (denying summary judgment for employer because reasonable person could conclude Plaintiff’s layoff was based on racially biased performance evaluations: after a new supervisor was hired, Plaintiff, the office’s only African American customer service representative, went from being one of the highest rated employees to one of the lowest rated, and the evidence suggested that the new supervisor deliberately undermined Plaintiff’s work, rated Plaintiff harsher than Whites, and that Plaintiff’s earlier high ratings were more accurate).
+149.
+See Vaughn v. Edel
+, 918 F.2d 517, 522 (5th Cir. 1990) (suit by Black female terminated as part of cost-cutting staff reductions; company had refrained from criticizing, counseling, or giving poor performance ratings to Plaintiff for fear of triggering a charge of discrimination; court upheld company liability because evidence established that if Plaintiff were White the company would not have inflated her performance ratings and would have criticized and counseled her, all of which would have given her an equal chance to improve to a level that would have prevented her termination). Similarly, it would violate Title VII to avoid hiring Blacks or other people of color for fear that a later employment decision (e.g, discipline, nonpromotion, layoff) might trigger a discrimination charge.
+150.
+Cf. Firefighters Institute for Racial Equality v. City of Saint Louis
+, 549 F.2d 506, 514-15 (8th Cir. 1977) (City was liable under Title VII for White firefighters’ exclusion of Blacks from their “supper clubs,” informal eating arrangements among on-duty firefighters at firehouses using employer-provided cooking facilities; court ordered Fire Department to issue regulations prohibiting segregated use of City kitchen facilities such that City “may comport with its duty to provide a nondiscriminatory working environment,” adding that “the inclusion of Blacks and the reduction of racial tension in firehouses cannot help but aid the City as an employer where the job at hand requires the close cooperation of its employees and a concerted team effort”);
+Meritor
+, 477 U.S. at 65-66 (citing
+Firefighters
+with approval).
+But cf. Domingo v. New England Fish Co
+., 727 F.2d 1429, 1438 (9th Cir. 1984) (holding rationale of
+Firefighters
+inapplicable because, while seating in Alaska cannery mess hall was racially segregated, there were no employer seating restrictions, and plaintiffs failed to offer evidence that their segregated eating was not by choice).
+151.
+Employer appearance and grooming standards also may raise discrimination issues with respect to other protected bases, such as national origin, gender, or religion. When an employee’s dress or appearance is religiously-based, an employer has an affirmative duty to accommodate the employee’s religious beliefs, unless doing so would pose an undue hardship. For a detailed discussion of religious accommodation and undue hardship, refer to 29 C.F.R. § 1605.2.
+152.
+See Officers for Justice v. Civil Service Comm’n of City and County of San Francisco
+, 395 F. Supp. 378, 380-81 (D.C. Cal. 1976) (granting preliminary injunction eliminating pre-selection requirement of a height of 5 ft. 6 in. for certain police officers; holding plaintiffs were likely to succeed at trial on argument that the requirement had a disparate impact on Asian Americans, Latinos, and females, and the city was unlikely to be able to demonstrate job relatedness and business necessity),
+cited with approval in Dothard v. Rawlinson
+, 433 U.S. 321, 332 n.15 (1977) (height and weight requirement had disparate impact on women).
+153.
+By the same token, an employee whose clothing complies with the dress code cannot be forced to wear cultural attire.
+See Bryant v. Begin Manage Program
+, 281 F. Supp. 2d 561 (E.D.N.Y. 2003) (reasonable jury could find race discrimination where Plaintiff, an African American who wore business suits on “casual days,” was pressured by her African American supervisor to wear afro-centric clothing even though the dress code made no mention of afro-centric clothing, and Plaintiff was replaced by an African American who did wear afro-centric attire).
+154.
+See Hollins v. Atlantic Co., Inc
+., 188 F.3d 652, 661 (6th Cir. 1999) (court held a reasonable jury could find Title VII violation where company prevented Black female from wearing hair in a “finger waves” hairstyle and in other hairstyles deemed “too eyecatching,” while not subjecting White women to such standards, and even though the company admitted Plaintiff’s hairstyles complied with company policy that hairstyles be neat, well-groomed, and safe);
+Rogers v. American Airlines,
+527 F. Supp. 229, 232-34 (S.D.N.Y. 1981) (holding that a neutral employer policy against women wearing braids or cornrows was not a race-based distinction, and thus such a policy would violate Title VII only if it had a disparate impact on Black women and was not job-related and consistent with business necessity, or if the policy were applied in a discriminatory manner; the court also stated in
+dicta
+that an employer policy banning “afro” hairstyles likely would be a race-based distinction in violation of Title VII because, unlike braids or cornrows, an “afro” is the product of natural hair growth rather than artifice).
+155.
+See Ellerth
+, 524 U.S. at 762 (company may be vicariously liable for tangible employment action taken after review by higher level supervisors; citing with approval
+Shager v. Upjohn Co
+., 913 F.2d 398, 405 (7th Cir.1990) (committee was unaware of discriminatory animus driving supervisor’s recommendation, but company was liable because the committee “acted as the conduit of [the supervisor’s] prejudice – his cat's paw”)).
+156.
+See
+42 U.S.C. § 2000e-3(a).
+See Johnson v. University of Cincinnati,
+215 F.3d 561, 579-81 (6th Cir. 2000) (affirmative action official who alleged discrimination not based on his status as an African American, but based on his advocacy for increased employment opportunities for minorities and women, could bring a claim under §704(a) of Title VII for retaliation). The other statutes enforced by EEOC also prohibit retaliation.
+See
+29 U.S.C. § 623(d) (ADEA); 42 U.S.C. §§ 12203(a), (b) (ADA); 29 U.S.C. § 215(a)(3) (Equal Pay Act).
+157.
+The caps on damages do not apply to suits filed under 42 U.S.C. § 1981, which also prohibits race discrimination in employment.
+See supra
+note 9
+.
+158.
+See
+42 U.S.C. § 2000e-2(m) (proof that race was motivating factor establishes unlawful employment practice, even though other factors also motivated the practice); 42 U.S.C. §2000e-5(g)(2)(B) (limiting remedies when employer demonstrates that it would have taken same action in the absence of the impermissible motivating factor).
+159.
+See
+42 U.S.C. § 1981a(a)(1)(compensatory and punitive damages not available for “an employment practice that is unlawful because of disparate impact”).
+160.
+Harvard Business School Professor David A. Thomas found in a three-year study of several large corporations that high quality mentoring was one of the most salient features of the careers of high-potential Blacks who successfully made it to the upper executive level. Professor Thomas also found that the career trajectories of Black executives differed markedly from the career trajectories of White executives. High-potential Whites who ultimately reached the executive level entered a fast track much earlier in their careers than high-potential Blacks. Blacks who reached the executive level were much more likely to have distinguished themselves through special projects, task force assignments, turnaround assignments, a change in location, or having a highly visible big success. See David A. Thomas,
+The Truth About Mentoring Minorities: Race Matters
+, HARVARD BUSINESS REVIEW (April 2001).
+161.
+The Commission’s Best Practices Task Force Report uses the phrase “like me bias” to describe one of the key general barriers to equal employment opportunity: “It is an axiom of human nature that people often like to associate with other people who are like themselves. This enhances a comfort level in working relationships. Such ‘like me’ bias may be conscious or unconscious. Nevertheless, the ‘like me’ syndrome can lead to a tendency to employ and work with people like oneself . . . .”
+See
+EQUAL EMPLOYMENT OPPORTUNITY COMMISSION, “BEST” EQUAL EMPLOYMENT OPPORTUNITY POLICIES, PROGRAMS, AND PRACTICES IN THE PRIVATE SECTOR 27 (2d ed. 1998). The complete report is available at
+https://www.eeoc.gov/best-practices-private-sector-employers
+Return to top
+U.S. Equal Employment Opportunity Commission
+EEOC Headquarters
+131 M Street, NE
+Washington, DC 20507
+1-800-669-6820
+(TTY)
+1-844-234-5122
+(ASL Video Phone)
+Questions?
+Call 1-800-669-4000
+For Deaf/Hard of Hearing callers:
+1-800-669-6820
+(TTY)
+1-844-234-5122
+(ASL Video Phone)
+info@eeoc.gov
+Find your nearest EEOC office
+Connect With Us
+FOIA
+Privacy Policy
+Disclaimer
+Accessibility
+Office of Inspector General
+USA.gov

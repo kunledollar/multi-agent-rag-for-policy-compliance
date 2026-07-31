@@ -1,0 +1,511 @@
+CM-602 Evidence | U.S. Equal Employment Opportunity Commission
+Skip to main content
+An official website of the United States government
+Here’s how you know
+Here’s how you know
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive
+information only on official, secure websites.
+U.S. Equal Employment Opportunity Commission
+Menu
+Header Navigation
+Online Filing
+Public Portal
+Attorney E-file
+Locations
+Operating Status
+Languages
+English
+Español (Spanish)
+Resources in Other Languages
+عربي (Arabic)
+简体中文 (Chinese, Simplified)
+繁體中文 - Chinese (Traditional)
+Kreyòl Ayisyen (Haitian Creole)
+한국어 (Korean)
+Русском (Russian)
+Português (Portuguese)
+Tagalog (Tagalog)
+ไทย (Thai)
+Tiếng Việt (Vietnamese)
+فارسی (Persian. Farsi)
+پښتو (Pashto)
+Toggle Search Form
+Any of these words
+(optional)
+Search
+About EEOC
+About EEOC
+Overview
+The Commission and The General Counsel
+Meetings of the Commission
+Commission Votes
+EEOC History
+News and Information
+Newsroom
+What You Should Know
+Legislative Affairs
+Publications
+Outreach and Education
+FOIA
+Laws and Enforcement
+EEOC Legal Resources
+Mediation
+Litigation
+Systemic Enforcement
+Commissioner Charges
+Directed Investigations
+Programs and Performance
+Budget and Performance
+Initiatives
+Interagency Programs
+State and Local Programs
+Task Forces
+Tribal Programs
+Data and Analytics
+Overview
+Data Governance
+EEO Data Collections
+Data and Statistics
+Data Tools and Products
+No FEAR Act Data
+Inside EEOC
+Careers
+Office for Civil Rights
+Doing Business with EEOC
+AI Governance
+Privacy
+Office of Inspector General
+Employees & Job Applicants
+Employees & Applicants
+Overview
+Coverage
+Timeliness
+Prohibited Practices
+Filing a Charge of Discrimination
+Filing a Charge
+How to File
+After You File a Charge
+Confidentiality
+Mediation
+Remedies
+Existing Charges
+Filing a Lawsuit
+Discrimination by Type
+Age
+Disability
+Equal Pay
+Genetic Information
+Harassment
+National Origin Discrimination
+Pregnancy Discrimination
+Race/Color Discrimination
+Religious Discrimination
+Retaliation
+Sex
+Sexual Harassment
+Employers / Small Business
+Employers / Small Business
+Overview
+Coverage
+After a Charge is Filed
+Resolving a Charge
+Commissioner Charges
+Directed Investigations
+Remedies
+Small Business Resource Center
+Small Business Home
+Small Business Requirements
+Frequently Asked Questions
+Tips for Small Businesses
+Making an Employment Decision?
+EEOC Resources
+Small Business Assistance
+Small Business Fact Sheet
+Small Business Videos
+EEOC Glossary
+Contact Us
+Discrimination by Type
+Age
+Disability
+Equal Pay
+Genetic Information
+Harassment
+National Origin
+Pregnancy
+Race/Color
+Religion
+Retaliation
+Sex
+Sexual Harassment
+Prohibited Practices
+Recordkeeping
+EEO Data Collections
+"Know Your Rights" Poster
+Training
+Other Employment Issues
+Federal Sector
+Federal Agencies
+Overview
+Federal EEO Coordination
+Federal Agency EEO Directors
+EEOC Legal Resources
+Management Directives & Federal Sector Guidance
+Federal Training & Outreach
+Resources
+Federal Employees & Job Applicants
+Overview
+Federal Complaint Process
+Federal Sector Alternative Dispute Resolution
+Prohibited Practices
+Resources
+Contact Us
+Contact EEOC
+Find Your Nearest Office
+Office Operating Status
+How to File a Charge
+Public Portal
+Home
+Laws
+guidance
+CM-602 Evidence
+CM-602  Evidence
+Issuing Authority
+This guidance document was issued upon approval by vote of the U.S. Equal Employment Opportunity Commission.
+OLC Control Number
+EEOC-CVG-1988-3
+Concise Display Name
+CM-602  Evidence
+Issue Date
+02-01-1988
+General Topics
+Charge Analysis
+Summary
+This document provides charge processing and investigation instructions for investigators.
+Citation
+Title VII, EPA, ADEA, ADA, GINA, 29 CFR Part 1601
+Document Applicant
+EEOC Investigators
+Previous Revision
+No
+Disclaimer
+The contents of this document do not have the force and effect of law and are not meant to bind the public in any way. This document is intended only to provide clarity to the public regarding existing requirements under the law or agency policies.
+Table of Contents
+Section
+602.1   Introduction
+602.2   What Is an Investigation
+602.3   Role of the Investigator
+602.4   Quality of Evidence
+(a) Material Evidence
+(b) Relevant Evidence
+(c) Reliable Evidence
+(d) Quantity of the Evidence
+602.5   Types of Evidence
+602.6   Sources of Evidence
+(a) Evidence to Obtain From the Charging Party/Complainant
+(1)  General
+(2)  Charging Party/Comp. Questionnaires
+(b) Evidence to Obtain from Respondent
+(1)  General
+(c) Evidence to Obtain from Witnesses
+(d) Documentary Evidence
+(e) Evidence from Federal Agencies
+602.7   Burden of Proof
+602.8   Affirmative Defenses
+SECTION 602
+EVIDENCE
+602.1
+Introduction
+-
+This section of the Compliance Manual provides general guidance on how to investigate charges/complaints filed under Title VII of the Civil Rights Act of 1964, as amended, the Age Discrimination in Employment Act (ADEA), and the Equal Pay Act
+(EPA).
+[1]
+For specific guidance on how to investigate a particular substantive issue raised by a Title VII, EPA, or ADEA charge/complaint, refer to the section of the Compliance Manual which addresses
+that issue. (Also see Volume I.)
+602.2
+What Is an Investigation
+-
+An investigation of a charge/complaint of discrimination filed under Title VII, the ADEA, or the EPA, is an official inquiry by the Commission. These inquiries are authorized by § 706(b) of Title VII, § 7(a) of the ADEA (which incorporates the
+investigative authority contained in § 11 of the Fair Labor Standards Act) (FLSA), and, for EPA investigations, by § 11 of the FLSA. The purpose of these investigations is to determine whether a person subject to one of the statutes has violated it
+and, where a violation is found, to determine what relief is appropriate. These investigations are a critical part of the Commission's law enforcement responsibilities.
+The evidence obtained during an investigation will govern the course of the Commission's subsequent action with respect to that charge. An objective gathering and analysis of the evidence will insure a balanced record, which in turn will insure
+that the Commission's ultimate determination is as accurate as possible and defendable in a court of law should it become necessary to litigate.
+602.3
+Role of the Investigator
+-
+The investigator of a charge/complaint makes a significant contribution to the resolution of it. The investigator is the Commission's representative to the respondent and the charging party/complainant.  His/her behavior, demeanor, and
+attitude reflect on the Commission and may affect the degree of cooperation received from both parties.
+Because of the importance of this role, the investigator has an obligation to identify and obtain relevant evidence from all available sources in order to resolve all of the issues under investigation.
+An investigator is not an advocate for the charging party, complainant, or the respondent.  The Commission, through its investigator, is a neutral fact finder charged with the enforcement of Title VII, the EPA, and the ADEA.  At the
+same time, because the charging party/ complainant may not know of the existence or understand the importance of certain facts which could serve as evidence tending to support his/her case, the Commission can be particularly diligent in searching
+out such evidence.  The charging party/complainant should be questioned thoroughly about his/her allegations and solicit information relevant to the charge or complaint.  The charging party/complainant should be asked to identify witnesses
+and evidence that will support his/her case.  Much of this should be done during the initial intake interview, often by using questions contained in the Questionnaire Clauses.  (See § 602.6 (a)(2).) All relevant witnesses identified by the
+charging party/ complainant should be questioned and all of the charging party/complainant's evidence should be examined.
+It is the investigator's responsibility to specify the scope of the investigation and to ask the respondent questions relevant to the investigation whether (s)he uses a formal request for information, asks for information during an on-site
+investigation or both. (See §§ 14.2(b), 22.3, 26.3(a) and 602.6(b)(1).) Respondent should also be informed of its right to submit additional oral or written evidence on its behalf. In addition, Respondent and charging party/complainant each should
+be given the opportunity to respond to the others evidence prior to analyzing that evidence. (See also §§ 27.)
+The investigator's role can be summarized by saying that (s)he is an
+objective fact finder
+carrying out the Commission's role as the enforcement agency for Title VII, the EPA, and the ADEA. In Title VII, EPA, and ADEA cases, the procedures
+in §§ 14 and 22-27 in Volume I should be followed in conducting an investigation.
+602.4
+Quality of Evidence
+-
+Evidence will be gathered from the charging party/complainant, the respondent, witnesses, and other sources.  In order to support a determination, this evidence should be material to the charge/complaint, relevant to the issue(s) raised in
+the charge/complaint, and as reliable as possible. Materiality, relevancy, and reliability are discussed below.
+(a)
+Material evidence
+-
+Evidence should be
+material
+to the charge/complaint. Evidence is material when it relates to one or more of the issues raised by a charge/complaint or by a respondent's answer to it. To determine whether evidence is material, one must look
+to the allegations of discriminatory conduct and resultant harm contained in the charge/complaint and the answers provided by the respondent to those allegations. If the evidence relates to one or more of those matters, then it relates to matters
+"in issue" and is material. The theory of discrimination on which the charge/complaint is based should also be identified. (See §§ 604 and 704, which will discuss theories under the three statutes.)
+Example 1
+- CP, a woman employed by R as a housekeeper, alleges that R pays housekeepers a lower hourly wage than it pays men who perform substantially equal work as janitors. Disparate treatment is the theory of
+discrimination under which this charge should be analyzed if it is filed under Title VII. The basis is sex and the issue is wages. R's payroll records for housekeepers and janitors would be one piece of evidence material to this charge. From these
+records, the wages paid to employees who work in charging party's job category can be discerned and compared with the wages paid to employees working as janitors. Payroll records might also indicate the sex of these employees.
+Where evidence does not relate to matters in issue, it is not material. Thus, in a charge alleging failure to hire on the basis of race, evidence offered by the respondent to show that its workforce is 50% female is not material.
+Example 2
+- CP, age 59, employed as a manager, alleges that he was forced to take early retirement because of his age. CP also alleges that training, assignments, pay increases, retention rights, transfer, and promotion
+were denied to laid off employees eligible to retire but made available to younger employees. The basis of his charge is age and the issues are termination and terms and conditions of employment. Evidence was obtained from one individual (age 34)
+who overheard the new young central sales manager state a preference for youth in company management. This statement was confirmed by another employee, a collection manager (age 64), who was later transferred to a lesser position and was replaced by
+a 27-year-old. Evidence was also obtained demonstrating that the company had a policy of not permitting high level (and generally older) displaced employees to "bid down" to lower level vacancies, denying severance pay in full to anyone eligible to
+retire, reducing benefits to older individuals beyond what can be justified by age based cost considerations, and not considering those individuals who choose retirement for recall under the company's preferential reemployment policies. Material
+evidence in such a case would include information on CP and his/her performance; information on the ages, positions, and performance of laid off employees, remaining employees, and recalled employees; copies of company benefit plans and policy
+statements; any actuarial data used to support benefit reductions; and testimony from Charging Party, Respondent, and other witnesses. Voluminous data from one individual's personnel file which has nothing to do with employment practices
+investigated would not be material to the case. (Guidance on the issues raised by this charge will be provided in § 812, Discharge and Discipline, and § 827, Benefit Plans.)
+(b)
+Relevant evidence
+-
+Evidence is relevant if it tends to prove or disprove an issue raised by a charge/complaint, that is a material issue. Relevancy and materiality are often used interchangeably and precise expertise on which term applies to a piece of evidence is
+not necessary for a thorough investigation. Generally, the more important concept in an investigation is relevancy. If the evidence is not relevant, whether it is material is of little consequence. When in doubt about the relevancy of evidence, one
+should ask, "What does this evidence tend to prove or disprove?" If the answer is that it tends to prove or disprove a proposition that is related to the charge/complaint, then the evidence is relevant. In Example 2 above, the evidence that is
+discussed as being material is also relevant, and the evidence that is not material is also not relevant.
+(c)
+Reliable evidence
+-
+Evidence is reliable if it is dependable or trustworthy. In Example 1, the most reliable evidence would be payroll records although other pieces of evidence could also provide information on whether the respondent pays housekeepers a lower wage
+than it pays janitors who perform substantially the same work. For example, employees working as housekeepers and janitors could be asked what their hourly wage is, or respondent could be asked for a list of employees by sex in the relevant job
+categories with an indication of the wages paid to each employee in each category. Although this evidence would provide information on the issue of equal pay, it is probably not as reliable as respondent's payroll records. In Example 2 above, the
+most reliable evidence to prove the ADEA case is discussed in the example itself.
+Some factors to consider in determining whether testimony is reliable are whether witnesses are qualified to testify concerning the matters contained in their statements; whether statements are factual rather than conclusory and whether witnesses
+are disinterested in the outcome of the charge/complaint. (See § 26.7.) In many cases testimony will come from witnesses who do not meet these criteria; however, their testimony should be accepted. Documentary evidence must also be reliable. It
+should be authentic and be the best evidence available of what it is supposed to prove. (See § 26.4.)  The reliability of evidence from various sources is discussed in § 602.6.
+(d)
+Quantity of the Evidence
+-
+A preliminary determination should be made concerning the amount of evidence needed to resolve the charge/complaint prior to initiating the investigation. After the investigation is complete, pursuant to an investigative plan, it should be
+determined whether enough evidence has been obtained. Enough evidence has been obtained where the evidence obtained on each issue raised by the charge/ complaint is sufficient to support a cause or violation recommendation, or all types of evidence
+likely to support both parties have been examined and the evidence obtained on each issue raised by the charge/complaint supports a no cause or closure recommendation.
+It is not necessary to seek to obtain an equal amount of evidence which supports the charging party/complainant and the respondent. To insure a balanced record, it is necessary only to exhaust all sources likely to support the charging
+party/complainant and the respondent. An investigation conducted in this manner might reveal that there is ample evidence to support the charging party/complainant's allegations, and no evidence which supports the respondent's version of the facts.
+This investigation would be complete.
+602.5
+Types of Evidence
+-
+As many types of evidence as possible should be obtained on each issue raised by the charge/complaint.  The three basic types of evidence are comparative evidence, statistical evidence, and direct evidence of discriminatory motive.  For
+a complete discussion of each type of evidence and for guidance on how to obtain it, refer to § 604.3.
+602.6
+Sources of Evidence
+-
+This subsection provides general information about the type and nature of evidence which should be obtained from various sources. (Also see § 23 on how to conduct interviews.)
+(a)
+Evidence to Obtain From the Charging Party/Complainant
+(1)
+General
+- The charging party/complainant provides all of the initial information concerning the basis and issue of the charge/complaint; information concerning the incidents which gave rise to the charge/complaint; and basic
+information about the respondent, e.g., (respondent's name and address, the nature of respondent's business, the number of people employed by respondent, and the reason, if any, that the respondent gave the charging party/complainant for the adverse
+employment decision.)
+As much background information as possible should be obtained from the charging party/complainant. Background information includes, but is not limited to, a brief summary of the charging party/complainant's work history with the respondent;
+his/her job description; a list of his/her actual duties; a description of the events leading up to the adverse employment decision; the name, Title VII, EPA, or ADEA status and job title of respondent's personnel involved in the adverse employment
+decision; the identity of similarly situated employees who were treated the same as charging party/complainant and of those who were treated differently from charging party/complainant; and any other information which charging party/complainant
+feels is relevant to the charge/complaint. (See § 2.5 for a discussion of the information necessary to draft a charge/complaint.)
+(2)
+Charging Party/Complainant Questionnaires
+- Included in "Questionnaire Clauses," EEOC Order 901, Appendix A, is a questionnaire for each of various issues. These should be used as a source of ideas for the development of the
+investigation and the request for information should be tailored to fit the facts of the particular charge/complaint under investigation by rephrasing questions and adding questions, as necessary. Additional questions can be found in the section of
+Volume II which addresses the issue raised by the charge/complaint. If necessary, the questions found in Volume II should also be rephrased, and questions should be added or deleted to fit the circumstances of each charge/complaint.  For
+instance, questions seeking information that does not relate to the basis and issue in the charge/complaint should be deleted. Doing so is more likely to produce relevant information and to save time in analyzing the evidence.
+The questionnaire may also be used as a guide for obtaining information for preparation of the affidavit at intake.
+(b)
+Evidence to Obtain from Respondent
+(1)
+General
+- Sections 14.2(b) and 26.3(a) discuss the form and substance of the request for information (RFI). Those sections should be consulted before seeking any information from the respondent. The RFI should be tailored to the basis
+and issue in the charge/complaint as discussed in § 602.6 (a) above.
+(c)
+Evidence to Obtain from Witnesses
+-
+Both the charging party/complainant and the respondent should be asked to identify individuals who have knowledge of the incidents surrounding the allegations contained in the charge/complaint. Each is likely to identify individuals who will
+support his/her version of the facts.
+If the charge/complaint is one going through the fact finding process, it should be determined which witnesses who can testify on behalf of the respondent should be invited to the fact finding conference. The witnesses should include the
+individual who initiated or enforced the decision of which the charging party/complainant is complaining and a management official who can testify concerning any respondent policy involved in the adverse decision. The charging party/complainant can
+usually identify these individuals. (See § 14.10(b).) It should be determined whether statements from witnesses who can testify on behalf of the charging party/complainant are relevant; if so, these witnesses should be interviewed prior to the fact
+finding conference. (See § 14.10(a)(2).)
+Section 602.4(c) discussed the need to obtain the most reliable evidence available in an investigation. The following discussion addresses factors to be considered when analyzing a witness' testimony.
+(1) It is preferable that the witness not be biased toward the parties in the charge/complaint. A witness may be biased due to feelings toward the parties or due to his/her own self-interest in the outcome of the controversy. A few of the most
+common types of bias are discussed here.
+Signs by a witness of favorable feelings toward one of the parties such as may be the case with close friends, family members, respondent's management officials, or any conduct or statements of the witness that demonstrate such feelings should be
+noted.
+Likewise, signs of hostility by a witness toward any of the parties should be noted. For instance, an employee who was discharged may hold a grudge against respondent or against the charging party/complainant where he/she and the witness had
+previously quarreled.
+A witness who has a self-interest in a charge/complaint is one who stands to benefit or be harmed by its outcome. It should be considered whether a witness has a stake in the result of a controversy when taking his/her testimony.
+That a witness may have a reason to be biased is not a ground for not taking his/her testimony, neither is it necessarily a ground for according it less weight. Bias only relates to the weight that evidence should be given in reaching a
+determination where it can be shown that the bias actually interfered with the testimony. The testimony of such a witness should be used in a charge/complaint where it is relevant. However, corroboration of that testimony should be sought from
+people who are less biased and from documentary evidence.
+(2) A witness' testimony is more reliable where he/she is qualified to testify concerning the matters contained in his/her affidavit or matters testified to at the fact-finding conference. This means that the individual should have personal
+knowledge of the matter (s)he is testifying about, and if testifying on behalf of the respondent, be in a position which allows him/her to speak on behalf of respondent.
+Example 1
+- CP alleges that she was discharged on the basis of her national origin, Iranian. R claims that CP was discharged because she repeatedly failed to meet her production quota. R is a manufacturer of women's
+clothing. Each employee is required to produce 30 garments a day. R alleges that CP has produced only an average of 17 garments a day.
+CP claims that very few employees in her department meet their daily quota, but she was the only employee discharged. She identifies several employees working in her department who can corroborate her allegations. These witnesses would be
+qualified to testify on the issue of whether other employees in the CP's department also fail to meet their daily production quota. They have personal knowledge on this issue. An employee working in another department in another part of R's facility
+would probably not have personal knowledge on this issue and would not be qualified to testify concerning the accuracy of this allegation.
+Example 2
+- CP, age 52, alleges that she was discharged because of her age as a supervisor of a restaurant. R alleges that she was too slow in performing her duties and displayed a poor attitude toward customers and fellow
+employees. CP claims that she was never warned about her attitude. A statement is obtained from another employee (27 years old) stating that the manager made a statement to her about "getting rid of the old lady." This employee is a supervisor in
+another department in the restaurant. Since the witness has personal knowledge of the matter she is qualified to testify that CP's supervisor made the statement about CP.
+(3) Statements made by a witness are more reliable where they are factual rather than conclusive or opinionative. This means that a witness should be asked to provide facts to support any of his/her conclusions or opinions. For example, where a
+witness states that charging party's/complainant's supervisor does not believe that women make good supervisors, this is a conclusion and the witness should be asked to give facts which support it. For instance, the witness should be asked to relate
+statements that the supervisor made about women as supervisors or events that the witness actually observed. The time and place each occurred and who else, if anyone, was present should also be determined. (See § 23, Interviews.)
+Further, specific facts should be sought from the witnesses. In Example 1 above, where a witness in charging party's unit states that she did not meet the daily production quota either, she is stating a fact. However, more specific information
+may be helpful in determining whether a violation exists. For example, suppose the witness only produced 12 garments per day? What if she produced 27 garments per day?
+(4) A witness' statement should be written in the first person (e.g., "I saw" or "I heard") and be initialed or signed by the witness. Also, a statement should be recorded on an EEOC Form 133, EEOC Affidavit, and signed under penalty of perjury.
+(See § 23.8.)
+An evidentiary rule akin to the one that a witness should have personal knowledge of events to which (s)he testifies is the
+hearsay rule
+. While the two rules are different, the differences are more technical than practical. The hearsay
+rule applies to oral or written evidence; however, this discussion only deals with oral evidence.
+Hearsay testimony is testimony offered by one person based upon what others said or told him and offered as evidence of the truth of the matter stated. Therefore, where witness A states that another employee Smith told him that the manager of R
+said he didn't think women make good managers, the testimony of witness A is hearsay.
+Witness A's statement should be taken, but, since Smith's testimony is more reliable, Smith should be contacted in order to get his version of what the manager said. Credibility of witnesses rests upon perception, memory, and narration. The
+question is whether the witness perceives an event accurately, remembers accurately what (s)he perceived, and relates it in a way that gives an accurate impression of what (s)he perceived. Smith's testimony is more reliable because it is his
+perception of the event, his memory of it, and his narration of it that can be tested by the questions posed to him. (See § 26.7.)
+(d)
+Documentary Evidence
+-
+In addition to witness' testimony any and all documentary evidence that is relevant to the issues in the charge/complaint should be obtained. This evidence may come from the charging party/complainant, respondent, or witnesses. Section 26
+discusses requests for information and § 24 discusses administrative subpoenas. These sections should be used in obtaining documentary evidence; also see § 632 on recordkeeping. The general rules regarding materiality and relevancy discussed
+previously in § 602.4(a) apply to documentary evidence as well as oral testimony.
+Documentary evidence should also be reliable and authentic. Use of the following evidentiary rules will help to obtain quality documentary evidence.
+(1) The most reliable documentary evidence is the original of the item requested. In an investigation on site, the original of relevant documents should be examined and copies of those originals obtained to keep in the investigative file. Also,
+where respondent's officials are to attend a fact finding conference, they should be asked to bring the originals of all relevant documents to the conference where they can be examined and copies made. Where a respondent is submitting documents by
+mail, it should be asked to provide true and correct copies of the originals. In any situation where copies of documentary evidence are being obtained, the name, title, address, and phone number of the custodian of the original of the documents
+should be obtained. Also, the respondent should be informed that the originals of all documents relevant to the charge should be kept as required by law even though copies of these documents have been provided to the Commission (See § 632 on the
+recordkeeping requirements of the ADEA, EPA, and Title VII).
+(2) In many instances, if not most, documentary evidence sought will be records kept in the ordinary course of respondent's business. These records are usually reliable evidence of their contents; however, some further information should be
+obtained from the respondent to ensure that the records are kept in the regular course of business; for example, the name, title, and location of the person responsible for maintaining the record in question. If that person does not have firsthand
+knowledge of the information in the record, but receives that information from another person who does, that latter individual should be identified by name, position, and whereabouts. Further, the normal procedure by which that information is
+transmitted to the recordkeeper should be obtained. For example, in the previous example where respondent argued that the charging party was fired for failing to meet a production quota, the respondent may have records of each employee's production.
+These records should be reviewed and copied and the aforementioned information regarding the keeper of those records should be obtained. Where the production is obtained by the employee's supervisor who then gives it to the recordkeeper, the
+aforementioned information about the supervisor should also be obtained.
+It should be ensured that the information is recorded at or near the time of the event. Questioning knowledgeable personnel about the recordkeeping procedure should provide information about when recorded entries are made. It is also important to
+establish that the record is one that is made in the regular course of business as opposed to something prepared for the investigative process or in contemplation of litigation.
+In some instances, parties or witnesses may have made notes, prepared memoranda, or otherwise made a written record of past events. For example, in a harassment charge, the charging party may have made notes about an incident of harassment after
+it happened. These records of past events are important in investigations and especially in preparation for trials, which may not occur until years after the events. They are important because they may act as reminders for the witnesses who can
+recall the incident in detail after referring to the written record of it. In this case, the witness' testimony is the most reliable evidence of what happened (see discussion of hearsay, § 602.6(c)(4)) and the writing is only a refresher of his/her
+memory; the witness is testifying from his/her own present knowledge of the facts. Therefore, copies of any such notes should be obtained from the witness or party and it should be determined from him/her whether (s)he has an independent
+recollection of the events after referring to the notes.
+In other situations, the individual may not recall the events from the notes and may not be able to testify to what happened without relying on the written record. In this situation, the individual does not have an independent memory of the event
+in spite of being able to refer to the notes. If that occurs, the notes themselves may become evidence of the event they describe.
+Information regarding the written record of the incident should be sought. First, it should be determined whether the witness has firsthand knowledge of the information in the writing. It is not necessary that the individual have written the
+note, but (s)he must have personal knowledge of the event and the writing must accurately reflect that knowledge. If the document is a collaboration of two or more people, the others should be interviewed also. Second, the statement must have been
+made at or near the time of the event and while the witness had an accurate memory of it. Therefore, it is important to get the date of the incident and the date the statement was made. Finally, the person should be able to vouch for the accuracy of
+the statement at the time it was recorded.
+(3) It may be necessary to get documentary evidence from previous legal or administrative proceedings. For example, where a respondent raises in defense to a charge that further prosecution of it is barred by
+Kremer v. Chemical Construction
+Corp.
+, 456 U.S. 461, 28 EPD ¶ 32,674 (1982), official court records would be needed. Where the parties have testified in a union grievance proceeding or an unemployment hearing, official transcripts of that testimony would be necessary. Official
+records are reliable documentary evidence where the proper procedure for obtaining them has been followed. Generally, some official certificate by the responsible official swearing to their authenticity will or should be affixed to the documents.
+The procedure will vary according to the document sought and the locale.
+(e)
+Evidence from Federal Agencies
+-
+Where the Respondent meets the criteria to be regulated by the Office of Federal Contract Compliance Programs (OFCCP), that agency should be contacted to determine whether it has recently investigated a similar complaint against or conducted a
+compliance review of the Respondent. If so, all relevant information should be gotten from OFCCP.
+Further, federal agencies that provide grants or funds may provide information regarding a respondent. The Commission publishes the "Resource Directory of Equal Employment Compliance Information" that names these agencies and tells how
+information can be obtained from them.
+Sections 90 and 91 should be consulted regarding the obligation to notify or consult with other agencies about complaints they have referred to us for investigation.
+602.7
+Burden of Proof
+-
+The burden of proof is a concept that addresses the responsibilities of the parties to a lawsuit regarding the presentation of evidence and the persuasiveness of the evidence presented. How the parties can meet their burdens will be dependent
+upon the facts of a particular situation.
+The burden of proof involves not one burden, but two. One is the responsibility to produce satisfactory evidence of a particular fact that is in issue; that is material, relevant, and reliable evidence of the fact. The other is the burden of
+persuasion and it refers to the responsibility to convince the trier of fact that the alleged fact is true.
+Generally, the burden to produce evidence, commonly called the burden of evidence or the burden of going forward, is upon the party who asserts the fact. Further, this burden may shift to the other party when the party asserting the fact has met
+his/her initial burden. For instance, in a Title VII failure to hire lawsuit involving an individual plaintiff alleging disparate treatment, the burden of production generally operates as follows.
+[2]
+The
+plaintiff has the responsibility to show that: (1) (s)he is a member of a protected class; (2) (s)he applied and was qualified for the job in question; (3) (s)he was rejected despite his/her qualifications; and (4) after the rejection, the employer
+continued to seek applicants with similar qualifications. Once the plaintiff has produced evidence to support those four factors, an inference of discrimination is created and the burden of production then shifts to the defendant employer. In this
+case, the employer's burden is to articulate a legitimate, nondiscriminatory reason for its decision. Once the employer has done so, the burden of production again shifts to the plaintiff to present evidence that the employer's explanation is a
+pretext.
+That a party has a duty to present evidence supporting its assertions does not mean that the evidence will be in that party's possession; it may be in the possession of the opposing party or of a third party. For example, where an employee
+alleges wage discrimination, the evidence to support that allegation may be the payroll records which, more often than not, will be in the control of the employer.
+The burden of evidence concept was developed for use in lawsuits, which are adversarial proceedings. A Commission investigation is
+not
+adversarial; rather, the Commission's investigator acts as a neutral fact finder. Nevertheless, the
+burden of evidence is an important analytical tool. Once all of the evidence is gathered, it can be reviewed first with an eye toward whether it supports the charging party/complainant's allegations sufficiently to raise an inference that those
+allegations are true. Where it does not, there will be no need to go further in analyzing the issues and a finding of no cause, no violation, or no jurisdiction can be recommended.  Where the evidence raises an inference of discrimination, the
+evidence can be reviewed to determine whether it supports the assertions made by the respondent. The same approach will carry through for a determination regarding pretext.
+The burden of production of evidence relates to whether evidence is offered to support a party's assertion, the burden of persuasion relates to whether the evidence presented persuades the trier of fact that the assertions are true. The burden of
+persuasion does not become important until the parties have met their burdens of production and all of the evidence is in. It does not come into play until it is time for a decision; therefore, it does not shift from one party to another. In a
+lawsuit, the burden of persuasion always rests with the plaintiff. After the investigation, when it is time to recommend a finding, the consideration should be whether all of the material and relevant evidence persuades the reviewer that the
+charging party/complainant has been discriminated against. (A detailed discussion of how the burden of production and the burden of persuasion operate in cases of indirect proof of discrimination as well as those of direct proof of discrimination
+will be provided in § 604, Theories.)
+602.8
+Affirmative Defenses
+-
+An affirmative defense is one that raises a new issue not normally covered by a denial of the material allegations of the charging party/complainant. In other words, it is a defense to the allegations even assuming that the charging
+party/complainant's allegations are true. Examples of affirmative defenses are: jurisdictional issues; bona fide occupational qualifications (under both Title VII and the ADEA); the four exceptions contained in § 6(d)(1) of the FLSA (the EPA); the
+exceptions contained in § 701(f) and § 702 of Title VII; and the exception in § 12(c)(1) of the ADEA. These examples are not exhaustive. For guidance on these and other defenses, §§ 604.10 of Theories, 605 on Jurisdiction, and other relevant
+Compliance Manual sections should be reviewed.
+The respondent has the burden to produce evidence supporting an affirmative defense. The respondent has the responsibility to raise such a defense as well and, when it does not, the Commission generally will not raise it for the respondent.
+However, where a jurisdictional defense or the exceptions contained in § 701(f) and § 702 of Title VII or 12(c)(1) of the ADEA are not raised by the respondent and are apparent, they may be raised by the field office. They should not be raised based
+only on conjecture; however, where information arises during the investigation that leads the investigator to believe that the respondent may not be covered by Title VII, the ADEA, or the EPA, (s)he should bring it to his/her supervisor's attention.
+For instance, where the respondent is a religious organization and the allegation is religious discrimination, the investigator may want to seek information from the respondent relevant to the exemptions contained in § 702 of Title VII even where
+the respondent has not raised the exemption as a defense. Where a jurisdictional defense or exception has been raised for a respondent, it must be investigated thoroughly, as would any other issue in the charge/complaint. It is the respondent's
+responsibility to provide evidence to support that defense.
+[1]
+This section of the Compliance Manual also applies generally to directed and systemic investigations. Some guidance on how to investigate a systemic or directed charge is provided in Volume I. Further
+guidance will be provided by the systemic staff in the Office of Program Operations.
+[2]
+See
+McDonnell Douglas Corp. v. Green
+, 411 U.S. 792. 5 EPD ¶ 8607 (1973).
+Return to top
+U.S. Equal Employment Opportunity Commission
+EEOC Headquarters
+131 M Street, NE
+Washington, DC 20507
+1-800-669-6820
+(TTY)
+1-844-234-5122
+(ASL Video Phone)
+Questions?
+Call 1-800-669-4000
+For Deaf/Hard of Hearing callers:
+1-800-669-6820
+(TTY)
+1-844-234-5122
+(ASL Video Phone)
+info@eeoc.gov
+Find your nearest EEOC office
+Connect With Us
+FOIA
+Privacy Policy
+Disclaimer
+Accessibility
+Office of Inspector General
+USA.gov

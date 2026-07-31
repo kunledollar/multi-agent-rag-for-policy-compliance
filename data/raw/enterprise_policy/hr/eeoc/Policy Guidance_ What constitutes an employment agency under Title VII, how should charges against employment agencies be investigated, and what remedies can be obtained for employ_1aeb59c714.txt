@@ -1,0 +1,551 @@
+Policy Guidance: What constitutes an employment agency under Title VII, how should charges against employment agencies be investigated, and what remedies can be obtained for employment agency violations of the Act? | U.S. Equal Employment Opportunity Commission
+Skip to main content
+An official website of the United States government
+Here’s how you know
+Here’s how you know
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive
+information only on official, secure websites.
+U.S. Equal Employment Opportunity Commission
+Menu
+Header Navigation
+Online Filing
+Public Portal
+Attorney E-file
+Locations
+Operating Status
+Languages
+English
+Español (Spanish)
+Resources in Other Languages
+عربي (Arabic)
+简体中文 (Chinese, Simplified)
+繁體中文 - Chinese (Traditional)
+Kreyòl Ayisyen (Haitian Creole)
+한국어 (Korean)
+Русском (Russian)
+Português (Portuguese)
+Tagalog (Tagalog)
+ไทย (Thai)
+Tiếng Việt (Vietnamese)
+فارسی (Persian. Farsi)
+پښتو (Pashto)
+Toggle Search Form
+Any of these words
+(optional)
+Search
+About EEOC
+About EEOC
+Overview
+The Commission and The General Counsel
+Meetings of the Commission
+Commission Votes
+EEOC History
+News and Information
+Newsroom
+What You Should Know
+Legislative Affairs
+Publications
+Outreach and Education
+FOIA
+Laws and Enforcement
+EEOC Legal Resources
+Mediation
+Litigation
+Systemic Enforcement
+Commissioner Charges
+Directed Investigations
+Programs and Performance
+Budget and Performance
+Initiatives
+Interagency Programs
+State and Local Programs
+Task Forces
+Tribal Programs
+Data and Analytics
+Overview
+Data Governance
+EEO Data Collections
+Data and Statistics
+Data Tools and Products
+No FEAR Act Data
+Inside EEOC
+Careers
+Office for Civil Rights
+Doing Business with EEOC
+AI Governance
+Privacy
+Office of Inspector General
+Employees & Job Applicants
+Employees & Applicants
+Overview
+Coverage
+Timeliness
+Prohibited Practices
+Filing a Charge of Discrimination
+Filing a Charge
+How to File
+After You File a Charge
+Confidentiality
+Mediation
+Remedies
+Existing Charges
+Filing a Lawsuit
+Discrimination by Type
+Age
+Disability
+Equal Pay
+Genetic Information
+Harassment
+National Origin Discrimination
+Pregnancy Discrimination
+Race/Color Discrimination
+Religious Discrimination
+Retaliation
+Sex
+Sexual Harassment
+Employers / Small Business
+Employers / Small Business
+Overview
+Coverage
+After a Charge is Filed
+Resolving a Charge
+Commissioner Charges
+Directed Investigations
+Remedies
+Small Business Resource Center
+Small Business Home
+Small Business Requirements
+Frequently Asked Questions
+Tips for Small Businesses
+Making an Employment Decision?
+EEOC Resources
+Small Business Assistance
+Small Business Fact Sheet
+Small Business Videos
+EEOC Glossary
+Contact Us
+Discrimination by Type
+Age
+Disability
+Equal Pay
+Genetic Information
+Harassment
+National Origin
+Pregnancy
+Race/Color
+Religion
+Retaliation
+Sex
+Sexual Harassment
+Prohibited Practices
+Recordkeeping
+EEO Data Collections
+"Know Your Rights" Poster
+Training
+Other Employment Issues
+Federal Sector
+Federal Agencies
+Overview
+Federal EEO Coordination
+Federal Agency EEO Directors
+EEOC Legal Resources
+Management Directives & Federal Sector Guidance
+Federal Training & Outreach
+Resources
+Federal Employees & Job Applicants
+Overview
+Federal Complaint Process
+Federal Sector Alternative Dispute Resolution
+Prohibited Practices
+Resources
+Contact Us
+Contact EEOC
+Find Your Nearest Office
+Office Operating Status
+How to File a Charge
+Public Portal
+Home
+Laws
+guidance
+Policy Guidance: What constitutes an employment agency under Title VII, how should charges against employment agencies be investigated, and what remedies can be obtained for employment agency violations of the Act?
+Policy Guidance:  What constitutes an employment agency under Title VII, how should charges against employment agencies be investigated, and what remedies can be obtained for employment agency violations of the Act?
+Issuing Authority
+This guidance document was issued upon approval by vote of the U.S. Equal Employment Opportunity Commission.
+OLC Control Number
+EEOC-CVG-1991-5
+Concise Display Name
+Policy Guidance:  What constitutes an employment agency under Title VII, how should charges against employment agencies be investigated, and what remedies can be obtained for employment agency violations of the Act?
+Issue Date
+09-20-1991
+General Topics
+Threshold Issues
+Summary
+This document addresses when agencies qualify as covered "employment agencies" under Title VII and how investigators should investigate charges involving employment agencies
+Citation
+Title VII, 29 CFR Part 1601
+Document Applicant
+Employers, Employees, Applicants, Attorneys and Practitioners, EEOC Staff
+Previous Revision
+No
+Disclaimer
+The contents of this document do not have the force and effect of law and are not meant to bind the public in any way. This document is intended only to provide clarity to the public regarding existing requirements under the law or agency policies.
+N-917-002
+09/20/91
+1.
+SUBJECT
+: Policy Guidance: What constitutes an employment agency under Title VII,         how should charges against employment agencies be investigated, and what remedies can      be obtained for employment agency violations of the Act?
+2.
+PURPOSE:
+This policy guidance sets forth the Commission's position as to what entities    qualify as employment agencies under Title VII and what procedures should be used in        order to investigate charges against employment agencies. It also suggests remedies to be          considered for Title VII violations by those agencies.
+3.
+EFFECTIVE DATE:
+September 20, 1991
+4.
+EXPIRATION DATE:
+As an exception to EEOC Order 205.001, Appendix B,             Attachment 4, § a (5), this Notice will remain in effect until rescinded or superseded.
+5.
+ORIGINATOR:
+Title VII/EPA Division, Office of Legal Counsel.
+6.
+INSTRUCTIONS:
+File as an appendix to § 631 of Volume II of the EEOC Compliance     Manual.
+7.
+SUBJECT MATTER:
+This policy guidance discusses the application of Title VII of the Civil Rights Act of 1964, as amended, 42 U.S.C. § 2000e
+et seq
+., to employment agencies and the circumstances under which an entity that does not identify itself as an employment agency may be considered as such for purposes of the Act. In addition, this guidance discusses procedures typically used to discover employment agency discrimination and remedies that may be imposed against these agencies.
+Title VII prohibits discrimination not only by employers, but by employment agencies as well. Section 703(b) of the Act, 42 U.S.C. § 2000e-2(b), reads:
+[i]t shall be an unlawful employment practice for an employment agency to fail or refuse to refer for employment, or otherwise to discriminate against, any individual because of his race, color, religion, sex, or national origin, or to classify or refer for employment any individual on the basis of his race, color, religion, sex, or national origin.
+Section 701(c) of the Act, 42 U.S.C. § 2000e(c), defines the term "employment agency" as:
+any person regularly undertaking with or without compensation to procure employees for an employer or to procure for employees opportunities to work for an employer and includes an agent of such a person.
+The following discussion addresses the application of these provisions to the discriminatory practices of employment agencies.
+DISCUSSION
+I.
+Types of Employment Agencies
+A.
+Commercial Employment Agencies
+Sections 631.1, 631.2, 631.3, and 631.7 of the EEOC Compliance Manual, Volume II, set out in detail the coverage of entities that qualify as employment agencies under Title VII and the Age Discrimination in Employment Act, 29 U.S.C. § 621
+et seq
+. ("ADEA"). Where a private company advertises itself as an employment agency and recruits employees to fill positions for various employers, there is no jurisdictional question under § 703(b) of Title VII. EEOC Compl. Man., Vol. II, § 631.2;
+Ostroff v. Employment Exchange, Inc.
+, 683 F.2d 302, 29 EPD ¶ 32,966 (9th Cir. 1982);
+Ruhe v. Philadelphia Inquirer
+, 9 EPO ¶ 9984 n.3 (E.D. Pa. 1975);
+Barnes
+v. Rourke
+, 8 EPD ¶ 9772 (M.D. Tenn. 1973).
+See also Hodgson v. Approved Personnel Serv.
+,529 F.2d 760, 10 EPD ¶ 10,472 (4th Cir. 1975) (decided under the ADEA, which includes a definition of "employment agency" that is nearly identical to that in Title
+VII).
+[1]
+B.
+Non-Commercial Entities Qualifying as Employment Agencies
+There are different types of entities that regularly procure employees for employers and that are therefore subject to Title VII. Entities that have been held to be employment agencies include: government agencies that administer employment referral services;
+[2]
+schools that operate placement offices;
+[3]
+professional associations that refer members to positions;
+[4]
+newspapers that exercise control over discriminatory job listings rather than merely printing them;
+[5]
+and individuals who, without compensation, provide persons with aid in their job searches, including advice and referrals.
+[6]
+The operative factor is whether the entity regularly refers potential employees to employers or provides employers with the names of potential employees.
+[7]
+C.
+Temporary Agencies Which Directly Pay Employees' Salaries and/or Benefits
+An employment agency that directly pays an employee's salary and benefits but refers him/her to employers for whom he/she actually performs work under the supervision and direction of those employers, is an employment agency under Title VII. Section 701(c), 42 U.S.C. § 2000e(c), does not distinguish between temporary employment agencies and agencies that place persons on a permanent basis. Both are in the business of regularly procuring employees for employers.
+In some instances, an employment agency that sends employees to work for other employers also may be an employer. For example, a company may train and supervise its own workers to perform a particular type of job and send the workers to perform this service for another company, often accompanied by the first company's own supervisors. This arrangement would make both companies employers of the employee under Title VII, because the agency would be acting more like a subcontractor than a referral service. The Commission's Policy Guidance on "Integrated Enterprises and Joint Employers," EEOC Compl. Man., Vol. II, § 605, Appendix G, is relevant to this issue and analyzes hypothetical situations in which the company receiving the service argues that it is not an employer of the employee sent to it by the referring company. It is often appropriate to charge an agency both as an employment agency and as an employer since it may not be clear at the time of the filing of the charge whether the agency qualifies as one or both.
+II.
+Procedures Used to Uncover Employment Agency Discrimination
+Charges against employment agencies may be filed on precisely the same bases as charges against employers.
+See
+EEOC Compl. Man., Vol. II, § 631.4, for a full discussion of applicable theories of employment agency discrimination and
+id
+., § 631.8, for general guidance on how to investigate.
+In early cases against employment agencies, some types of discrimination, such as sex discrimination, were blatant and openly documented.
+[8]
+For example, in
+Barnes
+, 8 EPD ¶ 9772, the employment agency maintained separate male and female desks for interviews, listed positions in newspapers under "male" or "female" columns and told the plaintiff, who was qualified as a "chemist trainee," that she would not be referred for the position, despite her qualifications, because the employer preferred a male. Similarly, in
+Ruhe
+, 9 EPD ¶ 9984, a class action suit was brought in the name of all women who were, had been, and would be seeking employment through the defendant agency and/or newspaper which blatantly listed job openings in "male" and "female" columns. The named plaintiff charged that she had called in response to an advertisement for a job opening and had been told that the position was for "males only."
+Id
+. at n.5.
+See also
+Commission Decision No. 75-004, CCH EEOC Decisions (1983) ¶ 6468 ("office type position" advertised under "female help wanted" violated Title VII).
+Some employment agency violations are still blatant and documented, but in a way that is not readily apparent to the public. For example, an employment agency may classify job applicants by race, sex or another prohibited basis (
+see
+EEOC Compl. Man., Vol. II, § 631.4(e)). Similarly, a job order (job listing given to an agency by an employer) may contain a notation indicating that an employer will not consider or would prefer not to have a member of a protected group (
+see
+EEOC Compl. Man., Vol. II, § 631.4(f)).
+[9]
+Such notations may be coded so that they are not readily apparent even when looking at the document or computer program.
+[10]
+Any documentation of such notations is "smoking gun" evidence, and investigators must be alert for any indication that it might be destroyed.
+See
+below at Section II B.
+The Commission may learn of discriminatory activities of employment agencies in several ways, not all of which will lead to immediate charge filing. The intake officer or other staff person who receives the information should evaluate whether and what kind of a charge may be warranted and which other offices or divisions, such as systemic processing, may be able to use the information. In addition, investigators should consider taking steps to investigate any employers identified by employment agencies as entities that have requested or received discriminatory referral services, and should consider recommending Commissioner charges as necessary.
+A.
+Applicants or Potential Applicants
+First, an applicant or potential applicant may seek to file a charge alleging discriminatory referrals. When discrimination in referrals is alleged and there is no evidence of a policy or practice or other direct evidence of discriminatory referrals, the investigator must determine whether there were job referrals available for which the charging party was qualified. In such cases, a mere failure to refer, without evidence of qualifications and availability, is not generally enough to make out a
+prima facie
+case.
+Vick v. Texas Employment Comm'n
+, 514 F.2d at 737.
+Commonly, an applicant for employment may believe that (s)he is qualified for a certain position which (s)he has reason to believe is available through the agency but is not considered or referred for this job. The applicant may be aware of similarly qualified -- or less qualified -- persons in a different class (race, color, sex
+,
+religion, or national origin) who were referred for such jobs by the agency.
+When an applicant is summarily rejected for consideration for a position without an examination of his/her credentials, this may indicate an impermissible discriminatory purpose. In
+Ostroff v. Employment Exchange, Inc.
+, 683 F.2d 302, 29 EPD ¶ 32,966 (9th Cir. 1982), a female applicant called an agency in response to its advertisement for a position, and, without an inquiry as to her qualifications, was curtly told that the position had been filled. Later that day, her husband inquired about the same position and was invited to apply. The court held that the plaintiff was not considered for the position because of her sex. In short, where an employment agency rejects an applicant without considering his/her qualifications, those qualifications are irrelevant to the determination of discrimination.
+[11]
+B.
+Employees of Employment Agencies
+Employees of an employment agency may be able to provide information that the agency is engaging in discriminatory classifications or referrals. Generally, such employees will be important witnesses. However, if such employees allege personal injury resulting from the discrimination, they may under some circumstances be "persons aggrieved" and may be able to file charges under Title VII on their own behalf.
+[12]
+For example, a placement counselor
+[13]
+who refuses to discriminate or comes forward with evidence of discrimination and is penalized by an employment agency for such action may bring an action against the agency for retaliation.
+[14]
+Additionally, employees who are forced to implement the agency's discriminatory policies would appear to have standing to file a charge challenging those policies.
+[15]
+Finally, because "an employee's legitimate interest in the terms and conditions of his employment comprehends his right to work in an atmosphere free of unlawful employment practices and their consequences," Commission Decision No. 70-09, CCH EEOC Decisions (1973) ¶ 6026, employees of an employment agency may be able to file charges if the discrimination is sufficiently pervasive to create a hostile working environment.
+[16]
+Even if they have standing to file charges, employees (or former employees) of employment agencies who report discriminatory practices may be reluctant to have their identities revealed to their present or former employers for fear of losing their jobs, being subject to negative references for future employment, or losing clients. As previously noted, such employees are protected from retaliation for their opposition to unlawful employment practices or participation in EEOC processes. If such employees are, nonetheless, reluctant to have their identities revealed, they can provide a confidential witness statement. The information provided may then help to identify other witnesses or serve as evidence.
+In addition, whether employees of discriminating employment agencies choose to file charges on their own behalf or not, the information such employees can provide and/or recall may be more concretethan any evidence which could be obtained through other means and may be a basis for a Commissioner's charge. The information should, therefore, be given to the systemic unit. In addition, the documentation that these employees may be able to provide is critical and should be obtained expeditiously. As noted above, the evidence is probably not limited to hard copy (or paper) but may also be available on computer equipment.
+[17]
+If there is any evidence that an employment agency is destroying or planning to destroy such evidence, the Commission should immediately move for a temporary restraining order.
+C.
+Testers
+The procedure for gathering evidence of employment discrimination used by the plaintiff and her husband in
+Ostroff
+(discussed above at p. 5) was, in a sense, an informal form of "testing." Testing is a procedure that can be used to determine whether applicants are being referred on a discriminatory basis. As explained in EEOC's recent "Testers" policy guidance
+[18]
+, anyone who has been rejected for a job, or a referral, for allegedly discriminatory reasons will be considered a "person aggrieved" and can file a charge, whether or not (s)he was acting as a tester. In a scenario like that in
+Ostroff
+, the wife would be a "person aggrieved" from whom a charge should be accepted; the husband would be a witness.
+D.
+Employers
+Evidence of employment agency discrimination may also arise if an employer informs the EEOC that, for example, an employment agency that it contacted had inquired whether the employer had preferences based on race, religion, national origin, or sex. Employers can provide invaluable information which should be communicated to the appropriate unit or office.
+E.
+Routine Inquiries
+Employment agency discrimination may also be uncovered by routinely asking charging parties who are filing charges against employers or unions whether they obtained or sought positions through any employment agencies. The investigator should gather as much information as possible about the screening and referral practices of such agencies (see EEOC Compl. Man., Vol. II, § 631.8 for specific questions to ask charging parties with respect to employment agency charges). Note, however, that the referring employment agency is not liable for unlawful discrimination committed by an employer or a union where the agency meets its own obligations under Title VII and does nothing to aid in the employer's discrimination.
+Kaplowitz v. University of Chicago
+, 387 F. Supp. 42, 49, 8 EPD ¶ 9762 (ND. Ill. 1974).
+III.
+Remedies
+Title VII does not distinguish between the remedies available against employers and employment agencies for violations of the Act:
+the court may enjoin the respondent from engaging in [an] unlawful employment practice, and order such affirmative action as may be appropriate, which may include, but is not limited to, reinstatement or hiring of employees, with or without back pay (payable by the employer,
+employment agency,
+or labor organization, as the case may be, responsible for the unlawful employment practice), or any other equitable relief as the court deems appropriate.... Interim earnings or amounts earnable with reasonable diligence by the person or persons discriminated against shall operate to reduce the back pay otherwise allowable....
+Section 706(g), 42 U.S.C. § 2000e-5(g) (emphasis added).  Based on Section 706(g), in charges brought against employment agencies the Commission will use all of the available remedies listed above as such remedies are applicable in a particular charge.
+See
+Barnes
+, 8 EPD ¶ 9772 (discussed above at p. 5). Where, for example, a charging party challenges an employment agency's failure to refer him/her to a single job for which there was a specified salary, the Commission will use the salary for that position as a benchmark for calculation of the charging party's entitlement to back pay.
+[19]
+Where a charging party alleges that an employment agency has discriminatorily failed to refer him/her for several available positions, it may be appropriate to average the salaries involved or to examine salaries paid for comparable positions in the relevant industry.
+Cf
+.
+Barnes
+, 8 EPD ¶ 9772 (calculating amount plaintiff could have been expected to earn had she been nondiscriminatorily referred by examining salary of the position for which she applied and comparing it to the salary range for that type of position in general; plaintiff's back pay award ultimately based on the difference between amount she could have earned absent the discrimination and amount she actually earned).
+[20]
+Although the above section is intended to set forth general guidelines governing the award of back pay against employment agencies, the calculation of back pay in each particular charge will depend on the facts of that charge. Thus, an individual's entitlement to back pay will depend partially on evidence of his/her date of application, availability throughout the alleged violation period, and dates of referral, if any.
+In addition to monetary damages, suitable non-monetary remedies should be considered, such as priority referral, active recruitment of members of the injured class, or other appropriate affirmative action. Imposition of specific reporting requirements should also be contemplated. Once discrimination against a class is proved, the burden shifts to the respondent to show that an individual class member is not entitled to relief.
+Franks v. Bowman Transportation Co.
+, 424 U.S. 747, 772-73, 11 EPD ¶ 10,777 (1976).
+In some cases, injunctive relief and attorney's fees may be the only relief warranted. Where an employment agency refuses to refer an applicant for unlawful discriminatory reasons, but it subsequently becomes clear that the applicant was not qualified for the position and would not have been hired had the agency made the referral, injunctive relief is the only remedy that can be ordered since no wages have been lost.
+Cf
+.
+Ostroff v. Employment Exchange, Inc.
+, 683 F.2d 302.
+[21]
+IV.
+Conclusion
+Title VII covers employment agencies, as well as employers, and prohibits discrimination on the basis of race, color, sex, religion, or national origin. An entity that may not generally be considered an employment agency may be one for purposes of Title VII when it procures employment for employees. Such entities may include government agencies, schools that operate placement offices, professional or employee organizations, individuals who aid other persons in job searches through advice and referrals, and, in limited circumstances, even newspapers.
+Employment agency discrimination may be uncovered in many of the same ways that employer discrimination is uncovered. Typically, a charging party suspects that (s)he has been discriminated against based on the agency's treatment of him/her and files a charge. Evidence of employment agency discrimination may also be discovered when persons presently or formerly employed by agencies come forward and report the unlawful conduct. Finally, the use of testers, who pose as applicants for positions with other employers or as applicants for positions with the agency itself, is an effective tool for gathering evidence of discrimination. These sources of information may also enable investigators to uncover evidence of discrimination by employers in requesting or receiving discriminatory referrals.
+The remedies available for employment agency discrimination are the same as those that can be granted against an employer. Such remedies include injunctive relief, back pay, attorney's fees, and such affirmative relief as is deemed proper to achieve the purposes of the statute under the circumstances.
+9-20-1991
+____________________________                                    Approved: _____________________
+Date                                                                                                       Evan J. Kemp, Jr.
+[1]
+A jurisdictional question may arise about entities that claim not to be dealing with employers as defined in Title VII. The statutory definition of "employment agency" requires that such an agency regularly procure employees for "an employer" (or regularly procure for employees employment opportunities with "an employer") to be subject to the requirements of Title VII.
+See
+Section 701(c), 42 U.S.C. § 2000e(c). In interpreting this language, the Commission has determined that an employment agency that regularly procures employees for at least one employer, as defined by Section 701(b) of Title VII, 42 U.S.C. § 2000e(b), will be covered with respect to
+all
+of its activities, including those for employers who are not themselves covered by the Act. "Title VII Coverage Where Employment Agency . . . Deals with Uncovered Employer," EEOC Compl. Man., Vol. II, § 605, Appendix N;
+cf
+. 29 C.F.R. § 1625.3(a) (1990) (interpreting § 11(c) of the ADEA, which is identical to § 701(c) in all pertinent respects, to provide that "[a]s long as an employment agency regularly procures employees for at least one covered employer, it qualifies ... as an employment agency with respect to all of its activities whether or not such activities are for employers covered by the act");
+Brennan v. Aldert Root
+, 8 EPD ¶ 9531 (E.D.N.C. 1974) (endorsing this principle under the ADEA);
+Shrock v. Altru Nurses Registry
+, 810 F.2d 658, 42 EPD ¶ 36,758 (7th Cir. 1987) (agency that referred nurses
+only
+to patients and doctors on behalf of patients not an employment agency because neither patients nor doctors were Title VII employers). As long as it regularly deals with a single Title VII employer, therefore, an employment agency will be subject to Title VII jurisdiction even with respect to positions filled for employers with fewer than fifteen employees or for employers who are found not to be engaged in commerce.
+[2]
+See
+EEOC Compl. Man., Vol. II, § 631.3 and cases cited therein;
+accord Pegues v. Mississippi State Employment Serv.
+, 699 F.2d 760, 31 EPD ¶ 33,440 (5th Cir.),
+cert. denied
+, 464 U.S. 991, 32 EPD ¶ 33,926 (1983);
+Shipp v. Tennessee Dep't of Employment Security
+, 581 F.2d 1167, 17 EPD ¶ 8520 (6th Cir. 1978),
+cert. denied,
+440 U.S. 980, 19 EPD ¶ 9059 (1979);
+Thorn v. Richardson
+, 4 EPD ¶ 7630 (W.D. Wash. 1971);
+Mickel v. Employment Security Comm'n
+, 3 EPD ¶ 8062 (D.S.C. 1970).
+[3]
+See
+EEOC Compl. Man., Vol. II, § 631.2(b)(2) and cases cited therein;
+see also
+Commission Decision No. 84-2, CCH Empl. Prac. Guide ¶ 6840.
+[4]
+See
+EEOC Compl. Man., Vol. II, § 631.2(b)(4) and case cited therein.
+See also Jones v. Local 3, Int'l Union of Operating Engineers
+, 13 EPD ¶ 11,489 (N.D. Cal. 1976) (suggesting that if the defendant contractors' association were found to be substantially involved in the hiring of contractors through making recommendations and providing employers with a list of qualified minority workers, the association would be subject to Title VII as an employment agency);
+but see
+Bonomo v. Nat'l Duckpin Bowling Congress
+, 469 F. Supp. 467, 20 EPD ¶ 30,044 (D.C. Md. 1979) (professional sports' congress that accredits and appoints tournament and tour directors does not become an employment agency because of this limited activity).
+[5]
+See
+Morrow v. Mississippi Publishers Corp.
+, 5 EPD ¶ 8415 (S.D. Miss. 1972) (newspaper may qualify as an employment agency if it has taken an active part in classifying the jobs advertised in its help wanted columns as "male" or "female'); EEOC Compl. Man., Vol. II, § 63l.2(b)(1).
+Cf
+.
+Ruhe v. Philadelphia Inquirer
+, 9 EPD ¶ 9984 nn.2, 3 (E.D. Pa. 1975) (Title VII claim not asserted against newspaper, but only against agency that placed advertisements, since Title VII does not cover newspapers; however, plaintiffs did assert a claim against the newspaper under 42 U.S.C. § 1985(3), alleging a conspiracy to deprive persons of their civil rights);
+Greenfield v. Field Enterprises, Inc.
+, 4 FEP Cases 548 (S.D. Miss. 1972) (newspaper not an employment agency);
+Brush v. San Francisco Newspaper Printing Co.
+, 315 F. Supp. 577, 2 EPD ¶ 10,249 (N.D. Cal. 1970) (a newspaper's activity in placing advertisements as requested does not bring newspapers within the definition of employment agencies),
+aff'd per curiam
+, 469 F.2d 89, 5 EPD ¶ 7981 (9th Cir. 1972),
+cert. denied
+, 410 U.S. 943, 5 EPO ¶ 8463 (1973).
+[6]
+See
+EEOC Compl. Man., Vol. II, § 631.2(b)(3) and case cited therein.
+[7]
+See
+Vick v. Texas Employment Comm'n
+, 514 F.2d 734, 736-37, 9 EPD ¶ 10,203 (5th Cir. 1975) (state employment referral services provided by agency were covered by Title VII, but the administration of unemployment benefits was not);
+NOW v.Waterfront Comm'n
+, 468 F. Supp 317, 19 EPD ¶ 9253 (S.D.N.Y. 1979) (division of a state licensing agency that merely licenses and registers persons in a profession but does not "undertake to obtain workers for employers or jobs for workers" is not an employment agency within the meaning of Title VII);
+Tyler v. Vickery
+, 517 F.2d 1089, 1096, 10 EPD ¶ 10,388 (5th Cir. 1975) (state board of bar examiners not an employment agency),
+cert. denied
+, 426 U.S. 940, 12 EPD ¶ 10,977 (1976);
+Delgado v. McTighe
+, 442 F. Supp. 725, 729-30 (E.D. Pa. 1977) (bar examiners do not qualify as an employment agency).
+[8]
+The following discussion focuses on disparate treatment of applicants. However, an employment agency, like an employer, may also be liable for discrimination where it employs a neutral hiring criterion which has a disparate (or adverse) impact on a protected group (
+see
+EEOC Compl. Man., Vol. II, §631.4(b)).
+[9]
+Classifying applicants on a prohibited basis is a
+per se
+violation of § 703(b) and if the evidence shows such discriminatory classification, a cause finding should issue unless sex, religion, or national origin is a bone tide occupational qualification ('BFOQ") justifying the classification. Similarly, if there is evidence of a policy or practice of discriminatory referrals for which there is no BFOQ, a violation would be found. However, the employment agency in such a case could avoid liability as to a specific individual if the agency proves that it would have taken the same action with regard to that person even absent the discrimination.
+Price Waterhouse v. Hopkins,
+109 S. Ct. 1775, 49 EPO ¶ 38,936 (1989). In such cases, investigators should expand the scope of their investigations to identify persons who are qualified but who were not referred for discriminatory reasons.
+See
+note 21,
+infra.
+[10]
+Note, too, that some computer programs may be written so that the codes appear on the computer screen but not on the printed documents.
+[11]
+This type of situation is distinguished from a "mixed motive" case, in which the plaintiff is. denied an employment opportunity based on both permissible and impermissible criteria,
+i.e.,
+because of both discrimination and lack of qualifications. "Mixed motive" cases would be controlled by
+Price Waterhouse,
+109 S. Ct. 1775, and the employer could avoid liability by showing that it would have taken the same action even absent the prohibited discrimination.
+[12]
+Employees of employment agencies that discriminate may also be able to file charges "on behalf of" aggrieved persons.
+See
+29 C.F.R. § 1601.7 (1990).
+[13]
+Placement counselors are persons who work for or act as employment agencies and may also be referred to as "placement consultants" or informally as "headhunters."
+[14]
+EEOC Compl. Man., Vol. II, § 614; Commission Decision No. 71-1598, CCH EEOC Decisions (1973) ¶ 6271.
+[15]
+See
+Commission Decision No. 71-1598, CCH EEOC Decisions (1973) ¶ 6271 (because "employees of employment agencies are under a legal duty not to engage in unlawful acts... [they] have a substantial interest in terminating and remedying those unlawful discriminatory practices of their employers in which they were directly involved.., [or] are likely to become involved");
+cf
+Rogers v. EEOC
+, 454 F.2d 234, 241-43, 4 EPD ¶ 7597 (5th Cir. 1971) (Godbold, J., concurring) (upholding Commission investigation where charging party's charge construed to allege that Hispanic employee of medical services provider was forced to deal only with patients of a particular national origin),
+cert. denied
+, 406 U.S. 957, 4 EPD ¶ 7838 (1972).
+[16]
+See
+,
+e.g.
+,
+Rogers v. EEOC
+, 454 F.2d at 236-39 (Goldberg, J.) (holding that employer's discriminatory treatment of medical patients could be found to create hostile work environment for plaintiff employee); Policy Guidance on Employer Liability Under Title VII for Sexual Favoritism, No. N-915-048 (Jan. 1990) at 5-6 (if supervisors regularly make racial, ethnic, or sexual jokes, co-workers of any race, national origin, or sex can claim that conduct communicates a bias against protected class members and creates a hostile work environment);
+Commission Decision No. 71-969, CCH EEOC Decisions (1973) ¶ 6193 (supervisor's habitual use of racial epithet in referring to Black employees created discriminatory work environment for White charging party).
+[17]
+Any questions regarding retrieval of this type of information from computers should be directed to the Office of Program Operations.
+[18]
+Policy Guidance on "Whether 'testers' have standing to file charges of employment discrimination against employers, employment agencies, and/or labor organizations which have discriminated against them because of their race, color, religion, sex, or national origin," No. N-915-062, dated 11/20/90.
+[19]
+Because an employment agency merely refers candidates for jobs and cannot guarantee that such candidates -- even if qualified -- will actually be hired, back pay calculations in a charge against an employment agency are necessarily more speculative than in a typical failure to hire case. In general, the discriminating employment agency should bear the risk of the uncertainty created by its actions. Nonetheless, some flexibility may be appropriate in conciliating employment agency claims.
+It should be noted that in cases in which a charging party is in fact qualified for the position for which (s)he was not referred, back pay is not available as a remedy.
+See
+p. 12,
+infra
+.
+[20]
+Where a class has filed a charge against an employment agency, the calculation of back pay may be more complex. In
+Pegues v. Mississippi State Employment Service,
+899 F.2d 1449 (5th Cir. 1990), for example, back pay was computed based on a stipulation by the parties that class members were denied a certain percentage of referrals and that that percentage represented loss of a percentage of the economic value of the job orders. The stipulation provided that the economic benefit of a job order was the number of hours worked per week, multiplied by the hourly rate of pay, multiplied by the number of vacancies specified in the job order, multiplied by the number of weeks worked in each year until the end of the period of the violation. The economic benefit of each job order was further reduced by an attrition rate designed to account for the amount of time the applicants would have continued to be employed if they had been referred, and was multiplied by the percentage representing a nondiscriminatory rate of referral for the job in question; the defendants were given credit for any Blacks whom they had referred for these positions. (No women were referred.)
+Id
+. at 1454-55.
+[21]
+In contrast, if the employment agency refused to refer the charging party for both lawful and unlawful motives and is able to show that it would not have referred the plaintiff even absent the unlawful discrimination, it can avoid any liability to that charging party.
+See
+notes 9 and 11,
+supra
+.
+However, the investigation of a charge filed by an applicant who was denied referral on a prohibited basis, but was not qualified for a position sought, might lead to the identification of persons who were qualified for available positions but were not referred on a prohibited basis.
+General Telephone of the Northwest, Inc. v. EEOC
+,446 U.S. 318, 331, 22 EPD ¶ 30,861 (1980);
+Sanchez v. Standard Brands, Inc.
+, 431 F.2d 455, 465-467 (5th Cir. 1970) (investigation and resulting judicial complaint can encompass discrimination which is like or related to the allegations made in a charge). If there is evidence of a policy or practice of discriminatory referrals, the district office could also consider recommending a Commissioner's charge.
+Return to top
+U.S. Equal Employment Opportunity Commission
+EEOC Headquarters
+131 M Street, NE
+Washington, DC 20507
+1-800-669-6820
+(TTY)
+1-844-234-5122
+(ASL Video Phone)
+Questions?
+Call 1-800-669-4000
+For Deaf/Hard of Hearing callers:
+1-800-669-6820
+(TTY)
+1-844-234-5122
+(ASL Video Phone)
+info@eeoc.gov
+Find your nearest EEOC office
+Connect With Us
+FOIA
+Privacy Policy
+Disclaimer
+Accessibility
+Office of Inspector General
+USA.gov

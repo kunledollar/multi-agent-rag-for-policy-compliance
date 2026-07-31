@@ -1,0 +1,293 @@
+Policy Guidance: Analysis of the Sec 4(f)(1) "foreign laws" defense under the ADEA | U.S. Equal Employment Opportunity Commission
+Skip to main content
+An official website of the United States government
+Here’s how you know
+Here’s how you know
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive
+information only on official, secure websites.
+U.S. Equal Employment Opportunity Commission
+Menu
+Header Navigation
+Online Filing
+Public Portal
+Attorney E-file
+Locations
+Operating Status
+Languages
+English
+Español (Spanish)
+Resources in Other Languages
+عربي (Arabic)
+简体中文 (Chinese, Simplified)
+繁體中文 - Chinese (Traditional)
+Kreyòl Ayisyen (Haitian Creole)
+한국어 (Korean)
+Русском (Russian)
+Português (Portuguese)
+Tagalog (Tagalog)
+ไทย (Thai)
+Tiếng Việt (Vietnamese)
+فارسی (Persian. Farsi)
+پښتو (Pashto)
+Toggle Search Form
+Any of these words
+(optional)
+Search
+About EEOC
+About EEOC
+Overview
+The Commission and The General Counsel
+Meetings of the Commission
+Commission Votes
+EEOC History
+News and Information
+Newsroom
+What You Should Know
+Legislative Affairs
+Publications
+Outreach and Education
+FOIA
+Laws and Enforcement
+EEOC Legal Resources
+Mediation
+Litigation
+Systemic Enforcement
+Commissioner Charges
+Directed Investigations
+Programs and Performance
+Budget and Performance
+Initiatives
+Interagency Programs
+State and Local Programs
+Task Forces
+Tribal Programs
+Data and Analytics
+Overview
+Data Governance
+EEO Data Collections
+Data and Statistics
+Data Tools and Products
+No FEAR Act Data
+Inside EEOC
+Careers
+Office for Civil Rights
+Doing Business with EEOC
+AI Governance
+Privacy
+Office of Inspector General
+Employees & Job Applicants
+Employees & Applicants
+Overview
+Coverage
+Timeliness
+Prohibited Practices
+Filing a Charge of Discrimination
+Filing a Charge
+How to File
+After You File a Charge
+Confidentiality
+Mediation
+Remedies
+Existing Charges
+Filing a Lawsuit
+Discrimination by Type
+Age
+Disability
+Equal Pay
+Genetic Information
+Harassment
+National Origin Discrimination
+Pregnancy Discrimination
+Race/Color Discrimination
+Religious Discrimination
+Retaliation
+Sex
+Sexual Harassment
+Employers / Small Business
+Employers / Small Business
+Overview
+Coverage
+After a Charge is Filed
+Resolving a Charge
+Commissioner Charges
+Directed Investigations
+Remedies
+Small Business Resource Center
+Small Business Home
+Small Business Requirements
+Frequently Asked Questions
+Tips for Small Businesses
+Making an Employment Decision?
+EEOC Resources
+Small Business Assistance
+Small Business Fact Sheet
+Small Business Videos
+EEOC Glossary
+Contact Us
+Discrimination by Type
+Age
+Disability
+Equal Pay
+Genetic Information
+Harassment
+National Origin
+Pregnancy
+Race/Color
+Religion
+Retaliation
+Sex
+Sexual Harassment
+Prohibited Practices
+Recordkeeping
+EEO Data Collections
+"Know Your Rights" Poster
+Training
+Other Employment Issues
+Federal Sector
+Federal Agencies
+Overview
+Federal EEO Coordination
+Federal Agency EEO Directors
+EEOC Legal Resources
+Management Directives & Federal Sector Guidance
+Federal Training & Outreach
+Resources
+Federal Employees & Job Applicants
+Overview
+Federal Complaint Process
+Federal Sector Alternative Dispute Resolution
+Prohibited Practices
+Resources
+Contact Us
+Contact EEOC
+Find Your Nearest Office
+Office Operating Status
+How to File a Charge
+Public Portal
+Home
+Laws
+guidance
+Policy Guidance: Analysis of the Sec 4(f)(1) "foreign laws" defense under the ADEA
+Policy Guidance:  Analysis of the Sec 4(f)(1) "foreign laws" defense under the ADEA
+Issuing Authority
+This guidance document was issued upon approval by vote of the U.S. Equal Employment Opportunity Commission.
+OLC Control Number
+EEOC-CVG-1990-4
+Concise Display Name
+Policy Guidance:  Analysis of the Sec 4(f)(1) "foreign laws" defense under the ADEA
+Issue Date
+12-05-1989
+General Topics
+Threshold Issues, Age
+Summary
+This document addresses an employer's burden in establishing a section 4(f)(1) "foreign laws" defense under the ADEA.
+Citation
+ADEA, 29 CFR Part 1626
+Document Applicant
+Employers, Employees, Applicants, Attorneys and Practitioners, EEOC Staff
+Previous Revision
+No
+Disclaimer
+The contents of this document do not have the force and effect of law and are not meant to bind the public in any way. This document is intended only to provide clarity to the public regarding existing requirements under the law or agency policies.
+N-915.046
+12/5/89
+SUBJECT: Policy Guidance: Analysis of the sec. 4(f)(1) "foreign laws" defense of the Age Discrimination in Employment Act of 1967.
+PURPOSE: This paper provides guidance regarding an employer's burden in establishing a sec. 4(f)(1) "foreign laws" defense under the ADEA.
+EFFECTIVE DATE: Upon receipt.
+EXPIRATION DATE: As an exception to EEOC Order 205.001, Appendix B, Attachment 4, § a(5), this Notice will remain in effect until rescinded or superseded.
+ORIGINATOR: ADEA Division, Office of Legal Counsel.
+INSTRUCTIONS: File behind § 801 of Volume II of the Compliance Manual.
+SUBJECT MATTER:
+A. Statutory Language
+Section 4(f)(1) of the Age Discrimination in Employment Act of 1967 (ADEA) provides, in pertinent part, that,
+It shall not be unlawful for an employer, employment agency, or labor organization -- . . . to take any action otherwise prohibited . . . where such practices involve an employee in a workplace in a foreign country, and compliance with such subsections would cause such employer, or a corporation controlled by such employer, to violate the laws of the country in which such workplace is located.
+As the above section indicates, an employer must satisfy three "elements" in establishing a sec. 4(f)(1) "foreign laws" defense - - - (1) the practices involve an employee in a workplace in a foreign country, where (2) compliance with the ADEA would cause the employer or a corporation controlled by such employer to violate the laws of the foreign country, (3) in which the workplace is located. When the defense is successfully raised, it acts as a shield against ADEA liability.
+B. Historical Background
+The ADEA, as originally enacted, incorporated by reference sec. 213(f) of the Fair Labor Standards Act of 1938 (FLSA). Section 213(f) stated that the FLSA "shall not apply with respect to any employee whose services during the workweek are performed within a foreign country." Several courts thus held that the plain terms of the ADEA restricted its reach to workplaces within the territorial limits of the United States.
+(1)
+Congress became concerned that the limited application of the ADEA, pursuant to sec. 213(f) of the FLSA, potentially left many older employees without protection against age discrimination. Congress also noted that an opportunity existed for domestic employers with operations in the United States and in a foreign country to circumvent the ADEA through the transfer of older employees to an overseas operation where mandatory retirement could be enforced with impunity.
+(2)
+In response to these concerns, Congress expanded the definition of "employee" in section 11(f) of the ADEA to include "[A]ny individual who is a citizen of the United States employed by an employer in a workplace in a foreign country."
+(3)
+Congress, however, recognizing a potential conflict between the ADEA and the laws of other countries, specifically excluded application of the ADEA where compliance with the Act would cause an employer to "violate the laws of the country in which such workplace is located."
+(4)
+C. Analysis of the Defense
+1. Employee in a Foreign Workplace
+The first element to be satisfied in establishing a section 4(f)(1) "foreign laws" defense is a requirement that the alleged age-bias practices "involve an employee in a workplace in a foreign country." If the alleged age-bias practice involves an employee in a workplace in any of the fifty States, the District of Columbia, Puerto Rico, the Virgin Islands, American Samoa, Guam, Wake Island, the Canal Zone or the Outer Continental Shelf Lands as defined in the Outer Continental Shelf Lands Act,
+(5)
+the foreign laws defense is unavailable to an employer.
+Example 1 - CP is a 60-year-old United States citizen working in the Puerto Rican bureau for R, a newspaper which is a subsidiary of an American business enterprise. Assume for purposes of this example that under the laws of the Commonwealth of Puerto Rico, an employer must retire an employee at the age of 60. R informs CP of its intent to involuntarily retire CP under Puerto Rican law. CP then files a charge of age discrimination with the Commission. R responds to CP's charge by asserting a sec. 4(f)(1) "foreign laws" defense. A sec. 4(f)(1) "foreign laws" defense would not be available to R in this instance since Puerto Rico is not a foreign country. Thus, the provisions of the ADEA would extend to the Commonwealth of Puerto Rico and as such pre-empt the hypothetical local law.
+2. Violate the Laws of the Foreign Country
+A critical element of a successful sec. 4(f)(1) "foreign laws" defense is proof by the United States employer, or a corporation controlled by such employer, that compliance with the ADEA would "cause" it "to violate the laws" of the foreign country. The ADEA, as well as the legislative history interpreting the Act, is silent as to what constitutes a "law" for purposes of setting forth a sec. 4(f)(1) defense. This silence reflects, in part, a recognition of the difficulty in formulating such a comprehensive definition. As one court has noted, "[T]here is no word in the language which, in its popular and technical application, takes a wider or more diversified signification."
+(6)
+A "law," however, clearly does not include a corporation/business's rules, regulations or policies of employment.
+Example 2 - CP is a 64-year-old United States citizen working in the country of Xenon for R, a United States business concern. At the annual stockholders meeting, an amendment to the corporate charter is adopted whereby the corporation must reduce any employee's salary by 25% upon their reaching the age of 65. The Xenon Civil Code provides that all corporate charters and amendments to corporate charters must be registered with the Department of Commerce. Two weeks later R notifies CP of its intent to reduce CP's salary upon CP's reaching the age of 65. CP then files a charge of age discrimination with the Commission. In response to CP's charge, R asserts a sec. 4(f)(1) "foreign laws" defense as CP's continued employment at non-reduced wage would violate its government registered company charter.
+R's defense would fail in this instance as the provisions of R's government registered company charter do not rise to the level of a foreign law under sec. 4(f)(1).
+Example 3 - Assume for purposes of this example that the Republic of Argon's Constitution provides that only a bill which passes both houses of the legislature shall have the force and effect of law within the boundaries of the country. Due to overwhelming public support by voters in Argon, a measure, introduced and passed in the lower house of government, requires an employer to retire employees at the age of 55. CP is a 57-year-old United States citizen working in Argon for R, an American corporation. R notifies CP of its decision to retire CP immediately. CP then files a charge of age discrimination with the Commission. Two weeks later the upper house of government passes the mandatory retirement bill. R responds to CP's charge by asserting a sec. 4(f)(1) "foreign laws" defense grounded in the recently adopted mandatory retirement law.
+A sec. 4(f)(1) defense would not be available to R under these circumstances as no mandatory retirement law existed at the time of R's decision to terminate CP, i.e., only one house had approved the measure. Of course, since the bill later became law, it could well have a limiting effect on the available relief, e.g., reinstatement would not be feasible. This scenario could also give rise to a possible conflict of laws or foreign policy question. If such a situation arises contact the Guidance Division as it will then coordinate with the Department of State for an appropriate review of the matter (see discussion at p. 5-6).
+A second aspect of this element of the defense also requires an evaluation regarding whether compliance with the ADEA would "cause" an employer to violate a foreign law. Analysis of this issue focuses on the nature and substance of the foreign law asserted in support of the defense (i.e., does the ADEA mandate an action inconsistent with the foreign law or is such action merely discretionary).
+Example 4 - Assume for purposes of this example that a Thorium law requires employers to pay an annual fee of $50 for every active employee age 65 or above. This fee is used to fund Thorium's program to provide workers' compensation benefits. While the program is available to all employees in the country, Thorium has determined that the greater frequency and amount of benefits paid to persons 65 and older justifies the assessment. R, a United States employer operating in Thorium, employs 50 U.S. citizens, 10 of whom are 65 or above. On the last pay period of the year, in addition to normal deductions, R subtracts $50 from the paycheck of each person 65 or above. In responding to charges of age discrimination filed by the 10 older workers, R asserts that compliance with the ADEA (not deducting additional money from the wages of older workers) would cause it to violate a law of Thorium.
+R's foreign law defense would fail in this hypothetical situation because treating employees of all ages equally with respect to their compensation as required by the ADEA would not "cause" a violation of Thorium law. The law in question does not require that individual employees 65 and above be assessed the fee. Indeed, the Thorium law is entirely silent with respect to the source of the levy. R had the option of paying the $500 itself or pro rating the amount deducted among all of its employees. Since either course of action would have satisfied the requirements of the ADEA without causing R to violate Thorium law, R's sec. 4(f)(1) defense would fail.
+Given the imprecise nature of this element of the defense, the Guidance Division should be contacted whenever a question concerning a "law" arises. It should be noted that the Commission's ability to process a case against a particular employer in a foreign country may also involve conflict of laws or foreign policy considerations which could limit the Commission's exercise of apparent authority in a given instance. If a choice of law issue or a foreign policy concern is raised by a respondent, or a debate arises over what is a "law," the
+Guidance Division should be contacted and it will then coordinate with the Department of State.
+(7)
+3. Where the Workplace is Located
+The final element of a successful sec. 4(f)(1) "foreign laws" defense is proof by the employer that compliance with the ADEA would cause it to violate the laws of the country "in which such workplace is located." This element of the defense establishes that the "foreign laws" defense is available only if compliance with the ADEA would cause an employer to violate the laws of a foreign country at the situs of the workplace. An employer's headquarters or place of incorporation, therefore, would not be determinative for purposes of this element of the defense unless the charging party's workplace is also located at the headquarters or place of incorporation.
+Example 5 - CP is a 55-year-old United States citizen working in Ferrus for R, a subsidiary of a United States corporation. R is incorporated under the laws of Erbium where it is headquartered. Assume for purposes of this example that Erbium law prohibits individuals 50 years of age and older from being employed in a police, security or safety position. R posts a job opening for a "security guard" at their Ferrus complex. CP applies for the security job position and is summarily rejected due to age. CP then files a charge of age discrimination against R with the Commission. In response to CP's allegations, R asserts a sec. 4(f)(1) defense based on the aforementioned Erbium law (no effort is made by R to claim or prove a BFOQ defense).
+R's attempt at a sec. 4(f)(1) defense would fail in this instance. The "foreign laws" defense is only available if compliance with the ADEA would cause an employer to violate the laws of the foreign country in which the employee's workplace is located. R's attempt to satisfy the sec. 4(f)(1) requirements based on Erbium law (place of incorporation) rather than Ferrus law (CP's workplace) therefore would be unsuccessful.
+D. Summary
+Section 4(f)(1) of the ADEA insulates a covered employer, or an entity controlled by such employer, if its action (1) involves an employee in a workplace in a foreign country, where (2) compliance with the ADEA would cause the employer to violate the laws of the foreign country, (3) in which the workplace is located.
+When an employer invokes the "foreign laws" defense, it must first show that the alleged age-bias practices occurred against one of its employees in a foreign country. Secondly, an employer must prove that compliance with the ADEA would cause it to run afoul of a foreign law. Finally, the foreign law relied upon must be the law of the situs of the employee's workplace.
+One of the most difficult issues to resolve when assessing an employer's sec. 4(f)(1) defense may be whether the provision relied upon by an employer constitutes a "law" of a foreign country. When such an issue arises, the Guidance Division should be contacted promptly so that assistance can be sought from the Department of State.
+DATE:________________   APPROVED:  _____/s/______________________
+Clarence Thomas
+Chairman
+1.
+See Cleary v. United States Lines, 555 F. Supp. 1251 (D.N.J. 1983), aff'd, 728 F.2d 607 (3d Cir. 1984); Zahourek v. Arthur Young & Co., 567 F. Supp. 1452 (D. Col. 1983), aff'd, 750 F.2d 827 (10th Cir. 1984).
+2.
+Age Discrimination and Overseas Americans, 1983: Hearings Before the Subcomm. on Aging of the Committee on Labor and Human Resources, 98th Cong., 1st Sess. 1 (1983) (statement of Senator Grassley).
+3.
+The prohibitions of the ADEA do not apply "where the employer is a foreign person not controlled by an American employer." See 29 U.S.C. § 623(h).
+4.
+29 U.S.C. § 623(f)(1).
+5.
+See 29 U.S.C. § 630(g); see also 29 U.S.C. § 630(i).
+6.
+See Miller v. Dunn, 72 Cal. 462 (1887).
+7.
+See Commission Policy Guidance 915.039, Application of the Age Discrimination in Employment Act of 1967 (ADEA) and the Equal Pay Act of 1963 (EPA) to American firms overseas, their overseas subsidiaries, and foreign firms.
+Return to top
+U.S. Equal Employment Opportunity Commission
+EEOC Headquarters
+131 M Street, NE
+Washington, DC 20507
+1-800-669-6820
+(TTY)
+1-844-234-5122
+(ASL Video Phone)
+Questions?
+Call 1-800-669-4000
+For Deaf/Hard of Hearing callers:
+1-800-669-6820
+(TTY)
+1-844-234-5122
+(ASL Video Phone)
+info@eeoc.gov
+Find your nearest EEOC office
+Connect With Us
+FOIA
+Privacy Policy
+Disclaimer
+Accessibility
+Office of Inspector General
+USA.gov
