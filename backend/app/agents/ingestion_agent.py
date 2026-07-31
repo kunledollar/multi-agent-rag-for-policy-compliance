@@ -99,16 +99,29 @@ class IngestionAgent:
     def load_documents(self) -> List[Dict]:
         records: List[Dict] = []
 
-        for file in DATA_DIR.iterdir():
-            if file.suffix.lower() not in SUPPORTED_EXT:
-                continue
+        # Raw documents are grouped into source/domain subdirectories.  Walk the
+        # whole tree so adding that organization does not make documents
+        # invisible to ingestion. Sorting keeps chunk/embedding order stable.
+        files = sorted(
+            (
+                path
+                for path in DATA_DIR.rglob("*")
+                if path.is_file() and path.suffix.lower() in SUPPORTED_EXT
+            ),
+            key=lambda path: path.as_posix(),
+        )
+
+        for file in files:
+            # Preserve the path below data/raw. Basenames are not unique across
+            # nested sources, and the relative path is needed for traceability.
+            source = file.relative_to(DATA_DIR).as_posix()
 
             if file.suffix.lower() == ".pdf":
                 for page, text in enumerate(self._read_pdf(file), start=1):
                     for i, chunk in enumerate(self._chunk(text)):
                         records.append({
                             "id": self._hash(f"{file}-{page}-{i}-{chunk}"),
-                            "source": file.name,
+                            "source": source,
                             "page": page,
                             "text": chunk,
                         })
@@ -121,7 +134,7 @@ class IngestionAgent:
                 for i, chunk in enumerate(self._chunk(text)):
                     records.append({
                         "id": self._hash(f"{file}-{i}-{chunk}"),
-                        "source": file.name,
+                        "source": source,
                         "page": None,
                         "text": chunk,
                     })

@@ -7,3 +7,5 @@ __pycache__/
 logs/*.log
 artifacts/**/*
 !artifacts/**/.gitkeep
+
+data/processed/governance_evaluation_dataset.xlsx
