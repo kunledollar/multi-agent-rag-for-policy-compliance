@@ -117,7 +117,7 @@ def score(run_id: str, case: BenchmarkCase, mode: ExecutionMode, output: ModeExe
         handoffs_expected=case.expected_agent_handoffs, handoffs_attempted=attempted,
         handoffs_successful=output.handoffs_successful, handoff_success=handoff,
         retrieved_document_ids=[str(c.get("source")) for c in retrieved] if retrieved is not None else None,
-        retrieved_chunk_ids=[str(c.get("id") or c.get("chunk_id")) for c in retrieved] if retrieved is not None else None,
+        retrieved_chunk_ids=[chunk_id for c in retrieved if (chunk_id := retrieved_chunk_id(c))] if retrieved is not None else None,
         retrieval_ranks={str(c.get("id") or c.get("source")): i for i, c in enumerate(retrieved or [], 1)} if retrieved is not None else None,
         retrieval_relevance=relevance, precision_at_5=precision, recall_at_5=recall,
         reciprocal_rank=rr, ndcg_at_5=ndcg, latency_ms=latency_ms,
