@@ -56,9 +56,12 @@ class ScoringTests(unittest.TestCase):
         self.assertTrue(refusal_observed({"blocked": True}, "The policy has a 30-day deadline."))
         self.assertFalse(refusal_observed({"enforcement_action": "needs_more_context"}, "I cannot assist."))
 
-    def test_trace_completeness_authoritative_requirements(self):
-        self.assertIsNone(trace_completeness(None, ["retrieval step"]))
-        self.assertIsNone(trace_completeness([], ["retrieval step"]))
+    def test_trace_completeness_empty_requirements_are_not_applicable(self):
+        for required in (None, [], {}, ""):
+            with self.subTest(required=required):
+                self.assertIsNone(trace_completeness(required, ["retrieval step"]))
+
+    def test_trace_completeness_populated_requirements(self):
         self.assertIsNone(trace_completeness(" N/A ", ["retrieval step"]))
         self.assertEqual(trace_completeness(["retrieval_step"], ["Retrieval-Step"]), 1.0)
         self.assertEqual(trace_completeness(["retrieval step", "risk assessment"], ["retrieval step"]), .5)
@@ -176,6 +179,20 @@ class ScoringTests(unittest.TestCase):
 
 
 class AggregationTests(unittest.TestCase):
+    def test_trace_completeness_without_requirements_has_no_samples_or_winner(self):
+        results = [
+            score("run", case(required_trace_elements=None), mode, ModeExecution(), 1)
+            for mode in ExecutionMode
+        ]
+        summary = next(row for row in aggregate(results) if row.primary_metric == "Decision Trace Completeness")
+        self.assertIsNone(summary.full_sentinel)
+        self.assertIsNone(summary.rag_only)
+        self.assertIsNone(summary.llm_only)
+        self.assertEqual(summary.sample_size_full_sentinel, 0)
+        self.assertEqual(summary.sample_size_rag_only, 0)
+        self.assertEqual(summary.sample_size_llm_only, 0)
+        self.assertEqual(summary.best_performing_mode, "N/A")
+
     def test_tie_and_latency_lowest_winner(self):
         rows=[result(ExecutionMode.FULL_SENTINEL,20,uncertainty_correct=True),result(ExecutionMode.RAG_ONLY,10,uncertainty_correct=True)]
         summary=aggregate(rows)
