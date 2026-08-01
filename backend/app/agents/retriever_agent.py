@@ -70,8 +70,16 @@ class RetrieverAgent:
             try:
                 index = faiss.read_index(str(self.index_path))
                 payload = json.loads(self.meta_path.read_text(encoding="utf-8"))
+                # The dictionary key is the authoritative ID used to build the
+                # corresponding FAISS row.  Preserve it instead of relying on
+                # an optional/duplicated field in the metadata value.
                 metadata = (
-                    list(payload.values()) if isinstance(payload, dict) else payload
+                    [
+                        dict(item, id=chunk_id, chunk_id=chunk_id)
+                        for chunk_id, item in payload.items()
+                    ]
+                    if isinstance(payload, dict)
+                    else payload
                 )
                 valid_metadata = (
                     isinstance(metadata, list)
@@ -156,6 +164,7 @@ class RetrieverAgent:
         return [
             {
                 "id": item.get("id"),
+                "chunk_id": item.get("chunk_id") or item.get("id"),
                 "source": item.get("source"),
                 "page": item.get("page"),
                 "text": item.get("text"),
@@ -195,6 +204,7 @@ class RetrieverAgent:
                 results.append(
                     {
                         "id": m.get("id"),
+                        "chunk_id": m.get("chunk_id") or m.get("id"),
                         "source": m.get("source"),
                         "page": m.get("page"),
                         "text": m.get("text"),

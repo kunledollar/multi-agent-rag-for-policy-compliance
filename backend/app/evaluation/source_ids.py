@@ -29,8 +29,31 @@ def normalize_retrieved_chunk(value: Any) -> Dict[str, Any]:
             (metadata.get(key) or chunk.get(key) for key in ("source", "document_id", "file_path", "path") if metadata.get(key) or chunk.get(key)),
             None,
         )
-    if not chunk.get("id") and chunk.get("chunk_id"):
-        chunk["id"] = chunk["chunk_id"]
+    def identifier(candidate: Any) -> Any:
+        if candidate is None or not str(candidate).strip():
+            return None
+        if str(candidate).strip().casefold() in {"none", "null"}:
+            return None
+        return candidate
+
+    # document_id is a source/path identifier in this repository, not a chunk
+    # identifier.  Only the explicit chunk identifier fields are promoted.
+    chunk_id = next(
+        (
+            candidate
+            for candidate in (
+                identifier(chunk.get("id")),
+                identifier(chunk.get("chunk_id")),
+                identifier(metadata.get("id")),
+                identifier(metadata.get("chunk_id")),
+            )
+            if candidate is not None
+        ),
+        None,
+    )
+    if chunk_id is not None:
+        chunk["id"] = chunk_id
+        chunk["chunk_id"] = chunk_id
     return chunk
 
 
@@ -39,4 +62,7 @@ def retrieved_document_id(chunk: Dict[str, Any]) -> str:
 
 
 def retrieved_chunk_id(chunk: Dict[str, Any]) -> str:
-    return normalize_source_id(chunk.get("id") or chunk.get("chunk_id"))
+    identifier = chunk.get("id") or chunk.get("chunk_id")
+    if str(identifier or "").strip().casefold() in {"none", "null"}:
+        return ""
+    return normalize_source_id(identifier)

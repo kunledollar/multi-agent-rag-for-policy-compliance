@@ -213,6 +213,8 @@ def run_sentinel_graph(
         # ----------------------------
         "retrieved_chunks": [
             {
+                "id": chunk.get("id") or chunk.get("chunk_id"),
+                "chunk_id": chunk.get("chunk_id") or chunk.get("id"),
                 "text": chunk.get("text"),
                 "source": chunk.get("source"),
                 "page": chunk.get("page"),
