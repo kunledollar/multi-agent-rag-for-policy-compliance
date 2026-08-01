@@ -22,12 +22,13 @@ def trace_completeness(required, present) -> Optional[float]:
     if required is None or (isinstance(required, str) and required.strip().casefold() in nulls):
         return None
     required_items = required if isinstance(required, (list, tuple, set)) else [required]
-    required_items = [item for item in required_items if str(item).strip().casefold() not in nulls]
+    normalize = lambda item: re.sub(r"[^a-z0-9]+", " ", str(item).casefold()).strip()
+    required_items = [normalize(item) for item in required_items
+                      if str(item).strip().casefold() not in nulls and normalize(item)]
     if not required_items:
         return None
-    normalize = lambda item: re.sub(r"[^a-z0-9]+", " ", str(item).casefold()).strip()
     actual = {normalize(item) for item in (present or []) if normalize(item)}
-    return sum(normalize(item) in actual for item in required_items) / len(required_items)
+    return sum(item in actual for item in required_items) / len(required_items)
 
 
 def retrieval_scores(retrieved, case: BenchmarkCase):
