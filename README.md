@@ -205,6 +205,15 @@ retrieved evidence—unknown sources never count. Handoff success is successful
 divided by attempted handoffs. Latency is end-to-end elapsed milliseconds and
 is summarized with count, mean, median, min, max, p90, p95, and p99.
 
+**Decision Trace Completeness measures explicit explainability, not pipeline
+activity.** The requirement `Link material claims to the evidence and source.`
+maps exactly to the canonical `claim_evidence_linkage` trace element. Full
+Sentinel and RAG-only emit that element only when a non-empty grounded answer
+has a citation whose source or chunk ID matches retrieved evidence. Retrieval,
+source selection, policy interpretation, and risk assessment remain useful
+execution stages, but do not satisfy claim-to-evidence linkage. LLM-only never
+emits the element because it has no retrieved evidence.
+
 Retrieval document IDs are compared case-insensitively after trimming whitespace,
 converting Windows separators, collapsing duplicate slashes, and removing the
 runtime corpus prefixes `/app/data/raw/`, `data/raw/`, `./data/raw/`, or `raw/`.

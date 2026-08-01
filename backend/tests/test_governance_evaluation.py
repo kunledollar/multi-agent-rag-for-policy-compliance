@@ -4,6 +4,7 @@ import tempfile
 import unittest
 import zipfile
 from pathlib import Path
+from unittest.mock import patch
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 
@@ -66,6 +67,12 @@ class ScoringTests(unittest.TestCase):
         self.assertEqual(trace_completeness(["retrieval_step"], ["Retrieval-Step"]), 1.0)
         self.assertEqual(trace_completeness(["retrieval step", "risk assessment"], ["retrieval step"]), .5)
         self.assertEqual(trace_completeness(["retrieval step"], ["source selection"]), 0.0)
+
+    def test_claim_evidence_requirement_has_one_explicit_canonical_mapping(self):
+        requirement = ["Link material claims to the evidence and source."]
+        self.assertEqual(trace_completeness(requirement, ["claim_evidence_linkage"]), 1.0)
+        generic_stages = ["retrieval step", "source selection", "policy interpretation", "risk assessment"]
+        self.assertEqual(trace_completeness(requirement, generic_stages), 0.0)
 
     def test_uncertainty_evidence_boundary_phrases(self):
         phrases = [
@@ -273,6 +280,47 @@ class RunnerTests(unittest.TestCase):
         chunks = ExecutionDispatcher._normalize_chunks([{"chunk_id":"c1", "metadata":{"file_path":r"data\raw\policy\doc.txt"}}])
         self.assertEqual(chunks[0]["id"], "c1")
         self.assertEqual(chunks[0]["source"], r"data\raw\policy\doc.txt")
+
+    def test_full_sentinel_verified_citation_emits_claim_evidence_trace(self):
+        dispatcher = ExecutionDispatcher(full=lambda **_: {
+            "answer":"The policy requires approval.", "citations":[{"source":"policy.txt", "page":1}],
+            "retrieved_chunks":[{"id":"c1", "source":"policy.txt", "page":1}],
+        })
+        output = dispatcher.execute("question", ExecutionMode.FULL_SENTINEL)
+        self.assertIn("claim_evidence_linkage", output.trace_elements)
+        self.assertEqual(trace_completeness(["Link material claims to the evidence and source."], output.trace_elements), 1.0)
+
+    def test_full_sentinel_retrieval_without_citation_does_not_emit_linkage(self):
+        dispatcher = ExecutionDispatcher(full=lambda **_: {
+            "answer":"An unsupported answer.", "citations":[],
+            "retrieved_chunks":[{"id":"c1", "source":"policy.txt"}],
+        })
+        output = dispatcher.execute("question", ExecutionMode.FULL_SENTINEL)
+        self.assertNotIn("claim_evidence_linkage", output.trace_elements)
+        self.assertEqual(trace_completeness(["Link material claims to the evidence and source."], output.trace_elements), 0.0)
+
+    def test_rag_only_emits_linkage_only_for_a_grounded_citation(self):
+        class Retriever:
+            def retrieve(self, question, top_k):
+                return [{"id":"chunk-1", "source":"policy.txt"}]
+
+        dispatcher = ExecutionDispatcher(retriever_factory=Retriever)
+        with patch("app.evaluation.dispatcher.AnswerGenerationAgent.run", return_value={
+            "answer":"The policy requires approval.", "citations":[{"chunk_id":"chunk-1"}],
+        }):
+            grounded = dispatcher.execute("question", ExecutionMode.RAG_ONLY)
+        with patch("app.evaluation.dispatcher.AnswerGenerationAgent.run", return_value={
+            "answer":"An unsupported answer.", "citations":[{"source":"other.txt"}],
+        }):
+            unsupported = dispatcher.execute("question", ExecutionMode.RAG_ONLY)
+        self.assertIn("claim_evidence_linkage", grounded.trace_elements)
+        self.assertNotIn("claim_evidence_linkage", unsupported.trace_elements)
+
+    def test_llm_only_never_emits_claim_evidence_trace(self):
+        dispatcher = ExecutionDispatcher(llm=lambda _: "A direct answer.")
+        output = dispatcher.execute("question", ExecutionMode.LLM_ONLY)
+        self.assertNotIn("claim_evidence_linkage", output.trace_elements)
+        self.assertEqual(trace_completeness(["Link material claims to the evidence and source."], output.trace_elements), 0.0)
     def test_defaults_are_all_modes_and_invalid_rejected(self):
         req=GovernanceEvaluationRequest(benchmark_cases=[case()])
         self.assertEqual(req.selected_modes,list(ExecutionMode))

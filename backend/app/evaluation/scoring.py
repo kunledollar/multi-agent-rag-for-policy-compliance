@@ -19,10 +19,16 @@ def ratio_present(required, present) -> Optional[float]:
 def trace_completeness(required, present) -> Optional[float]:
     """Calculate authoritative trace coverage; absent requirements are N/A."""
     nulls = {"", "n/a", "na", "none", "null"}
+    canonical_requirements = {
+        "link material claims to the evidence and source.": "claim_evidence_linkage",
+    }
     if required is None or (isinstance(required, str) and required.strip().casefold() in nulls):
         return None
     required_items = required if isinstance(required, (list, tuple, set)) else [required]
-    normalize = lambda item: re.sub(r"[^a-z0-9]+", " ", str(item).casefold()).strip()
+    def normalize(item):
+        exact = str(item).strip().casefold()
+        item = canonical_requirements.get(exact, item)
+        return re.sub(r"[^a-z0-9]+", " ", str(item).casefold()).strip()
     required_items = [normalize(item) for item in required_items
                       if str(item).strip().casefold() not in nulls and normalize(item)]
     if not required_items:

@@ -11,7 +11,7 @@ from app.rag.graph import run_sentinel_graph
 
 from .models import ExecutionMode, ModeExecution
 from .refusal import refusal_observed
-from .source_ids import normalize_retrieved_chunk
+from .source_ids import normalize_retrieved_chunk, normalize_source_id
 from .uncertainty import uncertainty_observed
 
 
@@ -23,16 +23,24 @@ class ExecutionDispatcher:
         if mode == ExecutionMode.FULL_SENTINEL:
             raw = self.full(question=question, top_k=top_k)
             trace = raw.get("agent_trace", []); chunks = self._normalize_chunks(raw.get("retrieved_chunks", []))
+            citations = raw.get("citations", [])
+            trace_elements = ["retrieval step", "source selection", "policy interpretation", "risk assessment", "compliance decision", "final answer rationale"]
+            if self._has_claim_evidence_linkage(raw.get("answer", ""), citations, chunks):
+                trace_elements.append("claim_evidence_linkage")
             return ModeExecution(answer=raw.get("answer", ""), policy_decision=raw.get("policy_decision"), enforcement_action=raw.get("enforcement_action"),
-                uncertainty_observed=uncertainty_observed(raw), refusal_observed=refusal_observed(raw), escalation_observed=raw.get("escalation_observed"), citations=raw.get("citations", []), retrieved_chunks=chunks,
-                trace_elements=["retrieval step", "source selection", "policy interpretation", "risk assessment", "compliance decision", "final answer rationale"],
+                uncertainty_observed=uncertainty_observed(raw), refusal_observed=refusal_observed(raw), escalation_observed=raw.get("escalation_observed"), citations=citations, retrieved_chunks=chunks,
+                trace_elements=trace_elements,
                 audit={"run_id":run_id,"question_id":question_id,"mode":mode.value,"timestamps":True,"selected_sources":[c.get("source") for c in chunks],"agent_names":[x.get("agent_name") for x in trace],"model_identifier":os.getenv("CHAT_MODEL","gpt-4.1-mini"),"latency":True,"error_status":"success"},
                 handoffs_attempted=max(len(trace)-1,0), handoffs_successful=sum(x.get("status") in {"success","ok"} for x in trace[1:]))
         if mode == ExecutionMode.RAG_ONLY:
             chunks = self._normalize_chunks(self.retriever_factory().retrieve(question, top_k=top_k))
             answer = AnswerGenerationAgent().run(question, {"verdict":"unknown"}, {}, chunks)
+            citations = answer.get("citations", [])
+            trace_elements = ["retrieval step", "source selection", "final answer rationale"]
+            if self._has_claim_evidence_linkage(answer.get("answer", ""), citations, chunks):
+                trace_elements.append("claim_evidence_linkage")
             return ModeExecution(answer=answer.get("answer", ""), uncertainty_observed=uncertainty_observed(answer), refusal_observed=refusal_observed(answer), citations=answer.get("citations", []), retrieved_chunks=chunks,
-                trace_elements=["retrieval step", "source selection", "final answer rationale"], audit={"run_id":run_id,"question_id":question_id,"mode":mode.value,"timestamps":True,"selected_sources":[c.get("source") for c in chunks],"model_identifier":os.getenv("CHAT_MODEL","gpt-4.1-mini"),"latency":True,"error_status":"success"})
+                trace_elements=trace_elements, audit={"run_id":run_id,"question_id":question_id,"mode":mode.value,"timestamps":True,"selected_sources":[c.get("source") for c in chunks],"model_identifier":os.getenv("CHAT_MODEL","gpt-4.1-mini"),"latency":True,"error_status":"success"})
         answer = self.llm(question)
         return ModeExecution(answer=answer, uncertainty_observed=uncertainty_observed({}, answer), refusal_observed=refusal_observed({}, answer), citations=None, retrieved_chunks=None,
             trace_elements=["final answer rationale"], audit={"run_id":run_id,"question_id":question_id,"mode":mode.value,"timestamps":True,"model_identifier":os.getenv("CHAT_MODEL","gpt-4.1-mini"),"latency":True,"error_status":"success"})
@@ -40,6 +48,27 @@ class ExecutionDispatcher:
     @staticmethod
     def _normalize_chunks(chunks):
         return [normalize_retrieved_chunk(chunk) for chunk in (chunks or [])]
+
+    @staticmethod
+    def _has_claim_evidence_linkage(answer, citations, chunks):
+        """Return true only when a non-empty answer cites retrieved evidence."""
+        if not str(answer or "").strip():
+            return False
+        evidence_ids = {
+            normalize_source_id(value)
+            for chunk in (chunks or [])
+            for value in (chunk.get("id"), chunk.get("chunk_id"), chunk.get("source"))
+            if normalize_source_id(value)
+        }
+        return any(
+            isinstance(citation, dict)
+            and any(
+                normalize_source_id(citation.get(key)) in evidence_ids
+                for key in ("chunk_id", "source")
+                if normalize_source_id(citation.get(key))
+            )
+            for citation in (citations or [])
+        )
 
     @staticmethod
     def _direct_llm(question):
