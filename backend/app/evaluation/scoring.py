@@ -4,6 +4,7 @@ import math
 import re
 from typing import Any, Iterable, Optional
 
+from .citation_matching import valid_citations
 from .models import BenchmarkCase, DetailedResult, ExecutionMode, ModeExecution
 from .refusal import refusal_observed
 from .source_ids import normalize_source_id, retrieved_chunk_id, retrieved_document_id
@@ -74,13 +75,12 @@ def score(run_id: str, case: BenchmarkCase, mode: ExecutionMode, output: ModeExe
     if uncertainty_observed is None:
         uncertainty_observed = detect_uncertainty(output.answer)
     citations = output.citations if mode != ExecutionMode.LLM_ONLY else None
-    valid_sources = {str(c.get("id") or c.get("chunk_id") or c.get("source") or "") for c in (output.retrieved_chunks or [])}
-    valid_citations = [c for c in (citations or []) if str(c.get("chunk_id") or c.get("source") or "") in valid_sources]
+    grounded_citations = valid_citations(citations, output.retrieved_chunks)
     citation_score = None
     if case.required_citation_claims and mode != ExecutionMode.LLM_ONLY:
-        aligned = {str(c.get("claim") or "").lower() for c in valid_citations if c.get("claim")}
+        aligned = {str(c.get("claim") or "").lower() for c in grounded_citations if c.get("claim")}
         explicit = sum(any(str(claim).lower() in value or value in str(claim).lower() for value in aligned) for claim in case.required_citation_claims)
-        citation_score = max(explicit, min(len(valid_citations), len(case.required_citation_claims))) / len(case.required_citation_claims)
+        citation_score = max(explicit, min(len(grounded_citations), len(case.required_citation_claims))) / len(case.required_citation_claims)
     expected_facts = case.expected_verified_facts
     verification = ratio_present(expected_facts, output.verified_facts)
     precision, recall, rr, ndcg, relevance = retrieval_scores(output.retrieved_chunks, case)
@@ -104,7 +104,7 @@ def score(run_id: str, case: BenchmarkCase, mode: ExecutionMode, output: ModeExe
         uncertainty_expected=case.requires_uncertainty, uncertainty_observed=uncertainty_observed,
         uncertainty_correct=(case.requires_uncertainty == uncertainty_observed) if case.requires_uncertainty is not None else None,
         citations_required=case.required_citation_claims, citations_returned=citations,
-        citations_valid=len(valid_citations) if citations is not None else None, citations_complete=citation_score,
+        citations_valid=len(grounded_citations) if citations is not None else None, citations_complete=citation_score,
         refusal_expected=expected_refusal, refusal_observed=observed_refusal,
         refusal_correct=(expected_refusal == observed_refusal) if expected_refusal is not None else None,
         expected_enforcement_action=case.expected_enforcement_action, actual_enforcement_action=output.enforcement_action,

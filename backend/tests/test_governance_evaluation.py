@@ -10,6 +10,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 
 from app.evaluation.aggregation import aggregate, latency_summary
 from app.evaluation.benchmark_loader import expected_refusal, load_benchmark, map_row
+from app.evaluation.citation_matching import citation_matches_retrieved, valid_citations
 from app.evaluation.dispatcher import ExecutionDispatcher
 from app.evaluation.exporter import SHEETS, sanitize_filename, write_workbook
 from app.evaluation.models import BenchmarkCase, DetailedResult, ExecutionMode, GovernanceEvaluationRequest, ModeExecution
@@ -31,6 +32,52 @@ def result(mode, latency=10, **values):
 
 
 class ScoringTests(unittest.TestCase):
+    def test_citation_matching_normalizes_document_paths(self):
+        source = "enterprise_policy/hr/opm/Getting a Job_98222e6f44.txt"
+        variants = [
+            source,
+            r"ENTERPRISE_POLICY\HR\OPM\Getting a Job_98222e6f44.txt ",
+            "/app//data/raw//" + source,
+        ]
+        for citation_source in variants:
+            with self.subTest(citation_source=citation_source):
+                self.assertTrue(citation_matches_retrieved(
+                    {"source": citation_source}, [{"source": source}],
+                ))
+
+    def test_citation_chunk_id_is_authoritative_and_normalized(self):
+        chunks = [{"id": " HR/Chunk-01 ", "source": "policy.txt"}]
+        self.assertTrue(citation_matches_retrieved({"chunk_id": r"hr\CHUNK-01"}, chunks))
+        self.assertFalse(citation_matches_retrieved(
+            {"chunk_id": "wrong", "source": "policy.txt"}, chunks,
+        ))
+
+    def test_citation_source_fallback_and_mismatch(self):
+        chunks = [{"id": "chunk-1", "source": "policies/subdirectory/policy.txt"}]
+        self.assertTrue(citation_matches_retrieved(
+            {"source": "./data/raw/policies/subdirectory/policy.txt"}, chunks,
+        ))
+        self.assertFalse(citation_matches_retrieved({"source": "policy.txt"}, chunks))
+        self.assertFalse(citation_matches_retrieved({"claim": "citation-looking"}, chunks))
+        self.assertEqual(valid_citations(["policy.txt", {}, {"claim": "x"}], chunks), [])
+
+    def test_ged_c_005_and_025_rag_only_citation_regressions(self):
+        examples = {
+            "GED-C-005": "enterprise_policy/hr/opm/Getting a Job_98222e6f44.txt",
+            "GED-C-025": "enterprise_policy/hr/opm/HRStat_10cc83a528.txt",
+        }
+        benchmark = case(required_citation_claims=["material claim"])
+        for question_id, source in examples.items():
+            with self.subTest(question_id=question_id):
+                output = ModeExecution(
+                    answer="A grounded answer.",
+                    citations=[{"source": source, "claim": "material claim"}],
+                    retrieved_chunks=[{"id": f"{question_id}-chunk", "source": source}],
+                )
+                row = score("run", benchmark, ExecutionMode.RAG_ONLY, output, 1)
+                self.assertEqual(row.citations_valid, 1)
+                self.assertEqual(row.citations_complete, 1.0)
+
     def test_deterministic_refusal_text_and_uncertainty_boundaries(self):
         refusals = [
             "I'm sorry, but I can't assist with that request.",

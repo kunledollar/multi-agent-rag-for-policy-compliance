@@ -9,9 +9,10 @@ from app.agents.answer_generation_agent import AnswerGenerationAgent
 from app.agents.retriever_agent import RetrieverAgent
 from app.rag.graph import run_sentinel_graph
 
+from .citation_matching import valid_citations
 from .models import ExecutionMode, ModeExecution
 from .refusal import refusal_observed
-from .source_ids import normalize_retrieved_chunk, normalize_source_id
+from .source_ids import normalize_retrieved_chunk
 from .uncertainty import uncertainty_observed
 
 
@@ -54,21 +55,7 @@ class ExecutionDispatcher:
         """Return true only when a non-empty answer cites retrieved evidence."""
         if not str(answer or "").strip():
             return False
-        evidence_ids = {
-            normalize_source_id(value)
-            for chunk in (chunks or [])
-            for value in (chunk.get("id"), chunk.get("chunk_id"), chunk.get("source"))
-            if normalize_source_id(value)
-        }
-        return any(
-            isinstance(citation, dict)
-            and any(
-                normalize_source_id(citation.get(key)) in evidence_ids
-                for key in ("chunk_id", "source")
-                if normalize_source_id(citation.get(key))
-            )
-            for citation in (citations or [])
-        )
+        return bool(valid_citations(citations, chunks))
 
     @staticmethod
     def _direct_llm(question):
