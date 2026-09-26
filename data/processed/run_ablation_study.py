@@ -57,8 +57,7 @@ def run(args, dispatcher=None):
                 result=score(run_id,case,config.execution_mode,execution,(time.perf_counter()-began)*1000).model_dump(mode="json")
                 # Disabled agents make their own outcome metrics inapplicable.
                 if not config.enable_verification: result["verification_correct"]=None
-                if not config.enable_compliance_enforcement: result["enforcement_correct"]=None
-                if not config.enable_answer_generation: result["faithfulness"]=None; result["answer_relevancy"]=None
+                if not config.enable_policy: result["enforcement_correct"]=None
                 audit=execution.audit
             except Exception as exc:
                 status="failed"; error=f"{type(exc).__name__}: {exc}"; audit={}
@@ -66,8 +65,9 @@ def run(args, dispatcher=None):
             result.update({"configuration_id":config.configuration_id.value,"configuration_name":config.configuration_name,
                 "enabled_components":list(config.enabled_components),"disabled_components":list(config.disabled_components),
                 "retrieved_document_ids":result.get("retrieved_document_ids"),"retrieved_chunk_ids":result.get("retrieved_chunk_ids"),
-                "reranker_invoked":audit.get("reranker_invoked",False),"verification_invoked":audit.get("verification_invoked",False),
-                "compliance_invoked":audit.get("compliance_invoked",False),"answer_generation_invoked":audit.get("answer_generation_invoked",False),
+                "verification_invoked":config.enable_verification,
+                "policy_invoked":config.enable_policy,"critic_invoked":config.enable_critic,
+                "revision_loop_invoked":config.enable_revision_loop,
                 "processing_status":status,"error_message":error,"timestamp":datetime.now(timezone.utc).isoformat()})
             rows.append(result); atomic_json(path,{"configuration":config.configuration_id.value,"benchmark":dataset.filename,"rows":rows})
         raw_payload={"configuration":config.configuration_id.value,"benchmark":dataset.filename,"rows":rows}; raw_payloads.append(raw_payload)

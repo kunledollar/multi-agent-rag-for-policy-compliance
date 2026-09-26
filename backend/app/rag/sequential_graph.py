@@ -26,7 +26,7 @@ def run_sentinel_graph(
     from app.agents.retriever_agent import RetrieverAgent
     from app.agents.verification_agent import VerificationAgent
     from app.agents.compliance_agent import ComplianceAgent
-    from app.agents.reasoning_agent import ReasoningAgent
+    from app.agents.r5_reasoning_agent import ReasoningAgent
     from app.agents.r5_answer_generation_agent import AnswerGenerationAgent
 
     # --------------------------------------------------

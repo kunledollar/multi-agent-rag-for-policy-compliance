@@ -246,6 +246,9 @@ class RetrieverAgent(BaseAgent):
             concerns=[] if sufficient else ["insufficient_evidence"],
         )
 
+# R6 terminology uses "Retrieval Agent" while retaining the public R5 class name.
+RetrievalAgent = RetrieverAgent
+
 
 if __name__ == "__main__":
     print("🚀 Sentinel Retriever Agent starting")

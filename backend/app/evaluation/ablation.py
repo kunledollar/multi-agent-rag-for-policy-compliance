@@ -59,6 +59,13 @@ class AblationDispatcher:
             from app.rag.sequential_graph import run_sentinel_graph as run_r5_graph
             output=ExecutionDispatcher(full=run_r5_graph).execute(
                 question, ExecutionMode.FULL_SENTINEL, **kwargs)
+        elif configuration.configuration_id in {AblationId.A1, AblationId.A2, AblationId.A3, AblationId.A4}:
+            from app.rag.multi_agent_graph import run_sentinel_graph
+            disabled = set(configuration.disabled_components) - {"revision_loop"}
+            max_iterations = 0 if not configuration.enable_revision_loop else 2
+            dispatcher = ExecutionDispatcher(full=lambda question, top_k=5: run_sentinel_graph(
+                question, top_k=top_k, max_iterations=max_iterations, disabled_agents=disabled))
+            output = dispatcher.execute(question, ExecutionMode.FULL_SENTINEL, **kwargs)
         else:
             output=self.production.execute(question, configuration.execution_mode, **kwargs)
         output.audit.update({"configuration_id":configuration.configuration_id.value,

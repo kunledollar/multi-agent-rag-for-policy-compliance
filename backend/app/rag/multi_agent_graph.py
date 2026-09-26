@@ -22,13 +22,17 @@ def _run(state: SentinelState, agents: Iterable[Any]) -> None:
         state.record(agent.run(state))
 
 
-def run_sentinel_graph(question: str, *, top_k: int = 5,
-                       trace_id: Optional[str] = None, max_iterations: int = 2,
-                       agents: Optional[Dict[str, Any]] = None) -> Dict[str, Any]:
-    """Run R6, including explicit communications, disagreement, and bounded revision."""
-    state = SentinelState(task_id=trace_id or str(uuid.uuid4()), question=question,
-                          max_iterations=min(2, max(0, max_iterations)))
+def run_multi_agent_graph(
+    state: SentinelState,
+    *,
+    top_k: int = 5,
+    agents: Optional[Dict[str, Any]] = None,
+    disabled_agents: Optional[set[str]] = None,
+) -> Dict[str, Any]:
+    """Execute an initialized R6 state and return its complete governance trace."""
+    state.max_iterations = min(2, max(0, state.max_iterations))
     supplied = agents or {}
+    disabled = disabled_agents or set()
     retrieval = supplied.get("retrieval") or RetrieverAgent(top_k=top_k)
     verification = supplied.get("verification") or VerificationAgent()
     policy = supplied.get("policy") or PolicyAgent()
@@ -38,7 +42,20 @@ def run_sentinel_graph(question: str, *, top_k: int = 5,
     critic = supplied.get("critic") or CriticAgent()
 
     state.record(retrieval.run(state))
-    _run(state, (verification, policy, reasoning, risk, answer, critic))
+    if "verification" in disabled:
+        state.verification_result = {"decision": "APPROVE_EVIDENCE", "bypassed": True}
+    else:
+        state.record(verification.run(state))
+    if "policy" in disabled:
+        state.policy_result = {"decision": "APPROVE", "verdict": "compliant",
+                               "confidence": 0.0, "bypassed": True}
+    else:
+        state.record(policy.run(state))
+    _run(state, (reasoning, risk, answer))
+    if "critic" in disabled:
+        state.critic_feedback = {"decision": "APPROVE", "bypassed": True}
+    else:
+        state.record(critic.run(state))
 
     while state.critic_feedback.get("decision") in {"REVISE", "REJECT"} and state.iteration < state.max_iterations:
         feedback = state.critic_feedback
@@ -49,13 +66,17 @@ def run_sentinel_graph(question: str, *, top_k: int = 5,
         # A rejection caused by evidence returns control to retrieval and all dependent agents.
         if target == "retrieval":
             state.record(retrieval.run(state))
-            _run(state, (verification, policy, reasoning, risk))
+            if "verification" not in disabled:
+                state.record(verification.run(state))
+            if "policy" not in disabled:
+                state.record(policy.run(state))
+            _run(state, (reasoning, risk))
         state.record(answer.run(state))
         state.record(critic.run(state))
         record.outcome = state.critic_feedback.get("decision")
         record.successful = record.outcome == "APPROVE"
 
-    final = FinalDecisionAgent()
+    final = supplied.get("final_decision") or FinalDecisionAgent()
     state.record(final.run(state))
     if state.final_action == "ANSWER":
         state.final_answer = state.draft_answer.get("answer", "")
@@ -71,7 +92,9 @@ def run_sentinel_graph(question: str, *, top_k: int = 5,
         "answer": state.final_answer, "action_items": state.draft_answer.get("action_items", []),
         "citations": citations, "confidence": state.agent_decisions[-1].confidence,
         "trace_id": state.task_id, "policy_decision": state.policy_result.get("decision"),
-        "enforcement_action": state.final_action, "uncertainty_observed": state.final_action != "ANSWER",
+        "enforcement_action": state.final_action, "final_action": state.final_action,
+        "iteration": state.iteration,
+        "uncertainty_observed": state.final_action != "ANSWER",
         "refusal_observed": refusal_observed({"answer": state.final_answer}),
         "escalation_observed": state.final_action == "ESCALATE",
         "retrieved_chunks": state.retrieved_chunks,
@@ -83,3 +106,17 @@ def run_sentinel_graph(question: str, *, top_k: int = 5,
         "revision_success": any(r.successful for r in state.revision_history),
         "agent_trace": [asdict(d) for d in state.agent_decisions], "ragas_metrics": {},
     }
+
+
+def run_sentinel_graph(question: str, *, top_k: int = 5,
+                       trace_id: Optional[str] = None, max_iterations: int = 2,
+                       agents: Optional[Dict[str, Any]] = None,
+                       disabled_agents: Optional[set[str]] = None) -> Dict[str, Any]:
+    """Compatibility entry point used by the API and evaluation dispatcher."""
+    state = SentinelState(
+        task_id=trace_id or str(uuid.uuid4()), question=question,
+        max_iterations=max_iterations,
+    )
+    return run_multi_agent_graph(
+        state, top_k=top_k, agents=agents, disabled_agents=disabled_agents
+    )
