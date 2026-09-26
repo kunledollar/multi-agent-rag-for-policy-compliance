@@ -9,7 +9,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 os.environ.setdefault("DATA_DIR", "/tmp/sentinel-test-data")
 
-from app.agents.answer_generation_agent import AnswerGenerationAgent
+from app.agents.r5_answer_generation_agent import AnswerGenerationAgent
 from app.agents.ingestion_agent import IngestionAgent
 from app.agents.retriever_agent import CorpusUnavailableError, RetrieverAgent
 

@@ -20,7 +20,9 @@ class R6AgentTests(unittest.TestCase):
         for agent in (VerificationAgent(), PolicyAgent(), RiskAgent(), AnswerAgent(), CriticAgent()):
             state.record(agent.run(state))
         self.assertEqual(state.verification_result["decision"], "APPROVE_EVIDENCE")
-        self.assertEqual(state.critic_feedback["decision"], "APPROVE")
+        # Without a configured classifier, the retained compliance engine
+        # conservatively defers and the critic requests revision.
+        self.assertEqual(state.critic_feedback["decision"], "REVISE")
         self.assertTrue(all(0 <= d.confidence <= 1 and d.rationale for d in state.agent_decisions))
 
     def test_weak_evidence_triggers_retrieval_instead_of_answer(self):

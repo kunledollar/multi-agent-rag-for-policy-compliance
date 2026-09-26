@@ -1,215 +1,63 @@
-import os
-import sys
-import json
-import time
-from typing import Dict, Any, List
+"""Independent R6 reasoning agent."""
+from __future__ import annotations
 
-from dotenv import load_dotenv
-from openai import OpenAI
-from app.agents.base_agent import BaseAgent
-from app.agents.contracts import AgentDecision, SentinelState
+from typing import List
 
-load_dotenv()
-
-# -------------------------------------------------------------------
-# Make runnable both as package import and direct execution
-# -------------------------------------------------------------------
-THIS_FILE = os.path.abspath(__file__)
-APP_DIR = os.path.dirname(os.path.dirname(THIS_FILE))   # /app/app
-PKG_ROOT = os.path.dirname(APP_DIR)                     # /app
-if PKG_ROOT not in sys.path:
-    sys.path.insert(0, PKG_ROOT)
-
-# -------------------------
-# Env Config
-# -------------------------
-CHAT_MODEL = os.getenv("CHAT_MODEL", "").strip()
-OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "").strip()
-MAX_TOKENS = int(os.getenv("REASONING_MAX_TOKENS", "350"))
-
-client = OpenAI(api_key=OPENAI_API_KEY) if OPENAI_API_KEY else None
+from .base_agent import BaseAgent
+from .contracts import AgentDecision, SentinelState
 
 
 class ReasoningAgent(BaseAgent):
+    """Reconcile evidence and policy decisions, challenging either when warranted."""
+
     name = "reasoning"
-    """
-    Hybrid Reasoning Agent (Enterprise Safe):
-    - Deterministic decision path
-    - LLM used only for explanation polish
-    - NEVER crashes if LLM misbehaves
-    """
 
-    def __init__(self, chat_model: str = CHAT_MODEL):
-        self.chat_model = chat_model or "gpt-4.1-mini"
+    def run(self, state: SentinelState) -> AgentDecision:
+        verification = state.verification_result.get("decision")
+        policy_decision = state.policy_result.get("decision")
+        policy_verdict = state.policy_result.get("verdict")
+        conflict = bool(
+            state.policy_result.get("conflict_detected")
+            or state.policy_result.get("potential_conflict")
+        )
+        evidence_ids = [
+            str(chunk.get("chunk_id") or chunk.get("id"))
+            for chunk in state.retrieved_chunks
+            if chunk.get("chunk_id") or chunk.get("id")
+        ]
 
-    # -------------------------
-    # Deterministic logic
-    # -------------------------
-    def _decision_steps(
-        self,
-        compliance_result: Dict[str, Any],
-        retrieved_chunks: List[Dict[str, Any]],
-    ) -> List[str]:
-        steps = []
-        steps.append(f"Compliance verdict was '{compliance_result.get('verdict')}'")
+        concerns: List[str] = []
+        if verification != "APPROVE_EVIDENCE":
+            concerns.append("unverified_evidence")
+        if conflict:
+            concerns.append("conflicting_policy_evidence")
+        if policy_decision in {"DEFER", "ESCALATE", "REJECT"} or policy_verdict == "unknown":
+            concerns.append("policy_not_resolved")
 
-        if len(retrieved_chunks) > 1:
-            steps.append("Multiple policy documents were retrieved")
-
-        sources = {c.get("source") for c in retrieved_chunks}
-        if len(sources) > 1:
-            steps.append("Policies originated from different source files")
-
-        if compliance_result.get("verdict") == "unknown":
-            steps.append("No authoritative policy precedence could be determined")
-
-        steps.append("System avoided assumptions beyond available evidence")
-        return steps
-
-    # -------------------------
-    # Prompt
-    # -------------------------
-    def _prompt(self, question: str, verdict: str, steps: List[str]) -> str:
-        return f"""
-You are Sentinel's Reasoning Agent.
-
-Explain the compliance outcome clearly and conservatively.
-
-Question:
-{question}
-
-Compliance verdict:
-{verdict}
-
-Decision path:
-{json.dumps(steps, indent=2)}
-
-Return ONLY valid JSON with:
-summary_reasoning (string)
-confidence_note (string)
-"""
-
-    # -------------------------
-    # Safe JSON parsing
-    # -------------------------
-    def _safe_parse(self, raw: str) -> Dict[str, str]:
-        if not raw or not raw.strip():
-            raise ValueError("Empty LLM response")
-
-        raw = raw.strip()
-
-        # Try direct parse
-        try:
-            return json.loads(raw)
-        except Exception:
-            pass
-
-        # Try extracting JSON block
-        start = raw.find("{")
-        end = raw.rfind("}")
-        if start != -1 and end != -1 and end > start:
-            try:
-                return json.loads(raw[start : end + 1])
-            except Exception:
-                pass
-
-        raise ValueError("Invalid JSON from LLM")
-
-    # -------------------------
-    # Run
-    # -------------------------
-    def run(
-        self,
-        state: SentinelState | None = None,
-        question: str | None = None,
-        compliance_result: Dict[str, Any] | None = None,
-        retrieved_chunks: List[Dict[str, Any]] | None = None,
-    ) -> Dict[str, Any] | AgentDecision:
-        if state is not None:
-            verification = state.verification_result.get("decision")
-            policy = state.policy_result.get("decision")
-            conflicts = []
-            if verification != "APPROVE_EVIDENCE": conflicts.append("unverified_evidence")
-            if policy in {"DEFER", "ESCALATE"}: conflicts.append("policy_not_approved")
-            decision = "CHALLENGE" if conflicts else "SYNTHESIZE"
-            result = AgentDecision(self.name.lower().replace("agent", "") or "reasoning", decision,
-                0.88 if conflicts else 0.76,
-                "Challenged upstream decisions due to unresolved conflicts." if conflicts else
-                "Independently reconciled verified evidence with the policy judgment.",
-                "Resolve upstream conflicts before answering." if conflicts else None,
-                "policy" if conflicts else None, concerns=conflicts)
-            state.reasoning_result = result.to_dict()
-            return result
-        compliance_result = compliance_result or {}
-        retrieved_chunks = retrieved_chunks or []
-        question = question or ""
-        t0 = time.perf_counter()
-
-        steps = self._decision_steps(compliance_result, retrieved_chunks)
-        verdict = compliance_result.get("verdict", "unknown")
-        prompt = self._prompt(question, verdict, steps)
-
-        try:
-            if client is None:
-                raise RuntimeError("OpenAI client is not configured")
-            resp = client.chat.completions.create(
-                model=self.chat_model,
-                messages=[
-                    {"role": "system", "content": "Return ONLY valid JSON."},
-                    {"role": "user", "content": prompt},
-                ],
-                temperature=0.1,
-                max_tokens=MAX_TOKENS,
+        if concerns:
+            target = "verification" if any("evidence" in concern for concern in concerns) else "policy"
+            result = AgentDecision(
+                agent_name=self.name,
+                decision="CHALLENGE",
+                confidence=0.86,
+                rationale="Policy reasoning depends on unverified, conflicting, or unresolved evidence.",
+                requested_action="Verify the evidence again and resolve policy precedence.",
+                target_agent=target,
+                evidence_ids=evidence_ids,
+                concerns=list(dict.fromkeys(concerns)),
+            )
+        else:
+            result = AgentDecision(
+                agent_name=self.name,
+                decision="SYNTHESIZE",
+                confidence=max(0.0, min(1.0, float(state.policy_result.get("confidence", 0.0)))),
+                rationale=(
+                    f"Verified evidence supports the '{policy_verdict}' policy assessment; "
+                    "no unresolved conflict prevents answer synthesis."
+                ),
+                evidence_ids=evidence_ids,
             )
 
-            raw = resp.choices[0].message.content
-            parsed = self._safe_parse(raw)
-
-            summary = parsed.get("summary_reasoning", "").strip()
-            confidence = parsed.get("confidence_note", "").strip()
-
-        except Exception:
-            # 🔒 HARD FAIL SAFE (enterprise requirement)
-            summary = (
-                "The system identified ambiguity across multiple policy documents "
-                "and therefore avoided issuing a definitive interpretation."
-            )
-            confidence = "High confidence in ambiguity due to conflicting evidence."
-
-        total_ms = (time.perf_counter() - t0) * 1000.0
-
-        return {
-            "summary_reasoning": summary,
-            "decision_path": steps,
-            "confidence_note": confidence,
-            "timings_ms": {"total_ms": total_ms},
-        }
-
-
-# -------------------------
-# CLI Test
-# -------------------------
-def _demo():
-    print("🧠 Sentinel Reasoning Agent starting")
-
-    from app.agents.retriever_agent import RetrieverAgent
-    from app.agents.compliance_agent import ComplianceAgent
-
-    query = "What is the policy on remote work?"
-
-    retriever = RetrieverAgent()
-    chunks = retriever.retrieve(query=query, top_k=5)
-
-    compliance = ComplianceAgent().run(query=query, retrieved_chunks=chunks)
-
-    result = ReasoningAgent().run(
-        question=query,
-        compliance_result=compliance.__dict__,
-        retrieved_chunks=chunks,
-    )
-
-    print(json.dumps(result, indent=2))
-
-
-if __name__ == "__main__":
-    _demo()
+        state.reasoning_result = result.to_dict()
+        state.reasoning_result["summary_reasoning"] = result.rationale
+        return result

@@ -13,7 +13,7 @@ from app.evaluation.dispatcher import ExecutionDispatcher
 from app.evaluation.models import BenchmarkCase, ExecutionMode, ModeExecution
 from app.evaluation.scoring import score
 from app.evaluation.source_ids import normalize_retrieved_chunk
-from app.rag.graph import run_sentinel_graph
+from app.rag.multi_agent_graph import run_sentinel_graph
 
 
 class _Index:
@@ -82,7 +82,7 @@ class RetrievedChunkIdTests(unittest.TestCase):
              patch("app.agents.retriever_agent.RetrieverAgent.__init__", return_value=None), \
              patch("app.agents.compliance_agent.ComplianceAgent.run", return_value=compliance), \
              patch("app.agents.reasoning_agent.ReasoningAgent.run", return_value={}), \
-             patch("app.agents.answer_generation_agent.AnswerGenerationAgent.run",
+             patch("app.agents.answer_agent.AnswerAgent.run",
                    return_value={"answer": "answer", "citations": [], "action_items": []}):
             result = run_sentinel_graph("question", top_k=1)
         self.assertEqual(result["retrieved_chunks"], [{
@@ -95,7 +95,7 @@ class RetrievedChunkIdTests(unittest.TestCase):
             def retrieve(self, question, top_k):
                 return [{"id": "existing-id", "source": "policy.txt", "text": "text", "score": .5}]
 
-        with patch("app.evaluation.dispatcher.AnswerGenerationAgent.run", return_value={"answer": "answer", "citations": []}):
+        with patch("app.evaluation.dispatcher.AnswerAgent.run", return_value={"answer": "answer", "citations": []}):
             output = ExecutionDispatcher(retriever_factory=Retriever).execute("q", ExecutionMode.RAG_ONLY)
         self.assertEqual(output.retrieved_chunks[0]["id"], "existing-id")
         self.assertEqual(output.retrieved_chunks[0]["chunk_id"], "existing-id")

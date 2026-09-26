@@ -19,6 +19,7 @@ class FinalDecisionAgent(BaseAgent):
             action, rationale = "CLARIFY", "The answer remains incomplete after the permitted revision loop."
         else:
             action, rationale = "ANSWER", "All governance agents approved a grounded response."
-        result = AgentDecision(self.name, action, 0.9, rationale, evidence_ids=state.policy_result.get("policy_citations", []))
+        result = AgentDecision(self.name, action, 0.9, rationale,
+                               evidence_ids=state.policy_result.get("evidence_ids", []))
         state.final_action = action
         return result
