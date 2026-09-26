@@ -6,6 +6,8 @@ from typing import Dict, Any, List
 
 from dotenv import load_dotenv
 from openai import OpenAI
+from app.agents.base_agent import BaseAgent
+from app.agents.contracts import AgentDecision, SentinelState
 
 load_dotenv()
 
@@ -28,7 +30,8 @@ MAX_TOKENS = int(os.getenv("REASONING_MAX_TOKENS", "350"))
 client = OpenAI(api_key=OPENAI_API_KEY) if OPENAI_API_KEY else None
 
 
-class ReasoningAgent:
+class ReasoningAgent(BaseAgent):
+    name = "reasoning"
     """
     Hybrid Reasoning Agent (Enterprise Safe):
     - Deterministic decision path
@@ -117,10 +120,29 @@ confidence_note (string)
     # -------------------------
     def run(
         self,
-        question: str,
-        compliance_result: Dict[str, Any],
-        retrieved_chunks: List[Dict[str, Any]],
-    ) -> Dict[str, Any]:
+        state: SentinelState | None = None,
+        question: str | None = None,
+        compliance_result: Dict[str, Any] | None = None,
+        retrieved_chunks: List[Dict[str, Any]] | None = None,
+    ) -> Dict[str, Any] | AgentDecision:
+        if state is not None:
+            verification = state.verification_result.get("decision")
+            policy = state.policy_result.get("decision")
+            conflicts = []
+            if verification != "APPROVE_EVIDENCE": conflicts.append("unverified_evidence")
+            if policy in {"DEFER", "ESCALATE"}: conflicts.append("policy_not_approved")
+            decision = "CHALLENGE" if conflicts else "SYNTHESIZE"
+            result = AgentDecision(self.name.lower().replace("agent", "") or "reasoning", decision,
+                0.88 if conflicts else 0.76,
+                "Challenged upstream decisions due to unresolved conflicts." if conflicts else
+                "Independently reconciled verified evidence with the policy judgment.",
+                "Resolve upstream conflicts before answering." if conflicts else None,
+                "policy" if conflicts else None, concerns=conflicts)
+            state.reasoning_result = result.to_dict()
+            return result
+        compliance_result = compliance_result or {}
+        retrieved_chunks = retrieved_chunks or []
+        question = question or ""
         t0 = time.perf_counter()
 
         steps = self._decision_steps(compliance_result, retrieved_chunks)
