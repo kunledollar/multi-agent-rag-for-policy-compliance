@@ -70,6 +70,31 @@ def _same(expected, actual):
     return str(expected).strip().lower() == str(actual or "").strip().lower()
 
 
+def agent_decision_accuracy(decisions, expected: Optional[dict[str, str]] = None) -> Optional[float]:
+    """Correct agent decisions divided by all decisions with a known expectation."""
+    expected = expected or {}
+    scored = [(d, expected.get(d.agent_name)) for d in decisions if expected.get(d.agent_name) is not None]
+    return sum(d.decision == wanted for d, wanted in scored) / len(scored) if scored else None
+
+
+def conflict_resolution_accuracy(conflicts: int, successful_resolutions: int) -> Optional[float]:
+    return min(successful_resolutions, conflicts) / conflicts if conflicts else None
+
+
+def self_correction_rate(revisions) -> Optional[float]:
+    return sum(r.successful is True for r in revisions) / len(revisions) if revisions else None
+
+
+def collaboration_score(messages, attempted: Optional[int], successful: Optional[int]) -> Optional[float]:
+    """Mean communication, handoff success, and information-preservation signals."""
+    if not messages and not attempted:
+        return None
+    communication = min(1.0, len(messages) / max(1, attempted or len(messages)))
+    handoff = (successful or 0) / attempted if attempted else communication
+    preservation = sum(bool(m.content.strip()) for m in messages) / len(messages) if messages else 0.0
+    return (communication + handoff + preservation) / 3
+
+
 def score(run_id: str, case: BenchmarkCase, mode: ExecutionMode, output: ModeExecution, latency_ms: float) -> DetailedResult:
     uncertainty_observed = output.uncertainty_observed
     if uncertainty_observed is None:
@@ -94,6 +119,8 @@ def score(run_id: str, case: BenchmarkCase, mode: ExecutionMode, output: ModeExe
     # Direct API cases may carry the legacy authoritative Boolean only in
     # requires_refusal; the loader has already copied it to expected_refusal.
     expected_refusal = case.expected_refusal if case.expected_refusal is not None else case.requires_refusal
+    correction = self_correction_rate(output.revision_history)
+    collaboration = collaboration_score(output.agent_messages, attempted, output.handoffs_successful)
     return DetailedResult(
         run_id=run_id, question_id=case.question_id, category=case.category, question=case.question,
         execution_mode=mode, reference_answer=case.reference_answer,
@@ -121,4 +148,11 @@ def score(run_id: str, case: BenchmarkCase, mode: ExecutionMode, output: ModeExe
         retrieval_ranks={str(c.get("id") or c.get("source")): i for i, c in enumerate(retrieved or [], 1)} if retrieved is not None else None,
         retrieval_relevance=relevance, precision_at_5=precision, recall_at_5=recall,
         reciprocal_rank=rr, ndcg_at_5=ndcg, latency_ms=latency_ms,
+        agent_decision_accuracy=agent_decision_accuracy(output.agent_decisions),
+        conflict_resolution_accuracy=conflict_resolution_accuracy(
+            output.conflict_count, 1 if output.revision_success else 0),
+        self_correction_rate=correction, collaboration_score=collaboration,
+        agent_decisions=output.agent_decisions, agent_messages=output.agent_messages,
+        critic_feedback=output.critic_feedback, revision_history=output.revision_history,
+        conflict_count=output.conflict_count, revision_success=output.revision_success,
     )

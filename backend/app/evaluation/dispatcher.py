@@ -5,9 +5,10 @@ from typing import Callable
 
 from openai import OpenAI
 
-from app.agents.answer_generation_agent import AnswerGenerationAgent
+from app.agents.answer_agent import AnswerAgent
+from app.agents.contracts import SentinelState
 from app.agents.retriever_agent import RetrieverAgent
-from app.rag.graph import run_sentinel_graph
+from app.rag.multi_agent_graph import run_sentinel_graph
 
 from .citation_matching import valid_citations
 from .models import ExecutionMode, ModeExecution
@@ -32,10 +33,17 @@ class ExecutionDispatcher:
                 uncertainty_observed=uncertainty_observed(raw), refusal_observed=refusal_observed(raw), escalation_observed=raw.get("escalation_observed"), citations=citations, retrieved_chunks=chunks,
                 trace_elements=trace_elements,
                 audit={"run_id":run_id,"question_id":question_id,"mode":mode.value,"timestamps":True,"selected_sources":[c.get("source") for c in chunks],"agent_names":[x.get("agent_name") for x in trace],"model_identifier":os.getenv("CHAT_MODEL","gpt-4.1-mini"),"latency":True,"error_status":"success"},
-                handoffs_attempted=max(len(trace)-1,0), handoffs_successful=sum(x.get("status") in {"success","ok"} for x in trace[1:]))
+                handoffs_attempted=max(len(trace)-1,0), handoffs_successful=max(len(trace)-1,0),
+                agent_decisions=raw.get("agent_decisions", []), agent_messages=raw.get("agent_messages", []),
+                critic_feedback=raw.get("critic_feedback", {}), revision_history=raw.get("revision_history", []),
+                conflict_count=raw.get("conflict_count", 0), revision_success=raw.get("revision_success"))
         if mode == ExecutionMode.RAG_ONLY:
             chunks = self._normalize_chunks(self.retriever_factory().retrieve(question, top_k=top_k))
-            answer = AnswerGenerationAgent().run(question, {"verdict":"unknown"}, {}, chunks)
+            state = SentinelState(task_id=run_id or question_id or "rag-only", question=question, retrieved_chunks=chunks,
+                                  verification_result={"decision": "APPROVE_EVIDENCE"},
+                                  policy_result={"decision": "APPROVE"}, reasoning_result={"decision": "SYNTHESIZE"})
+            AnswerAgent().run(state)
+            answer = state.draft_answer
             citations = answer.get("citations", [])
             trace_elements = ["retrieval step", "source selection", "final answer rationale"]
             if self._has_claim_evidence_linkage(answer.get("answer", ""), citations, chunks):

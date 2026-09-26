@@ -3,7 +3,6 @@ import sys
 import tempfile
 import unittest
 from pathlib import Path
-from types import SimpleNamespace
 from unittest.mock import patch
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
@@ -13,7 +12,8 @@ from app.evaluation.dispatcher import ExecutionDispatcher
 from app.evaluation.models import BenchmarkCase, ExecutionMode, ModeExecution
 from app.evaluation.scoring import score
 from app.evaluation.source_ids import normalize_retrieved_chunk
-from app.rag.graph import run_sentinel_graph
+from app.rag.multi_agent_graph import run_sentinel_graph
+from app.agents.contracts import AgentDecision
 
 
 class _Index:
@@ -73,29 +73,33 @@ class RetrievedChunkIdTests(unittest.TestCase):
     def test_graph_response_preserves_id_fields(self):
         chunks = [{"id": "stable-id", "chunk_id": "stable-id", "source": "policy.txt",
                    "page": 1, "score": .75, "text": "Policy text"}]
-        compliance = SimpleNamespace(
-            status="ok", rationale="", confidence=.9, policy_alignment_score=.9,
-            violation_risk="Low", conflict_detected=False, potential_conflict=False,
-            conflict_reason=None, verdict="allow",
-        )
-        with patch("app.agents.retriever_agent.RetrieverAgent.retrieve", return_value=chunks), \
-             patch("app.agents.retriever_agent.RetrieverAgent.__init__", return_value=None), \
-             patch("app.agents.compliance_agent.ComplianceAgent.run", return_value=compliance), \
-             patch("app.agents.reasoning_agent.ReasoningAgent.run", return_value={}), \
-             patch("app.agents.answer_generation_agent.AnswerGenerationAgent.run",
-                   return_value={"answer": "answer", "citations": [], "action_items": []}):
-            result = run_sentinel_graph("question", top_k=1)
-        self.assertEqual(result["retrieved_chunks"], [{
-            "id": "stable-id", "chunk_id": "stable-id", "text": "Policy text",
-            "source": "policy.txt", "page": 1, "score": .75,
-        }])
+        class Agent:
+            def __init__(self, name, decision, update): self.name=name; self.decision=decision; self.update=update
+            def run(self, state):
+                self.update(state)
+                return AgentDecision(self.name,self.decision,.9,"fixture")
+        agents={
+            "retrieval":Agent("retrieval","EVIDENCE_SUFFICIENT",lambda s:setattr(s,"retrieved_chunks",chunks)),
+            "verification":Agent("verification","APPROVE_EVIDENCE",lambda s:setattr(s,"verification_result",{"decision":"APPROVE_EVIDENCE"})),
+            "policy":Agent("policy","APPROVE",lambda s:setattr(s,"policy_result",{"decision":"APPROVE","evidence_ids":["stable-id"]})),
+            "reasoning":Agent("reasoning","SYNTHESIZE",lambda s:setattr(s,"reasoning_result",{"decision":"SYNTHESIZE"})),
+            "risk":Agent("risk","PROCEED",lambda s:setattr(s,"risk_result",{"decision":"PROCEED"})),
+            "answer":Agent("answer","DRAFT",lambda s:setattr(s,"draft_answer",{"answer":"answer","citations":[{"chunk_id":"stable-id"}]})),
+            "critic":Agent("critic","APPROVE",lambda s:setattr(s,"critic_feedback",{"decision":"APPROVE"})),
+            "final_decision":Agent("final_decision","ANSWER",lambda s:setattr(s,"final_action","ANSWER")),
+        }
+        result = run_sentinel_graph("question", top_k=1, agents=agents)
+        self.assertEqual(result["retrieved_chunks"], chunks)
 
     def test_rag_only_shape_and_ids_remain_compatible(self):
         class Retriever:
             def retrieve(self, question, top_k):
                 return [{"id": "existing-id", "source": "policy.txt", "text": "text", "score": .5}]
 
-        with patch("app.evaluation.dispatcher.AnswerGenerationAgent.run", return_value={"answer": "answer", "citations": []}):
+        def answer_run(_, state):
+            state.draft_answer={"answer":"answer","citations":[]}
+            return AgentDecision("answer","DRAFT",.8,"fixture")
+        with patch("app.evaluation.dispatcher.AnswerAgent.run", answer_run):
             output = ExecutionDispatcher(retriever_factory=Retriever).execute("q", ExecutionMode.RAG_ONLY)
         self.assertEqual(output.retrieved_chunks[0]["id"], "existing-id")
         self.assertEqual(output.retrieved_chunks[0]["chunk_id"], "existing-id")

@@ -3,7 +3,7 @@ from pydantic import BaseModel
 import traceback
 import logging
 
-from app.rag.graph import run_sentinel_graph
+from app.rag.multi_agent_graph import run_sentinel_graph
 from app.agents.retriever_agent import CorpusUnavailableError
 
 router = APIRouter()

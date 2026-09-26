@@ -5,6 +5,7 @@ from enum import Enum
 from typing import Any, Dict, List, Optional
 
 from pydantic import BaseModel, Field, field_validator, model_validator
+from app.agents.contracts import AgentDecision, AgentMessage, RevisionRecord
 
 
 class ExecutionMode(str, Enum):
@@ -77,6 +78,12 @@ class ModeExecution(BaseModel):
     audit: Dict[str, Any] = Field(default_factory=dict)
     handoffs_attempted: Optional[int] = None
     handoffs_successful: Optional[int] = None
+    agent_decisions: List[AgentDecision] = Field(default_factory=list)
+    agent_messages: List[AgentMessage] = Field(default_factory=list)
+    critic_feedback: Dict[str, Any] = Field(default_factory=dict)
+    revision_history: List[RevisionRecord] = Field(default_factory=list)
+    conflict_count: int = 0
+    revision_success: Optional[bool] = None
 
 
 class DetailedResult(BaseModel):
@@ -125,6 +132,16 @@ class DetailedResult(BaseModel):
     recall_at_5: Optional[float] = None
     reciprocal_rank: Optional[float] = None
     ndcg_at_5: Optional[float] = None
+    agent_decision_accuracy: Optional[float] = None
+    conflict_resolution_accuracy: Optional[float] = None
+    self_correction_rate: Optional[float] = None
+    collaboration_score: Optional[float] = None
+    agent_decisions: List[AgentDecision] = Field(default_factory=list)
+    agent_messages: List[AgentMessage] = Field(default_factory=list)
+    critic_feedback: Dict[str, Any] = Field(default_factory=dict)
+    revision_history: List[RevisionRecord] = Field(default_factory=list)
+    conflict_count: int = 0
+    revision_success: Optional[bool] = None
     latency_ms: float
     processing_status: str = "success"
     error_message: Optional[str] = None

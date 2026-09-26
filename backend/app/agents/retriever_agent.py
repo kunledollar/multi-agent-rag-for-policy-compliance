@@ -15,6 +15,8 @@ from app.telemetry.metrics import (
     agent_execution_total,
     agent_execution_duration_seconds,
 )
+from app.agents.base_agent import BaseAgent
+from app.agents.contracts import AgentDecision, SentinelState
 
 load_dotenv()
 logger = logging.getLogger("sentinel.agents.retriever")
@@ -24,13 +26,14 @@ class CorpusUnavailableError(RuntimeError):
     """Raised when neither persisted artifacts nor raw documents are usable."""
 
 
-class RetrieverAgent:
+class RetrieverAgent(BaseAgent):
     """
     Sentinel Retriever Agent
     Performs semantic search over persisted FAISS index.
     """
 
     _raw_chunk_cache: Dict[str, List[Dict[str, Any]]] = {}
+    name = "retrieval"
 
     def __init__(
         self,
@@ -224,6 +227,27 @@ class RetrieverAgent:
             agent_execution_duration_seconds.labels(
                 agent_name="retriever"
             ).observe(duration)
+
+    def run(self, state: SentinelState) -> AgentDecision:
+        """Retrieve evidence, then independently judge its sufficiency."""
+        state.retrieved_chunks = self.retrieve(state.question, self.top_k)
+        scores = [float(c.get("score", 0.0)) for c in state.retrieved_chunks]
+        sufficient = len(state.retrieved_chunks) >= 2 and max(scores, default=0.0) >= 0.35
+        return AgentDecision(
+            agent_name=self.name,
+            decision="EVIDENCE_SUFFICIENT" if sufficient else "MORE_RETRIEVAL_NEEDED",
+            confidence=min(0.98, max(scores, default=0.0)) if state.retrieved_chunks else 0.95,
+            rationale=(f"Retrieved {len(state.retrieved_chunks)} chunks; "
+                       f"best evidence score is {max(scores, default=0.0):.3f}."),
+            requested_action=None if sufficient else "Expand retrieval and seek authoritative policy text.",
+            target_agent=None if sufficient else "orchestrator",
+            evidence_ids=[str(c.get("chunk_id") or c.get("id")) for c in state.retrieved_chunks
+                          if c.get("chunk_id") or c.get("id")],
+            concerns=[] if sufficient else ["insufficient_evidence"],
+        )
+
+# R6 terminology uses "Retrieval Agent" while retaining the public R5 class name.
+RetrievalAgent = RetrieverAgent
 
 
 if __name__ == "__main__":

@@ -24,10 +24,10 @@ def run_sentinel_graph(
     agent_trace: List[Dict[str, Any]] = []
 
     from app.agents.retriever_agent import RetrieverAgent
-    from app.agents.fact_check_agent import FactCheckAgent
+    from app.agents.verification_agent import VerificationAgent
     from app.agents.compliance_agent import ComplianceAgent
-    from app.agents.reasoning_agent import ReasoningAgent
-    from app.agents.answer_generation_agent import AnswerGenerationAgent
+    from app.agents.r5_reasoning_agent import ReasoningAgent
+    from app.agents.r5_answer_generation_agent import AnswerGenerationAgent
 
     # --------------------------------------------------
     # 1) Retriever Agent
@@ -44,7 +44,7 @@ def run_sentinel_graph(
     # ablation boundaries. The current reranker retains retrieval order and the
     # current verification agent is pass-through, so default answers are unchanged.
     retrieved_chunks = list(retrieved_chunks)
-    FactCheckAgent().run({"question": question, "retrieved_chunks": retrieved_chunks})
+    # R5 verification boundary retained as a sequential baseline
 
     retriever_duration = time.time() - retriever_start
 

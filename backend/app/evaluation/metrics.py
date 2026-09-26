@@ -6,7 +6,8 @@ from statistics import mean
 METRICS = ("faithfulness", "answer_relevancy", "uncertainty_correct", "citations_complete",
            "refusal_correct", "enforcement_correct", "verification_correct", "trace_completeness",
            "escalation_correct", "handoff_success", "precision_at_5", "recall_at_5",
-           "reciprocal_rank", "ndcg_at_5", "latency_ms")
+           "reciprocal_rank", "ndcg_at_5", "latency_ms", "agent_decision_accuracy",
+           "conflict_resolution_accuracy", "self_correction_rate", "collaboration_score")
 
 
 def summarize(rows):
